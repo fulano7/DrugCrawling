@@ -3,8 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 from collections import deque
 
-#max_urls should be 1000
-max_urls = 20
+#max_urls should be 1000?
+max_urls = 120
 
 #receives a robots page and a url and verifies if we're
 #allowed to fetch this url's content
@@ -31,6 +31,11 @@ def generic_bfs(root):
 
     while queue:
         cur = queue.popleft()
+        if (cur in visited):
+            continue
+        if (checkRobots(root+"/robots.txt", cur) == False):
+            continue
+
         try:
             page = requests.get(cur)
             content = page.headers.get('content-type')
@@ -38,8 +43,15 @@ def generic_bfs(root):
             if (checkContent(content) == False):
                 continue
 
-            if (checkRobots(root+"/robots.txt", cur) == False):
-                continue
+            try:
+                myfile = open(cur.replace('/', '+'), 'w+')
+                myfile.write(page.content)
+                myfile.close()
+                urls = open("urls", "a")
+                urls.write(cur+"\n")
+                urls.close()
+            except:
+                print "error creating file"
 
             soup = BeautifulSoup(page.content, 'html.parser')
             visited.append(cur)
@@ -67,8 +79,16 @@ def generic_bfs(root):
     return visited
 
 
+urls = ["https://www.onofre.com.br",
+        "http://www.ultrafarma.com.br",
+        "http://www.farmadelivery.com.br",
+        "http://www.farma22.com.br",
+        "http://loja.paguemenos.com.br",
+        "https://www.farmagora.com.br",
+        "http://www.drogariasaopaulo.com.br",
+        "https://www.medicamentosbrasil.com.br",
+        "http://farmaciacristorei.com.br",
+        "https://www.saredrogarias.com.br"]
 
-# onofre = generic_bfs("https://www.onofre.com.br")
-# ultrafarma = generic_bfs("http://www.ultrafarma.com.br")
-delivery = generic_bfs('http://www.farmadelivery.com.br')
-# f22 = generic_bfs('http://www.farma22.com.br')
+for site in urls:
+    generic_bfs(site)
