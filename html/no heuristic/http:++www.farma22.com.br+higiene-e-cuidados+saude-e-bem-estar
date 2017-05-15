@@ -1,0 +1,2116 @@
+<!DOCTYPE html >
+<html lang="pt" xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce">
+  <head><meta name="language" content="pt-BR" />
+<meta name="country" content="BRA" />
+<meta name="currency" content="R$" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="description" content="Encontre na Farma 22 produtos para Saúde e Bem Estar com os melhores preços e condições!" />
+<meta name="Abstract" content="Saúde e Bem Estar - Farma 22" />
+<meta name="author" content="Farma 22" />
+<meta name="copyright" content="Farma 22" />
+<meta name="vtex-version" content="1.4.728.1319" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="shortcut icon" type="image/x-icon" href="//farma22.vteximg.com.br/arquivos/favicon.ico" /><link rel="dns-prefetch" href="//fonts.googleapis.com" /><link rel="dns-prefetch" href="//ajax.googleapis.com/" /><link rel="dns-prefetch" href="//farma22.vteximg.com.br" /><link rel="dns-prefetch" href="//io.vtex.com.br" /><link rel="dns-prefetch" href="//dmx56ht1p4edz.cloudfront.net" /><link rel="dns-prefetch" href="//service.yourviews.com.br" /><link rel="dns-prefetch" href="//selo.clearsale.com.br" /><link rel="dns-prefetch" href="//script.crazyegg.com" /><link rel="dns-prefetch" href="//www.googletagmanager.com" /><link rel="dns-prefetch" href="//www.google-analytics.com" /><link rel="dns-prefetch" href="//static.criteo.net" /><link rel="dns-prefetch" href="//dis.us.criteo.com" /><link rel="dns-prefetch" href="//widget.criteo.com" /><link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" /><link rel="dns-prefetch" href="//netdna.bootstrapcdn.com" /><link rel="dns-prefetch" href="//l2.io" /><link rel="dns-prefetch" href="//s3-sa-east-1.amazonaws.com" /><link rel="dns-prefetch" href="//rc.vtex.com.br" /><link rel="dns-prefetch" href="//a248.e.akamai.net" /><title>Saúde e Bem Estar - Farma 22</title><script type="text/javascript" language="javascript">var jscheckoutUrl = 'https://www.farma22.com.br/checkout/#/cart';var jscheckoutAddUrl = 'https://www.farma22.com.br/checkout/cart/add';var jscheckoutGiftListId = '';var jsnomeSite = 'farma22';var jsnomeLoja = 'farma22';var jssalesChannel = '1';var defaultStoreCurrency = 'R$';var localeInfo = {"CountryCode":"BRA","CultureCode":"pt-BR","CurrencyLocale":{"RegionDisplayName":"Brazil","RegionName":"BR","RegionNativeName":"Brasil","TwoLetterIsoRegionName":"BR","CurrencyEnglishName":"Real","CurrencyNativeName":"Real","CurrencySymbol":"R$","ISOCurrencySymbol":"BRL","Locale":1046,"Format":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","CurrencyGroupSeparator":".","CurrencyGroupSize":3,"StartsWithCurrencySymbol":true},"FlagUrl":"http://www.geonames.org/flags/x/br.gif"}};</script> 
+<script type="text/javascript" language="javascript">vtxctx = {searchTerm:"",categoryId:"134",categoryName:"Saúde e Bem Estar",departmentyId:"11",departmentName:"Higiene e Cuidados",isOrder:"0",isCheck:"0",isCart:"0",actionType:"",actionValue:"",login:"",url:"www.farma22.com.br",transurl:"www.farma22.com.br"};</script> 
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/mobile/mdetect.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/mobile/mdetect2.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.ajax.wait.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.common.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/front-i18n/0.4.1/vtex-i18n.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/front-utils/1.0.1/vtex-utils.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/dustjs-linkedin/2.3.5/dust-core-2.3.5.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://dmx56ht1p4edz.cloudfront.net/rc.js?an=farma22?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.tagmanager.helper.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-ui/1.7.5/scripts/vtex-events-all.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-ui/1.7.5/scripts/vtex-analytics.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/vtex.js/2.7.0/vtex.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/vtex-id-ui/3.11.1/vtexid-jquery.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/portal-minicart-with-template.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/jquery.ui.core.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/autocomplete/jquery.ui.widget.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/autocomplete/jquery.ui.position.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/autocomplete/jquery.ui.autocomplete.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.commerce.search.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.viewPart.fullTextSearchBox.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/portal-template-as-modal.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/portal-sku-selector-with-template.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.cookie.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/jquery.pager.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.viewPart.newsletter.js?v=1.4.728.1319"  type="text/javascript"></script>
+<link rel="stylesheet" href="//farma22.vteximg.com.br/arquivos/css.far.bel.qd-bootstrap-common.css" type="text/css" /><link rel="stylesheet" href="//farma22.vteximg.com.br/arquivos/custom-farma22.m3.6.4.css?v=003" type="text/css" /><link rel="stylesheet" href="//farma22.vteximg.com.br/arquivos/css.far.bel.search.css?123" type="text/css" /><script src="//farma22.vteximg.com.br/arquivos/bootstrap.min.js"></script><script src="//farma22.vteximg.com.br/arquivos/js.far.bel.functions.base.js" type="text/javascript"></script><script type="text/javascript">
+	//<![CDATA[
+	(function() {
+		var myNav = navigator.userAgent.toLowerCase();
+		var version = (navigator.userAgent.toLowerCase().indexOf("msie") != -1) ? parseInt(myNav.split("msie")[1]) : 9999;
+		if (version < 9) {
+			document.write('<scr' + 'ipt src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></scr' + 'ipt>');
+			document.write('<scr' + 'ipt src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></scr' + 'ipt>');
+		}
+	})();
+	//]]></script><script language="javascript">var ___scriptPathTransac = '';</script><script language="javascript">var ___scriptPath = '';</script><link rel="canonical" href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar" /></head>
+  <body class="resultado-busca categoria" id="produto" data-qd-scroll-limit="150">
+<!-- Start - WebAnalyticsViewPart -->
+<script> var defaultUtmFromFolder = '';</script>
+<!-- CommerceContext.Current.VirtualFolder.Name: @categoria@ -->
+
+<script>
+vtex.events.addData({"pageCategory":"Category","pageDepartment":"Higiene e Cuidados","pageUrl":"http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar","pageTitle":"Saúde e Bem Estar - Farma 22","skuStockOutFromShelf":[],"skuStockOutFromProductDetail":[],"shelfProductIds":["480570617","480561299","480570618","480570586","480570404","480570191","480570190","480570185","480570181","480570177","480570176","480570175","480570158","480569958","480569563","480569401","480569330","480569211","480568185","480568182","480568181","480568180","480568179","480561351"],"accountName":"farma22","pageFacets":["departmentId:11","categoriesFullPath:/11/","brandId:2000006","priceFrom:[0 TO 10]"],"categoryId":134,"categoryName":"Saúde e Bem Estar"});
+</script>
+
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                            })(window,document,'script','dataLayer','GTM-MLNWN9');
+</script>
+
+<script>
+var helper = new vtexTagManagerHelper('categoryView'); helper.init();
+</script>
+
+<!-- End - WebAnalyticsViewPart -->
+<div class="ajax-content-loader" rel="/no-cache/callcenter/disclaimer"></div><!-- qd-belmore-header-2 --><div class="store-header-v2" id="header" role="Navigation"><div class="v2-tip-bar-top"><div class="container"><div class="row info-user"><div class="col-xs-24 col-sm-24"><div class="nav-text user-messenger font-size-xs pull-left"><script>
+                                    $(document).ready(function () {
+                                        vtexid.setScope('42ec439d-1e6f-4374-98a9-d932659c4aed');
+                                        vtexid.setScopeName('farma22');
+                                        $('body').on('click', '#login', function () {
+                                            vtexid.start(
+                                                    {
+                                                        returnUrl: '/higiene-e-cuidados/saude-e-bem-estar',
+                                                        userEmail: '',
+                                                        locale: 'pt-BR',
+                                                        forceReload: false
+                                                    });
+                                        });
+                                    });
+                                   </script><div class="ajax-content-loader" rel="/no-cache/user/welcome"></div></div><div class="pull-right"><a href="/atendimento" title="Precisa de ajuda?" class="hidden-xs hidden-sm">Atendimento</a><a title="Edite as informações da sua Conta" href="/account" class="hidden-xs hidden-sm">Minha Conta</a><a title="Confira os seus pedidos" href="/account/orders" class="hidden-xs hidden-sm">Meus Pedidos</a><span class="store-phone-number hidden-xs" title="Entre em contato com a Hospinet"><i class="fa fa-phone"></i>
+							Atendimento:
+							(11) 2463-3299</span></div></div></div></div></div><div class="v2-header-content"><div class="container"><div class="row margin-b-sm"><div class="col-xs-8 col-sm-6 col-md-4"><div class="v2-nav-logo"><a href="/" title=""><img src="//farma22.vteximg.com.br/arquivos/far.bel.brand-logo-v2.png" alt="Farma 22" class="img-responsive" /></a></div></div><div class="col-xs-16 col-sm-18 visible-xs visible-sm"><div class="row"><div class="col-xs-24"><div class="v2-cart-wrapper qd_cart_auto show-minicart-on-hover tpl-cart tpl-cart-dropdown text-right"><a href="/checkout/#/cart" class="cartLink"><i class="fa fa-shopping-cart"></i><span class="qd_items_text singular" style="display:none;">(<span class="qd_cart_qtt"></span>) Item</span><span class="qd_items_text plural">(<span class="qd_cart_qtt"></span>) Itens</span><!-- <span class="qd_cart_total"></span> --></a><div class="v2-mini-cart"><div class="portal-minicart-ref"></div><script>$('.portal-minicart-ref').minicart({ showMinicart: true, showTotalizers: false  , showShippingOptions: false });</script></div></div></div></div></div><div class="col-xs-24 col-md-12"><div class="v2-nav-searchbar"><script type="text/javascript" language="javascript"> /*<![CDATA[*/ $(document).ready(function(){currentDept = '0'; enableFullTextSearchBox('ftBox292baa62196845ec9f23fc2e1fd12744', 'ftDept292baa62196845ec9f23fc2e1fd12744', 'ftIdx292baa62196845ec9f23fc2e1fd12744', 'ftBtn292baa62196845ec9f23fc2e1fd12744', '/SEARCHTERM','Digite Aqui' );}); /*]]>*/ </script><fieldset class="busca"><legend>Buscar no site</legend><label>Buscar</label><select id="ftDept292baa62196845ec9f23fc2e1fd12744"><option value="">Todo o site</option><option value="9">Medicamentos</option><option value="10">Saúde</option><option value="11">Higiene e Cuidados</option><option value="12">Dermocosméticos</option><option value="13">Mãe e Bebê</option><option value="14">Nutrição</option><option value="214">Perfumes</option></select><input type="hidden" id=ftIdx292baa62196845ec9f23fc2e1fd12744 value="" /><input id="ftBox292baa62196845ec9f23fc2e1fd12744" class="fulltext-search-box" type="text" size="20" accesskey="b" /><input id="ftBtn292baa62196845ec9f23fc2e1fd12744" type="button" value="Buscar" class="btn-buscar" /></fieldset></div></div><div class="col-xs-12 col-md-8 hidden-xs hidden-sm"><div class="row"><div class="col-md-16"><div class="v2-nav-links-cart"><ul><li class="col-xs-12 col-sm-12 text-right"><a href="/account/orders" class="orders-link" title="Acompanhe seus pedidos já realizados"><i class="fa fa-navicon"></i>Meus Pedidos</a></li><li class="col-xs-12 col-sm-12 text-right"><a href="/account/" class="orders-link" title="Acompanhe seus pedidos já realizados"><i class="fa fa-user"></i>Minha conta</a></li></ul></div></div><div class="col-md-8"><div class="v2-cart-wrapper qd_cart_auto show-minicart-on-hover tpl-cart tpl-cart-dropdown hidden-xs"><a href="/checkout/#/cart" class="cartLink"><i class="fa fa-shopping-cart"></i><span class="qd_items_text singular" style="display:none;">(<span class="qd_cart_qtt"></span>) Item</span><span class="qd_items_text plural">(<span class="qd_cart_qtt"></span>) Itens</span><!-- <span class="qd_cart_total"></span> --></a><div class="v2-mini-cart"><div class="portal-minicart-ref"></div><script>$('.portal-minicart-ref').minicart({ showMinicart: true, showTotalizers: false  , showShippingOptions: false });</script></div></div></div></div></div></div></div></div><div class="v2-amazing-menu"><div class="container"><div class="row"><div class="col-xs-24"><div class="navbar navbar-default color-white bg-base-color border-radius-xs"><div class="visible-xs-block visible-sm-block padding-xs clearfix v2-responsive-menu-controls"><a class="amazing-menu-toggle pull-left"><i class="fa fa-bars fa-6 color-white font-size-h1"></i><span class="color-white font-size-md">MENU</span></a></div><div class="v2-main-amazing-menu hidden-xs hidden-sm">
+  <ul itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+    <li>
+      <a href="/medicamentos" title="Medicamentos" itemprop="url">Medicamentos</a>
+      <ul>
+        <li>
+          <p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+          <ul>
+            <li>
+              <a href="/medicamentos/acessorios-medicamentos" title="Acessórios Medicamentos" itemprop="url">Acessórios Medicamentos</a>
+            </li>
+            <li>
+              <a href="/medicamentos/antibioticos" title="Antibióticos" itemprop="url">Antibióticos</a>
+            </li>
+            <li>
+              <a href="/medicamentos/aparelho-auditivo" title="Aparelho Auditivo" itemprop="url">Aparelho Auditivo</a>
+            </li>
+            <li>
+              <a href="/medicamentos/aparelho-digestivo" title="Aparelho Digestivo" itemprop="url">Aparelho Digestivo</a>
+            </li>
+            <li>
+              <a href="/medicamentos/aparelho-respiratorio" title="Aparelho Respiratório" itemprop="url">Aparelho Respiratório</a>
+            </li>
+            <li>
+              <a href="/medicamentos/aparelho-urinario" title="Aparelho Urinário" itemprop="url">Aparelho Urinário</a>
+            </li>
+            <li>
+              <a href="/medicamentos/cabelo" title="Cabelo" itemprop="url">Cabelo</a>
+            </li>
+            <li>
+              <a href="/medicamentos/cardiovascular-e-circulacao" title="Cardiovascular e Circulação" itemprop="url">Cardiovascular e Circulação</a>
+            </li>
+            <li>
+              <a href="/medicamentos/colesterol" title="Colesterol" itemprop="url">Colesterol</a>
+            </li>
+            <li>
+              <a href="/medicamentos/diabetes" title="Diabetes" itemprop="url">Diabetes</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+          <ul>
+            <li>
+              <a href="/medicamentos/dor-e-febre" title="Dor e Febre" itemprop="url">Dor e Febre</a>
+            </li>
+            <li>
+              <a href="/medicamentos/gripe-febre-e-resfriado" title="Gripe, Febre e Resfriado" itemprop="url">Gripe, Febre e Resfriado</a>
+            </li>
+            <li>
+              <a href="/medicamentos/homeopatia" title="Homeopatia" itemprop="url">Homeopatia</a>
+            </li>
+            <li>
+              <a href="/medicamentos/infeccao" title="Infecção" itemprop="url">Infecção</a>
+            </li>
+            <li>
+              <a href="/medicamentos/inflamacao" title="Inflamação" itemprop="url">Inflamação</a>
+            </li>
+            <li>
+              <a href="/medicamentos/medicamentos-especiais" title="Medicamentos Especiais" itemprop="url">Medicamentos Especiais</a>
+            </li>
+            <li>
+              <a href="/medicamentos/olhos" title="Olhos" itemprop="url">Olhos</a>
+            </li>
+            <li>
+              <a href="/medicamentos/osteoporose" title="Osteoporose" itemprop="url">Osteoporose</a>
+            </li>
+            <li>
+              <a href="/medicamentos/pare-de-fumar" title="Pare de Fumar" itemprop="url">Pare de Fumar</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+          <ul>
+            <li>
+              <a href="/medicamentos/pele" title="Pele" itemprop="url">Pele</a>
+            </li>
+            <li>
+              <a href="/medicamentos/processos-alergicos" title="Processos Alérgicos" itemprop="url">Processos Alérgicos</a>
+            </li>
+            <li>
+              <a href="/medicamentos/produtos-refrigerados" title="Produtos Refrigerados" itemprop="url">Produtos Refrigerados</a>
+            </li>
+            <li>
+              <a href="/medicamentos/saude-da-mulher" title="Saúde da Mulher" itemprop="url">Saúde da Mulher</a>
+            </li>
+            <li>
+              <a href="/medicamentos/saude-do-homem" title="Saúde do Homem" itemprop="url">Saúde do Homem</a>
+            </li>
+            <li>
+              <a href="/medicamentos/sistema-nervoso" title="Sistema Nervoso" itemprop="url">Sistema Nervoso</a>
+            </li>
+            <li>
+              <a href="/medicamentos/tireoide" title="Tireóide" itemprop="url">Tireóide</a>
+            </li>
+            <li>
+              <a href="/medicamentos/vermes-e-parasitas" title="Vermes e Parasitas" itemprop="url">Vermes e Parasitas</a>
+            </li>
+            <li>
+              <a href="/medicamentos/vitaminas-e-minerais" title="Vitaminas e Minerais" itemprop="url">Vitaminas e Minerais</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="/dermocosmeticos" title="Dermocosméticos" itemprop="url">Dermocosméticos</a>
+      <ul>
+        <li>
+          <p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+          <ul>
+            <li>
+              <a href="/dermocosmeticos/cabelo" title="Cabelo" itemprop="url">Cabelo</a>
+            </li>
+            <li>
+              <a href="/dermocosmeticos/corpo" title="Corpo" itemprop="url">Corpo</a>
+            </li>
+            <li>
+              <a href="/dermocosmeticos/maos" title="Mãos" itemprop="url">Mãos</a>
+            </li>
+            <li>
+              <a href="/dermocosmeticos/nutri-cosmeticos" title="Nutri Cosméticos" itemprop="url">Nutri Cosméticos</a>
+            </li>
+            <li>
+              <a href="/dermocosmeticos/pes" title="Pés" itemprop="url">Pés</a>
+            </li>
+            <li>
+              <a href="/dermocosmeticos/protecao-solar" title="Proteção Solar" itemprop="url">Proteção Solar</a>
+            </li>
+            <li>
+              <a href="/dermocosmeticos/rosto" title="Rosto" itemprop="url">Rosto</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="/higiene-e-cuidados" title="Higiene e Cuidados" itemprop="url">Higiene e Cuidados</a>
+      <ul>
+        <li>
+          <p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+          <ul>
+            <li>
+              <a href="/higiene-e-cuidados/repelente" title="Repelente" itemprop="url">Repelente</a>
+            </li>
+            <li>
+              <a href="/higiene-e-cuidados/absorvente" title="Absorvente" itemprop="url">Absorvente</a>
+            </li>
+            <li>
+              <a href="/higiene-e-cuidados/cuidados-com-o-cabelo" title="Cuidados com o Cabelo" itemprop="url">Cuidados com o Cabelo</a>
+            </li>
+            <li>
+              <a href="/higiene-e-cuidados/cuidados-corporais" title="Cuidados Corporais" itemprop="url">Cuidados Corporais</a>
+            </li>
+            <li>
+              <a href="/higiene-e-cuidados/cuidados-faciais" title="Cuidados Faciais" itemprop="url">Cuidados Faciais</a>
+            </li>
+            <li>
+              <a href="/higiene-e-cuidados/geriatrico" title="Geriátrico" itemprop="url">Geriátrico</a>
+            </li>
+            <li>
+              <a href="/higiene-e-cuidados/higiene-oral" title="Higiene Oral" itemprop="url">Higiene Oral</a>
+            </li>
+            <li>
+              <a href="/higiene-e-cuidados/higiene-pessoal" title="Higiene Pessoal" itemprop="url">Higiene Pessoal</a>
+            </li>
+            <li>
+              <a href="/higiene-e-cuidados/linha-infantil" title="Linha Infantil" itemprop="url">Linha Infantil</a>
+            </li>
+            <li>
+              <a href="/higiene-e-cuidados/linha-solar" title="Linha Solar" itemprop="url">Linha Solar</a>
+            </li>
+            <li>
+              <a href="/higiene-e-cuidados/manicure-e-pedicure" title="Manicure e Pedicure" itemprop="url">Manicure e Pedicure</a>
+            </li>
+            <li>
+              <a href="/higiene-e-cuidados/maquiagem" title="Maquiagem" itemprop="url">Maquiagem</a>
+            </li>
+            <li>
+              <a href="/higiene-e-cuidados/saude-e-bem-estar" title="Saúde e Bem Estar" itemprop="url">Saúde e Bem Estar</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="/mae-e-bebe" title="Mãe e Bebê" itemprop="url">Mãe e Bebê</a>
+      <ul>
+        <li>
+          <p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+          <ul>
+            <li>
+              <a href="/mae-e-bebe/acessorios-bebe" title="Acessórios Bebê" itemprop="url">Acessórios Bebê</a>
+            </li>
+            <li>
+              <a href="/mae-e-bebe/alimentacao-infantil" title="Alimentação Infantil" itemprop="url">Alimentação Infantil</a>
+            </li>
+            <li>
+              <a href="/mae-e-bebe/assaduras" title="Assaduras" itemprop="url">Assaduras</a>
+            </li>
+            <li>
+              <a href="/mae-e-bebe/colonia-e-hidratante" title="Colônia e Hidratante" itemprop="url">Colônia e Hidratante</a>
+            </li>
+            <li>
+              <a href="/mae-e-bebe/gestante" title="Gestante" itemprop="url">Gestante</a>
+            </li>
+            <li>
+              <a href="/mae-e-bebe/hora-do-banho" title="Hora do Banho" itemprop="url">Hora do Banho</a>
+            </li>
+            <li>
+              <a href="/mae-e-bebe/pos-banho" title="Pós Banho" itemprop="url">Pós Banho</a>
+            </li>
+            <li>
+              <a href="/mae-e-bebe/protecao-contra-insetos" title="Proteção Contra Insetos" itemprop="url">Proteção Contra Insetos</a>
+            </li>
+            <li>
+              <a href="/mae-e-bebe/protetor-solar" title="Protetor Solar" itemprop="url">Protetor Solar</a>
+            </li>
+            <li>
+              <a href="/mae-e-bebe/saude-bucal" title="Saúde Bucal" itemprop="url">Saúde Bucal</a>
+            </li>
+            <li>
+              <a href="/mae-e-bebe/troca-do-bebe" title="Troca do Bebê" itemprop="url">Troca do Bebê</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="/saude" title="Saude" itemprop="url">Saúde</a>
+      <ul>
+        <li>
+          <p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+          <ul>
+            <li>
+              <a href="/saude/acessorios-diabetes" title="Acessórios Diabetes" itemprop="url">Acessórios Diabetes</a>
+            </li>
+            <li>
+              <a href="/saude/acessorios-ouvido" title="Acessórios Ouvido" itemprop="url">Acessórios Ouvido</a>
+            </li>
+            <li>
+              <a href="/saude/aparelhos" title="Aparelhos" itemprop="url">Aparelhos</a>
+            </li>
+            <li>
+              <a href="/saude/cirurgicos" title="Cirúrgicos" itemprop="url">Cirúrgicos</a>
+            </li>
+            <li>
+              <a href="/saude/cuidados-com-a-casa" title="Cuidados com a Casa" itemprop="url">Cuidados com a Casa</a>
+            </li>
+            <li>
+              <a href="/saude/inaladores-e-umidificadores" title="Inaladores e Umidificadores" itemprop="url">Inaladores e Umidificadores</a>
+            </li>
+            <li>
+              <a href="/saude/meias" title="Meias" itemprop="url">Meias</a>
+            </li>
+            <li>
+              <a href="/saude/olhos" title="Olhos" itemprop="url">Olhos</a>
+            </li>
+            <li>
+              <a href="/saude/ortopedia" title="Ortopedia" itemprop="url">Ortopedia</a>
+            </li>
+            <li>
+              <a href="/saude/primeiros-socorros" title="Primeiros Socorros" itemprop="url">Primeiros Socorros</a>
+            </li>
+            <li>
+              <a href="/saude/vida-sexual" title="Vida Sexual" itemprop="url">Vida Sexual</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="/nutricao" title="Nutrição" itemprop="url">Nutrição</a>
+      <ul>
+        <li>
+          <p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+          <ul>
+            <li>
+              <a href="/nutricao/adocante" title="Adoçante" itemprop="url">Adoçante</a>
+            </li>
+            <li>
+              <a href="/nutricao/alimentos" title="Alimentos" itemprop="url">Alimentos</a>
+            </li>
+            <li>
+              <a href="/nutricao/barra-de-cereal" title="Barra de Cereal" itemprop="url">Barra de Cereal</a>
+            </li>
+            <li>
+              <a href="/nutricao/bebidas" title="Bebidas" itemprop="url">Bebidas</a>
+            </li>
+            <li>
+              <a href="/nutricao/cha" title="Chá" itemprop="url">Chá</a>
+            </li>
+            <li>
+              <a href="/nutricao/massa-muscular" title="Massa Muscular" itemprop="url">Massa Muscular</a>
+            </li>
+            <li>
+              <a href="/nutricao/mel" title="Mel" itemprop="url">Mel</a>
+            </li>
+            <li>
+              <a href="/nutricao/pastilhas-e-gomas" title="Pastilhas e Gomas" itemprop="url">Pastilhas e Gomas</a>
+            </li>
+            <li>
+              <a href="/nutricao/suplemento-alimentar" title="Suplemento Alimentar" itemprop="url">Suplemento Alimentar</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="/perfumes" title="Perfumes" itemprop="url">Perfumes</a>
+    </li>
+  </ul>
+</div><div class="v2-main-amazing-menu hidden-xs hidden-sm" style="display:none"><span class="Testa-nada-ter">
+						    Menu de teste ............................................................................................. </span><ul itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+	<li><a class="qd-am-level-1" href="/medicamentos" title="Medicamentos" itemprop="url">Medicamentos</a>
+
+	<ul>
+		<li><p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+		<ul>
+			<li><a class="qd-am-level-3" href="/medicamentos/acessorios-medicamentos" title="Acessórios Medicamentos" itemprop="url">Acessórios Medicamentos</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/antibioticos" title="Antibióticos" itemprop="url">Antibióticos</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/aparelho-auditivo" title="Aparelho Auditivo" itemprop="url">Aparelho Auditivo</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/aparelho-digestivo" title="Aparelho Digestivo" itemprop="url">Aparelho Digestivo</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/aparelho-respiratorio" title="Aparelho Respiratório" itemprop="url">Aparelho Respiratório</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/aparelho-urinario" title="Aparelho Urinário" itemprop="url">Aparelho Urinário</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/cabelo" title="Cabelo" itemprop="url">Cabelo</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/cardiovascular-e-circulacao" title="Cardiovascular e Circulação" itemprop="url">Cardiovascular e Circulação</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/colesterol" title="Colesterol" itemprop="url">Colesterol</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/diabetes" title="Diabetes" itemprop="url">Diabetes</a></li>
+		</ul>
+		</li>
+		<li><p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+		<ul>
+			<li><a class="qd-am-level-3" href="/medicamentos/dor-e-febre" title="Dor e Febre" itemprop="url">Dor e Febre</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/gripe-febre-e-resfriado" title="Gripe, Febre e Resfriado" itemprop="url">Gripe, Febre e Resfriado</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/homeopatia" title="Homeopatia" itemprop="url">Homeopatia</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/infeccao" title="Infecção" itemprop="url">Infecção</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/inflamacao" title="Inflamação" itemprop="url">Inflamação</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/medicamentos-especiais" title="Medicamentos Especiais" itemprop="url">Medicamentos Especiais</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/olhos" title="Olhos" itemprop="url">Olhos</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/osteoporose" title="Osteoporose" itemprop="url">Osteoporose</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/pare-de-fumar" title="Pare de Fumar" itemprop="url">Pare de Fumar</a></li>
+		</ul>
+		</li>
+		<li><p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+		<ul>
+			<li><a class="qd-am-level-3" href="/medicamentos/pele" title="Pele" itemprop="url">Pele</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/processos-alergicos" title="Processos Alérgicos" itemprop="url">Processos Alérgicos</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/produtos-refrigerados" title="Produtos Refrigerados" itemprop="url">Produtos Refrigerados</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/saude-da-mulher" title="Saúde da Mulher" itemprop="url">Saúde da Mulher</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/saude-do-homem" title="Saúde do Homem" itemprop="url">Saúde do Homem</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/sistema-nervoso" title="Sistema Nervoso" itemprop="url">Sistema Nervoso</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/tireoide" title="Tireóide" itemprop="url">Tireóide</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/vermes-e-parasitas" title="Vermes e Parasitas" itemprop="url">Vermes e Parasitas</a></li>
+			<li><a class="qd-am-level-3" href="/medicamentos/vitaminas-e-minerais" title="Vitaminas e Minerais" itemprop="url">Vitaminas e Minerais</a><p class="qd_am_text">,</p></li>
+		</ul>
+		</li>
+		<li><p class="qd_am_text">Banner</p>
+		<ul>
+			<li><div class="qd_am_code qd-am-html" data-qdam-key="html"><img src="meu-banner.png"></div></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><a class="qd-am-level-1" href="/dermocosmeticos" title="Dermocosméticos" itemprop="url">Dermocosméticos</a>
+	<ul>
+		<li><p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+		<ul>
+			<li><a class="qd-am-level-3" href="/dermocosmeticos/cabelo" title="Cabelo" itemprop="url">Cabelo</a></li>
+			<li><a class="qd-am-level-3" href="/dermocosmeticos/corpo" title="Corpo" itemprop="url">Corpo</a></li>
+			<li><a class="qd-am-level-3" href="/dermocosmeticos/maos" title="Mãos" itemprop="url">Mãos</a></li>
+			<li><a class="qd-am-level-3" href="/dermocosmeticos/nutri-cosmeticos" title="Nutri Cosméticos" itemprop="url">Nutri Cosméticos</a></li>
+			<li><a class="qd-am-level-3" href="/dermocosmeticos/pes" title="Pés" itemprop="url">Pés</a></li>
+			<li><a class="qd-am-level-3" href="/dermocosmeticos/protecao-solar" title="Proteção Solar" itemprop="url">Proteção Solar</a></li>
+			<li><a class="qd-am-level-3" href="/dermocosmeticos/rosto" title="Rosto" itemprop="url">Rosto</a></li>
+		</ul>
+		</li>
+		<li><p class="qd_am_text">Banner</p>
+		<ul>
+			<li><div class="qd_am_code qd-am-html" data-qdam-key="html"><img src=""></div></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><a class="qd-am-level-1" href="/higiene-e-cuidados" title="Higiene e Cuidados" itemprop="url">Higiene e Cuidados</a>
+	<ul>
+		<li><p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+		<ul>
+			<li><a class="qd-am-level-3" href="/higiene-e-cuidados/absorvente" title="Absorvente" itemprop="url">Absorvente</a></li>
+			<li><a class="qd-am-level-3" href="/higiene-e-cuidados/cuidados-com-o-cabelo" title="Cuidados com o Cabelo" itemprop="url">Cuidados com o Cabelo</a></li>
+			<li><a class="qd-am-level-3" href="/higiene-e-cuidados/cuidados-corporais" title="Cuidados Corporais" itemprop="url">Cuidados Corporais</a></li>
+			<li><a class="qd-am-level-3" href="/higiene-e-cuidados/cuidados-faciais" title="Cuidados Faciais" itemprop="url">Cuidados Faciais</a></li>
+			<li><a class="qd-am-level-3" href="/higiene-e-cuidados/geriatrico" title="Geriátrico" itemprop="url">Geriátrico</a></li>
+			<li><a class="qd-am-level-3" href="/higiene-e-cuidados/higiene-oral" title="Higiene Oral" itemprop="url">Higiene Oral</a></li>
+			<li><a class="qd-am-level-3" href="/higiene-e-cuidados/higiene-pessoal" title="Higiene Pessoal" itemprop="url">Higiene Pessoal</a></li>
+			<li><a class="qd-am-level-3" href="/higiene-e-cuidados/linha-infantil" title="Linha Infantil" itemprop="url">Linha Infantil</a></li>
+			<li><a class="qd-am-level-3" href="/higiene-e-cuidados/linha-solar" title="Linha Solar" itemprop="url">Linha Solar</a></li>
+			<li><a class="qd-am-level-3" href="/higiene-e-cuidados/manicure-e-pedicure" title="Manicure e Pedicure" itemprop="url">Manicure e Pedicure</a></li>
+			<li><a class="qd-am-level-3" href="/higiene-e-cuidados/maquiagem" title="Maquiagem" itemprop="url">Maquiagem</a></li>
+			<li><a class="qd-am-level-3" href="/higiene-e-cuidados/saude-e-bem-estar" title="Saúde e Bem Estar" itemprop="url">Saúde e Bem Estar</a></li>
+		</ul>
+		</li>
+		<li><p class="qd_am_text">Banner</p>
+		<ul>
+			<li><div class="qd_am_code qd-am-html" data-qdam-key="html"><img src=""></div></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><a class="qd-am-level-1" href="/mae-e-bebe" title="Mãe e Bebê" itemprop="url">Mãe e Bebê</a>
+	<ul>
+		<li><p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+		<ul>
+			<li><a class="qd-am-level-3" href="/mae-e-bebe/acessorios-bebe" title="Acessórios Bebê" itemprop="url">Acessórios Bebê</a></li>
+			<li><a class="qd-am-level-3" href="/mae-e-bebe/alimentacao-infantil" title="Alimentação Infantil" itemprop="url">Alimentação Infantil</a></li>
+			<li><a class="qd-am-level-3" href="/mae-e-bebe/assaduras" title="Assaduras" itemprop="url">Assaduras</a></li>
+			<li><a class="qd-am-level-3" href="/mae-e-bebe/colonia-e-hidratante" title="Colônia e Hidratante" itemprop="url">Colônia e Hidratante</a></li>
+			<li><a class="qd-am-level-3" href="/mae-e-bebe/gestante" title="Gestante" itemprop="url">Gestante</a></li>
+			<li><a class="qd-am-level-3" href="/mae-e-bebe/hora-do-banho" title="Hora do Banho" itemprop="url">Hora do Banho</a></li>
+			<li><a class="qd-am-level-3" href="/mae-e-bebe/pos-banho" title="Pós Banho" itemprop="url">Pós Banho</a></li>
+			<li><a class="qd-am-level-3" href="/mae-e-bebe/protecao-contra-insetos" title="Proteção Contra Insetos" itemprop="url">Proteção Contra Insetos</a></li>
+			<li><a class="qd-am-level-3" href="/mae-e-bebe/protetor-solar" title="Protetor Solar" itemprop="url">Protetor Solar</a></li>
+			<li><a class="qd-am-level-3" href="/mae-e-bebe/saude-bucal" title="Saúde Bucal" itemprop="url">Saúde Bucal</a></li>
+			<li><a class="qd-am-level-3" href="/mae-e-bebe/troca-do-bebe" title="Troca do Bebê" itemprop="url">Troca do Bebê</a></li>
+		</ul>
+		</li>
+		<li><p class="qd_am_text">Banner</p>
+		<ul>
+			<li><div class="qd_am_code qd-am-html" data-qdam-key="html"><img src=""></div></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><a class="qd-am-level-1" href="/saude" title="Saude" itemprop="url">Saúde</a>
+	<ul>
+		<li><p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+		<ul>
+			<li><a class="qd-am-level-3" href="/saude/acessorios-diabetes" title="Acessórios Diabetes" itemprop="url">Acessórios Diabetes</a></li>
+			<li><a class="qd-am-level-3" href="/saude/acessorios-ouvido" title="Acessórios Ouvido" itemprop="url">Acessórios Ouvido</a></li>
+			<li><a class="qd-am-level-3" href="/saude/aparelhos" title="Aparelhos" itemprop="url">Aparelhos</a></li>
+			<li><a class="qd-am-level-3" href="/saude/cirurgicos" title="Cirúrgicos" itemprop="url">Cirúrgicos</a></li>
+			<li><a class="qd-am-level-3" href="/saude/cuidados-com-a-casa" title="Cuidados com a Casa" itemprop="url">Cuidados com a Casa</a></li>
+			<li><a class="qd-am-level-3" href="/saude/inaladores-e-umidificadores" title="Inaladores e Umidificadores" itemprop="url">Inaladores e Umidificadores</a></li>
+			<li><a class="qd-am-level-3" href="/saude/meias" title="Meias" itemprop="url">Meias</a></li>
+			<li><a class="qd-am-level-3" href="/saude/olhos" title="Olhos" itemprop="url">Olhos</a></li>
+			<li><a class="qd-am-level-3" href="/saude/ortopedia" title="Ortopedia" itemprop="url">Ortopedia</a></li>
+			<li><a class="qd-am-level-3" href="/saude/primeiros-socorros" title="Primeiros Socorros" itemprop="url">Primeiros Socorros</a></li>
+			<li><a class="qd-am-level-3" href="/saude/vida-sexual" title="Vida Sexual" itemprop="url">Vida Sexual</a></li>
+		</ul>
+		</li>
+		<li><p class="qd_am_text">Banner</p>
+		<ul>
+			<li><div class="qd_am_code qd-am-html" data-qdam-key="html"><img src=""></div></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><a class="qd-am-level-1" href="/nutricao" title="Nutrição" itemprop="url">Nutrição</a>
+	<ul>
+		<li><p class="qd_am_code qd-am-noTitle" data-qdam-key="noTitle" data-qdam-value=""></p>
+		<ul>
+			<li><a class="qd-am-level-3" href="/nutricao/adocante" title="Adoçante" itemprop="url">Adoçante</a></li>
+			<li><a class="qd-am-level-3" href="/nutricao/alimentos" title="Alimentos" itemprop="url">Alimentos</a></li>
+			<li><a class="qd-am-level-3" href="/nutricao/barra-de-cereal" title="Barra de Cereal" itemprop="url">Barra de Cereal</a></li>
+			<li><a class="qd-am-level-3" href="/nutricao/bebidas" title="Bebidas" itemprop="url">Bebidas</a></li>
+			<li><a class="qd-am-level-3" href="/nutricao/cha" title="Chá" itemprop="url">Chá</a></li>
+			<li><a class="qd-am-level-3" href="/nutricao/massa-muscular" title="Massa Muscular" itemprop="url">Massa Muscular</a></li>
+			<li><a class="qd-am-level-3" href="/nutricao/mel" title="Mel" itemprop="url">Mel</a></li>
+			<li><a class="qd-am-level-3" href="/nutricao/pastilhas-e-gomas" title="Pastilhas e Gomas" itemprop="url">Pastilhas e Gomas</a></li>
+			<li><a class="qd-am-level-3" href="/nutricao/suplemento-alimentar" title="Suplemento Alimentar" itemprop="url">Suplemento Alimentar</a></li>
+		</ul>
+		</li>
+		<li><p class="qd_am_text">Banner</p>
+		<ul>
+			<li><div class="qd_am_code qd-am-html" data-qdam-key="html"><img src=""></div></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><a class="qd-am-level-1" href="/perfumes" title="Perfumes" itemprop="url">Perfumes</a></li>
+	<li><a class="novembro-azul" href="Novembro Azul" title="Novembro Azul" itemprop="url">Novembro Azul</a></li>
+</ul><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome munu teste com banner não foi renderizado por nao ser um XDocument válido, erro: - The 'img' start tag on line 47 position 65 does not match the end tag of 'div'. Line 47, position 92.--><span class="Testa-nada"></span></div><div class="qd-am-overlay"></div></div></div></div></div></div></div><div class="v2-vtx-tip-bar-full hidden-xs" style="display:none;"><div class="container"><div class="row">
+  <div class="col-xs-6">
+    <div class="tip-bar-item">
+      <i class="fa fa-plane"></i>
+      <span class="text-top">TODO BRASIL</span>
+      <span>Frete Reduzido</span>
+    </div>
+  </div>
+  <div class="col-xs-6">
+    <div class="tip-bar-item">
+      <i class="fa fa-check-square-o"></i>
+      <span class="text-top">DESDE 1986</span>
+      <span>Qualidade e excelência</span>
+    </div>
+  </div>
+  <div class="col-xs-6">
+    <div class="tip-bar-item">
+      <i class="fa fa-credit-card"></i>
+      <span class="text-top">3x sem juros</span>
+      <span>Compras acima R$ 100</span>
+    </div>
+  </div>
+  <div class="col-xs-6">
+    <div class="tip-bar-item">
+      <i class="fa fa-barcode"></i>
+      <span class="text-top">OFERECEMOS</span>
+      <span>Pagamento com Boleto</span>
+    </div>
+  </div>
+</div></div></div><div class="v2-vtx-tip-bar-full hidden-xs"><div class="container"><div class="row"><div class="col-xs-5-m3"><div class="tip-bar-item-m3"><i class="fa bar-home-entrega-farma22"></i><span>Frete reduzido</span><span>para todo brasil</span></div></div><div class="col-xs-5-m3 "><div class="tip-bar-item-m3"><i class="fa bar-home-parcelamento-farma22"></i><span>3x sem juros</span><span style="font-size:40%;">parcela mínima de R$50,00*</span></div></div><div class="col-xs-5-m3"><div class="tip-bar-item-m3"><i class="fa bar-home-qualidade"></i><span>Qualidade e excelência</span><span>Tradição desde 1986</span></div></div><div class="col-xs-5-m3"><div class="tip-bar-item-m3"><i class="fa bar-home-compra-segura"></i><span class="txt-buy-security">Compra 100% segura</span></div></div><div class="col-xs-5-m3"><div class="tip-bar-item-m3"><img src="//farma22.vteximg.com.br/arquivos/bar-home-e-bit-ouro-farma-22.png" alt="Farma 22 é E-BIT Ouro " /></div></div></div></div></div><div class="v2-float-bar store-header-v2"><div class="container"><div class="row"><div class="col-xs-20"><div class="v2-nav-searchbar"><script type="text/javascript" language="javascript"> /*<![CDATA[*/ $(document).ready(function(){currentDept = '0'; enableFullTextSearchBox('ftBox47c8ce01bff44846b97a8f9b976f992c', 'ftDept47c8ce01bff44846b97a8f9b976f992c', 'ftIdx47c8ce01bff44846b97a8f9b976f992c', 'ftBtn47c8ce01bff44846b97a8f9b976f992c', '/SEARCHTERM','Digite Aqui' );}); /*]]>*/ </script><fieldset class="busca"><legend>Buscar no site</legend><label>Buscar</label><select id="ftDept47c8ce01bff44846b97a8f9b976f992c"><option value="">Todo o site</option><option value="9">Medicamentos</option><option value="10">Saúde</option><option value="11">Higiene e Cuidados</option><option value="12">Dermocosméticos</option><option value="13">Mãe e Bebê</option><option value="14">Nutrição</option><option value="214">Perfumes</option></select><input type="hidden" id=ftIdx47c8ce01bff44846b97a8f9b976f992c value="" /><input id="ftBox47c8ce01bff44846b97a8f9b976f992c" class="fulltext-search-box" type="text" size="20" accesskey="b" /><input id="ftBtn47c8ce01bff44846b97a8f9b976f992c" type="button" value="Buscar" class="btn-buscar" /></fieldset></div></div><div class="col-xs-4"><div class="v2-cart-wrapper qd_cart_auto show-minicart-on-hover tpl-cart tpl-cart-dropdown"><a href="/checkout/#/cart" class="cartLink"><i class="fa fa-shopping-cart"></i><span class="qd_items_text singular hidden-xs" style="display:none;">(<span class="qd_cart_qtt"></span>) Item</span><span class="qd_items_text plural hidden-xs">(<span class="qd_cart_qtt"></span>) Itens</span><!-- <span class="qd_cart_total"></span> --></a><div class="v2-mini-cart"><div class="portal-minicart-ref"></div><script>$('.portal-minicart-ref').minicart({ showMinicart: true, showTotalizers: false  , showShippingOptions: false });</script></div></div></div></div></div></div><!-- qd-belmore-header-2 --><!-- Conteúdo abaixo do Header --><div class="container"><div class="row"><div class="vtx-placeholder vtx-banners-wrap vtx-collections-wrap col-xs-24 qd-banner-responsive img-responsive qd-shelf-xs-3" data-qd-help="1" data-qd-help-id="Conteúdo abaixo do Header"><!-- Conteúdo abaixo do Header --><!-- Conteúdo abaixo do Header --></div></div></div><!-- Conteúdo abaixo do Header --><div class="container"><div class="row breadCrumb"><div class="col-xs-24"><div class="bread-crumb">
+<ul>
+<li><a title="farma22" href="/">farma22</a></li>
+<li><a title="Higiene e Cuidados" href="http://www.farma22.com.br/higiene-e-cuidados">Higiene e Cuidados</a></li><li class="last"><strong><a title="Saúde e Bem Estar" href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar?PS=24">Saúde e Bem Estar</a></strong></li></ul>
+</div>
+</div></div></div><!-- Conteúdo abaixo do Breadcrumb --><div class="container"><div class="row"><div class="vtx-placeholder vtx-banners-wrap vtx-collections-wrap col-xs-24 qd-banner-responsive img-responsive qd-shelf-xs-3" data-qd-help="1" data-qd-help-id="Conteúdo abaixo do Breadcrumb"><!-- Conteúdo abaixo do Breadcrumb --><!-- Conteúdo abaixo do Breadcrumb --></div></div></div><!-- Conteúdo abaixo do Breadcrumb --><div class="container"><div class="row"><div class="yv-container-reviewshelf" style="display: none;"><div class="yv-reviewshelf"></div></div></div></div><div class="container"><div class="row visible-xs side-menu-toggle-wrap"><div class="col-xs-22 col-xs-offset-1 margin-v-xs"><a href="#" class="side-menu-toggle btn btn-block"><i class="fa fa-filter font-size-lg padding-r-xs"></i>Filtrar Produtos</a></div></div><div class="row"><div class="row"><div class="coll-md-24"><!-- Aqui ficara o texto de categoria --><div class="vtx-placeholder vtx-banners-wrap vtx-collections-wrap col-xs-24 qd-banner-responsive img-responsive qd-shelf-md-6 qd-shelf-sm-8 qd-shelf-xs-12" data-qd-help="1" data-qd-help-id="Conteúdo acima do resultado"></div></div></div><div class="col-xs-24 col-sm-6 side-menu-wrap margin-t-md hidden-xs"><!-- Conteúdo acima do menu lateral --><div class="vtx-placeholder vtx-banners-wrap qd-banner-responsive img-responsive" data-qd-help="5" data-qd-help-id="Conteúdo acima do menu lateral"><!-- Conteúdo acima do menu lateral --><!-- Conteúdo acima do menu lateral --></div><!-- Conteúdo acima do menu lateral --><div class="search-navigator"><!-- searchNavigator -->
+<script type="text/javascript" language="javascript">
+    $(document).ready(function() {
+        partialSearchUrl = '/busca?fq=C%3a%2f11%2f134%2f&PS=24&';
+    });
+</script>
+<div class="navigation-tabs">    <div class="menu-departamento">        <span class="rt"></span><span class="rb"></span>        <div>            <div class="menu-navegue">                <a title="Navegue" class="search-navigator-tab tab-navegue-ativo" href="#">Navegue</a>                <a title="Refinar Resultado" class="search-navigator-tab tab-refinar" href="#">Refinar Resultado</a>            </div><div class="search-multiple-navigator" style="display: none;" ><h3 class="higiene-e-cuidados"><span></span><a href="http://www.farma22.com.br/higiene-e-cuidados" title="Higiene e Cuidados">Higiene e Cuidados</a></h3>
+<h4 class="higiene-e-cuidados"><span></span><a href="http://www.farma22.com.br/higiene-e-cuidados" title="Saúde e Bem Estar">Saúde e Bem Estar</a></h4>
+<a title="Refinar Resultado" class="bt-refinar search-filter-button even" href="#">Refinar Resultado</a><fieldset class="refino-marca even">
+<h5 class="  even">Marca</h5>
+<div class="">
+<label><input rel="fq=B:2000170" class="multi-search-checkbox" type="checkbox" name="2000170" value="2000170"/>3M (2)</label><label><input rel="fq=B:2000075" class="multi-search-checkbox" type="checkbox" name="2000075" value="2000075"/>ADV (1)</label><label><input rel="fq=B:2000112" class="multi-search-checkbox" type="checkbox" name="2000112" value="2000112"/>APOLO (7)</label><label><input rel="fq=B:2000023" class="multi-search-checkbox" type="checkbox" name="2000023" value="2000023"/>BIOLAB (1)</label><label><input rel="fq=B:2000416" class="multi-search-checkbox" type="checkbox" name="2000416" value="2000416"/>Blowtex (1)</label><label><input rel="fq=B:2000027" class="multi-search-checkbox" type="checkbox" name="2000027" value="2000027"/>CIMED (2)</label><label><input rel="fq=B:2000017" class="multi-search-checkbox" type="checkbox" name="2000017" value="2000017"/>COLGATE (1)</label><label><input rel="fq=B:2000182" class="multi-search-checkbox" type="checkbox" name="2000182" value="2000182"/>COMBE (2)</label><label><input rel="fq=B:2000057" class="multi-search-checkbox" type="checkbox" name="2000057" value="2000057"/>CREMER (3)</label><label><input rel="fq=B:2000202" class="multi-search-checkbox" type="checkbox" name="2000202" value="2000202"/>DERMIWIL (1)</label><label><input rel="fq=B:2000135" class="multi-search-checkbox" type="checkbox" name="2000135" value="2000135"/>FARMAX (1)</label><label><input rel="fq=B:2000006" class="multi-search-checkbox" type="checkbox" name="2000006" value="2000006"/>HYPERMARCAS (34)</label><label><input rel="fq=B:2000205" class="multi-search-checkbox" type="checkbox" name="2000205" value="2000205"/>INAL (4)</label><label><input rel="fq=B:2000009" class="multi-search-checkbox" type="checkbox" name="2000009" value="2000009"/>JOHNSON &amp; JOHNSON (10)</label><label><input rel="fq=B:2000019" class="multi-search-checkbox" type="checkbox" name="2000019" value="2000019"/>KIMBERLY-CLARK (1)</label><label><input rel="fq=B:2000220" class="multi-search-checkbox" type="checkbox" name="2000220" value="2000220"/>LA SURE (1)</label><label><input rel="fq=B:2000357" class="multi-search-checkbox" type="checkbox" name="2000357" value="2000357"/>MARCAS DIVERSAS (32)</label><label><input rel="fq=B:2000086" class="multi-search-checkbox" type="checkbox" name="2000086" value="2000086"/>MARCO BONI (1)</label><label><input rel="fq=B:2000087" class="multi-search-checkbox" type="checkbox" name="2000087" value="2000087"/>MELHORAMENTOS (1)</label><label><input rel="fq=B:2000080" class="multi-search-checkbox" type="checkbox" name="2000080" value="2000080"/>MUNDIAL (1)</label><label><input rel="fq=B:2000167" class="multi-search-checkbox" type="checkbox" name="2000167" value="2000167"/>NEVE (1)</label><label><input rel="fq=B:2000038" class="multi-search-checkbox" type="checkbox" name="2000038" value="2000038"/>RECKITT (11)</label><label><input rel="fq=B:2000076" class="multi-search-checkbox" type="checkbox" name="2000076" value="2000076"/>RIOQU&#205;MICA (1)</label></div></fieldset><fieldset class="refino">
+<h5 class=" ">Faixa de preço</h5>
+<div class="">
+<label><input rel="fq=P:%5b0+TO+10%5d" class="multi-search-checkbox" type="checkbox" name="%5b0+TO+10%5d" value="[0 TO 10]"/>At&#233; R$ 10,00 (107)</label><label><input rel="fq=P:%5b10.01+TO+25%5d" class="multi-search-checkbox" type="checkbox" name="%5b10.01+TO+25%5d" value="[10.01 TO 25]"/>de R$ 10,00 at&#233; R$ 25,00 (9)</label><label><input rel="fq=P:%5b25.01+TO+50%5d" class="multi-search-checkbox" type="checkbox" name="%5b25.01+TO+50%5d" value="[25.01 TO 50]"/>de R$ 25,00 at&#233; R$ 50,00 (3)</label><label><input rel="fq=P:%5b100.01+TO+200%5d" class="multi-search-checkbox" type="checkbox" name="%5b100.01+TO+200%5d" value="[100.01 TO 200]"/>de R$ 100,00 at&#233; R$ 200,00 (1)</label></div></fieldset></div><div class="search-single-navigator" style="display:block"><h3 class="higiene-e-cuidados"><span></span><a href="http://www.farma22.com.br/higiene-e-cuidados" title="Higiene e Cuidados">Higiene e Cuidados</a></h3>
+<h4 class="higiene-e-cuidados even"><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar?PS=24" title="Saúde e Bem Estar">Saúde e Bem Estar (120)</a></h4>
+<h5 class="Hide HideMarca">Marca</h5>
+<ul class="Marca " >
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/3m?PS=24" title="3M">3M (2)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/adv?PS=24" title="ADV">ADV (1)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/apolo?PS=24" title="APOLO">APOLO (7)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/biolab?PS=24" title="BIOLAB">BIOLAB (1)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/blowtex?PS=24" title="Blowtex">Blowtex (1)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/cimed?PS=24" title="CIMED">CIMED (2)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/colgate?PS=24" title="COLGATE">COLGATE (1)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/combe?PS=24" title="COMBE">COMBE (2)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/cremer?PS=24" title="CREMER">CREMER (3)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/dermiwil?PS=24" title="DERMIWIL">DERMIWIL (1)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/farmax?PS=24" title="FARMAX">FARMAX (1)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/hypermarcas?PS=24" title="HYPERMARCAS">HYPERMARCAS (34)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/inal?PS=24" title="INAL">INAL (4)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/johnson---johnson?PS=24" title="JOHNSON & JOHNSON">JOHNSON & JOHNSON (10)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/kimberly-clark?PS=24" title="KIMBERLY-CLARK">KIMBERLY-CLARK (1)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/la-sure?PS=24" title="LA SURE">LA SURE (1)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/marcas-diversas?PS=24" title="MARCAS DIVERSAS">MARCAS DIVERSAS (32)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/marco-boni?PS=24" title="MARCO BONI">MARCO BONI (1)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/melhoramentos?PS=24" title="MELHORAMENTOS">MELHORAMENTOS (1)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/mundial?PS=24" title="MUNDIAL">MUNDIAL (1)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/neve?PS=24" title="NEVE">NEVE (1)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/reckitt?PS=24" title="RECKITT">RECKITT (11)</a></li>
+<li class="last"><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/rioquimica?PS=24" title="RIOQUÍMICA">RIOQUÍMICA (1)</a></li>
+</ul><h5 class="Hide even HideFaixa-de-preco">Faixa de preço</h5>
+<ul class="Faixa de preço  even" >
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/de-0-a-10?PS=24&map=c,c,priceFrom" title="Até R$ 10,00">Até R$ 10,00 (107)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/de-10,01-a-25?PS=24&map=c,c,priceFrom" title="de R$ 10,00 até R$ 25,00">de R$ 10,00 até R$ 25,00 (9)</a></li>
+<li ><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/de-25,01-a-50?PS=24&map=c,c,priceFrom" title="de R$ 25,00 até R$ 50,00">de R$ 25,00 até R$ 50,00 (3)</a></li>
+<li class="last"><a href="http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar/de-100,01-a-200?PS=24&map=c,c,priceFrom" title="de R$ 100,00 até R$ 200,00">de R$ 100,00 até R$ 200,00 (1)</a></li>
+</ul></div>        </div>    </div></div><div class="urlLastSearch" style="display:none">http://www.farma22.com.br/higiene-e-cuidados/saude-e-bem-estar</div><!-- searchNavigator --></div><!-- Conteúdo abaixo do menu lateral --><div class="vtx-placeholder vtx-banners-wrap qd-banner-responsive img-responsive" data-qd-help="5" data-qd-help-id="Conteúdo abaixo do menu lateral"><!-- Conteúdo abaixo do menu lateral --><div class="textoSEO"></div><!-- Conteúdo abaixo do menu lateral --></div><!-- Conteúdo abaixo do menu lateral --></div><div class="col-xs-24 col-sm-18"><!-- Conteúdo acima do Resultado --><div class="search-title"><h2 class="titulo-sessao">Saúde e Bem Estar</h2></div><div class="row margin-t-md"><div class="search-result col-xs-24 qd-shelf-md-6 qd-shelf-sm-8 qd-shelf-xs-12" itemscope="itemscope" itemtype="http://schema.org/ItemList"><div class="main"><p class="searchResultsTime"><span class="resultado-busca-numero"><span class="label">Produtos encontrados:</span> <span class="value">120</span></span><span class="resultado-busca-termo"> <span class="label">Resultado da Pesquisa por:</span> <strong class="value"></strong></span><span class="resultado-busca-tempo"> <span class="label">em</span> <span class="value">429 ms</span></span></p><div class="sub"><div class="resultado-busca-filtro">
+<fieldset class="orderBy">
+<label>Ordenar por:</label>
+<select id="O" onchange="window.location.href= '/higiene-e-cuidados/saude-e-bem-estar?PS=24&' + 'O=' + this.options[this.selectedIndex].value">
+<option  value="">Selecione</option>
+<option  value="OrderByPriceASC">Menor Preço</option>
+<option  value="OrderByPriceDESC">Maior Preço</option>
+<option  value="OrderByTopSaleDESC">Mais vendidos</option>
+<option  value="OrderByReviewRateDESC">Melhores avaliações</option>
+<option  value="OrderByNameASC">A - Z</option>
+<option  value="OrderByNameDESC">Z - A</option>
+<option  value="OrderByReleaseDateDESC">Data de lançamento</option>
+<option  value="OrderByBestDiscountDESC">Melhor Desconto</option>
+</select>
+</fieldset>
+<fieldset class="filterBy">
+Itens por página:
+<select id="PS" onchange="window.location.href= '/higiene-e-cuidados/saude-e-bem-estar?' + 'PS=' + this.options[this.selectedIndex].value">
+<option selected="selected" value="24">24</option>
+<option  value="48">48</option>
+<option  value="72">72</option>
+<option  value="96">96</option>
+</select>
+</fieldset>
+<p class="compare">Produtos selecionados para comparar: <strong><span class="compare-selection-count" id="NumeroSuperior">0</span></strong><a title="Comparar" class="btn-comparar" href="#">Comparar</a></p></div></div><div class="vitrine resultItemsWrapper">
+            <script type='text/javascript'>
+            var pagecount_34369807;
+            $(document).ready(function () {
+                pagecount_34369807 = 5;
+                $('#PagerTop_34369807').pager({ pagenumber: 1, pagecount: pagecount_34369807, buttonClickCallback: PageClick_34369807 });
+                $('#PagerBottom_34369807').pager({ pagenumber: 1, pagecount: pagecount_34369807, buttonClickCallback: PageClick_34369807 });
+                if (window.location.hash != '') PageClick_34369807(window.location.hash.replace(/\#/, ''));
+            });
+            PageClick_34369807 = function(pageclickednumber) {
+                window.location.hash = pageclickednumber;
+                $('#ResultItems_34369807').load('/buscapagina?fq=C%3a%2f11%2f134%2f&PS=24&sl=b0e35fae-a09d-46ff-bc5f-cec27b682c77&cc=1&sm=0&PageNumber=' + pageclickednumber,
+                    function() {
+                        $('#PagerTop_34369807').pager({ pagenumber: pageclickednumber, pagecount: pagecount_34369807, buttonClickCallback: PageClick_34369807 });
+                        $('#PagerBottom_34369807').pager({ pagenumber: pageclickednumber, pagecount: pagecount_34369807, buttonClickCallback: PageClick_34369807 });
+                    bindQuickView();
+                });
+            }</script><div class="pager top" id="PagerTop_34369807"></div><div id="ResultItems_34369807" class="QD prateleira row qd-xs"><div class="QD prateleira row qd-xs n1colunas"><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Preservativo Jontex Lubrificado Leve 8 Pague 6"  itemprop="url" href="http://www.farma22.com.br/preservativo-jontex-lubrificado-leve-8-pague-6/p" class="padding-t-xxs font-size-xs">Preservativo Jontex Lubrificado Leve 8 Pague 6</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Preservativo Jontex Lubrificado Leve 8 Pague 6"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/preservativo-jontex-lubrificado-leve-8-pague-6/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Preservativo Jontex Lubrificado Leve 8 Pague 6" href="http://www.farma22.com.br/preservativo-jontex-lubrificado-leve-8-pague-6/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/166069-300-300/3214765_2.jpg" width="300" height="300" alt="preservativo-jontex-lubrificado-leve-8-pague-6" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 10,49</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 9,12
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480570617"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480570627" maxlenght="3" id="amount-in-cart480570627" value="1"> <span class="idSku"> 480570627</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480570617">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480570617" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Preservativo Olla Uva 3 unidades"  itemprop="url" href="http://www.farma22.com.br/preservativo-olla-uva-3-unidades/p" class="padding-t-xxs font-size-xs">Preservativo Olla Uva 3 unidades</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Preservativo Olla Uva 3 unidades"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/preservativo-olla-uva-3-unidades/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Preservativo Olla Uva 3 unidades" href="http://www.farma22.com.br/preservativo-olla-uva-3-unidades/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/156492-300-300/PROD_82361020141216022457.jpg" width="300" height="300" alt="Preservativo-Olla-Uva-3-unidades" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 4,88
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480561299"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480561305" maxlenght="3" id="amount-in-cart480561305" value="1"> <span class="idSku"> 480561305</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480561299">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480561299" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Preservativo Olla Ultra mais Resistente 3 Unidades"  itemprop="url" href="http://www.farma22.com.br/preservativo-olla-ultra-mais-resistente-3-unidades/p" class="padding-t-xxs font-size-xs">Preservativo Olla Ultra mais Resistente 3 Unidades</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Preservativo Olla Ultra mais Resistente 3 Unidades"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/preservativo-olla-ultra-mais-resistente-3-unidades/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Preservativo Olla Ultra mais Resistente 3 Unidades" href="http://www.farma22.com.br/preservativo-olla-ultra-mais-resistente-3-unidades/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/166070-300-300/3629948_2.jpg" width="300" height="300" alt="preservativo-olla-ultra-mais-resistente-3-unidades" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 5,67</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 4,82
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480570618"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480570628" maxlenght="3" id="amount-in-cart480570628" value="1"> <span class="idSku"> 480570628</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480570618">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480570618" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Preservativo Blowtex Orgazmax Texturizado 3 Unidades"  itemprop="url" href="http://www.farma22.com.br/preservativo-blowtex-orgazmax-texturizado-3-unidades/p" class="padding-t-xxs font-size-xs">Preservativo Blowtex Orgazmax Texturizado 3 Unidades</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Preservativo Blowtex Orgazmax Texturizado 3 Unidades"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/preservativo-blowtex-orgazmax-texturizado-3-unidades/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Preservativo Blowtex Orgazmax Texturizado 3 Unidades" href="http://www.farma22.com.br/preservativo-blowtex-orgazmax-texturizado-3-unidades/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/166037-300-300/3732349_2.jpg" width="300" height="300" alt="preservativo-blowtex-orgazmax-texturizado-3-unidades" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 5,47</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 4,54
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480570586"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480570596" maxlenght="3" id="amount-in-cart480570596" value="1"> <span class="idSku"> 480570596</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480570586">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480570586" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Bom Ar Air Wick Perfect Rosa Tropical e Vanilla 232ml"  itemprop="url" href="http://www.farma22.com.br/bom-ar-air-wick-perfect-rosa-tropical-e-vanilla-232ml/p" class="padding-t-xxs font-size-xs">Bom Ar Air Wick Perfect Rosa Tropical e Vanilla 232ml</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Bom Ar Air Wick Perfect Rosa Tropical e Vanilla 232ml"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/bom-ar-air-wick-perfect-rosa-tropical-e-vanilla-232ml/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Bom Ar Air Wick Perfect Rosa Tropical e Vanilla 232ml" href="http://www.farma22.com.br/bom-ar-air-wick-perfect-rosa-tropical-e-vanilla-232ml/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/165760-300-300/7891035015175.png" width="300" height="300" alt="bom-ar-air-wick-perfect-rosa-tropical-e-vanilla-232ml" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 17,58</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 14,94
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480570404"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480570427" maxlenght="3" id="amount-in-cart480570427" value="1"> <span class="idSku"> 480570427</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480570404">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480570404" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Bom Ar Air Wick Aerossol Lirio Selvagem e Jasmin 232ml"  itemprop="url" href="http://www.farma22.com.br/bom-ar-air-wick-aerossol-lirio-selvagem-e-jasmin-232ml/p" class="padding-t-xxs font-size-xs">Bom Ar Air Wick Aerossol Lirio Selvagem e Jasmin 232ml</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Bom Ar Air Wick Aerossol Lirio Selvagem e Jasmin 232ml"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/bom-ar-air-wick-aerossol-lirio-selvagem-e-jasmin-232ml/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Bom Ar Air Wick Aerossol Lirio Selvagem e Jasmin 232ml" href="http://www.farma22.com.br/bom-ar-air-wick-aerossol-lirio-selvagem-e-jasmin-232ml/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/165477-300-300/7891035015182.png" width="300" height="300" alt="bom-ar-air-wick-aerossol-lirio-selvagem-e-jasmin-232ml" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 17,58</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 14,94
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480570191"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480570214" maxlenght="3" id="amount-in-cart480570214" value="1"> <span class="idSku"> 480570214</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480570191">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480570191" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Bom Ar Air Wick Aerossol Lavanda Suave e Camomila 232ml"  itemprop="url" href="http://www.farma22.com.br/bom-ar-air-wick-aerossol-lavanda-suave-e-camomila-232ml/p" class="padding-t-xxs font-size-xs">Bom Ar Air Wick Aerossol Lavanda Suave e Camomila 232ml</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Bom Ar Air Wick Aerossol Lavanda Suave e Camomila 232ml"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/bom-ar-air-wick-aerossol-lavanda-suave-e-camomila-232ml/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Bom Ar Air Wick Aerossol Lavanda Suave e Camomila 232ml" href="http://www.farma22.com.br/bom-ar-air-wick-aerossol-lavanda-suave-e-camomila-232ml/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/165476-300-300/7891035015168.png" width="300" height="300" alt="bom-ar-air-wick-aerossol-lavanda-suave-e-camomila-232ml" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 17,58</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 14,94
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480570190"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480570213" maxlenght="3" id="amount-in-cart480570213" value="1"> <span class="idSku"> 480570213</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480570190">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480570190" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Navalha de Corte Mundial Professional Inox 1 Unidade"  itemprop="url" href="http://www.farma22.com.br/navalha-de-corte-mundial-professional-inox-1-unidade/p" class="padding-t-xxs font-size-xs">Navalha de Corte Mundial Professional Inox 1 Unidade</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Navalha de Corte Mundial Professional Inox 1 Unidade"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/navalha-de-corte-mundial-professional-inox-1-unidade/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Navalha de Corte Mundial Professional Inox 1 Unidade" href="http://www.farma22.com.br/navalha-de-corte-mundial-professional-inox-1-unidade/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/165471-300-300/7891060821192.jpg" width="300" height="300" alt="navalha-de-corte-mundial-professional-inox-1-unidade" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 20,09</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 17,08
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480570185"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480570208" maxlenght="3" id="amount-in-cart480570208" value="1"> <span class="idSku"> 480570208</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480570185">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480570185" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Capa Para Tintura e Maquiagem La Sure"  itemprop="url" href="http://www.farma22.com.br/capa-para-tintura-e-maquiagem-la-sure/p" class="padding-t-xxs font-size-xs">Capa Para Tintura e Maquiagem La Sure</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Capa Para Tintura e Maquiagem La Sure"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/capa-para-tintura-e-maquiagem-la-sure/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Capa Para Tintura e Maquiagem La Sure" href="http://www.farma22.com.br/capa-para-tintura-e-maquiagem-la-sure/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/165467-300-300/7896947603687.jpg" width="300" height="300" alt="capa-para-tintura-e-maquiagem-la-sure" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 10,76
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480570181"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480570204" maxlenght="3" id="amount-in-cart480570204" value="1"> <span class="idSku"> 480570204</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480570181">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480570181" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Bolsa Termica 10L FWB 28x16x25cm"  itemprop="url" href="http://www.farma22.com.br/bolsa-termica-10l-fwb-28x16x25cm/p" class="padding-t-xxs font-size-xs">Bolsa Termica 10L FWB 28x16x25cm</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Bolsa Termica 10L FWB 28x16x25cm"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/bolsa-termica-10l-fwb-28x16x25cm/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Bolsa Termica 10L FWB 28x16x25cm" href="http://www.farma22.com.br/bolsa-termica-10l-fwb-28x16x25cm/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/165462-300-300/7885180925267.jpg" width="300" height="300" alt="bolsa-termica-10l-fwb-28x16x25cm" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 23,06</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 19,60
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480570177"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480570200" maxlenght="3" id="amount-in-cart480570200" value="1"> <span class="idSku"> 480570200</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480570177">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480570177" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Capa De Chuva Infantil Unisex Com Botao Fox Plast"  itemprop="url" href="http://www.farma22.com.br/capa-de-chuva-infantil-unisex-com-botao-fox-plast/p" class="padding-t-xxs font-size-xs">Capa De Chuva Infantil Unisex Com Botao Fox Plast</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Capa De Chuva Infantil Unisex Com Botao Fox Plast"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/capa-de-chuva-infantil-unisex-com-botao-fox-plast/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Capa De Chuva Infantil Unisex Com Botao Fox Plast" href="http://www.farma22.com.br/capa-de-chuva-infantil-unisex-com-botao-fox-plast/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/165461-300-300/7898284070023.jpg" width="300" height="300" alt="capa-de-chuva-infantil-unisex-com-botao-fox-plast" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 6,01</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 5,11
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480570176"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480570199" maxlenght="3" id="amount-in-cart480570199" value="1"> <span class="idSku"> 480570199</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480570176">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480570176" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Capa De Chuva Adulto Unisex Com Botao Fox Plast"  itemprop="url" href="http://www.farma22.com.br/capa-de-chuva-adulto-unisex-com-botao-fox-plast/p" class="padding-t-xxs font-size-xs">Capa De Chuva Adulto Unisex Com Botao Fox Plast</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Capa De Chuva Adulto Unisex Com Botao Fox Plast"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/capa-de-chuva-adulto-unisex-com-botao-fox-plast/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Capa De Chuva Adulto Unisex Com Botao Fox Plast" href="http://www.farma22.com.br/capa-de-chuva-adulto-unisex-com-botao-fox-plast/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/165460-300-300/7898284070016.jpg" width="300" height="300" alt="capa-de-chuva-adulto-unisex-com-botao-fox-plast" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 6,50</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 5,52
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480570175"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480570198" maxlenght="3" id="amount-in-cart480570198" value="1"> <span class="idSku"> 480570198</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480570175">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480570175" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Capa De Chuva Adulto Unisex PVC Longa Capuz G"  itemprop="url" href="http://www.farma22.com.br/capa-de-chuva-adulto-unisex-pvc-longa-capuz-g/p" class="padding-t-xxs font-size-xs">Capa De Chuva Adulto Unisex PVC Longa Capuz G</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Capa De Chuva Adulto Unisex PVC Longa Capuz G"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/capa-de-chuva-adulto-unisex-pvc-longa-capuz-g/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Capa De Chuva Adulto Unisex PVC Longa Capuz G" href="http://www.farma22.com.br/capa-de-chuva-adulto-unisex-pvc-longa-capuz-g/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/165444-300-300/7897664904200.jpg" width="300" height="300" alt="capa-de-chuva-adulto-unisex-pvc-longa-capuz-g" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 39,90
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480570158"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480570181" maxlenght="3" id="amount-in-cart480570181" value="1"> <span class="idSku"> 480570181</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480570158">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480570158" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="K-Med 2 em 1 Gel de Massagem e Lubrificante Interno 203g"  itemprop="url" href="http://www.farma22.com.br/k-med-2-em-1-gel-de-massagem-e-lubrificante-interno-203g/p" class="padding-t-xxs font-size-xs">K-Med 2 em 1 Gel de Massagem e Lubrificante Interno 203g</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="K-Med 2 em 1 Gel de Massagem e Lubrificante Interno 203g"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/k-med-2-em-1-gel-de-massagem-e-lubrificante-interno-203g/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="K-Med 2 em 1 Gel de Massagem e Lubrificante Interno 203g" href="http://www.farma22.com.br/k-med-2-em-1-gel-de-massagem-e-lubrificante-interno-203g/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/165235-300-300/7896523210582.jpg" width="300" height="300" alt="k-med-2-em-1-gel-de-massagem-e-lubrificante-interno-203g" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 23,58</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 21,59
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480569958"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480569979" maxlenght="3" id="amount-in-cart480569979" value="1"> <span class="idSku"> 480569979</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480569958">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480569958" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Hastes Flex&#237;veis Aponete Apolo 75 unidades"  itemprop="url" href="http://www.farma22.com.br/hastes-flexiveis-aponete-apolo-75-unidades/p" class="padding-t-xxs font-size-xs">Hastes Flexíveis Aponete Apolo 75 unidades</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Hastes Flex&#237;veis Aponete Apolo 75 unidades"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/hastes-flexiveis-aponete-apolo-75-unidades/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Hastes Flex&#237;veis Aponete Apolo 75 unidades" href="http://www.farma22.com.br/hastes-flexiveis-aponete-apolo-75-unidades/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/164747-300-300/7896224410816.jpg" width="300" height="300" alt="hastes-flexiveis-aponete-apolo-75-unidades" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 2,55
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480569563"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480569584" maxlenght="3" id="amount-in-cart480569584" value="1"> <span class="idSku"> 480569584</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480569563">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480569563" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Cola Super Bonder Original 5g"  itemprop="url" href="http://www.farma22.com.br/cola-super-bonder-original-5g/p" class="padding-t-xxs font-size-xs">Cola Super Bonder Original 5g</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Cola Super Bonder Original 5g"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/cola-super-bonder-original-5g/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Cola Super Bonder Original 5g" href="http://www.farma22.com.br/cola-super-bonder-original-5g/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/164598-300-300/7891200234257.jpg" width="300" height="300" alt="cola-super-bonder-original-5g" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 9,30</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 7,90
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480569401"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480569422" maxlenght="3" id="amount-in-cart480569422" value="1"> <span class="idSku"> 480569422</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480569401">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480569401" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Freeco Especiarias Bloqueador de Odores Sanit&#225;rios 60ml"  itemprop="url" href="http://www.farma22.com.br/freeco-especiarias/p" class="padding-t-xxs font-size-xs">Freeco Especiarias Bloqueador de Odores Sanitários 60ml</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Freeco Especiarias Bloqueador de Odores Sanit&#225;rios 60ml"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/freeco-especiarias/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Freeco Especiarias Bloqueador de Odores Sanit&#225;rios 60ml" href="http://www.farma22.com.br/freeco-especiarias/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/164519-300-300/7898233931665.png" width="300" height="300" alt="7898233931665" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 27,74
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480569330"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480569351" maxlenght="3" id="amount-in-cart480569351" value="1"> <span class="idSku"> 480569351</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480569330">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480569330" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Freeco Bloqueador de Odores Sanit&#225;rios 60ml"  itemprop="url" href="http://www.farma22.com.br/bloqueador-de-odores-sanitarios-freeco-60ml/p" class="padding-t-xxs font-size-xs">Freeco Bloqueador de Odores Sanitários 60ml</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Freeco Bloqueador de Odores Sanit&#225;rios 60ml"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/bloqueador-de-odores-sanitarios-freeco-60ml/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Freeco Bloqueador de Odores Sanit&#225;rios 60ml" href="http://www.farma22.com.br/bloqueador-de-odores-sanitarios-freeco-60ml/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/164518-300-300/7898233931412.jpg" width="300" height="300" alt="freeco" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 27,74</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 26,89
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480569211"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480569244" maxlenght="3" id="amount-in-cart480569244" value="1"> <span class="idSku"> 480569244</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480569211">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480569211" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Gel Antiss&#233;ptico Prote &amp; Clean 60ml"  itemprop="url" href="http://www.farma22.com.br/gel-antisseptico-prote-clean-60ml/p" class="padding-t-xxs font-size-xs">Gel Antisséptico Prote & Clean 60ml</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Gel Antiss&#233;ptico Prote &amp; Clean 60ml"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/gel-antisseptico-prote-clean-60ml/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Gel Antiss&#233;ptico Prote &amp; Clean 60ml" href="http://www.farma22.com.br/gel-antisseptico-prote-clean-60ml/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/163039-300-300/gel-antisseptico-prote-26-clean-60ml-3145.jpg" width="300" height="300" alt="Gel-Antisseptico-Prote-Clean-60ml" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 6,39</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 5,43
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480568185"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480568245" maxlenght="3" id="amount-in-cart480568245" value="1"> <span class="idSku"> 480568245</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480568185">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480568185" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Blood Stop Bandagem Bege 500 unidades"  itemprop="url" href="http://www.farma22.com.br/blood-stop-bandagem-bege-500-unidades/p" class="padding-t-xxs font-size-xs">Blood Stop Bandagem Bege 500 unidades</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Blood Stop Bandagem Bege 500 unidades"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/blood-stop-bandagem-bege-500-unidades/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Blood Stop Bandagem Bege 500 unidades" href="http://www.farma22.com.br/blood-stop-bandagem-bege-500-unidades/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/163839-300-300/Blood-Stop-Bandagem-Bege-500-unidades.jpg" width="300" height="300" alt="blood-stop-bandagem-bege-500-unidades" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 21,28
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480568182"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480568242" maxlenght="3" id="amount-in-cart480568242" value="1"> <span class="idSku"> 480568242</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480568182">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480568182" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Hastes Flex&#237;veis Cottonbaby Leve 150 Pague 100 unidades"  itemprop="url" href="http://www.farma22.com.br/hastes-flexiveis-cottonbaby-leve-150-pague-100-unidades/p" class="padding-t-xxs font-size-xs">Hastes Flexíveis Cottonbaby Leve 150 Pague 100 unidades</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Hastes Flex&#237;veis Cottonbaby Leve 150 Pague 100 unidades"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/hastes-flexiveis-cottonbaby-leve-150-pague-100-unidades/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Hastes Flex&#237;veis Cottonbaby Leve 150 Pague 100 unidades" href="http://www.farma22.com.br/hastes-flexiveis-cottonbaby-leve-150-pague-100-unidades/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/163280-300-300/PROD_141219184450.jpg" width="300" height="300" alt="Hastes-Flexiveis-Cottonbaby-Leve-150-Pague-100-unidades" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 6,04</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 5,13
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480568181"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480568241" maxlenght="3" id="amount-in-cart480568241" value="1"> <span class="idSku"> 480568241</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480568181">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480568181" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Hastes Flex&#237;veis Cottonbaby 75 unidades"  itemprop="url" href="http://www.farma22.com.br/hastes-flexiveis-cottonbaby-75-unidades/p" class="padding-t-xxs font-size-xs">Hastes Flexíveis Cottonbaby 75 unidades</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Hastes Flex&#237;veis Cottonbaby 75 unidades"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/hastes-flexiveis-cottonbaby-75-unidades/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Hastes Flex&#237;veis Cottonbaby 75 unidades" href="http://www.farma22.com.br/hastes-flexiveis-cottonbaby-75-unidades/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/163045-300-300/hastes-flexiveis-com-pontas-de-algodao-cottonbabt-75un-8173.jpg" width="300" height="300" alt="Hastes-Flexiveis-Cottonbaby-75-unidades" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 1,84</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 1,56
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480568180"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480568240" maxlenght="3" id="amount-in-cart480568240" value="1"> <span class="idSku"> 480568240</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480568180">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480568180" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Gel Higienizador New Star Hidratante 100ml"  itemprop="url" href="http://www.farma22.com.br/gel-higienizador-new-star-hidratante-100ml/p" class="padding-t-xxs font-size-xs">Gel Higienizador New Star Hidratante 100ml</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Gel Higienizador New Star Hidratante 100ml"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/gel-higienizador-new-star-hidratante-100ml/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Gel Higienizador New Star Hidratante 100ml" href="http://www.farma22.com.br/gel-higienizador-new-star-hidratante-100ml/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/165070-300-300/7896098304013.jpg" width="300" height="300" alt="gel-higienizador-new-star-hidratante-100ml" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 7,56</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 6,43
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480568179"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480568239" maxlenght="3" id="amount-in-cart480568239" value="1"> <span class="idSku"> 480568239</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480568179">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480568179" style="display:none" class="helperComplement"></li></ul><ul><li layout="b0e35fae-a09d-46ff-bc5f-cec27b682c77" class="higiene-e-cuidados-compre-aqui-com-desconto----farma-22 last">
+
+<div class="row shelf-product-name-content">
+	<div class="col-xs-24">
+		<h2 class="shelf-product-name" itemprop="name">
+			<a title="Pedra Hume Farmax Spray 30ml"  itemprop="url" href="http://www.farma22.com.br/pedra-hume-farmax-spray-30ml/p" class="padding-t-xxs font-size-xs">Pedra Hume Farmax Spray 30ml</a>
+		</h2>
+	</div>
+</div>
+
+<div class="row shelf-image-content">
+	<div class="col-xs-24">
+		<div class="shelf-image">
+			<div class="shelf-stamps">
+				<a title="Pedra Hume Farmax Spray 30ml"  itemprop="url" class="highlightWrapper" href="http://www.farma22.com.br/pedra-hume-farmax-spray-30ml/p">
+					
+					
+				</a>
+			</div>
+			<a class="shelf-image-link img-responsive" itemprop="url" title="Pedra Hume Farmax Spray 30ml" href="http://www.farma22.com.br/pedra-hume-farmax-spray-30ml/p">
+				<img src="http://farma22.vteximg.com.br/arquivos/ids/156546-300-300/pedra-hume-spray-farmax-30ml-3464.jpg" width="300" height="300" alt="Pedra-Hume-Farmax-Spray-30ml" id="" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row shelf-price-content">
+		<div class="col-xs-24">
+		<div class="shelf-price">
+			<div class="shelf-price-old-price">
+								    <div itemprop="offers">
+					   <span class="old-price" itemprop="price">De R$ 9,94</span>
+					</div>
+							</div>
+			<div class="shelf-price-best-price">
+				<span class="best-price">
+					R$ 6,51
+				</span>
+			</div>
+			<!-- Script Yourviews -->
+                <div class="yv-review-quickreview" value="480561351"></div>
+            <!-- /Script Yourviews -->
+			<div class="shelf-price-instalment">
+							</div>
+		</div>
+	</div>
+	
+		<div class="col-xs-24">
+		<div class="shelf-buy-button padding-t-xs clearfix">
+			<div class="item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="50"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic480561357" maxlenght="3" id="amount-in-cart480561357" value="1"> <span class="idSku"> 480561357</span></div>
+			<div class="wrapper-buy-button-asynchronous"><span class="add"><a data-warn-unavailable="true" class="to-bind-modal btn btn-add-buy-button-asynchronous btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated" data-template="/templates/sku-selector/480561351">Comprar</a></span></div>
+		</div>
+	</div>
+	
+	</div>
+</li><li id="helperComplement_480561351" style="display:none" class="helperComplement"></li></ul></div></div><div class="pager bottom" id="PagerBottom_34369807"></div></div><p class="searchResultsTime"><span class="resultado-busca-numero"><span class="label">Produtos encontrados:</span> <span class="value">120</span></span><span class="resultado-busca-termo"> <span class="label">Resultado da Pesquisa por:</span> <strong class="value"></strong></span><span class="resultado-busca-tempo"> <span class="label">em</span> <span class="value">429 ms</span></span></p><div class="sub"><div class="resultado-busca-filtro">
+<fieldset class="orderBy">
+<label>Ordenar por:</label>
+<select id="O" onchange="window.location.href= '/higiene-e-cuidados/saude-e-bem-estar?PS=24&' + 'O=' + this.options[this.selectedIndex].value">
+<option  value="">Selecione</option>
+<option  value="OrderByPriceASC">Menor Preço</option>
+<option  value="OrderByPriceDESC">Maior Preço</option>
+<option  value="OrderByTopSaleDESC">Mais vendidos</option>
+<option  value="OrderByReviewRateDESC">Melhores avaliações</option>
+<option  value="OrderByNameASC">A - Z</option>
+<option  value="OrderByNameDESC">Z - A</option>
+<option  value="OrderByReleaseDateDESC">Data de lançamento</option>
+<option  value="OrderByBestDiscountDESC">Melhor Desconto</option>
+</select>
+</fieldset>
+<fieldset class="filterBy">
+Itens por página:
+<select id="PS" onchange="window.location.href= '/higiene-e-cuidados/saude-e-bem-estar?' + 'PS=' + this.options[this.selectedIndex].value">
+<option selected="selected" value="24">24</option>
+<option  value="48">48</option>
+<option  value="72">72</option>
+<option  value="96">96</option>
+</select>
+</fieldset>
+<p class="compare">Produtos selecionados para comparar: <strong><span class="compare-selection-count" id="NumeroSuperior">0</span></strong><a title="Comparar" class="btn-comparar" href="#">Comparar</a></p></div></div></div></div></div><!-- Conteúdo abaixo do resultado --><div class="row"><!-- Conteúdo abaixo do resultado --><div class="vtx-placeholder vtx-banners-wrap vtx-collections-wrap col-xs-24 qd-banner-responsive img-responsive qd-shelf-md-6 qd-shelf-sm-8 qd-shelf-xs-12" data-qd-help="1" data-qd-help-id="Conteúdo abaixo do resultado"></div><!-- Conteúdo abaixo do resultado --></div><!-- Conteúdo abaixo do resultado --></div><div class="visible-xs search-menu-close"><span class="btn-close"><i class="fa fa-times-circle font-size-h2 color-color-2-500"></i></span></div></div></div><!-- Conteúdo acima do Footer --><div class="container"><div class="row"><div class="vtx-placeholder vtx-banners-wrap vtx-collections-wrap col-xs-24 qd-banner-responsive img-responsive qd-shelf-md-6 qd-shelf-sm-8 qd-shelf-xs-12" data-qd-help="1" data-qd-help-id="Conteúdo acima do Footer"><!-- Conteúdo acima do Footer --><!-- Conteúdo acima do Footer --></div></div></div><!-- Conteúdo acima do Footer --><script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script><script src="//farma22.vteximg.com.br/arquivos/JS.QD-infinityScroll.min.js?v=3.8"></script><!-- qd-belmore-footer-2 --><div class="v2-store-footer"><div class="container"><div class="row"><div class="col-xs-24 col-sm-8"><div class="v2-newsletter"><div class="newsletter-form qd_news_auto"><h3>Receba novidades e ofertas com até <span>50% de desconto</span> no seu e-mail!</h3><fieldset><input type="text" class="qd_news_email" name="email" /><input type="hidden" class="qd_news_animate_field_success" value="Obrigado!" /><a type="button" class="qd_news_button">OK</a></fieldset></div></div></div><div class="col-xs-24 col-sm-offset-4 col-sm-12"><div class="v2-social-links-list"><h3>Redes Sociais</h3><div class="ico-wrapper"><a href="https://twitter.com/farma22" target="_blank" class="twitter-link social-link" title="Twitter"><i class="fa fa-twitter"></i></a></div><div class="ico-wrapper"><a href="https://www.facebook.com/farma22online" target="_blank" class="facebook-link social-link" title="Facebook"><i class="fa fa-facebook"></i></a></div><div class="ico-wrapper"><a href="https://plus.google.com/+Farma22Br" target="_blank" class="google-link social-link" title="Google Plus"><i class="fa fa-google-plus"></i></a></div><div class="ico-wrapper"><a href="http://dicas.farma22.com.br" target="_blank" class="wordpress-link social-link" title="Blog da Farma 22"><i class="fa fa-wordpress"></i></a></div><div class="ico-wrapper"><a href="https://www.youtube.com/channel/UCd1iItXttCWfr-TcsZZ3DVw" target="_blank" class="youtube-link social-link" title="Youtube"><i class="fa fa-youtube"></i></a></div></div></div></div><div class="row"><div class="col-xs-24 col-md-12"><div class="v2-footer-nav-links qd-am-sm-3 qd-am-xs-1">
+  <ul itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+    <li>
+      <p class="qd_am_text">Institucional</p>
+      <ul>
+        <li>
+          <a href="/institucional/sobre-a-farma-22" title="Sobre a Farma 22" itemprop="url">Sobre a Farma 22</a>
+        </li>
+        <li>
+          <a href="/Institucional/horario-de-atendimento" title="Horario de atendimento" itemprop="url">Horário de Atendimento</a>
+        </li>
+        <li>
+          <a href="/Institucional/trabalhe-conosco" title="Trabalhe Conosco" itemprop="url">Trabalhe Conosco</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <p class="qd_am_text">Dúvidas</p>
+      <ul>
+        <li>
+          <a href="/Institucional/privacidade-e-seguranca" title="Privacidade e Segurança" itemprop="url">Privacidade e Sergurança</a>
+        </li>
+        <li>
+          <a href="/Institucional/frete" title="Frete" itemprop="url">Frete</a>
+        </li>
+        <li>
+          <a href="/Institucional/politica-de-pagamento" title="Politica de Pagamento" itemprop="url">Política de Pagamento</a>
+        </li>
+        <li>
+          <a href="/Institucional/troca-e-devolucao" title="Troca e Devolução" itemprop="url">Trocas e Devoluções</a>
+        </li>
+        <li>
+          <a href="/institucional/duvidas-frequentes" title="duvidas frequentes" itemprop="url">Dúvidas Frequentes</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <p class="qd_am_text">Minha Conta</p>
+      <ul>
+        <li>
+          <a href="http://farma22.vtexcommercestable.com.br/login?ReturnUrl=/account/" title="Minha Conta" itemprop="url">Minha Conta</a>
+        </li>
+        <li>
+          <a href="http://farma22.vtexcommercestable.com.br/login?ReturnUrl=/account/orders" title="Meus Pedidos" itemprop="url">Meus Pedidos</a>
+        </li>
+        <li>
+          <a href="/institucional/rastrear-meu-pedido" title="Rastrear Meu Pedido" itemprop="url">Rastrear Meu Pedido</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div></div><div class="col-xs-24 col-md-12"><div class="row"><div class="col-xs-24 col-sm-12"><div class="v2-payment-stamps-wrap"><h3 class="heading-5">Formas de Pagamento</h3><ul class="payment-stamps list-inline"><li class="stamp stamp-amex"></li><li class="stamp stamp-visa"></li><li class="stamp stamp-diners"></li><li class="stamp stamp-master"></li><li class="stamp stamp-boleto"></li><li class="stamp stamp-hipercard"></li><li class="stamp stamp-elo"></li><!--<li class="stamp stamp-brasil"></li>
+								<li class="stamp stamp-itau"></li>
+								<li class="stamp stamp-bradesco"></li>
+								<li class="stamp stamp-banrisul"></li>
+
+								 <li class="stamp hide stamp-discover"></li>
+								<li class="stamp hide stamp-pagseguro"></li>
+								<li class="stamp hide stamp-hsbc"></li>
+								<li class="stamp hide stamp-aura"></li>
+								<li class="stamp hide stamp-cabal"></li>
+								<li class="stamp hide stamp-jcb"></li> --></ul></div></div><div class="col-xs-24 col-sm-12"><h3 class="heading-5">Compra 100% Segura</h3><ul class="list-inline"><!--<li class="padding-l-md">--><!--	<div id="DigiCertClickID_JDXsGcBL" data-language="en">--><!--		<a href="https://www.digicert.com/unified-communications-ssl-tls.htm">UC SSL</a>--><!--	</div>--><!--</li>--><li class="padding-l-md"><a id="seloEbit" href="http://www.ebit.com.br/#farma-22" target="_blank" onclick="redir(this.href);"></a></li><li class="padding-l-md"><a href="http://lojaconfiavel.yourviews.com.br/FARMA22" target="_blank"><img src="http://service.yourviews.com.br/Image/d8f4f406-5164-4042-81aa-a7fe0ec787f0/Footer.jpg" title="Loja Confiável" alt="Loja Confiável" style="width: 78px; height: 80px; vertical-align: bottom;" /></a></li><li class="padding-l-md"><div id="armored_website"><param id="aw_preload" value="true" /></div></li><li class="padding-l-md"><!--<a href="https://selo.clearsale.com.br/Loja/ExibirDetalhesLoja/48b903b7-da2d-43af-9fa2-54fcb25b08e8" target="_blank">--><!--	<img src="https://selo.clearsale.com.br/Imagem/48b903b7-da2d-43af-9fa2-54fcb25b08e8" alt="Selo Clearsale" />--><!--</a>--></li></ul></div></div></div></div></div></div><div class="v2-extra-footer"><div class="container"><div class="row"><div class="col-sm-3"><div class="v2-about-company"><img src="//farma22.vteximg.com.br/arquivos/far.bel.footer.logo.png" alt="Farma 22" class="img-responsive" /></div></div><div class="col-sm-21"><div class="v2-about-company"><div itemscope itemtype="http://schema.org/Pharmacy">
+  <p itemprop="description">A <strong>Farma 22</strong> é uma <strong>Farmácia e Drogaria Online</strong>. Encontre aqui uma linha completa de medicamentos e genéricos, produtos de beleza e higiene pessoal, além de dermocosméticos, produtos cirúrgicos e ortopédicos e itens para cuidados com mãe e bebê. Aproveite as <strong>vantagens de comprar na farmácia online</strong>: &nbsp;entrega rápida para São Paulo e todo Brasil, informações sobre saúde e farmacêuticos à disposição para tirar suas dúvidas! <strong>Farma 22, a sua farmácia online</strong>!
+  Telefone: <span itemprop="telephone" content="+551124633299">(11) 2463-3299</span> / Horário de funcionamento <span itemprop="openingHours" content="Mo,Tu,We,Th,Fri 07:00-22:00">Segunda a sabado das 7h às 22h</span>
+  </p>
+</div><!--//Pharmacy--><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome Texto rodapé não foi renderizado por nao ser um XDocument válido, erro: - 'itemtype' is an unexpected token. The expected token is '='. Line 1, position 22.--></div></div></div><div class="row padding-b-lg"><div class="col-xs-24 col-sm-14 col-md-16"><p><p>DROGARIA VINTE E DOIS DE SETEMBRO LTDA | CNPJ: 02.140.522/0001-14 | IE: 336457582118 | IM: 77.736-66<br>Rua São Vicente de Paula, 229 - Centro - CEP: 07012-071 - Guarulhos – São Paulo<br>Farmacêutico Responsável: Dr. Eder Bezerra Miro do Amaral CRF/SP – 84.749 | CMVS: 351880001-477-000429-1-9 | Autorização MS: 0.28310.7<p>Farma 22 - Todos os Direitos Reservados<p>Todo o conteúdo deste site é de propriedade da Drogaria Vinte e Dois de Setembro Ltda. É expressamente proibida a reprodução total ou parcial, mesmo citando a fonte.<!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome v1 exemplo não foi renderizado por nao ser um XDocument válido, erro: - The 'p' start tag on line 1 position 374 does not match the end tag of 'html'. Line 1, position 543.--></p></div><div class="col-xs-24 col-sm-10 col-md-8"><a class="digitalm3 company-logo " href="http://www.digitalm3.com.br" title="Agencia digital M3" target="_blank"></a><a class="poweredByVtex company-logo margin-l-lg" rel="nofollow" href="http://www.vtex.com.br" target="_blank"></a><a class="designedByQuatroDigital company-logo margin-l-lg" href="http://www.quatrodigital.com.br" title="Implantadores Especialistas VTEX" target="_blank"></a></div></div></div></div><div class="modal fade"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal"></button></div><div class="modal-body"></div><div class="modal-footer"></div></div></div></div><script type="text/javascript">
+    (function () {
+        var yvs = document.createElement("script");
+        yvs.type = "text/javascript";
+        yvs.async = true;
+        yvs.id = "_yvsrc";
+        yvs.src = "//service.yourviews.com.br/script/d8f4f406-5164-4042-81aa-a7fe0ec787f0/yvapi.js";
+        var yvs_script = document.getElementsByTagName("script")[0];
+        yvs_script.parentNode.insertBefore(yvs, yvs_script);
+    })();
+</script><script type="text/javascript" src="http://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script><div class="historico-nav"><div class="ajax-content-loader" rel="/no-cache/user/navigationhistory"></div></div><div id="fundo-popup-news"></div><div id="popup-news"><div class="fechar-popup-news" title="Fechar"></div><!--//fechar-popup-news--><div class="newsletter" id="NewsLetter_3454a627_687e_49df_9425_e8050e04fe28"><h3 class="newsletter-title">novidades</h3><fieldset><p>Receba novidades e promoções por email:</p><input id="newsletterClientName" onfocus="newsSelect(this,'Digite seu nome');" onblur="newsLeave(this,'Digite seu nome');" class="newsletter-client-name" value="Digite seu nome" size="20" type="text" name="newsClientName" /><input id="newsletterClientEmail" onfocus="newsSelect(this,'Digite seu e-mail');" onblur="newsLeave(this,'Digite seu e-mail');" class="newsletter-client-email" value="Digite seu e-mail" size="20" type="text" name="newsletterClientEmail" /><input id="newsletterButtonOK" class="btn-ok newsletter-button-ok" value="ok" type="button" name="newsletterButtonOK" value="Receber Ofertas" onclick="newsButtonClick('NewsLetter_3454a627_687e_49df_9425_e8050e04fe28')" /><input id="newsletterLoading" type="hidden" class="newsletter-loading" value="Processando..." /><input id="newsletterSuccess" type="hidden" class="newsletter-success" value="Obrigado por se cadastrar na Farma 22!" /><input id="newsletterSuccess2" type="hidden" class="newsletter-success2" value="Em breve entraremos em contato com você para oferecer as melhores promoções." /><input id="newsletterError" type="hidden" class="newsletter-error" value="
+    Encontramos um erro no cadastro de suas informações.<br />Por favor, tente novamente!
+  " /><input id="newsInternalPage" type="hidden" value="_higiene-e-cuidados_saude-e-bem-estar" /><input id="newsInternalPart" type="hidden"  value="newsletter" /><input id="newsInternalCampaign" type="hidden" value="newsletter:opt-in" /></fieldset><span class="rt"></span><span class="rb"></span><span class="lb"></span><span class="lt"></span></div></div><script src="//farma22.vteximg.com.br/arquivos/vtex-buy-button.js?v=004" type="text/javascript" async="async"></script><script src="//farma22.vteximg.com.br/arquivos/vtex-farma22.m3.4.js?v=001" type="text/javascript" async="async"></script><!-- qd-belmore-footer-2 --><script language="javascript" src="http://farma22.vteximg.com.br/Scripts/Track.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/thickbox.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/json2.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.viewPart.CallCenterDisclaimer.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.viewPart.ajaxLoader_V2.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/social/vtex-view-part.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.viewPart.searchNavigator.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.commerce.batchbuy.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.jsevents.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.skuEvents.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.skuEvents.skuDataFetcher.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/jquery.livequery.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/prettyPhoto/js/jquery.prettyPhoto.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/prettyPhoto/js/lean-prettyPhoto.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.commerce.Compare.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/mobile/vtex.make.mobile.pager.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.commerce.switchGridListView.js?v=1.4.728.1319"  type="text/javascript"></script>
+</body>
+</html>

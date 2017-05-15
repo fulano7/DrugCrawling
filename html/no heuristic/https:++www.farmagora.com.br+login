@@ -1,0 +1,171 @@
+
+
+<script src="/Assets/lib/js/jquery.mask.min.js"></script>
+<script src="/Assets/js/login.js"></script>
+<!-- MODAL CADASTRO / LOGIN -->
+<div>
+    <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+    <div class="row" data-equalizer data-equalizer-mq="large-up">
+        <!-- Coluna da direita -->
+        <div class="columns large-6" data-equalizer-watch id="colunaEsqueda">
+            
+
+<div class="row">
+    <div class="columns large-2 hide-for-medium-down">
+        <div id="icocadastro2"></div>
+    </div>
+    <div class="columns large-10 medium-12">        
+        <h3><strong>QUERO ME CADASTRAR</strong> </h3>
+    </div>
+</div>
+
+
+
+<form data-abide="ajax" class="formPF form-clientePF" id="formPF">
+    <input type="hidden" name="Id_Cliente" value="0" />
+    <input type="hidden" name="Tipo_Pessoa" value="F" />
+
+    <input name="__RequestVerificationToken" type="hidden" value="JpeIWCwxRWndqAaHcerTXDYVzKsJuCa5wjeyZmlbu5hVTWuDLweItnwkYSSkptHVsJXEJQ9SrlvSUVuwEZNUVqL2fyzaEp8yu02zL5Us58k1" />
+    <div class="row form-cadastro">
+            <div class="columns large-12">
+                <label>
+                    CPF*
+                    <input type="text" id="CPF_CNPJ" name="CPF_CNPJ" required pattern="(\d{3}\.\d{3}\.\d{3}-\d{2})" />
+                </label>
+                <small class="error">CPF INVÁLIDO</small>
+            </div>
+    </div>
+    <div class="row">
+        <div class="large-12 columns">
+            <label>
+                NOME COMPLETO*
+                <input type="text" name="nome" class="error" required pattern="[a-z A-Z]+" />
+            </label>
+            <small class="error">NOME OBRIGATÓRIO / INVÁLIDO</small>
+        </div>
+    </div>
+    <div class="row">
+        <div class="large-12 columns">
+            <label>
+                E-MAIL*
+                    <input type="email" name="Email" class="error" required />
+            </label>
+            <small class="error">E-MAIL OBRIGATÓRIO / INVÁLIDO</small>
+        </div>
+    </div>
+    <div class="row">
+        <div class="large-6 columns">
+            <label>
+                TELEFONE*
+                <input type="text" name="telefone" class="error" data-mask="(00) 0000-00009" required pattern="\([0-9]{2}\)[\s][0-9]{4}-[0-9]{4,5}" value="" />
+            </label>
+            <small class="error">TELEFONE OBRIGATÓRIO / INVÁLIDO</small>
+        </div>
+        <div class="large-6 columns">
+            <label>
+                CELULAR
+                <input type="text" name="celular" class="error" data-mask="(00) 0000-00009" pattern="\([0-9]{2}\)[\s][0-9]{4}-[0-9]{4,5}" value="" />
+            </label>
+            <small class="error">CELULAR OBRIGATÓRIO / INVÁLIDO</small>
+        </div>
+    </div>
+    <div class="row">
+        <div class="large-6 columns">
+            <label>
+                DATA DE NASCIMENTO*
+                <input type="text" name="Data_Nascimento" class="error" data-mask="00/00/0000" required pattern="(\d{1,2})\/(\d{1,2})\/(\d{4})" value="" />
+            </label>
+            <small class="error">DATA DE NASCIMENTO OBRIGATÓRIO / INVÁLIDO</small>
+        </div>
+        <div class="large-6 columns">
+            <label>
+                SEXO*
+                <select name="sexo" class="error" required>
+                    <option value="M" >MASCULINO</option>
+                    <option value="F" selected>FEMININO</option>
+                </select>
+            </label>
+            <small class="error">SEXO OBRIGATÓRIO / INVÁLIDO</small>
+        </div>
+    </div>
+        <div class="row">
+            <div class="large-6 columns">
+                <label>
+                    SENHA*
+                    <input type="password" name="senha" id="senhaLoginPJ" class="error" required />
+                </label>
+                <small class="error">SENHA OBRIGATÓRIO / INVÁLIDO</small>
+            </div>
+            <div class="large-6 columns">
+                <label>
+                    CONFIRMAR SENHA*
+                    <input type="password" name="ConfirmaSenha" class="error" required data-equalto="senhaLoginPJ" />
+                </label>
+                <small class="error">SENHAS DIGITADAS DIFERENTES</small>
+            </div>
+        </div>
+    <div class="row">
+        <div class="columns large-12">
+            <input id="aceitaNews" name="Aceita_Mailing" type="checkbox" ><label for="aceitaNews" class="aceita-news">DESEJO RECEBER AVISOS DE OFERTAS POR E-MAIL</label>
+            <input name="Aceita_Mailing" type="hidden" value="false">
+        </div>
+        <div class="columns large-12">
+            <div class="cta-button right"><button type="submit" class="success radius" tabindex="10">CADASTRAR</button></div>
+        </div>
+    </div>
+</form>
+
+<div id="erro-cadastro" class="alert-box alert erro-cadastro" style="display:none"></div>
+
+
+
+        </div>
+
+        <!-- coluna da esquerda -->
+        <div class="columns large-6" data-equalizer-watch id="colunaDireita">
+            <div class="row">
+                <div class="columns large-2 hide-for-medium-down">
+                    <div id="icocadastro1"></div>
+                </div>
+                <div class="columns large-10 small-12 medium-12">
+                    <h3><strong>JÁ SOU CADASTRADO</strong></h3>
+                    <h5>para efetuar seu login, preencha os campos abaixo</h5>
+                </div>
+            </div>
+            <div class="row">
+                <form id="form-login" data-abide="ajax">
+                    <input name="__RequestVerificationToken" type="hidden" value="oJ6w4EevUQajCm1CsTC33bPYFypHFGTKLf5zP9D948Ppqun-hLv-WxIR_ld5DbsrDcqxZQLiMPq5xyus0bWUwHiciD89Iz9CvYdVZ26LcX41" />
+                    <div class="columns large-12">
+                        <label>
+                            INFORME SEU E-MAIL
+                            <input type="email" name="email" class="error" required tabindex="1" />
+                        </label>
+                        <small class="error">E-MAIL OBRIGATÓRIO / INVÁLIDO</small>
+                        <small class="right"><a href="/esqueci-email" data-reveal-id="segundoModal" class="secondary" data-reveal-ajax="true" tabindex="4">Esqueci meu e-mail</a></small>
+                    </div>
+                    <div class="columns large-12">
+                        <label>
+                            INFORME SUA SENHA
+                            <input type="password" name="senha" class="error" required tabindex="2" />
+                        </label>
+                        <small class="error">SENHA OBRIGATÓRIA / INVÁLIDA</small>
+                        <small class="right"><a href="/esqueci-senha" data-reveal-id="terceiroModal" class="secondary" data-reveal-ajax="true" tabindex="5">Esqueci minha senha</a></small>
+                    </div>                    
+                    <div class="columns small-12 large-12" id="button-column">
+                        <div class="cta-button right"><button type="submit" class="success radius" tabindex="3">ENTRAR</button></div>
+                    </div>
+                    <div class="columns small-12 large-12">
+                        <div class="panel callout-alert">
+                            <h5>
+                                <strong>Atenção</strong><br /><br />
+                                <small>
+                                    Caso já tenha cadastro em nosso site ANTIGO, por gentileza solicitar uma nova senha clicando em <strong>"esqueci minha senha"</strong> na área de login.
+                                </small>
+                            </h5>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

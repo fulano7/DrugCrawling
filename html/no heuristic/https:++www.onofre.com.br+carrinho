@@ -1,0 +1,420 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <!-- MOBIFY - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG -->
+    
+    
+    <!-- Chaordic -->
+    <script language="javascript" type="text/javascript">window.chaordic_meta = { "page": { "name": "cart", "timestamp": new Date(),"selected_specs": {"sales_channel": "24"}},"cart": {"id": "79ce8724-d119-45c7-bdce-812cbf004c74"}}</script>
+    <!-- ./ Chaordic -->
+
+    <!--Script Chaordic Loader-->
+    <script async defer src="//static.chaordicsystems.com/static/loader.js" data-apikey="onofrefarma"></script>
+    <!--Script Chaordic Loader - FIM -->
+    <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=8" /><title>
+	
+    Meu carrinho | Onofre
+
+</title><link rel="icon" href="https://www.onofre.com.br/favicon.ico" type="image/x-icon" /><link rel="SHORTCUT ICON" href="https://www.onofre.com.br/favicon.ico" type="image/x-icon" /><link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+        <!-- CSS -->
+        <link href="/Css/resetNovo.css" rel="stylesheet"/>
+<link href="/Css/EstiloMasterNovo.css" rel="stylesheet"/>
+<link href="/Jss/ToolTip/bubbletip/bubbletip.css" rel="stylesheet"/>
+<link href="/Jss/ToolTip/bubbletip/bubbletip-IE.css" rel="stylesheet"/>
+<link href="/Jss/Colorbox/colorbox.css" rel="stylesheet"/>
+<link href="/Css/EstiloExtraBucks.css" rel="stylesheet"/>
+<link href="/assets/css/base.css" rel="stylesheet"/>
+<link href="/assets/css/prateleira.css" rel="stylesheet"/>
+<link href="/assets/css/common-checkout.css" rel="stylesheet"/>
+<link href="/assets/css/carrinho.css" rel="stylesheet"/>
+<link href="/assets/css/lib/owl.transitions.css" rel="stylesheet"/>
+<link href="/assets/css/lib/owl.carousel.css" rel="stylesheet"/>
+
+        <!-- CSS -->
+        <!-- JSS -->
+        <script src="/Jss/jquery-1.6.1.min.js"></script>
+<script src="/Jss/Dialog/jquery-ui-1.10.1.custom.min.js"></script>
+<script src="/assets/js/lib/jquery-1.8.js"></script>
+<script src="/Jss/jquery.maskMoney.js"></script>
+<script src="/Jss/jquery.cookie.js"></script>
+<script src="/Jss/generic.js"></script>
+<script src="/Jss/jquery.hoverIntent.minified.js"></script>
+<script src="/Jss/ToolTip/jQuery.bubbletip-1.0.6.js"></script>
+<script src="/Jss/ToolTip/ToolTip.js"></script>
+<script src="/Jss/Colorbox/jquery.colorbox-min.js"></script>
+<script src="/assets/js/lib/owl.carousel.min.js"></script>
+<script src="/assets/js/main.js"></script>
+
+        <!-- JSS -->
+    <link href="/Css/Master-checkoutResponsiva.css" rel="stylesheet" />
+    <script language="javascript" type="text/javascript">/*<![CDATA[*/var tl_loc0 = (window.location.protocol == "https:") ? "https://secure.comodo.net/trustlogo/javascript/trustlogo.js" : "http://www.trustlogo.com/trustlogo/javascript/trustlogo.js"; document.writeln('<script language="JavaScript" src="' + tl_loc0 + '" type="text/javascript"><\/script>');/*]]>*/</script>
+        
+     <meta name="cs:page" content="cart" />
+    <!-- Channel Advisor -->
+
+    
+    <script src="/Jss/Dialog/jquery-ui-1.10.1.custom.min.js" type="text/javascript" ></script>
+    <link href="/Jss/Dialog/jquery-ui-1.10.1.custom.css" rel="stylesheet" type="text/css" />
+    <script src="/Jss/generic.js" type="text/javascript" ></script>
+    <script src="/Jss/Utils/Receita.js" type="text/javascript" ></script>
+    <script src="/shadowbox/shadowbox.js" type="text/javascript" ></script>
+    <link href="/Css/EstiloMegaOferta.css" rel="stylesheet" />
+    
+    <link href="/shadowbox/shadowbox.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="/Jss/jquery-1.6.4.min$$.js" ></script>
+    <script src="/Jss/Utils/Carrinho.js" type="text/javascript" ></script>
+    <script type='text/javascript' src='https://secure.afilio.com.br/mastertag.php?progid=1719&type=basket&id_partner=drogariaonofre&product_id1=&amount=0&url_product=http://www.onofre.com.br/carrinho&transaction_id=0&order_date=14/05/2017&order_status=Pending&customer_id=0&customer_type=Novo'></script>
+    <style type="text/css">
+        .margin2 {
+            width: 243px;
+        }
+
+        .style1 {
+            width: 247px;
+        }
+
+        .btn-blue {
+            height: 26px;
+        }
+
+        .loader {
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            background: url('Imagens/spinner.gif') 50% 50% no-repeat rgba(255, 255, 255, 0.55);
+        }
+    </style>
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        ; /*]]>*/
+    </script>
+</head>
+<body>
+    
+    <script type="text/javascript" src="//onofre.resultspage.com/autocomplete/sli-rac.config.js"></script>
+    <form method="post" action="carrinho" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM3MTUwOTY5MA9kFgJmDw8WBB4PX19BbnRpWHNyZlRva2VuBSAzZTc1MTZhMmJhMTM0NTIzYmJlYmJiMDY1OTlmY2Q5NR4SX19BbnRpWHNyZlVzZXJOYW1lZWQWBAIBD2QWBGYPFgIeBFRleHQF6wE8c2NyaXB0IGxhbmd1YWdlPSJqYXZhc2NyaXB0IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPndpbmRvdy5jaGFvcmRpY19tZXRhID0geyAicGFnZSI6IHsgIm5hbWUiOiAiY2FydCIsICJ0aW1lc3RhbXAiOiBuZXcgRGF0ZSgpLCJzZWxlY3RlZF9zcGVjcyI6IHsic2FsZXNfY2hhbm5lbCI6ICIyNCJ9fSwiY2FydCI6IHsiaWQiOiAiNzljZTg3MjQtZDExOS00NWM3LWJkY2UtODEyY2JmMDA0Yzc0In19PC9zY3JpcHQ+ZAIKD2QWAgIBDxYCHwIFrAI8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCcgc3JjPSdodHRwczovL3NlY3VyZS5hZmlsaW8uY29tLmJyL21hc3RlcnRhZy5waHA/cHJvZ2lkPTE3MTkmdHlwZT1iYXNrZXQmaWRfcGFydG5lcj1kcm9nYXJpYW9ub2ZyZSZwcm9kdWN0X2lkMT0mYW1vdW50PTAmdXJsX3Byb2R1Y3Q9aHR0cDovL3d3dy5vbm9mcmUuY29tLmJyL2NhcnJpbmhvJnRyYW5zYWN0aW9uX2lkPTAmb3JkZXJfZGF0ZT0xNC8wNS8yMDE3Jm9yZGVyX3N0YXR1cz1QZW5kaW5nJmN1c3RvbWVyX2lkPTAmY3VzdG9tZXJfdHlwZT1Ob3ZvJz48L3NjcmlwdD5kAgMPZBYEAgMPZBYEAgIPZBYCZg9kFgQCDw9kFgQCAw8WAh4Hb25jbGljawVGamF2YXNjcmlwdDpBamF4KCcwJywnQWRkQ291cG9uJywnY3BoQ29udGV1ZG9fdHh0Q291cG9uJyk7cmV0dXJuIGZhbHNlO2QCCQ9kFgICAQ8PFgIeB1Zpc2libGVoZGQCGQ8WAh8EaGQCBA8PFgIfAgUTZW50cm91IG5vICFwb3N0YmFja2RkAgUPDxYCHwIF+wk8cCBhbGlnbj0iY2VudGVyIj48c3BhbiBzdHlsZT0iY29sb3I6ICM4ODg4ODg7Ij5Ecm9nYXJpYSBPbm9mcmUgTHRkYSB8IENOUEogNjEuNTQ5LjI1OS8wMDEzLTE0IHwgSUUgMTE1LjI3Ni4wNTMuMTE0IHwgQXYuIGRhIExpYmVyZGFkZSwgOTAyIENvbXBsZW1lbnRvIDkwNCAtIExpYmVyZGFkZSB8IFPDo28gUGF1bG8gKFNQKSB8IEhvcsOhcmlvIGRlIGZ1bmNpb25hbWVudG86IFNlZ3VuZGEgYSBEb21pbmdvIDA3OjAwIMOgcyAyMjowMCB8IENFUDogMDE1MDItMDAxIHwgVGVsZWZvbmUgNDAwNy0yNTI2PC9zcGFuPjxiciAvPjxzcGFuIHN0eWxlPSJjb2xvcjogIzg4ODg4ODsiPkZhcm1hY8OqdXRpY28gUmVzcG9uc8OhdmVsOiBEcmEuIFRoYWlzIEJyaW90dG8gZGUgQW5kcmFkZSBkb3MgU2FudG9zIHwgQ1JGIC0gU1A6IDUzLjkxMiAgfCBBRkU6IDcuNDY1NDQtNSB8IENNVlM6IDM1NTAzMDgwMTQ3NzAwODY3MDEyPC9zcGFuPjwvcD4KPHAgYWxpZ249ImNlbnRlciI+PHNwYW4gc3R5bGU9ImNvbG9yOiAjODg4ODg4OyI+QXMgaW5mb3JtYcOnw7VlcyBjb250aWRhcyBuZXN0ZSBzaXRlIG7Do28gZGV2ZW0gc2VyIHVzYWRhcyBwYXJhIGF1dG9tZWRpY2HDp8OjbyBlIG7Do28gc3Vic3RpdHVlbSwgZW0gaGlww7N0ZXNlIGFsZ3VtYSwgYXMgb3JpZW50YcOnw7VlcyBkYWRhcyBwZWxvIHByb2Zpc3Npb25hbCBkYSDDoXJlYSBtw6lkaWNhLiBTb21lbnRlIG8gbcOpZGljbyBlc3TDoSBhcHRvIGEgZGlhZ25vc3RpY2FyIHF1YWxxdWVyIHByb2JsZW1hIGRlIHNhw7pkZSBlIHByZXNjcmV2ZXIgbyB0cmF0YW1lbnRvIGFkZXF1YWRvLiBBbyBwZXJzaXN0aXJlbSBvcyBzaW50b21hcywgbyBtw6lkaWNvIGRldmVyw6Egc2VyIGNvbnN1bHRhZG8uIE9zIHByZcOnb3MgZSBwcm9tb8Onw7VlcyBkaXZ1bGdhZG9zIG5vIHNpdGUgc8OjbyB2w6FsaWRvcyBhcGVuYXMgcGFyYSBjb21wcmFzIGZlaXRhcyBwZWxhIEludGVybmV0LiBFbSBjYXNvIGRlIGRpdmVyZ8OqbmNpYSwgbyBwcmXDp28gdsOhbGlkbyDDqSBvIGRvIGNhcnJpbmhvIGRlIGNvbXByYXMuIEltYWdlbnMgbWVyYW1lbnRlIGlsdXN0cmF0aXZhcy4gRXN0ZSBzaXRlIMOpIG1lbGhvciB2aXN1YWxpemFkbyBuYSBjb25maWd1cmHDp8OjbyAxMDI0eDc2OC48L3NwYW4+PC9wPgo8cCBhbGlnbj0iY2VudGVyIj48c3BhbiBzdHlsZT0iY29sb3I6ICM4ODg4ODg7Ij5Db3B5cmlnaHQgwqkgMTk5OSAtIDIwMTYgT25vZnJlIGVtIENhc2EuIFRvZG9zIG9zIGRpcmVpdG9zIHJlc2VydmFkb3MuPC9zcGFuPjwvcD5kZGT+nwcd0xd9nfy6in5TIpZ3IDP+kA==" />
+
+<script> ECO_Step='Cart';</script><script> ECO_DepName='';</script><script> ECO_DepId='';</script><script> ECO_CatName='';</script><script> ECO_CatId='';</script><script> ECO_ProdName='';</script>
+<script type="text/javascript">
+//<![CDATA[
+products = [];var productData ={   'transaction': {'id':0,     'products': products}};//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=BnWrJ6-gLV3GlI8g28LCzYXkfKJLttyoigz0AJpfnvO4NN21YTBbDD9JctBIuGGW8YufhqFw-AnVHbmyWvfFb_B2w9DMLRk3OO9iqYmkxfGcvnVf4ImxaGFLKlWYiwlxPddzmc-9JHkJ8clChxff5mADpJw1&amp;t=42a7acab" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6B6D1F30" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAY6neGWwDiKbPGgX+p6uMPgcCr+6iSFmm4qsMYX4lAAveSMA24xbhcwfh2ZOMAzuT5C8GW/uHliHy3OMqOsHUo+aPYwDH+ICve/KXewrPbP1x59FC1EFbilecw6WGKRM0Ic4OBdzfqxgVjjymO1OsSkcLWxzA==" />
+        
+        <!-- HEADER -->
+        <header id="main-header-checkout" class="page-header-checkout"> <div class="wrapper full"> <div class="logo col4"><a href="http://www.onofre.com.br/" class="logo-img">Onofre</a></div> <div class="contact col7"> <div class="tel col"> <p>Televendas <strong><a href="tel:40072526" style="color:inherit">4007-2526</a></strong></p> </div> <div class="infos col"> <span>Grande SP <strong><a href="tel:40072526" style="color:inherit">4007-2526</a></strong></span> <span>Rio de Janeiro <strong><a href="tel:40072526" style="color:inherit">4007-2526</a></strong></span> </div> </div> 
+            <div class="safe col3"> <p class="carrinho-site-seguro-head">Site <em>100% seguro</em></p> </div> </div><!--/wrapper header--> </header>
+        <!--/main-header-checkout-->        
+        <!-- FIM HEADER -->
+        
+        <!-- ESTRUTURA -->
+        <div class="page-content">
+            <div class="wrapper">
+                
+    <script type="text/javascript" src="/Jss/Utils/CarrinhoConvenio.js"></script>
+    
+    <div style="display: none" id="dialog-modal"></div>
+    
+    <div class="page-content">
+        <div class="loading_fundo_tranparente" style="display: none"></div>
+        <div class="wrapper">
+            <section class="checkout-steps col16 row">
+                <ul class="steps-list">
+                    <li class="step-item carrinho current">Carrinho</li>
+                    <li class="step-item identificacao">Identificação</li>
+                    <li class="step-item entrega-pagamento">Entrega e Pagamento</li>
+                    <li class="step-item confirmacao-pedido last">Confirmação do Pedido</li>
+                </ul>
+            </section>
+
+            <!-- Chaordic Top -->
+            <div class="ch_clear" chaordic="top"></div>
+            <div class="main-content page-cart full row">
+                <div class="header-title">
+                    <h1 class="page-title col3">Carrinho</h1>
+                    <p id="cphConteudo_divMsgFormulario" class="info-small col13" style="display: none !important">Para ser um cliente (pessoa Física ou Jurídica), é necessário preencher corretamente o formulário abaixo com os respectivos dados cadastrais. Atenção: os campos em NEGRITO são de preenchimento obrigatório e essenciais para processarmos o envio do seu pedido. </p>
+                </div>
+
+
+                <div id="upCarrinho2">
+
+</div>
+
+
+                <div id="upCarrinho">
+	
+                        
+                        <table class="cart-list" cellspacing="0" cellpadding="0">
+
+                            <thead>
+                                <tr>
+                                    <th class="col-produto">Produto </th>
+                                    <th class="col-quantidade">Quantidade </th>
+                                    <th class="col-unitario">Valor Unitário </th>
+                                    <th class="col-total">Valor Total </th>
+                                </tr>
+                            </thead>
+
+                            <!-- neste ponto mostra o Brinde se for necessário-->
+                            <!---->
+                            
+                            <!-- neste ponto mostra o Brinde se for necessário-->
+
+
+                            <tbody>
+                                
+                                
+
+                                <tr id="cphConteudo_trAntibiotico">
+		<td>
+                                        <div style="font-size: 11px">
+                                            <span id="cphConteudo_msgAntbioticoProdutos" style="color: red"> </span>
+                                        </div>
+                                    </td>
+	</tr>
+	
+                            </tbody>
+                        </table>
+                        <div class="medicine-items"> <span class="medicine-value">Valor de medicamentos <strong id="cphConteudo_lblSubTotalMedicamento" class="value">R$ 0,00</strong></span> <span class="no-medicine-value">Valor de não medicamentos <strong id="cphConteudo_lblSubTotalPerfumaria" class="value">R$ 0,00</strong></span> </div>
+                        
+                        <div style="float: right; margin-top: -15px; color: #0071bd; font-family: Tahoma,Geneva,sans-serif; font-size: 11px; background-color: #fffde0">
+                            <span id="cphConteudo_lblFreteEscalonavel"></span>
+                            
+                        </div>
+                        
+                        <div id="cupom_desconto" class="box-cart discount-cupom">
+                            <h4 class="main-title title-md">Cupom de desconto</h4>
+                            <label for="cphConteudo_txtCoupon" style="display: none"></label>
+                            <label for="cphConteudo_BtnCoupon" style="display: none"></label>
+                            <div class="col10">
+                                <p class="title-complement">Digite o código de desconto abaixo e clique em Utilizar Cupom Desconto. </p>
+                                <input name="ctl00$cphConteudo$txtCoupon" type="text" maxlength="70" id="cphConteudo_txtCoupon" />
+                                <input name="ctl00$cphConteudo$BtnCoupon" type="button" id="cphConteudo_BtnCoupon" class="btn btn-blue" value="Utilizar cupom desconto" onclick="javascript:Ajax(&#39;0&#39;,&#39;AddCoupon&#39;,&#39;cphConteudo_txtCoupon&#39;);return false;" />
+                                <div id="MsgCoupon">
+                                    <span id="lblMsgDiscount"></span>
+                                </div>
+                            </div>
+                            <div class="col6">
+                                <span class="result total-discount">Total de descontos <strong class="value">
+                                    <span id="cphConteudo_lblTotalDesconto">R$ 0,00</span></strong></span>
+                            </div>
+                            <div class="col6">
+                                <span id="cphConteudo_spnDescontoFuncional" class="result total-discount funcional">Descontos FuncionalCard <strong class="value_funcional">
+                                    </strong></span>
+                            </div>
+                        </div>
+                        <div class="box-cart shipping">
+                            <h4 class="main-title title-md">Frete</h4>
+                             <label for="cphConteudo_txtCep" style="display: none"></label>
+                            <label for="cphConteudo_BtnFrete" style="display: none"></label>
+                            <div id="cphConteudo_divCep" class="col10">
+                                <p class="title-complement">Digite o seu CEP abaixo e clique em calcular frete para saber prazo e custo do mesmo. </p>
+                                <input name="ctl00$cphConteudo$txtCep" type="text" id="cphConteudo_txtCep" maxlength="8" autocomplete="off" onkeypress="return BloquearLetras(event)" />
+                                <input type="submit" name="ctl00$cphConteudo$BtnFrete" value="Calcular frete" id="cphConteudo_BtnFrete" class="btn btn-blue" />
+                                <div class="shipping-result">
+                                    <p class="title-complement shipping-deadline">
+                                        <span id="cphConteudo_lblMessagemDeliveryType"></span>
+                                    </p>
+                                    <p class="title-complement">
+                                        <span id="cphConteudo_lblMensagemAviso"></span>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col6">
+                                <span class="result shipping-value">Frete <strong class="value">
+                                    <span id="cphConteudo_lblFrete">R$ 0,00</span></strong></span>
+                            </div>
+
+                            
+                        </div>
+                        <div class="order-total right">
+                            Total: <strong>
+                                <span id="cphConteudo_lblTotalShoppingCart">R$ 0,00</span></strong>
+                        </div>
+                        
+                    
+</div>
+                <div class="col8 comprar-mais-produtos-mobile"><a href="/" class="btn btn-gray-light">Comprar mais produtos</a> </div>
+                <div class="col8 buy-products right">
+                    <a id="cphConteudo_BtnFinalizar" class="btn btn-green" href="javascript:__doPostBack(&#39;ctl00$cphConteudo$BtnFinalizar&#39;,&#39;&#39;)">Finalizar pedido</a>
+                    
+                    
+                </div>
+                <span id="cphConteudo_lblMensagemAbbott" style="display: none;">entrou no !postback</span>
+                <div id="cphConteudo_divLoaderCart" class="loader"></div>
+
+                <div id="cphConteudo_vendaCasada" class="shoppingcart shoppingcart page-cart horizontal" style="display: none;">
+                    <div class="title">
+                        <span class="desktop">Leve com desconto</span>
+                        <span class="mobile">Leve com desconto</span>
+                        <div class="frame">
+                            
+                        </div>
+                    </div>
+                </div>
+
+             
+
+                
+                
+                <!-- Chaordic Bottom -->
+                <div class="ch_clear" chaordic="bottom"></div>
+                <script src="/Jss/Utils/Receita.js" type="text/javascript"></script>
+            </div>
+
+            <!-- Start of Basket Page Mastertag Code: -->
+            <div class="zx_1ABC5FD128C95CC7298D zx_mediaslot">
+                <script type="text/javascript">
+                    /*<![CDATA[*/
+                    window._zx = window._zx || [];
+                    window._zx.push({
+                        id: "1ABC5FD128C95CC7298D"
+                    });
+                    (function (e) {
+                        var c = e.createElement("script");
+                        c.async = true;
+                        c.src = (e.location.protocol == "https:" ? "https:" : "http:") + "//static.zanox.com/scripts/zanox.js?utm_source=Zanox&utm_medium=Afiliados&utm_campaign=Desconto&acao=3&partner=576";
+                        var b = e.getElementsByTagName("script")[0];
+                        b.parentNode.insertBefore(c, b)
+                    }(document)); /*]]>*/
+                </script>
+                <script type="text/javascript">
+                    /*<![CDATA[*/
+                    var Carrinho = window.chaordic_meta.cart;
+                    var itensCarrinho = Carrinho.items;
+                    var id, quantidade;
+                    var preco = 0;
+                    var zx_products = [];
+                    var zx_indetifier = "";
+                    for (var i = 0; i < itensCarrinho.length; i++) {
+                        var params = {};
+                        id = itensCarrinho[i]["product"]["id"];
+                        preco = itensCarrinho[i]["product"]["price"];
+                        quantidade = itensCarrinho[i]["quantity"];
+                        params.identifier = id;
+                        params.amount = preco;
+                        params.currency = "BRL";
+                        params.quantity = quantidade;
+                        zx_products[i] = params;
+                        zx_indetifier += id + " "
+                    }
+                    localStorage.listaProdutos = JSON.stringify(zx_products); /*]]>*/
+                </script>
+                <script type="text/javascript">
+                    $(document).ready(function () {
+                        setTimeout(function () {
+                            $("#cphConteudo_BtnFrete").attr("onclick", "LoadingScreen()");
+                            $("#cphConteudo_BtnCoupon").attr("onclick", "javascript: Ajax('0', 'AddCoupon', 'cphConteudo_txtCoupon');LoadingScreen(); return false");
+
+                            $("a[data-command='update']").each(function (index) {
+                                $(this).attr("onclick", $(this).attr("href") + ";LoadingScreen();");
+                            });
+                            $("a[data-command='delete']").each(function (index) {
+                                $(this).attr("onclick", $(this).attr("href") + ";LoadingScreen();");
+                            });
+
+                        }, 1200)
+                    });
+                    $(window).ready(function () {
+                        $(".loader").fadeOut("slow")
+                    });
+
+                    function addRemoveQuantityMobile(botaoAddRemove, operacao) {
+                        var idProd = $(botaoAddRemove).attr('data-prod');
+                        var quantidade = 0;
+
+                        quantidade = parseInt($('input[data-prod=' + idProd + ']').val(),10);
+
+                        if (operacao == '+') {
+                            quantidade = quantidade + 1;
+                        }
+                        else {
+                            quantidade = quantidade - 1;
+                        }
+
+                        $('input[data-prod=' + idProd + ']').val(quantidade);
+                        $('span[data-prod=' + idProd + ']').val(quantidade);
+                        $('a[data-produpdate=' + idProd + ']').click();
+                    }
+
+                    function deleteProductMobile(botaoDelete) {
+                        var idProd = $(botaoDelete).attr('data-prod');
+                        $('a[data-proddelete=' + idProd + ']').click();
+                    }
+
+                    function LoadingScreen() {
+                        $(".loader").fadeIn("slow");
+                        $(".loader").delay(1000).fadeOut("slow")
+                    };
+                </script>
+            </div>
+        </div>
+    </div>
+
+    <!-- End of Basket Page Mastertag Code -->
+
+          <!-- SCRIPT MAPPER CLEARSALE -->
+                                                                    <script>
+                                                                        (function (a, b, c, d, e, f, g) {
+                                                                            a['CsdmObject'] = e; a[e] = a[e] || function () {
+                                                                                (a[e].q = a[e].q || []).push(arguments)
+                                                                            }, a[e].l = 1 * new Date(); f = b.createElement(c),
+                                                                                g = b.getElementsByTagName(c)[0]; f.async = 1; f.src = d; g.parentNode.insertBefore(f, g)
+                                                                        })(window, document, 'script', '//device.clearsale.com.br/m/cs.js', 'csdm');
+                                                                        csdm('app', '7cca55c77d');
+                                                                    </script>
+                                                <!--FIM SCRIPT MAPPER CLEARSALE -->
+
+
+            </div>
+        </div>
+        <!-- FIM ESTRUTURA -->
+        <!-- FOOTER -->
+        <footer class="page-footer-checkout"> <div class="page-footer-top row"> <div class="wrapper"> 
+            <div class="col5 compre-por"> <h6>Compre pelo telefone</h6> <p class="tel">4007-2526</p> <span>(Custo de uma ligação local)</span> <ul class="infos">  <li class="small">Horário das 8h às 21h, de segunda a sábado</li> </ul> </div> 
+            <div class="col5 formas-pagamento"> <h6 class="title-box">Formas de pagamento</h6> <img src="/assets/img/formas-de-pagamento-checkout.png" class="img-formas-pagamento-master" alt="Visa, MasterCard, Amex, Diners, Hipercard, Aura e Boleto bancário" /> </div> 
+            <div class="col6 seguranca"> <h6>Segurança</h6> <ul class="selos"> <li><a id="seloEbit" href="https://www.ebit.com.br/onofre-em-casa" target="_blank" onclick="redir(this.href)" style="background-image:url(&quot;https://a248.e.akamai.net/f/248/52872/0s/img.ebit.com.br/ebitBR/selo/img_973.png&quot;);width:89px;height:95px;display:block;overflow:hidden;position:relative;float:left" title="Avaliado pelos consumidores"></a></li> <li><script language="JavaScript" type="text/javascript">TrustLogo("https://www.onofre.com.br/img/Rodape/comodo.png", "SC5", "none");</script></li> </ul> </div> </div> </div><!--/page-footer-top--> <div class="copyright row"> <div class="wrapper"> <address class="col14"> <span id="lblDescriptionAddress"><p align="center"><span style="color: #888888;">Drogaria Onofre Ltda | CNPJ 61.549.259/0013-14 | IE 115.276.053.114 | Av. da Liberdade, 902 Complemento 904 - Liberdade | São Paulo (SP) | Horário de funcionamento: Segunda a Domingo 07:00 às 22:00 | CEP: 01502-001 | Telefone 4007-2526</span><br /><span style="color: #888888;">Farmacêutico Responsável: Dra. Thais Briotto de Andrade dos Santos | CRF - SP: 53.912  | AFE: 7.46544-5 | CMVS: 35503080147700867012</span></p>
+<p align="center"><span style="color: #888888;">As informações contidas neste site não devem ser usadas para automedicação e não substituem, em hipótese alguma, as orientações dadas pelo profissional da área médica. Somente o médico está apto a diagnosticar qualquer problema de saúde e prescrever o tratamento adequado. Ao persistirem os sintomas, o médico deverá ser consultado. Os preços e promoções divulgados no site são válidos apenas para compras feitas pela Internet. Em caso de divergência, o preço válido é o do carrinho de compras. Imagens meramente ilustrativas. Este site é melhor visualizado na configuração 1024x768.</span></p>
+<p align="center"><span style="color: #888888;">Copyright © 1999 - 2016 Onofre em Casa. Todos os direitos reservados.</span></p></span> </address>   </div> </div> </div><!--/copyright--> </footer>
+        <!--/page-footer-->
+        <!-- FIM FOOTER -->
+        
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var dataLayer = [{
+                               'site' : { 'domain' : document.location.host },
+                               'page' : { 
+                                            'name' : document.title,
+                                            'pageType' : 'cart'
+                                        },
+                               'cart' : { 'items' : [] },
+                               'session' : {
+                                                'isLogged': false,
+                                                'user' : { 'id' : 'VISIT-1015989000' }
+                                           }
+                                }];
+                                //]]>
+</script>
+</form>
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5SFH26" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+
+    <script>/*<![CDATA[*/(function (b, m, h, a, g) { b[a] = b[a] || []; b[a].push({ "gtm.start": new Date().getTime(), event: "gtm.js" }); var k = m.getElementsByTagName(h)[0], e = m.createElement(h), c = a != "dataLayer" ? "&l=" + a : ""; e.async = true; e.src = "//www.googletagmanager.com/gtm.js?id=" + g + c; k.parentNode.insertBefore(e, k) })(window, document, "script", "dataLayer", "GTM-5SFH26");/*]]>*/</script>
+    <!-- End Google Tag Manager -->
+</body>
+</html>
+<link href="Css/Estilo.css" rel="stylesheet" />

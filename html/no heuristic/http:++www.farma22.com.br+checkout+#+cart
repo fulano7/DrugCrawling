@@ -1,0 +1,418 @@
+<!DOCTYPE HTML>
+<html lang="pt-BR">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+    <title data-i18n="title"></title>
+    <link rel="shortcut icon" href="/arquivos/farma22-favicon.ico">
+    <link rel="apple-touch-icon" href="/arquivos/farma22-apple-touch-icon.png">
+    <meta name="msapplication-TileImage" content="/arquivos/farma22-windows-tile.png"/>
+    <link rel="stylesheet" href="//io.vtex.com.br/front-libs/bootstrap/2.3.2/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="//io.vtex.com.br/front-libs/bootstrap/2.3.2/css/bootstrap-responsive.min.css"/>
+    <link rel="stylesheet" href="//io.vtex.com.br/front-libs/font-awesome/3.2.1/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="//io.vtex.com.br/checkout-ui/3.70.3/lib/front-messages-ui/vtex-message.min.css"/>
+    <link rel="stylesheet" href="//io.vtex.com.br/checkout-ui/3.70.3/style/style.css"/>
+    <link href="/arquivos/checkout-custom.css?v=5547d90f" rel="stylesheet" type="text/css" />
+    <link href="/files/checkout-custom.css?v=72e27d05" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="//io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="//io.vtex.com.br/front-libs/bootstrap/2.3.2/js/bootstrap.min.js"></script>
+
+    <script type='text/javascript'>(function () { try { var vx = document.createElement('script'); vx.type = 'text/javascript'; vx.async = true; vx.src = '//dmx56ht1p4edz.cloudfront.net/rc.js?an=marketplace'; vx.target = '_blank'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vx, s); } catch (err) { }})();</script>
+
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/2.1.0/es5-shim.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/2.1.0/es5-sham.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="//io.vtex.com.br/checkout-ui/3.70.3/script/init.js" type="text/javascript"></script>
+    <script type="text/javascript" src="//io.vtex.com.br/checkout-ui/3.70.3/script/logger.js" type="text/javascript"></script>
+    <!--[if IE]>
+    <script type="text/javascript" src="//io.vtex.com.br/checkout-ui/3.70.3/lib/ie-responsive/css3-mediaqueries.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <script type="text/javascript" src="//io.vtex.com.br/checkout-ui/3.70.3/lib/ie-responsive/IE7.js"></script>
+    <link href="//io.vtex.com.br/front-libs/font-awesome/3.2.1/css/font-awesome-ie7.min.css"/>
+    <![endif]-->
+    <!--[if IE 8]>
+    <script type="text/javascript" src="//io.vtex.com.br/checkout-ui/3.70.3/lib/ie-responsive/IE8.js"></script>
+    <![endif]-->
+    <!--[if IE 9]>
+    <script type="text/javascript" src="//io.vtex.com.br/checkout-ui/3.70.3/lib/ie-responsive/IE9.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="//io.vtex.com.br/checkout-ui/3.70.3/script/ko-templates.js"></script>
+    <script>document.write($("#message-template").html())</script>
+
+    <script type="text/javascript">
+        vtex.vtexid = vtex.vtexid || {};
+        vtex.vtexid.accountId = "42ec439d-1e6f-4374-98a9-d932659c4aed";
+        vtex.vtexid.accountName = "farma22";
+    </script>
+    <script type="text/javascript">
+        // Google Maps API Key
+        vtex.googleMapsApiKey = "" || undefined
+    </script>
+    
+<script type="text/javascript">(function () {
+    window.vtex = window.vtex || {};
+    vtex.portal = vtex.portal || {};
+    vtex.portal.context = {
+        accountId: '42ec439d-1e6f-4374-98a9-d932659c4aed'
+    };
+})()</script>
+<script type="text/javascript" src="//io.vtex.com.br/portal-ui/1.7.5/scripts/vtex-events-all.min.js"></script>
+</head>
+<body class="www-farma22-com-br loading">
+<script type="text/javascript">(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-MLNWN9');</script>
+<script type="text/javascript" src="//io.vtex.com.br/portal-ui/1.7.5/scripts/vtex-analytics.js"></script>
+
+<div class="container-fluid pci-alert-topbar" data-bind="style: { display: cookiePCIExists() ? 'block' : 'none' }">
+    <span data-bind="text: alertPCICookieMessage()"></span>
+    <a href="javascript:void(0);" data-bind="click: killCookiePCI, text: alertPCICookieClick()"></a>
+    <span data-bind="text: alertPCICookieClickInfo()"></span>
+</div>
+
+
+
+<div class="tip-bar-top" style="display:none;">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="span12">
+				<span class="safe-shopping">Compra 100% segura</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="checkout-header" style="display:none;">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="span4">
+				<div class="nav-logo">
+					<a href="/">
+						<img src="/arquivos/far.bel.brand-logo-v2.png" alt="Farma 22" />
+					</a>
+				</div>
+			</div>
+
+			<div class="span8 hidden-phone">
+				<div class="vtx-tip-bar clearfix">
+					<div class="row-fluid">
+						<div class="span4 hidden-tablet">
+	<div class="tip-bar-item">
+		<i class="fa fa-credit-card"></i>
+		<span>3x sem juros</span>
+		<span>No cartão de crédito</span>
+	</div>
+</div>
+
+<div class="span4">
+	<div class="tip-bar-item">
+		<i class="fa fa-check-circle-o"></i>
+		<span>Desde 1986</span>
+		<span></span>
+	</div>
+</div>
+
+<div class="span4">
+	<div class="tip-bar-item">
+		<i class="fa fa-plane"></i>
+		<span>FRETE GRÁTIS</span>
+		<span>Acima de R$ 150 (para SP)</span>
+	</div>
+</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="tip-bar-top visible-phone">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="span12">
+				<div class="span3">
+                  <div class="tip-bar-item-m3" style="padding-left:30px;">
+                    <i class="fa-payment-security"></i>
+                    <span>Compra</span>
+                    <span>100% segura</span>
+                  </div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<div class="checkout-header">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="span3">
+				<div class="nav-logo">
+					<a href="/">
+                      <img src="/arquivos/far.bel.brand-logo-v2.png" alt="Farma 22 - Melhor Farmácia Online" />
+					</a>
+				</div>
+			</div>
+
+			<div class="span9 hidden-phone">
+				<div class="vtx-tip-bar vtx-tip-bar-m3 clearfix">
+					<div class="row-fluid">
+						<div class="span3 m">
+							<div class="tip-bar-item-m3">
+								<i class="fa-shipping-m3"></i>
+								<span>Frete reduzido</span>
+								<span>para todo brasil</span>
+							</div>
+						</div>
+
+						<div class="span3">
+							<div class="tip-bar-item-m3">
+								<i class="fa-payment-credit-card"></i>
+								<span>3x sem juros</span>
+								<span>parcela mínima de R$50,00</span>
+							</div>
+						</div>
+
+						<div class="span3">
+							<div class="tip-bar-item-m3">
+								<i class="fa-quality-company"></i>
+								<span>Qualidade e excelência</span>
+								<span>Tradição desde 1986</span>
+							</div>
+						</div>
+
+						<div class="span3">
+							<div class="tip-bar-item-m3">
+								<i class="fa-payment-security"></i>
+								<span>Compra</span>
+								<span>100% segura</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="vtex-front-messages-placeholder"></div>
+
+<!-- DESATIVA PLUGIN SKYPE -->
+<span id="skype_highlighting_settings" display="none" autoextractnumbers="0"></span>
+<!-- END -->
+
+<div class="container container-main">
+
+    <h1 class="hide" id="orderform-title" data-i18n="title" data-bind="fadeVisible: inOrderForm"></h1>
+    <h1 class="hide" id="cart-title" data-i18n="shoppingCart" data-bind="fadeVisible: inCart"></h1>
+
+    <div id="order-by" class="hide order-by form-inline" data-bind="visible: multipleItems">
+      <label for="order-by-select" class="order-by-label control-label" data-i18n="orderBy.title"></label>
+      <select
+        id="order-by-select"
+        class="order-by-select"
+        data-bind="options: availableOrdinationOptions,
+                   optionsText: 'text',
+                   value: selectedOrdination">
+      </select>
+    </div>
+
+    <small class="gift-list-alert alert" style="display:none;" data-bind="visible: isUsingGiftRegistry">
+        <i class="icon-gift icon-large"></i>
+        <span class="gift-list-alert-text" data-i18n="giftListAlert"></span>
+        <b class="gift-list-alert-name" data-bind="text: giftRegistryDescription"></b>.
+        <a href="javascript:void(0);" data-bind="click: removeGiftRegistry" data-i18n="giftListDismiss"></a>.
+    </small>
+
+    <div class="loading loading-bg" data-bind="visible: loading">
+        <div class="loading-img">
+            <i class="icon-spinner icon-spin icon-3x">
+                <span data-i18n="global.loading"></span>
+            </i>
+        </div>
+    </div>
+
+    <div class="checkout-container row-fluid">
+        <!-- CART -->
+        <div class="cart-template full-cart span12">
+            <div class="cart-template-holder" id="cartLoadedDiv" data-bind="template: 'cart-template'"></div>
+
+            <div class="cart-select-gift-placeholder"></div>
+
+            <div class="summary-template-holder" data-bind="template: {name: 'summary-template', afterRender: vtex.i18n.translateHtml}"></div>
+
+            <div class="clearfix pull-right cart-links cart-links-bottom hide">
+                <span class="link-choose-more-products-wrapper">
+                    <a href="/" id="cart-choose-more-products" class="more link-choose-more-products" data-i18n="cart.chooseMoreProducts"></a>
+                </span>
+                <span class="link-print-cart-wrapper hide" data-bind="fadeVisible: userType() == 'callCenterOperator'">
+                    <a id="cart-print" onClick="window.print()" class="btn btn-large link-print-cart" data-i18n="cart.print"></a>
+                </span>
+                <span class="btn-place-order-wrapper">
+                    <a href="#/orderform"
+                       target="_self" data-event="cartToOrderform" id="cart-to-orderform" class="btn btn-large btn-success pull-left-margin btn-place-order"
+                       data-i18n="cart.finalize" data-bind="click: goToFirstInvalidStep"></a>
+                </span>
+            </div>
+        </div>
+        <!-- /END CART -->
+
+        <!-- ORDERFORM -->
+        <div class="row-fluid orderform-template span12">
+            <div class="orderform-template-holder span8">
+                <div class="row-fluid">
+                    <div id="client-profile-data" class="span6 client-profile-data" data-bind="template: {name: 'orderForm-clientProfileData-template', afterRender: afterRender}"></div>
+                    <div id="shipping-data" class="span6 pull-right shipping-data"></div>
+                    <div id="payment-data" class="span6 pull-right payment-data" data-bind="template: {name: 'orderForm-paymentData-template', afterRender: afterRender}, css: { 'span6': !active(), 'span12': active }"></div>
+                </div>
+            </div>
+            <div class="cart-template mini-cart span4">
+                <div class="cart-fixed">
+                    <h2 data-i18n="totalizers.summary">Resumo da compra</h2>
+
+                    <!-- TODO remove window.router -->
+                    <div class="summary-cart-template-holder" data-bind="fadeVisible: window.router.inOrderForm, template: { name: 'orderForm-summary-cart-template', afterRender: vtex.i18n.translateHtml }"></div>
+
+                    <p class="link link-cart pull-right">
+                        <small><a href="#/cart" id="orderform-minicart-to-cart" target="_self" data-event="orderformToCart" data-i18n="global.backToCart">Voltar para o carrinho</a></small>
+                    </p>
+                    <div class="summary-template-holder" data-bind="template: 'summary-template'"></div>
+
+                    <div class="payment-confirmation-wrap">
+                        <div class="note summary-note"
+                            data-bind="template: 'note-template', css: { hide: !window.cart.allowManualPrice() }"></div>
+
+                        <p class="payment-submit-wrap">
+                            <button id="payment-data-submit" class="submit btn btn-success btn-large btn-block"
+                                    data-bind="click: submit, disable: window.checkout.disablePaymentButton" tabindex="200">
+                                <i class="icon-lock" data-bind="visible: !window.checkout.disablePaymentButton()"></i>
+                                <i class="icon-spinner icon-spin" data-bind="visible: window.checkout.disablePaymentButton()"></i>
+                                <span data-i18n="paymentData.confirm">Confirmar compra</span>
+                            </button>
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /END ORDERFORM -->
+    </div>
+</div>
+
+<div class="store-footer">
+	<div class="container">
+		<div class="row-fluid padding-v-md">
+			<div class="span6">
+				<div class="v2-payment-stamps-wrap">
+					<h3 class="heading-3">Formas de Pagamento</h3>
+
+					<ul class="payment-stamps list-inline">
+						<li class="stamp stamp-amex"></li>
+						<li class="stamp stamp-visa"></li>
+						<li class="stamp stamp-diners"></li>
+						<li class="stamp stamp-master"></li>
+						<li class="stamp stamp-boleto"></li>
+						<li class="stamp stamp-hipercard"></li>
+						<li class="stamp stamp-elo"></li>
+						<!--<li class="stamp stamp-brasil"></li>
+						<li class="stamp stamp-itau"></li>
+						<li class="stamp stamp-bradesco"></li>
+						<li class="stamp stamp-banrisul"></li>
+
+						 <li class="stamp hide stamp-discover"></li>
+						<li class="stamp hide stamp-pagseguro"></li>
+						<li class="stamp hide stamp-hsbc"></li>
+						<li class="stamp hide stamp-aura"></li>
+						<li class="stamp hide stamp-cabal"></li>
+						<li class="stamp hide stamp-jcb"></li> -->
+					</ul>
+				</ul>
+			</div>
+		</div>
+
+		<div class="span6">
+			<h3 class="heading-3">Compra 100% segura</h3>
+
+			<ul class="unstyled security-stamps">
+				<li class="pull-left padding-r-md">
+					<div id="DigiCertClickID_JDXsGcBL" data-language="en">
+						<a href="https://www.digicert.com/unified-communications-ssl-tls.htm">UC SSL</a>
+					</div>
+				</li>
+				<li class="pull-left padding-r-md">
+					<a id="seloEbit" href="http://www.ebit.com.br/#farma-22" target="_blank" onclick="redir(this.href);"></a>
+				</li>
+				<li class="pull-left padding-r-md site-blindado">
+					<div id="armored_website">
+						<param id="aw_preload" value="true" />
+					</div>
+				</li>
+				<li class="pull-left padding-r-md">
+					
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+<div class="store-footer-extra padding-v-sm bg-base-color-lgter" id="qd-allyrion">
+	<div class="container company-stamps">
+		<div class="row-fluid">
+			<div class="span8 footer-legal-info">
+				<p class="padding-v-sm color-base-color font-size-xs">
+					Farma 22. Todos direitos reservados
+				</p>
+			</div>
+
+			<div class="span4 text-center">
+              	<a class="digitalm3 company-logo " href="http://www.digitalm3.com.br" title="Agencia digital M3" target="_blank"></a>
+				<a rel="nofollow" class="poweredByVtex company-logo margin-r-md" href="http://www.vtex.com.br" target="_blank"></a>
+				<a class="designedByQuatroDigital company-logo" href="http://www.quatrodigital.com.br" title="Implantadores Especialistas VTEX" target="_blank"></a>
+			</div>
+		</div>
+	</div>
+</div>
+<script src="//io.vtex.com.br/vtex-id-ui/3.11.1/vtexid.min.js"></script>
+<script>
+    vtexid.setScopeName(vtex.vtexid.accountName);
+    vtexid.setScope(vtex.vtexid.accountId);
+</script>
+
+<script src="//io.vtex.com.br/front-libs/bundles/knockout-2.3.0-underscore-1.7.0-i18next-1.7.2-radio-0.2-json2.min.js"></script>
+
+<script crossorigin="anonymous" src="//io.vtex.com.br/checkout-ui/3.70.3/script/lib-common.min.js"></script>
+
+<script src="//io.vtex.com.br/front-libs/dustjs-linkedin/2.3.5/dust-core-2.3.5.min.js"></script>
+<script src="//io.vtex.com.br/front-libs/dustjs-linkedin-helpers/1.1.1/dust-helpers-1.1.1.js"></script>
+<script src="//io.vtex.com.br/front-libs/parsley/2.0.3/parsley.min.js"></script>
+<script src="//io.vtex.com.br/front-libs/curl/0.8.10-vtex.2/curl.js"></script>
+
+<script src="//io.vtex.com.br/front.cart/1.1.1/script/setup/front-cart.js"></script>
+<script src="//io.vtex.com.br/front.shipping-data/2.13.7/script/setup/front-shipping-data.js"></script>
+
+<script src="//io.vtex.com.br/front-libs/front-i18n/0.7.0/vtex-i18n.js"></script>
+<script src="//io.vtex.com.br/front-libs/front-i18n/0.7.0/vtex-locale-selector.js"></script>
+
+
+
+<script src="//io.vtex.com.br/vtex.js/2.7.0/extended-ajax.min.js"></script>
+<script src="//io.vtex.com.br/vtex.js/2.7.0/checkout.min.js"></script>
+<script src="//io.vtex.com.br/front-libs/front-phone/4.3.15/phone-all-bundle.js"></script>
+<script crossorigin="anonymous" src="//io.vtex.com.br/checkout-ui/3.70.3/script/checkout-lib.min.js"></script>
+<script type="text/javascript">
+    vtex.checkout.version = "3.70.3";
+</script>
+<script crossorigin="anonymous" src="//io.vtex.com.br/checkout-ui/3.70.3/script/checkout.min.js"></script>
+</body>
+</html>

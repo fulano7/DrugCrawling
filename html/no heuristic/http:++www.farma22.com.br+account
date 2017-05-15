@@ -1,0 +1,90 @@
+<!DOCTYPE html >
+<html lang="pt" xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce">
+  <head><meta name="language" content="pt-BR" />
+<meta name="country" content="BRA" />
+<meta name="currency" content="R$" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="description" content="Farmácia Online, só aqui na Farma 22 você encontra remédio barato, medicamentos com desconto e entrega rápida para todo o Brasil. Confira já!" />
+<meta name="Abstract" content="Farmácia Online - Remédio barato é aqui! - Farma 22" />
+<meta name="author" content="Farma 22" />
+<meta name="copyright" content="Farma 22" />
+<meta name="vtex-version" content="1.4.700.1246" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="shortcut icon" type="image/x-icon" href="//farma22.vteximg.com.br/arquivos/favicon.ico" /><link rel="dns-prefetch" href="//fonts.googleapis.com" /><link rel="dns-prefetch" href="//ajax.googleapis.com/" /><link rel="dns-prefetch" href="//farma22.vteximg.com.br" /><link rel="dns-prefetch" href="//io.vtex.com.br" /><link rel="dns-prefetch" href="//dmx56ht1p4edz.cloudfront.net" /><link rel="dns-prefetch" href="//service.yourviews.com.br" /><link rel="dns-prefetch" href="//selo.clearsale.com.br" /><link rel="dns-prefetch" href="//script.crazyegg.com" /><link rel="dns-prefetch" href="//www.googletagmanager.com" /><link rel="dns-prefetch" href="//www.google-analytics.com" /><link rel="dns-prefetch" href="//static.criteo.net" /><link rel="dns-prefetch" href="//dis.us.criteo.com" /><link rel="dns-prefetch" href="//widget.criteo.com" /><link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" /><link rel="dns-prefetch" href="//netdna.bootstrapcdn.com" /><link rel="dns-prefetch" href="//l2.io" /><link rel="dns-prefetch" href="//s3-sa-east-1.amazonaws.com" /><link rel="dns-prefetch" href="//rc.vtex.com.br" /><link rel="dns-prefetch" href="//a248.e.akamai.net" /><title>Farmácia Online - Remédio barato é aqui! - Farma 22</title><script type="text/javascript" language="javascript">var jscheckoutUrl = 'https://www.farma22.com.br/checkout/#/cart';var jscheckoutAddUrl = 'https://www.farma22.com.br/checkout/cart/add';var jscheckoutGiftListId = '';var jsnomeSite = 'farma22';var jsnomeLoja = 'farma22';var jssalesChannel = '1';var defaultStoreCurrency = 'R$';var localeInfo = {"CountryCode":"BRA","CultureCode":"pt-BR","CurrencyLocale":{"RegionDisplayName":"Brazil","RegionName":"BR","RegionNativeName":"Brasil","TwoLetterIsoRegionName":"BR","CurrencyEnglishName":"Real","CurrencyNativeName":"Real","CurrencySymbol":"R$","ISOCurrencySymbol":"BRL","Locale":1046,"Format":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","CurrencyGroupSeparator":".","CurrencyGroupSize":3,"StartsWithCurrencySymbol":true},"FlagUrl":"http://www.geonames.org/flags/x/br.gif"}};</script> 
+<script type="text/javascript" language="javascript">vtxctx = {searchTerm:"",isOrder:"0",isCheck:"0",isCart:"0",actionType:"",actionValue:"",login:"",url:"www.farma22.com.br",transurl:"www.farma22.com.br"};</script> 
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/mobile/mdetect.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/mobile/mdetect2.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.ajax.wait.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.common.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/front-i18n/0.4.1/vtex-i18n.min.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/front-utils/1.0.1/vtex-utils.min.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/dustjs-linkedin/2.3.5/dust-core-2.3.5.min.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://dmx56ht1p4edz.cloudfront.net/rc.js?an=farma22?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.tagmanager.helper.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-ui/1.7.2/scripts/vtex-events-all.min.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-ui/1.7.2/scripts/vtex-analytics.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/vtex.js/2.7.0/vtex.min.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="https://vtexid.vtex.com.br/api/vtexid/pub/authentication/vtexid-jquery.min.js?v=1.4.700.1246"  type="text/javascript"></script>
+<link rel="stylesheet" href="//farma22.vteximg.com.br/arquivos/css.far.bel.qd-bootstrap-common.css" type="text/css" /><link rel="stylesheet" href="//farma22.vteximg.com.br/arquivos/custom-farma22.m3.6.4.css?v=003" type="text/css" /><link rel="stylesheet" href="//farma22.vteximg.com.br/arquivos/css.far.bel.login.css" type="text/css" /><script src="//farma22.vteximg.com.br/arquivos/bootstrap.min.js"></script><script src="//farma22.vteximg.com.br/arquivos/js.far.bel.functions.base.js" type="text/javascript"></script><script type="text/javascript">
+	//<![CDATA[
+	(function() {
+		var myNav = navigator.userAgent.toLowerCase();
+		var version = (navigator.userAgent.toLowerCase().indexOf("msie") != -1) ? parseInt(myNav.split("msie")[1]) : 9999;
+		if (version < 9) {
+			document.write('<scr' + 'ipt src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></scr' + 'ipt>');
+			document.write('<scr' + 'ipt src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></scr' + 'ipt>');
+		}
+	})();
+	//]]></script><script language="javascript">var ___scriptPathTransac = '';</script><script language="javascript">var ___scriptPath = '';</script><link rel="canonical" href="http://www.farma22.com.br/" /></head>
+  <body class="login">
+<!-- Start - WebAnalyticsViewPart -->
+<script> var defaultUtmFromFolder = '';</script>
+<!-- CommerceContext.Current.VirtualFolder.Name: Login -->
+
+<script>
+vtex.events.addData({"pageCategory":"login","pageDepartment":null,"pageUrl":"http://www.farma22.com.br/login?ReturnUrl=%2faccount","pageTitle":"Farmácia Online - Remédio barato é aqui! - Farma 22","skuStockOutFromShelf":[],"skuStockOutFromProductDetail":[],"shelfProductIds":[],"accountName":"farma22","pageFacets":[]});
+</script>
+
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                            })(window,document,'script','dataLayer','GTM-MLNWN9');
+</script>
+
+<script>
+var helper = new vtexTagManagerHelper('otherView'); helper.init();
+</script>
+
+<!-- End - WebAnalyticsViewPart -->
+<div class="ajax-content-loader" rel="/no-cache/callcenter/disclaimer"></div>
+            <script>
+            vtexidClient = function (window, document){
+                $(document).ready(function(){
+
+                var _obj = {};
+                var _qs = vtexid.getQSParams(window.location.href);
+
+                _obj.userEmail = _qs.email || null;
+                _obj.flow = _qs.flow || null;
+                _obj.canClose = false;
+                _obj.scope = '42ec439d-1e6f-4374-98a9-d932659c4aed';
+                _obj.scopeName = 'farma22';
+                _obj.locale = 'pt-BR';
+
+                // VERIFICA SE EXISTE URL DE CALLBACK
+                _obj.returnUrl = "/account";
+                
+                vtexid.start(_obj);
+                });
+            }(window, document);
+            </script><script language="javascript" src="http://farma22.vteximg.com.br/Scripts/Track.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/thickbox.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/json2.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.viewPart.CallCenterDisclaimer.js?v=1.4.700.1246"  type="text/javascript"></script>
+<script language="javascript" src="http://farma22.vteximg.com.br/Scripts/vtex.viewPart.ajaxLoader_V2.js?v=1.4.700.1246"  type="text/javascript"></script>
+</body>
+</html>

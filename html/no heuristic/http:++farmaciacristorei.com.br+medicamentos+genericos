@@ -1,0 +1,2695 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt" lang="pt">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Genéricos - Medicamentos</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="description" content="Default Description" />
+<meta name="keywords" content="Magento, Varien, E-commerce" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="icon" href="http://farmaciacristorei.com.br/media/favicon/default/favicon_1_.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://farmaciacristorei.com.br/media/favicon/default/favicon_1_.ico" type="image/x-icon" />
+<link href='//fonts.googleapis.com/css?family=Noto+Sans:400,700&ampsubset=latin,cyrillic-ext' rel='stylesheet' type='text/css' />
+
+
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://farmaciacristorei.com.br/js/blank.html';
+    var BLANK_IMG = 'http://farmaciacristorei.com.br/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<!--[if lt IE 9]>
+<div style=' clear: both; text-align:center; position: relative;'>
+ <a href="//windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/images/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a>
+</div>
+<style>
+	body {	min-width: 960px !important;}
+</style>
+<![endif]--> 
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/jquery-ui.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/jquery-ui.structure.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/font-awesome.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/jquery.bxslider.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/photoswipe.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/bootstrap.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/extra_style.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/responsive.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/camera.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/superfish.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/base/default/css/widgets.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/aw_blog/css/style.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/cmsmart/megamenu/megamenu.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/ecommerceteam/cloud-zoom.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/catalogsale.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/tm/googlemap/tm_googlemap.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/print.css" media="print" />
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/jquery/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/jquery/jquery_noconflict.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/prototype/prototype_172.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/varien/js.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/varien/form.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/ecommerceteam/cloud-zoom.1.0.2.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/jquery.mobile.customized.min.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/bootstrap.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/jquery.carouFredSel-6.2.1.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/jquery.touchSwipe.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/jquery.maskedinput.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/jquery.unveil.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/device.min.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/cherry-media-parallax.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/cherry-fixed-parallax.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/TimelineMax.min.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/TweenMax.min.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/jquery.scrollmagic.min.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/camera.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/smoothing-scroll.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/superfish.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/scripts.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/jquery-ui.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/cmsmart/megamenu/cmsmartmenu.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/carousel.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/youama/ajaxlogin/jquery-ui-1-10-4.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/js/msrp.js"></script>
+<link rel="canonical" href="http://farmaciacristorei.com.br/medicamentos/genericos" />
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://farmaciacristorei.com.br/skin/frontend/default/theme692/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://farmaciacristorei.com.br/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.farmaciacristorei.com.br';
+//]]>
+</script>
+            <!-- BEGIN GOOGLE ANALYTICS CODE -->
+        <script type="text/javascript">
+        //<![CDATA[
+            var _gaq = _gaq || [];
+            
+_gaq.push(['_setAccount', 'UA-85700687-1']);
+
+_gaq.push(['_trackPageview']);
+            
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+        //]]>
+        </script>
+        <!-- END GOOGLE ANALYTICS CODE -->
+    <script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"HTML tags are not allowed":"Tags HTML n\u00e3o s\u00e3o permitidas","Please select an option.":"Selecione uma op\u00e7\u00e3o.","This is a required field.":"Campo obrigat\u00f3rio.","Please enter a valid number in this field.":"Informe um n\u00famero v\u00e1lido.","The value is not within the specified range.":"O valor n\u00e3o est\u00e1 dentro do limite especificado.","Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.":"Utilize apenas n\u00fameros. Evite espa\u00e7os ou outros caracteres como pontos ou v\u00edrgulas.","Please use letters only (a-z or A-Z) in this field.":"Utilize apenas letras (a-z ou A-Z).","Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Utilize apenas letras (a-z), n\u00fameros (0-9) ou underline(_), primeiro car\u00e1cter precisa ser uma letra.","Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.":"Utilize apenas letras (a-z ou A-Z) ou n\u00fameros (0-9). Espa\u00e7os ou outros caracteres n\u00e3o ser\u00e3o permitidos.","Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.":"Utilize apenas letras (a-z ou A-Z) ou n\u00fameros (0-9) ou espa\u00e7os e #.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Informe um n\u00famero de telefone v\u00e1lido. Por exemplo, (123) 456-7890 ou 123-456-7890.","Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.":"Informe um n\u00famero de celular v\u00e1lido. Por exemplo, (123) 456-7890 ou 123-456-7890.","Please enter a valid date.":"Informe uma data v\u00e1lida.","The From Date value should be less than or equal to the To Date value.":"A Data de In\u00e9cio deve ser menor ou igual \u00e0 Data Final.","Please enter a valid email address. For example johndoe@domain.com.":"Informe um endere\u00e7o de email v\u00e1lido. Por exemplo, johndoe@domain.com.","Please use only visible characters and spaces.":"Utilize apenas caracteres vis\u00edveis e espa\u00e7os.","Please enter 6 or more characters. Leading or trailing spaces will be ignored.":"Informe 6 ou mais caracteres. Espa\u00e7os a direita ou a esquerda ser\u00e3o ignorados.","Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.":"Informe 7 ou mais caracteres. Senha precisa conter ambos caracteres, n\u00fameros e letras.","Please make sure your passwords match.":"Verifique se as senhas conferem.","Please enter a valid URL. Protocol is required (http:\/\/, https:\/\/ or ftp:\/\/)":"Informe uma URL v\u00e1lida. Protocolo obrigat\u00f3rio (http:\/\/, https:\/\/ ou ftp:\/\/)","Please enter a valid URL. For example http:\/\/www.example.com or www.example.com":"Informe uma URL v\u00e1lida. Por exemplo, http:\/\/www.example.com ou www.example.com","Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel\/example-page\".":"Informe uma URL v\u00e1lida. Por exemplo, \"exemplo-pagina\", \"exemplo-pagina.html\" ou \"umacategoria\/exemplo-pagina\".","Please enter a valid XML-identifier. For example something_1, block5, id-4.":"Informe um identificador XML v\u00e1lido. Por exemplo, algumacoisa_1, block5, id-4.","Please enter a valid social security number. For example 123-45-6789.":"Informe um CPF v\u00e1lido. Por exemplo, 123.455.678-9.","Please enter a valid zip code. For example 90602 or 90602-1234.":"Informe um CEP v\u00e1lido. Por exemplo, 90602 ou 90602-1234.","Please enter a valid zip code.":"Informe um CEP v\u00e1lido.","Please use this date format: dd\/mm\/yyyy. For example 17\/03\/2006 for the 17th of March, 2006.":"Utilize este formato de data: dd\/mm\/yyyy. Por exemplo, 17\/03\/2006 para informar 17th de Mar\u00e7o, 2006.","Please enter a valid $ amount. For example $100.00.":"Informe um valor $ . Por exemplo, $100.00.","Please select one of the above options.":"Selecione uma das op\u00e7\u00f5es abaixo.","Please select one of the options.":"Selecione uma das op\u00e7\u00f5es.","Please select State\/Province.":"Selecione Estado...","Please enter a number greater than 0 in this field.":"Informe um n\u00famero maior que zero.","Please enter a number 0 or greater in this field.":"Informe um n\u00famero igual ou maior que zero.","Please enter a valid credit card number.":"Informe um n\u00famero de cart\u00e3o de cr\u00e9dito v\u00e1lido.","Credit card number does not match credit card type.":"N\u00famero do cart\u00e3o de cr\u00e9dito n\u00e3o condiz com tipo de cart\u00e3o.","Card type does not match credit card number.":"Tipo de cart\u00e3o n\u00e3o condiz com n\u00famero do cart\u00e3o de cr\u00e9dito.","Incorrect credit card expiration date.":"Data de expira\u00e7\u00e3o do cart\u00e3o n\u00e3o \u00e9 v\u00e1lido.","Please enter a valid credit card verification number.":"Informe um n\u00famero de verifica\u00e7\u00e3o de cart\u00e3o de cr\u00e9dito v\u00e1lido.","Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.":"Informe um tamanho v\u00e1lido de CSS no campo. Por exemplo, 100px ou 77pt ou 20em ou .5ex ou 50%.","Text length does not satisfy specified text range.":"Tamanho do texto n\u00e3o satisfaz o espa\u00e7o de texto especificado.","Please enter a number lower than 100.":"Informe um n\u00famero menor que 100.","Please select a file":"Selecione um arquivo","Please enter issue number or start date for switch\/solo card type.":"Informe um n\u00famero de seguran\u00e7a ou data de validade para o tipo de cart\u00e3o switch\/solo.","Please wait, loading...":"Carregando...","This date is a required value.":"A data \u00e9 um valor obrigat\u00f3rio.","Please enter a valid day (1-%d).":"Informe um dia v\u00e1lido (1-%d).","Please enter a valid month (1-12).":"Informe um m\u00eas v\u00e1lido (1-12).","Please enter a valid year (1900-%d).":"Informe um ano v\u00e1lido (1900-%d).","Please enter a valid full date":"Informe uma data completa","Please enter a valid date between %s and %s":"Informe uma data v\u00e1lida entre %s e %s","Please enter a valid date equal to or greater than %s":"Informe uma data v\u00e1lida igual ou maior que %s","Please enter a valid date less than or equal to %s":"Informe uma data v\u00e1lida menor ou igual a %s","Complete":"Completo","Add Products":"Criar Produtos","Please choose to register or to checkout as a guest":"Criar conta ou continuar como visitante","Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.":"Seu pedido n\u00e3o pode ser finalizado no momento pois n\u00e3o h\u00e1 formas de entrega dispon\u00edveis para ele. Talvez seja necess\u00e1rio alterar seu endere\u00e7o de entrega.","Please specify shipping method.":"Informe um meio de entrega.","Your order cannot be completed at this time as there is no payment methods available for it.":"Seu pedido n\u00e3o pode ser finalizado neste momento pois n\u00e3o h\u00e1 formas de pagamento dispon\u00edveis para ele.","Please specify payment method.":"Informe uma forma de pagamento.","Add to Cart":"Comprar","In Stock":"Em estoque","Out of Stock":"Esgotado"});
+        //]]></script></head>
+<body class="ps-static  catalog-category-view categorypath-medicamentos-genericos category-genericos">
+<div class="wrapper ps-static pt-lang-class">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    Você precisa habilitar o Javascript no seu navegador para aproveitar as funcionalidades do site.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        <div class="shadow"></div>
+<div class="swipe-left"></div>
+<div class="swipe">
+    <div class="swipe-menu">
+        <a href="http://farmaciacristorei.com.br/" title="Início" class="home-link">Início</a>
+        <ul class="links">
+                        <li class="first" ><a href="https://farmaciacristorei.com.br/customer/account/" title="Minha Conta" >Minha Conta</a></li>
+                                <li ><a href="https://farmaciacristorei.com.br/wishlist/" title="Meus Favoritos" >Meus Favoritos</a></li>
+                                <li ><a href="http://farmaciacristorei.com.br/checkout/cart/" title="Carrinho" class="top-link-cart">Carrinho</a></li>
+                                <li ><a href="https://farmaciacristorei.com.br/checkout/" title="Fechar Pedido" class="top-link-checkout">Fechar Pedido</a></li>
+                                <li class=" last" ><a href="https://farmaciacristorei.com.br/customer/account/login/" title="Entrar" >Entrar</a></li>
+            </ul>
+                
+                           
+        <div class="footer-links-menu"> 
+              
+            <ul class="links-2">
+	<li class="first"><a href="http://farmaciacristorei.com.br/catalog/seo_sitemap/product/">Product Sitemap</a></li>
+	<li><a href="http://farmaciacristorei.com.br/catalog/seo_sitemap/category/">Category Sitemap</a></li>
+	<li><a href="http://farmaciacristorei.com.br/catalogsearch/advanced/">Busca Avançada</a></li>
+	<li><a href="https://farmaciacristorei.com.br/sales/guest/form/">Pedidos e Devoluções</a></li>
+</ul>        </div>
+    </div>
+</div>
+<div class="top-icon-menu">
+    <div class="swipe-control"><i class="fa fa-align-justify"></i></div>
+    <div class="top-search"><i class="fa fa-search"></i></div>
+    <span class="clear"></span>
+</div>
+
+<div class="header-container">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+                <div class="header">
+                        <div class="header-border">
+                            <div class="header-buttons">
+                                <div class="quick-access">
+                                <ul class="links">
+                        <li class="first" ><a href="https://farmaciacristorei.com.br/customer/account/" title="Minha Conta" >Minha Conta</a></li>
+                                <li ><a href="https://farmaciacristorei.com.br/wishlist/" title="Meus Favoritos" >Meus Favoritos</a></li>
+                                <li ><a href="http://farmaciacristorei.com.br/checkout/cart/" title="Carrinho" class="top-link-cart">Carrinho</a></li>
+                                <li ><a href="https://farmaciacristorei.com.br/checkout/" title="Fechar Pedido" class="top-link-checkout">Fechar Pedido</a></li>
+                                <li class=" last" ><a href="https://farmaciacristorei.com.br/customer/account/login/" title="Entrar" >Entrar</a></li>
+            </ul>
+                                </div>  
+                                <p class="welcome-msg">Seja Bem Vindo </p>   
+                            </div>
+                            <div class="header-info">
+	<div>
+		<i class="fa fa-thumbs-o-up"></i><span>+35 anos de tradição </span>
+	</div>
+	<div>
+		<i class="fa fa-truck"></i><span>Enviamos para todo o Brasil</span>
+	</div>
+         <div>
+		<i class="fa fa-phone"></i><span> (11) 2744-2040</span>
+	</div>
+<div>
+		<i class="fa fa-whatsapp"></i><span> (11) 99642-5721</span>
+	</div>
+</div>                            <div class="clear"></div>
+                        </div>
+
+                        <div class="skip-links"> <span href="#header-account" class="skip-link skip-account"></span></div>
+                        <div id="header-account" class="skip-content"></div>
+                       
+                                                    <a href="http://farmaciacristorei.com.br/" title="Farmacia Cristo Rei" class="logo"><strong>Farmacia Cristo Rei</strong><img src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/images/logo-cristorei-farmacia.png" alt="Farmacia Cristo Rei" /></a>
+                                                
+<div class="block-cart-header">
+        <!--  <h3>:</h3> -->
+    <div class="block-content">
+                                                                                    <div class="empty">
+            <div class="summary">0 </div>
+            <div class="cart-content">
+                Nenhum produto no carrinho.            </div>
+        </div>
+        <p class="mini-cart"><strong>0</strong></p>
+        </div>
+</div>
+                        <div class="f-right">
+                            <!-- <div class="skip-links-relative">
+                                                            </div> -->
+                            <form id="search_mini_form" action="http://farmaciacristorei.com.br/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <label for="search">Buscar:</label>
+        <input id="search" type="text" name="q" value="" class="input-text" maxlength="128" />
+        <button type="submit" title="Procurar" class="button"><span><span>Procurar</span></span></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Procurar no site...');
+            searchForm.initAutocomplete('http://farmaciacristorei.com.br/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+        </script>
+    </div>
+</form>
+                        </div>
+                        <div class="clear"></div>
+                </div>
+            </div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+
+<div class="nav-container-mobile">
+	<div class="container">
+		<div class="row">
+            <div class="col-xs-12">
+                <!-- <ul id="nav" class="sf-menu">
+                    <li  class="level0 nav-1 first active level-top parent"><a href="http://farmaciacristorei.com.br/medicamentos"  class="level-top" ><span>Medicamentos</span></a><ul class="level0"><li  class="level1 nav-1-1 first"><a href="http://farmaciacristorei.com.br/medicamentos/anticoncepcional" ><span>Anticoncepcional</span></a></li><li  class="level1 nav-1-2"><a href="http://farmaciacristorei.com.br/medicamentos/azia-e-ma-digest-o" ><span>Azia e Má Digestão</span></a></li><li  class="level1 nav-1-3"><a href="http://farmaciacristorei.com.br/medicamentos/dor-e-febre" ><span>Dor e Febre</span></a></li><li  class="level1 nav-1-4"><a href="http://farmaciacristorei.com.br/medicamentos/gripe-e-resfriado" ><span>Gripe e resfriado</span></a></li><li  class="level1 nav-1-5 active"><a href="http://farmaciacristorei.com.br/medicamentos/genericos" ><span>Genéricos</span></a></li><li  class="level1 nav-1-6"><a href="http://farmaciacristorei.com.br/medicamentos/cristalia" ><span>Cristália </span></a></li><li  class="level1 nav-1-7"><a href="http://farmaciacristorei.com.br/medicamentos/ache" ><span>Ache </span></a></li><li  class="level1 nav-1-8"><a href="http://farmaciacristorei.com.br/medicamentos/theraskin" ><span>TheraSkin</span></a></li><li  class="level1 nav-1-9"><a href="http://farmaciacristorei.com.br/medicamentos/galderma" ><span>Galderma</span></a></li><li  class="level1 nav-1-10"><a href="http://farmaciacristorei.com.br/medicamentos/alcon" ><span>Alcon </span></a></li><li  class="level1 nav-1-11"><a href="http://farmaciacristorei.com.br/medicamentos/allergan" ><span>Allergan</span></a></li><li  class="level1 nav-1-12"><a href="http://farmaciacristorei.com.br/medicamentos/libbs" ><span>Libbs </span></a></li><li  class="level1 nav-1-13"><a href="http://farmaciacristorei.com.br/medicamentos/takeda" ><span>Takeda </span></a></li><li  class="level1 nav-1-14"><a href="http://farmaciacristorei.com.br/medicamentos/aspen" ><span>Aspen </span></a></li><li  class="level1 nav-1-15"><a href="http://farmaciacristorei.com.br/medicamentos/medicamento-similares" ><span>Medicamento Similares </span></a></li><li  class="level1 nav-1-16"><a href="http://farmaciacristorei.com.br/medicamentos/medley" ><span>Medley </span></a></li><li  class="level1 nav-1-17"><a href="http://farmaciacristorei.com.br/medicamentos/astrazeneca-4" ><span>AstraZeneca</span></a></li><li  class="level1 nav-1-18 last"><a href="http://farmaciacristorei.com.br/medicamentos/supera" ><span>Supera</span></a></li></ul></li><li  class="level0 nav-2 level-top parent"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar"  class="level-top" ><span>Saúde</span></a><ul class="level0"><li  class="level1 nav-2-1 first"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/chegadecalvicie" ><span>Calvície</span></a></li><li  class="level1 nav-2-2"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/colageno" ><span>Colágeno </span></a></li><li  class="level1 nav-2-3"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/vitaminas-e-suplementos" ><span>Vitaminas e Suplementos</span></a></li><li  class="level1 nav-2-4"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/saude-da-mulher" ><span>Saúde da Mulher</span></a></li><li  class="level1 nav-2-5"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/saude-ossea" ><span>Saúde óssea</span></a></li><li  class="level1 nav-2-6"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/saude-do-homem" ><span>Saúde do Homem</span></a></li><li  class="level1 nav-2-7"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/disfunc-o-eretil" ><span>Disfunção Erétil</span></a></li><li  class="level1 nav-2-8"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/hipertens-o" ><span>Hipertensão </span></a></li><li  class="level1 nav-2-9"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/inflamac-o" ><span>Inflamação</span></a></li><li  class="level1 nav-2-10"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/colesterol-e-triglicerideos" ><span>Colesterol e Triglicerídeos</span></a></li><li  class="level1 nav-2-11"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/alergia" ><span>Alergia</span></a></li><li  class="level1 nav-2-12"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/alimentos-e-bebidas" ><span>Alimentos e Bebidas</span></a></li><li  class="level1 nav-2-13"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/dentadura" ><span>Dentadura</span></a></li><li  class="level1 nav-2-14"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/fitoterapicos" ><span>Fitoterápicos</span></a></li><li  class="level1 nav-2-15"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/homeopaticos" ><span>Homeopáticos</span></a></li><li  class="level1 nav-2-16"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/leites-e-formulas-especiais" ><span>Leites e Fórmulas Especiais</span></a></li><li  class="level1 nav-2-17"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/mam-e-e-bebe" ><span>Mamãe e Bebê</span></a></li><li  class="level1 nav-2-18"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/meias-de-compress-o" ><span>Meias de Compressão</span></a></li><li  class="level1 nav-2-19"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/preservativos-e-lubrificantes" ><span>Preservativos e Lubrificantes</span></a></li><li  class="level1 nav-2-20 last"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/suplementos-e-vitaminas" ><span>Suplementos e Vitaminas</span></a></li></ul></li><li  class="level0 nav-3 level-top parent"><a href="http://farmaciacristorei.com.br/dermocosmeticos"  class="level-top" ><span>Dermocosméticos</span></a><ul class="level0"><li  class="level1 nav-3-1 first"><a href="http://farmaciacristorei.com.br/dermocosmeticos/episol" ><span>Mantecorp</span></a></li><li  class="level1 nav-3-2"><a href="http://farmaciacristorei.com.br/dermocosmeticos/cicatricure" ><span>Cicatricure</span></a></li><li  class="level1 nav-3-3"><a href="http://farmaciacristorei.com.br/dermocosmeticos/la-roche" ><span>La Roche Posay</span></a></li><li  class="level1 nav-3-4"><a href="http://farmaciacristorei.com.br/dermocosmeticos/skinceuticals" ><span>Skinceuticals</span></a></li><li  class="level1 nav-3-5"><a href="http://farmaciacristorei.com.br/dermocosmeticos/imecap" ><span>Imecap</span></a></li><li  class="level1 nav-3-6"><a href="http://farmaciacristorei.com.br/dermocosmeticos/neutrogena" ><span>Neutrogena</span></a></li><li  class="level1 nav-3-7"><a href="http://farmaciacristorei.com.br/dermocosmeticos/vichy" ><span>Vichy </span></a></li><li  class="level1 nav-3-8"><a href="http://farmaciacristorei.com.br/dermocosmeticos/isdin" ><span>Isdin</span></a></li><li  class="level1 nav-3-9"><a href="http://farmaciacristorei.com.br/dermocosmeticos/roc" ><span>Roc</span></a></li><li  class="level1 nav-3-10"><a href="http://farmaciacristorei.com.br/dermocosmeticos/eau-thermale-avene" ><span>Eau Thermale Avène</span></a></li><li  class="level1 nav-3-11"><a href="http://farmaciacristorei.com.br/dermocosmeticos/libbs" ><span>Libbs</span></a></li><li  class="level1 nav-3-12"><a href="http://farmaciacristorei.com.br/dermocosmeticos/profuse" ><span>Profuse </span></a></li><li  class="level1 nav-3-13"><a href="http://farmaciacristorei.com.br/dermocosmeticos/derms" ><span>Germed-Derms</span></a></li><li  class="level1 nav-3-14"><a href="http://farmaciacristorei.com.br/dermocosmeticos/biolab" ><span>Biolab</span></a></li><li  class="level1 nav-3-15"><a href="http://farmaciacristorei.com.br/dermocosmeticos/theraskin" ><span>TheraSkin</span></a></li><li  class="level1 nav-3-16"><a href="http://farmaciacristorei.com.br/dermocosmeticos/galderma-26" ><span>Galderma</span></a></li><li  class="level1 nav-3-17"><a href="http://farmaciacristorei.com.br/dermocosmeticos/sebamed" ><span>Sebamed </span></a></li><li  class="level1 nav-3-18 last"><a href="http://farmaciacristorei.com.br/dermocosmeticos/l-oreal-paris" ><span>L'oreal Paris </span></a></li></ul></li><li  class="level0 nav-4 level-top parent"><a href="http://farmaciacristorei.com.br/perfumaria"  class="level-top" ><span>Perfumaria</span></a><ul class="level0"><li  class="level1 nav-4-1 first"><a href="http://farmaciacristorei.com.br/perfumaria/acessorios" ><span>Acessórios</span></a></li><li  class="level1 nav-4-2"><a href="http://farmaciacristorei.com.br/perfumaria/acessorios-infantis" ><span>Acessórios Infantis</span></a></li><li  class="level1 nav-4-3"><a href="http://farmaciacristorei.com.br/perfumaria/banho" ><span>Banho</span></a></li><li  class="level1 nav-4-4"><a href="http://farmaciacristorei.com.br/perfumaria/barba" ><span>Barba</span></a></li><li  class="level1 nav-4-5"><a href="http://farmaciacristorei.com.br/perfumaria/depilac-o" ><span>Depilação</span></a></li><li  class="level1 nav-4-6"><a href="http://farmaciacristorei.com.br/perfumaria/fraldas" ><span>Fraldas infantis</span></a></li><li  class="level1 nav-4-7"><a href="http://farmaciacristorei.com.br/perfumaria/gestantes" ><span>Gestantes</span></a></li><li  class="level1 nav-4-8"><a href="http://farmaciacristorei.com.br/perfumaria/higiene-bucal" ><span>Higiene Bucal</span></a></li><li  class="level1 nav-4-9"><a href="http://farmaciacristorei.com.br/perfumaria/higiene-intima" ><span>Higiene Íntima</span></a></li><li  class="level1 nav-4-10"><a href="http://farmaciacristorei.com.br/perfumaria/maquiagem-e-beleza" ><span>Maquiagem e Beleza</span></a></li><li  class="level1 nav-4-11"><a href="http://farmaciacristorei.com.br/perfumaria/mam-e-e-bebe" ><span>Mamãe e Bebê</span></a></li><li  class="level1 nav-4-12 parent"><a href="http://farmaciacristorei.com.br/perfumaria/perfumes-41" ><span>Perfumes</span></a><ul class="level1"><li  class="level2 nav-4-12-1 first"><a href="http://farmaciacristorei.com.br/perfumaria/perfumes-41/femininos" ><span>Femininos </span></a></li><li  class="level2 nav-4-12-2 last"><a href="http://farmaciacristorei.com.br/perfumaria/perfumes-41/masculino" ><span>Masculino</span></a></li></ul></li><li  class="level1 nav-4-13"><a href="http://farmaciacristorei.com.br/perfumaria/tinturas" ><span>Tinturas</span></a></li><li  class="level1 nav-4-14"><a href="http://farmaciacristorei.com.br/perfumaria/hidratantes" ><span>Hidratantes</span></a></li><li  class="level1 nav-4-15"><a href="http://farmaciacristorei.com.br/perfumaria/pele-cicatriz" ><span>Pele/Cicatriz </span></a></li><li  class="level1 nav-4-16"><a href="http://farmaciacristorei.com.br/perfumaria/antitranspirante-e-desodorante" ><span>Antitranspirante e Desodorante </span></a></li><li  class="level1 nav-4-17"><a href="http://farmaciacristorei.com.br/perfumaria/cabelo" ><span>Cabelo </span></a></li><li  class="level1 nav-4-18"><a href="http://farmaciacristorei.com.br/perfumaria/repelentes" ><span>Repelentes</span></a></li><li  class="level1 nav-4-19"><a href="http://farmaciacristorei.com.br/perfumaria/protec-o-solar" ><span>Proteção Solar </span></a></li><li  class="level1 nav-4-20"><a href="http://farmaciacristorei.com.br/perfumaria/shampoo-e-condicionador" ><span>Shampoo e Condicionador</span></a></li><li  class="level1 nav-4-21"><a href="http://farmaciacristorei.com.br/perfumaria/tonalizante" ><span>Tonalizante </span></a></li><li  class="level1 nav-4-22 last"><a href="http://farmaciacristorei.com.br/perfumaria/talcos" ><span>Talcos </span></a></li></ul></li><li  class="level0 nav-5 level-top parent"><a href="http://farmaciacristorei.com.br/ortopedicos"  class="level-top" ><span>Ortopédicos</span></a><ul class="level0"><li  class="level1 nav-5-1 first"><a href="http://farmaciacristorei.com.br/ortopedicos/bolsas-e-cintas" ><span>Bolsas e Cintas</span></a></li><li  class="level1 nav-5-2"><a href="http://farmaciacristorei.com.br/ortopedicos/coluna" ><span>Coluna</span></a></li><li  class="level1 nav-5-3"><a href="http://farmaciacristorei.com.br/ortopedicos/joelho" ><span>Joelho</span></a></li><li  class="level1 nav-5-4"><a href="http://farmaciacristorei.com.br/ortopedicos/ombro-braco-e-cotovelo" ><span>Ombro, Braço e Cotovelo</span></a></li><li  class="level1 nav-5-5"><a href="http://farmaciacristorei.com.br/ortopedicos/pes" ><span>Pés</span></a></li><li  class="level1 nav-5-6"><a href="http://farmaciacristorei.com.br/ortopedicos/punhos-m-os-e-dedos" ><span>Punhos Mãos e Dedos</span></a></li><li  class="level1 nav-5-7"><a href="http://farmaciacristorei.com.br/ortopedicos/quadril-e-coxa" ><span>Quadril e Coxa</span></a></li><li  class="level1 nav-5-8"><a href="http://farmaciacristorei.com.br/ortopedicos/tornozelos" ><span>Tornozelos</span></a></li><li  class="level1 nav-5-9"><a href="http://farmaciacristorei.com.br/ortopedicos/hidrolight" ><span>Hidrolight </span></a></li><li  class="level1 nav-5-10 last"><a href="http://farmaciacristorei.com.br/ortopedicos/pernas" ><span>Pernas </span></a></li></ul></li><li  class="level0 nav-6 level-top parent"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes"  class="level-top" ><span>Aparelhos</span></a><ul class="level0"><li  class="level1 nav-6-1 first"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/aparelho-de-glicemia" ><span>Aparelho de Glicemia</span></a></li><li  class="level1 nav-6-2"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/aparelho-de-press-o" ><span>Aparelho de Pressão</span></a></li><li  class="level1 nav-6-3"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/balanca" ><span>Balança</span></a></li><li  class="level1 nav-6-4"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/barbeadores" ><span>Barbeadores</span></a></li><li  class="level1 nav-6-5"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/chapinhas" ><span>Chapinhas e Modeladores </span></a></li><li  class="level1 nav-6-6"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/inalador" ><span>Inalador</span></a></li><li  class="level1 nav-6-7"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/umidificador-de-ar" ><span>Umidificador de Ar</span></a></li><li  class="level1 nav-6-8"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/termometro" ><span>Termômetro</span></a></li><li  class="level1 nav-6-9"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/teste-de-gravidez" ><span>Teste de Gravidez </span></a></li><li  class="level1 nav-6-10"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/secador-de-cabelo" ><span>Secador de Cabelo</span></a></li><li  class="level1 nav-6-11"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/acessorios-para-inaladores" ><span>Acessórios para Inaladores </span></a></li><li  class="level1 nav-6-12"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/para-homens" ><span>Para Homens </span></a></li><li  class="level1 nav-6-13"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/para-mulheres" ><span>Para Mulheres </span></a></li><li  class="level1 nav-6-14"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/taiff" ><span>Taiff </span></a></li><li  class="level1 nav-6-15"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/m-os-e-pes" ><span>Mãos e Pés </span></a></li><li  class="level1 nav-6-16"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/massageador-e-esfoliador" ><span>Massageador e Esfoliador</span></a></li><li  class="level1 nav-6-17"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/accu-check" ><span>Accu Check</span></a></li><li  class="level1 nav-6-18"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/g-tech" ><span>G-Tech</span></a></li><li  class="level1 nav-6-19"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/lancetas-e-lancetadores" ><span>Lancetas e Lancetadores</span></a></li><li  class="level1 nav-6-20"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/tiras-para-teste" ><span>Tiras para Teste</span></a></li><li  class="level1 nav-6-21"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/acessorios" ><span>Acessórios</span></a></li><li  class="level1 nav-6-22 last"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/aparelhos-de-glicemia" ><span>Aparelhos de Glicemia</span></a></li></ul></li><li  class="level0 nav-7 last level-top parent"><a href="http://farmaciacristorei.com.br/super-ofertas"  class="level-top" ><span>Super Ofertas</span></a><ul class="level0"><li  class="level1 nav-7-1 first last"><a href="http://farmaciacristorei.com.br/super-ofertas/promocoes-especiais" ><span>Promoções Especiais</span></a></li></ul></li>                </ul> -->
+                <div class="sf-menu-block">
+                    <div id="menu-icon">Categorias</div>
+                    <ul class="sf-menu-phone">
+                        <li  class="level0 nav-1 first active level-top parent"><a href="http://farmaciacristorei.com.br/medicamentos"  class="level-top" ><span>Medicamentos</span></a><ul class="level0"><li  class="level1 nav-1-1 first"><a href="http://farmaciacristorei.com.br/medicamentos/anticoncepcional" ><span>Anticoncepcional</span></a></li><li  class="level1 nav-1-2"><a href="http://farmaciacristorei.com.br/medicamentos/azia-e-ma-digest-o" ><span>Azia e Má Digestão</span></a></li><li  class="level1 nav-1-3"><a href="http://farmaciacristorei.com.br/medicamentos/dor-e-febre" ><span>Dor e Febre</span></a></li><li  class="level1 nav-1-4"><a href="http://farmaciacristorei.com.br/medicamentos/gripe-e-resfriado" ><span>Gripe e resfriado</span></a></li><li  class="level1 nav-1-5 active"><a href="http://farmaciacristorei.com.br/medicamentos/genericos" ><span>Genéricos</span></a></li><li  class="level1 nav-1-6"><a href="http://farmaciacristorei.com.br/medicamentos/cristalia" ><span>Cristália </span></a></li><li  class="level1 nav-1-7"><a href="http://farmaciacristorei.com.br/medicamentos/ache" ><span>Ache </span></a></li><li  class="level1 nav-1-8"><a href="http://farmaciacristorei.com.br/medicamentos/theraskin" ><span>TheraSkin</span></a></li><li  class="level1 nav-1-9"><a href="http://farmaciacristorei.com.br/medicamentos/galderma" ><span>Galderma</span></a></li><li  class="level1 nav-1-10"><a href="http://farmaciacristorei.com.br/medicamentos/alcon" ><span>Alcon </span></a></li><li  class="level1 nav-1-11"><a href="http://farmaciacristorei.com.br/medicamentos/allergan" ><span>Allergan</span></a></li><li  class="level1 nav-1-12"><a href="http://farmaciacristorei.com.br/medicamentos/libbs" ><span>Libbs </span></a></li><li  class="level1 nav-1-13"><a href="http://farmaciacristorei.com.br/medicamentos/takeda" ><span>Takeda </span></a></li><li  class="level1 nav-1-14"><a href="http://farmaciacristorei.com.br/medicamentos/aspen" ><span>Aspen </span></a></li><li  class="level1 nav-1-15"><a href="http://farmaciacristorei.com.br/medicamentos/medicamento-similares" ><span>Medicamento Similares </span></a></li><li  class="level1 nav-1-16"><a href="http://farmaciacristorei.com.br/medicamentos/medley" ><span>Medley </span></a></li><li  class="level1 nav-1-17"><a href="http://farmaciacristorei.com.br/medicamentos/astrazeneca-4" ><span>AstraZeneca</span></a></li><li  class="level1 nav-1-18 last"><a href="http://farmaciacristorei.com.br/medicamentos/supera" ><span>Supera</span></a></li></ul></li><li  class="level0 nav-2 level-top parent"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar"  class="level-top" ><span>Saúde</span></a><ul class="level0"><li  class="level1 nav-2-1 first"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/chegadecalvicie" ><span>Calvície</span></a></li><li  class="level1 nav-2-2"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/colageno" ><span>Colágeno </span></a></li><li  class="level1 nav-2-3"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/vitaminas-e-suplementos" ><span>Vitaminas e Suplementos</span></a></li><li  class="level1 nav-2-4"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/saude-da-mulher" ><span>Saúde da Mulher</span></a></li><li  class="level1 nav-2-5"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/saude-ossea" ><span>Saúde óssea</span></a></li><li  class="level1 nav-2-6"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/saude-do-homem" ><span>Saúde do Homem</span></a></li><li  class="level1 nav-2-7"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/disfunc-o-eretil" ><span>Disfunção Erétil</span></a></li><li  class="level1 nav-2-8"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/hipertens-o" ><span>Hipertensão </span></a></li><li  class="level1 nav-2-9"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/inflamac-o" ><span>Inflamação</span></a></li><li  class="level1 nav-2-10"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/colesterol-e-triglicerideos" ><span>Colesterol e Triglicerídeos</span></a></li><li  class="level1 nav-2-11"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/alergia" ><span>Alergia</span></a></li><li  class="level1 nav-2-12"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/alimentos-e-bebidas" ><span>Alimentos e Bebidas</span></a></li><li  class="level1 nav-2-13"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/dentadura" ><span>Dentadura</span></a></li><li  class="level1 nav-2-14"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/fitoterapicos" ><span>Fitoterápicos</span></a></li><li  class="level1 nav-2-15"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/homeopaticos" ><span>Homeopáticos</span></a></li><li  class="level1 nav-2-16"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/leites-e-formulas-especiais" ><span>Leites e Fórmulas Especiais</span></a></li><li  class="level1 nav-2-17"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/mam-e-e-bebe" ><span>Mamãe e Bebê</span></a></li><li  class="level1 nav-2-18"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/meias-de-compress-o" ><span>Meias de Compressão</span></a></li><li  class="level1 nav-2-19"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/preservativos-e-lubrificantes" ><span>Preservativos e Lubrificantes</span></a></li><li  class="level1 nav-2-20 last"><a href="http://farmaciacristorei.com.br/saude-e-bem-estar/suplementos-e-vitaminas" ><span>Suplementos e Vitaminas</span></a></li></ul></li><li  class="level0 nav-3 level-top parent"><a href="http://farmaciacristorei.com.br/dermocosmeticos"  class="level-top" ><span>Dermocosméticos</span></a><ul class="level0"><li  class="level1 nav-3-1 first"><a href="http://farmaciacristorei.com.br/dermocosmeticos/episol" ><span>Mantecorp</span></a></li><li  class="level1 nav-3-2"><a href="http://farmaciacristorei.com.br/dermocosmeticos/cicatricure" ><span>Cicatricure</span></a></li><li  class="level1 nav-3-3"><a href="http://farmaciacristorei.com.br/dermocosmeticos/la-roche" ><span>La Roche Posay</span></a></li><li  class="level1 nav-3-4"><a href="http://farmaciacristorei.com.br/dermocosmeticos/skinceuticals" ><span>Skinceuticals</span></a></li><li  class="level1 nav-3-5"><a href="http://farmaciacristorei.com.br/dermocosmeticos/imecap" ><span>Imecap</span></a></li><li  class="level1 nav-3-6"><a href="http://farmaciacristorei.com.br/dermocosmeticos/neutrogena" ><span>Neutrogena</span></a></li><li  class="level1 nav-3-7"><a href="http://farmaciacristorei.com.br/dermocosmeticos/vichy" ><span>Vichy </span></a></li><li  class="level1 nav-3-8"><a href="http://farmaciacristorei.com.br/dermocosmeticos/isdin" ><span>Isdin</span></a></li><li  class="level1 nav-3-9"><a href="http://farmaciacristorei.com.br/dermocosmeticos/roc" ><span>Roc</span></a></li><li  class="level1 nav-3-10"><a href="http://farmaciacristorei.com.br/dermocosmeticos/eau-thermale-avene" ><span>Eau Thermale Avène</span></a></li><li  class="level1 nav-3-11"><a href="http://farmaciacristorei.com.br/dermocosmeticos/libbs" ><span>Libbs</span></a></li><li  class="level1 nav-3-12"><a href="http://farmaciacristorei.com.br/dermocosmeticos/profuse" ><span>Profuse </span></a></li><li  class="level1 nav-3-13"><a href="http://farmaciacristorei.com.br/dermocosmeticos/derms" ><span>Germed-Derms</span></a></li><li  class="level1 nav-3-14"><a href="http://farmaciacristorei.com.br/dermocosmeticos/biolab" ><span>Biolab</span></a></li><li  class="level1 nav-3-15"><a href="http://farmaciacristorei.com.br/dermocosmeticos/theraskin" ><span>TheraSkin</span></a></li><li  class="level1 nav-3-16"><a href="http://farmaciacristorei.com.br/dermocosmeticos/galderma-26" ><span>Galderma</span></a></li><li  class="level1 nav-3-17"><a href="http://farmaciacristorei.com.br/dermocosmeticos/sebamed" ><span>Sebamed </span></a></li><li  class="level1 nav-3-18 last"><a href="http://farmaciacristorei.com.br/dermocosmeticos/l-oreal-paris" ><span>L'oreal Paris </span></a></li></ul></li><li  class="level0 nav-4 level-top parent"><a href="http://farmaciacristorei.com.br/perfumaria"  class="level-top" ><span>Perfumaria</span></a><ul class="level0"><li  class="level1 nav-4-1 first"><a href="http://farmaciacristorei.com.br/perfumaria/acessorios" ><span>Acessórios</span></a></li><li  class="level1 nav-4-2"><a href="http://farmaciacristorei.com.br/perfumaria/acessorios-infantis" ><span>Acessórios Infantis</span></a></li><li  class="level1 nav-4-3"><a href="http://farmaciacristorei.com.br/perfumaria/banho" ><span>Banho</span></a></li><li  class="level1 nav-4-4"><a href="http://farmaciacristorei.com.br/perfumaria/barba" ><span>Barba</span></a></li><li  class="level1 nav-4-5"><a href="http://farmaciacristorei.com.br/perfumaria/depilac-o" ><span>Depilação</span></a></li><li  class="level1 nav-4-6"><a href="http://farmaciacristorei.com.br/perfumaria/fraldas" ><span>Fraldas infantis</span></a></li><li  class="level1 nav-4-7"><a href="http://farmaciacristorei.com.br/perfumaria/gestantes" ><span>Gestantes</span></a></li><li  class="level1 nav-4-8"><a href="http://farmaciacristorei.com.br/perfumaria/higiene-bucal" ><span>Higiene Bucal</span></a></li><li  class="level1 nav-4-9"><a href="http://farmaciacristorei.com.br/perfumaria/higiene-intima" ><span>Higiene Íntima</span></a></li><li  class="level1 nav-4-10"><a href="http://farmaciacristorei.com.br/perfumaria/maquiagem-e-beleza" ><span>Maquiagem e Beleza</span></a></li><li  class="level1 nav-4-11"><a href="http://farmaciacristorei.com.br/perfumaria/mam-e-e-bebe" ><span>Mamãe e Bebê</span></a></li><li  class="level1 nav-4-12 parent"><a href="http://farmaciacristorei.com.br/perfumaria/perfumes-41" ><span>Perfumes</span></a><ul class="level1"><li  class="level2 nav-4-12-1 first"><a href="http://farmaciacristorei.com.br/perfumaria/perfumes-41/femininos" ><span>Femininos </span></a></li><li  class="level2 nav-4-12-2 last"><a href="http://farmaciacristorei.com.br/perfumaria/perfumes-41/masculino" ><span>Masculino</span></a></li></ul></li><li  class="level1 nav-4-13"><a href="http://farmaciacristorei.com.br/perfumaria/tinturas" ><span>Tinturas</span></a></li><li  class="level1 nav-4-14"><a href="http://farmaciacristorei.com.br/perfumaria/hidratantes" ><span>Hidratantes</span></a></li><li  class="level1 nav-4-15"><a href="http://farmaciacristorei.com.br/perfumaria/pele-cicatriz" ><span>Pele/Cicatriz </span></a></li><li  class="level1 nav-4-16"><a href="http://farmaciacristorei.com.br/perfumaria/antitranspirante-e-desodorante" ><span>Antitranspirante e Desodorante </span></a></li><li  class="level1 nav-4-17"><a href="http://farmaciacristorei.com.br/perfumaria/cabelo" ><span>Cabelo </span></a></li><li  class="level1 nav-4-18"><a href="http://farmaciacristorei.com.br/perfumaria/repelentes" ><span>Repelentes</span></a></li><li  class="level1 nav-4-19"><a href="http://farmaciacristorei.com.br/perfumaria/protec-o-solar" ><span>Proteção Solar </span></a></li><li  class="level1 nav-4-20"><a href="http://farmaciacristorei.com.br/perfumaria/shampoo-e-condicionador" ><span>Shampoo e Condicionador</span></a></li><li  class="level1 nav-4-21"><a href="http://farmaciacristorei.com.br/perfumaria/tonalizante" ><span>Tonalizante </span></a></li><li  class="level1 nav-4-22 last"><a href="http://farmaciacristorei.com.br/perfumaria/talcos" ><span>Talcos </span></a></li></ul></li><li  class="level0 nav-5 level-top parent"><a href="http://farmaciacristorei.com.br/ortopedicos"  class="level-top" ><span>Ortopédicos</span></a><ul class="level0"><li  class="level1 nav-5-1 first"><a href="http://farmaciacristorei.com.br/ortopedicos/bolsas-e-cintas" ><span>Bolsas e Cintas</span></a></li><li  class="level1 nav-5-2"><a href="http://farmaciacristorei.com.br/ortopedicos/coluna" ><span>Coluna</span></a></li><li  class="level1 nav-5-3"><a href="http://farmaciacristorei.com.br/ortopedicos/joelho" ><span>Joelho</span></a></li><li  class="level1 nav-5-4"><a href="http://farmaciacristorei.com.br/ortopedicos/ombro-braco-e-cotovelo" ><span>Ombro, Braço e Cotovelo</span></a></li><li  class="level1 nav-5-5"><a href="http://farmaciacristorei.com.br/ortopedicos/pes" ><span>Pés</span></a></li><li  class="level1 nav-5-6"><a href="http://farmaciacristorei.com.br/ortopedicos/punhos-m-os-e-dedos" ><span>Punhos Mãos e Dedos</span></a></li><li  class="level1 nav-5-7"><a href="http://farmaciacristorei.com.br/ortopedicos/quadril-e-coxa" ><span>Quadril e Coxa</span></a></li><li  class="level1 nav-5-8"><a href="http://farmaciacristorei.com.br/ortopedicos/tornozelos" ><span>Tornozelos</span></a></li><li  class="level1 nav-5-9"><a href="http://farmaciacristorei.com.br/ortopedicos/hidrolight" ><span>Hidrolight </span></a></li><li  class="level1 nav-5-10 last"><a href="http://farmaciacristorei.com.br/ortopedicos/pernas" ><span>Pernas </span></a></li></ul></li><li  class="level0 nav-6 level-top parent"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes"  class="level-top" ><span>Aparelhos</span></a><ul class="level0"><li  class="level1 nav-6-1 first"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/aparelho-de-glicemia" ><span>Aparelho de Glicemia</span></a></li><li  class="level1 nav-6-2"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/aparelho-de-press-o" ><span>Aparelho de Pressão</span></a></li><li  class="level1 nav-6-3"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/balanca" ><span>Balança</span></a></li><li  class="level1 nav-6-4"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/barbeadores" ><span>Barbeadores</span></a></li><li  class="level1 nav-6-5"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/chapinhas" ><span>Chapinhas e Modeladores </span></a></li><li  class="level1 nav-6-6"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/inalador" ><span>Inalador</span></a></li><li  class="level1 nav-6-7"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/umidificador-de-ar" ><span>Umidificador de Ar</span></a></li><li  class="level1 nav-6-8"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/termometro" ><span>Termômetro</span></a></li><li  class="level1 nav-6-9"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/teste-de-gravidez" ><span>Teste de Gravidez </span></a></li><li  class="level1 nav-6-10"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/secador-de-cabelo" ><span>Secador de Cabelo</span></a></li><li  class="level1 nav-6-11"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/acessorios-para-inaladores" ><span>Acessórios para Inaladores </span></a></li><li  class="level1 nav-6-12"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/para-homens" ><span>Para Homens </span></a></li><li  class="level1 nav-6-13"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/para-mulheres" ><span>Para Mulheres </span></a></li><li  class="level1 nav-6-14"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/taiff" ><span>Taiff </span></a></li><li  class="level1 nav-6-15"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/m-os-e-pes" ><span>Mãos e Pés </span></a></li><li  class="level1 nav-6-16"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/massageador-e-esfoliador" ><span>Massageador e Esfoliador</span></a></li><li  class="level1 nav-6-17"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/accu-check" ><span>Accu Check</span></a></li><li  class="level1 nav-6-18"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/g-tech" ><span>G-Tech</span></a></li><li  class="level1 nav-6-19"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/lancetas-e-lancetadores" ><span>Lancetas e Lancetadores</span></a></li><li  class="level1 nav-6-20"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/tiras-para-teste" ><span>Tiras para Teste</span></a></li><li  class="level1 nav-6-21"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/acessorios" ><span>Acessórios</span></a></li><li  class="level1 nav-6-22 last"><a href="http://farmaciacristorei.com.br/aparelhos-e-testes/aparelhos-de-glicemia" ><span>Aparelhos de Glicemia</span></a></li></ul></li><li  class="level0 nav-7 last level-top parent"><a href="http://farmaciacristorei.com.br/super-ofertas"  class="level-top" ><span>Super Ofertas</span></a><ul class="level0"><li  class="level1 nav-7-1 first last"><a href="http://farmaciacristorei.com.br/super-ofertas/promocoes-especiais" ><span>Promoções Especiais</span></a></li></ul></li>                    </ul>
+                </div>
+            </div>
+        </div>
+		<div class="clear"></div>
+	</div>
+</div>
+
+<div class="nav-container">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+	            <!-- <div class="nav" style="width: ;"> -->
+                <div class="nav">
+                    <ul id="nav" class="grid-full"> 
+                                                                            
+                            <li  class="level nav-1 active first parent  no-level-thumbnail">
+<a  style="background-color:" href="http://farmaciacristorei.com.br/medicamentos">
+<div class="thumbnail"></div>
+<span style="color:;">Medicamentos</span><span class="spanchildren"></span>
+</a>
+<div class="level-top">
+<ul class="level  column4" style="width:930px;">
+
+<ul class=" level">
+
+<div class="catagory_children" style="width:950px;"><li  class="level1 nav-1-1 first item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/anticoncepcional">
+<div class="thumbnail"></div>
+<span style="color:;  ">Anticoncepcional</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-2 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/azia-e-ma-digest-o">
+<div class="thumbnail"></div>
+<span style="color:;  ">Azia e Má Digestão</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-3 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/dor-e-febre">
+<div class="thumbnail"></div>
+<span style="color:;  ">Dor e Febre</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-4 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/gripe-e-resfriado">
+<div class="thumbnail"></div>
+<span style="color:;  ">Gripe e resfriado</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-5 active item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/genericos">
+<div class="thumbnail"></div>
+<span style="color:;  ">Genéricos</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-6 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/cristalia">
+<div class="thumbnail"></div>
+<span style="color:;  ">Cristália </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-7 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/ache">
+<div class="thumbnail"></div>
+<span style="color:;  ">Ache </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-8 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/theraskin">
+<div class="thumbnail"></div>
+<span style="color:;  ">TheraSkin</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-9 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/galderma">
+<div class="thumbnail"></div>
+<span style="color:;  ">Galderma</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-10 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/alcon">
+<div class="thumbnail"></div>
+<span style="color:;  ">Alcon </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-11 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/allergan">
+<div class="thumbnail"></div>
+<span style="color:;  ">Allergan</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-12 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/libbs">
+<div class="thumbnail"></div>
+<span style="color:;  ">Libbs </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-13 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/takeda">
+<div class="thumbnail"></div>
+<span style="color:;  ">Takeda </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-14 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/aspen">
+<div class="thumbnail"></div>
+<span style="color:;  ">Aspen </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-15 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/medicamento-similares">
+<div class="thumbnail"></div>
+<span style="color:;  ">Medicamento Similares </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-16 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/medley">
+<div class="thumbnail"></div>
+<span style="color:;  ">Medley </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-17 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/astrazeneca-4">
+<div class="thumbnail"></div>
+<span style="color:;  ">AstraZeneca</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-1-18 last item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/medicamentos/supera">
+<div class="thumbnail"></div>
+<span style="color:;  ">Supera</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li></div>
+</ul>
+</ul>
+</div>
+</li><li  class="level nav-2 parent  no-level-thumbnail">
+<a  style="background-color:" href="http://farmaciacristorei.com.br/saude-e-bem-estar">
+<div class="thumbnail"></div>
+<span style="color:;">Saúde</span><span class="spanchildren"></span>
+</a>
+<div class="level-top">
+<ul class="level  column4" style="width:930px;">
+
+<ul class=" level">
+
+<div class="catagory_children" style="width:950px;"><li  class="level1 nav-2-1 first item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/chegadecalvicie">
+<div class="thumbnail"></div>
+<span style="color:;  ">Calvície</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-2 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/colageno">
+<div class="thumbnail"></div>
+<span style="color:;  ">Colágeno </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-3 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/vitaminas-e-suplementos">
+<div class="thumbnail"></div>
+<span style="color:;  ">Vitaminas e Suplementos</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-4 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/saude-da-mulher">
+<div class="thumbnail"></div>
+<span style="color:;  ">Saúde da Mulher</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-5 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/saude-ossea">
+<div class="thumbnail"></div>
+<span style="color:;  ">Saúde óssea</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-6 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/saude-do-homem">
+<div class="thumbnail"></div>
+<span style="color:;  ">Saúde do Homem</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-7 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/disfunc-o-eretil">
+<div class="thumbnail"></div>
+<span style="color:;  ">Disfunção Erétil</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-8 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/hipertens-o">
+<div class="thumbnail"></div>
+<span style="color:;  ">Hipertensão </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-9 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/inflamac-o">
+<div class="thumbnail"></div>
+<span style="color:;  ">Inflamação</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-10 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/colesterol-e-triglicerideos">
+<div class="thumbnail"></div>
+<span style="color:;  ">Colesterol e Triglicerídeos</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-11 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/alergia">
+<div class="thumbnail"></div>
+<span style="color:;  ">Alergia</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-12 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/alimentos-e-bebidas">
+<div class="thumbnail"></div>
+<span style="color:;  ">Alimentos e Bebidas</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-13 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/dentadura">
+<div class="thumbnail"></div>
+<span style="color:;  ">Dentadura</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-14 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/fitoterapicos">
+<div class="thumbnail"></div>
+<span style="color:;  ">Fitoterápicos</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-15 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/homeopaticos">
+<div class="thumbnail"></div>
+<span style="color:;  ">Homeopáticos</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-16 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/leites-e-formulas-especiais">
+<div class="thumbnail"></div>
+<span style="color:;  ">Leites e Fórmulas Especiais</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-17 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/mam-e-e-bebe">
+<div class="thumbnail"></div>
+<span style="color:;  ">Mamãe e Bebê</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-18 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/meias-de-compress-o">
+<div class="thumbnail"></div>
+<span style="color:;  ">Meias de Compressão</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-19 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/preservativos-e-lubrificantes">
+<div class="thumbnail"></div>
+<span style="color:;  ">Preservativos e Lubrificantes</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-2-20 last item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/saude-e-bem-estar/suplementos-e-vitaminas">
+<div class="thumbnail"></div>
+<span style="color:;  ">Suplementos e Vitaminas</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li></div>
+</ul>
+</ul>
+</div>
+</li><li  class="level nav-3 parent  no-level-thumbnail">
+<a  style="background-color:" href="http://farmaciacristorei.com.br/dermocosmeticos">
+<div class="thumbnail"></div>
+<span style="color:;">Dermocosméticos</span><span class="spanchildren"></span>
+</a>
+<div class="level-top">
+<ul class="level  column4" style="width:930px;">
+
+<ul class=" level">
+
+<div class="catagory_children" style="width:950px;"><li  class="level1 nav-3-1 first item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/episol">
+<div class="thumbnail"></div>
+<span style="color:;  ">Mantecorp</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-2 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/cicatricure">
+<div class="thumbnail"></div>
+<span style="color:;  ">Cicatricure</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-3 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/la-roche">
+<div class="thumbnail"></div>
+<span style="color:;  ">La Roche Posay</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-4 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/skinceuticals">
+<div class="thumbnail"></div>
+<span style="color:;  ">Skinceuticals</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-5 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/imecap">
+<div class="thumbnail"></div>
+<span style="color:;  ">Imecap</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-6 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/neutrogena">
+<div class="thumbnail"></div>
+<span style="color:;  ">Neutrogena</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-7 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/vichy">
+<div class="thumbnail"></div>
+<span style="color:;  ">Vichy </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-8 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/isdin">
+<div class="thumbnail"></div>
+<span style="color:;  ">Isdin</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-9 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/roc">
+<div class="thumbnail"></div>
+<span style="color:;  ">Roc</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-10 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/eau-thermale-avene">
+<div class="thumbnail"></div>
+<span style="color:;  ">Eau Thermale Avène</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-11 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/libbs">
+<div class="thumbnail"></div>
+<span style="color:;  ">Libbs</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-12 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/profuse">
+<div class="thumbnail"></div>
+<span style="color:;  ">Profuse </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-13 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/derms">
+<div class="thumbnail"></div>
+<span style="color:;  ">Germed-Derms</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-14 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/biolab">
+<div class="thumbnail"></div>
+<span style="color:;  ">Biolab</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-15 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/theraskin">
+<div class="thumbnail"></div>
+<span style="color:;  ">TheraSkin</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-16 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/galderma-26">
+<div class="thumbnail"></div>
+<span style="color:;  ">Galderma</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-17 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/sebamed">
+<div class="thumbnail"></div>
+<span style="color:;  ">Sebamed </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-3-18 last item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/dermocosmeticos/l-oreal-paris">
+<div class="thumbnail"></div>
+<span style="color:;  ">L'oreal Paris </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li></div>
+</ul>
+</ul>
+</div>
+</li><li  class="level nav-4 parent  no-level-thumbnail">
+<a  style="background-color:" href="http://farmaciacristorei.com.br/perfumaria">
+<div class="thumbnail"></div>
+<span style="color:;">Perfumaria</span><span class="spanchildren"></span>
+</a>
+<div class="level-top">
+<ul class="level  column4" style="width:930px;">
+
+<ul class=" level">
+
+<div class="catagory_children" style="width:950px;"><li  class="level1 nav-4-1 first item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/acessorios">
+<div class="thumbnail"></div>
+<span style="color:;  ">Acessórios</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-2 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/acessorios-infantis">
+<div class="thumbnail"></div>
+<span style="color:;  ">Acessórios Infantis</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-3 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/banho">
+<div class="thumbnail"></div>
+<span style="color:;  ">Banho</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-4 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/barba">
+<div class="thumbnail"></div>
+<span style="color:;  ">Barba</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-5 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/depilac-o">
+<div class="thumbnail"></div>
+<span style="color:;  ">Depilação</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-6 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/fraldas">
+<div class="thumbnail"></div>
+<span style="color:;  ">Fraldas infantis</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-7 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/gestantes">
+<div class="thumbnail"></div>
+<span style="color:;  ">Gestantes</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-8 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/higiene-bucal">
+<div class="thumbnail"></div>
+<span style="color:;  ">Higiene Bucal</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-9 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/higiene-intima">
+<div class="thumbnail"></div>
+<span style="color:;  ">Higiene Íntima</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-10 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/maquiagem-e-beleza">
+<div class="thumbnail"></div>
+<span style="color:;  ">Maquiagem e Beleza</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-11 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/mam-e-e-bebe">
+<div class="thumbnail"></div>
+<span style="color:;  ">Mamãe e Bebê</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-12 parent item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/perfumes-41">
+<div class="thumbnail"></div>
+<span style="color:;">Perfumes</span><span class="spanchildren"></span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+<div class="catagory_children  column1"><li  class="level2 nav-4-12-1 first  no-level-thumbnail">
+<a  style="background-color:" href="http://farmaciacristorei.com.br/perfumaria/perfumes-41/femininos">
+<div class="thumbnail"></div>
+<span style="color:;  ">Femininos </span>
+</a>
+<div class="level-top">
+<ul class="level2  column1">
+
+<ul class=" level2">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level2 nav-4-12-2 last  no-level-thumbnail">
+<a  style="background-color:" href="http://farmaciacristorei.com.br/perfumaria/perfumes-41/masculino">
+<div class="thumbnail"></div>
+<span style="color:;  ">Masculino</span>
+</a>
+<div class="level-top">
+<ul class="level2  column1">
+
+<ul class=" level2">
+
+</ul>
+</ul>
+</div>
+</li></div>
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-13 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/tinturas">
+<div class="thumbnail"></div>
+<span style="color:;  ">Tinturas</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-14 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/hidratantes">
+<div class="thumbnail"></div>
+<span style="color:;  ">Hidratantes</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-15 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/pele-cicatriz">
+<div class="thumbnail"></div>
+<span style="color:;  ">Pele/Cicatriz </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-16 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/antitranspirante-e-desodorante">
+<div class="thumbnail"></div>
+<span style="color:;  ">Antitranspirante e Desodorante </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-17 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/cabelo">
+<div class="thumbnail"></div>
+<span style="color:;  ">Cabelo </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-18 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/repelentes">
+<div class="thumbnail"></div>
+<span style="color:;  ">Repelentes</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-19 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/protec-o-solar">
+<div class="thumbnail"></div>
+<span style="color:;  ">Proteção Solar </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-20 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/shampoo-e-condicionador">
+<div class="thumbnail"></div>
+<span style="color:;  ">Shampoo e Condicionador</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-21 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/tonalizante">
+<div class="thumbnail"></div>
+<span style="color:;  ">Tonalizante </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-4-22 last item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/perfumaria/talcos">
+<div class="thumbnail"></div>
+<span style="color:;  ">Talcos </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li></div>
+</ul>
+</ul>
+</div>
+</li><li  class="level nav-5 parent  no-level-thumbnail">
+<a  style="background-color:" href="http://farmaciacristorei.com.br/ortopedicos">
+<div class="thumbnail"></div>
+<span style="color:;">Ortopédicos</span><span class="spanchildren"></span>
+</a>
+<div class="level-top">
+<ul class="level  column4" style="width:930px;">
+
+<ul class=" level">
+
+<div class="catagory_children" style="width:950px;"><li  class="level1 nav-5-1 first item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/ortopedicos/bolsas-e-cintas">
+<div class="thumbnail"></div>
+<span style="color:;  ">Bolsas e Cintas</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-5-2 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/ortopedicos/coluna">
+<div class="thumbnail"></div>
+<span style="color:;  ">Coluna</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-5-3 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/ortopedicos/joelho">
+<div class="thumbnail"></div>
+<span style="color:;  ">Joelho</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-5-4 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/ortopedicos/ombro-braco-e-cotovelo">
+<div class="thumbnail"></div>
+<span style="color:;  ">Ombro, Braço e Cotovelo</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-5-5 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/ortopedicos/pes">
+<div class="thumbnail"></div>
+<span style="color:;  ">Pés</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-5-6 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/ortopedicos/punhos-m-os-e-dedos">
+<div class="thumbnail"></div>
+<span style="color:;  ">Punhos Mãos e Dedos</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-5-7 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/ortopedicos/quadril-e-coxa">
+<div class="thumbnail"></div>
+<span style="color:;  ">Quadril e Coxa</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-5-8 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/ortopedicos/tornozelos">
+<div class="thumbnail"></div>
+<span style="color:;  ">Tornozelos</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-5-9 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/ortopedicos/hidrolight">
+<div class="thumbnail"></div>
+<span style="color:;  ">Hidrolight </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-5-10 last item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/ortopedicos/pernas">
+<div class="thumbnail"></div>
+<span style="color:;  ">Pernas </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li></div>
+</ul>
+</ul>
+</div>
+</li><li  class="level nav-6 parent  no-level-thumbnail">
+<a  style="background-color:" href="http://farmaciacristorei.com.br/aparelhos-e-testes">
+<div class="thumbnail"></div>
+<span style="color:;">Aparelhos</span><span class="spanchildren"></span>
+</a>
+<div class="level-top">
+<ul class="level  column4" style="width:930px;">
+
+<ul class=" level">
+
+<div class="catagory_children" style="width:950px;"><li  class="level1 nav-6-1 first item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/aparelho-de-glicemia">
+<div class="thumbnail"></div>
+<span style="color:;  ">Aparelho de Glicemia</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-2 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/aparelho-de-press-o">
+<div class="thumbnail"></div>
+<span style="color:;  ">Aparelho de Pressão</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-3 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/balanca">
+<div class="thumbnail"></div>
+<span style="color:;  ">Balança</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-4 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/barbeadores">
+<div class="thumbnail"></div>
+<span style="color:;  ">Barbeadores</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-5 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/chapinhas">
+<div class="thumbnail"></div>
+<span style="color:;  ">Chapinhas e Modeladores </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-6 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/inalador">
+<div class="thumbnail"></div>
+<span style="color:;  ">Inalador</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-7 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/umidificador-de-ar">
+<div class="thumbnail"></div>
+<span style="color:;  ">Umidificador de Ar</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-8 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/termometro">
+<div class="thumbnail"></div>
+<span style="color:;  ">Termômetro</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-9 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/teste-de-gravidez">
+<div class="thumbnail"></div>
+<span style="color:;  ">Teste de Gravidez </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-10 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/secador-de-cabelo">
+<div class="thumbnail"></div>
+<span style="color:;  ">Secador de Cabelo</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-11 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/acessorios-para-inaladores">
+<div class="thumbnail"></div>
+<span style="color:;  ">Acessórios para Inaladores </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-12 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/para-homens">
+<div class="thumbnail"></div>
+<span style="color:;  ">Para Homens </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-13 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/para-mulheres">
+<div class="thumbnail"></div>
+<span style="color:;  ">Para Mulheres </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-14 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/taiff">
+<div class="thumbnail"></div>
+<span style="color:;  ">Taiff </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-15 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/m-os-e-pes">
+<div class="thumbnail"></div>
+<span style="color:;  ">Mãos e Pés </span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-16 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/massageador-e-esfoliador">
+<div class="thumbnail"></div>
+<span style="color:;  ">Massageador e Esfoliador</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-17 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/accu-check">
+<div class="thumbnail"></div>
+<span style="color:;  ">Accu Check</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-18 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/g-tech">
+<div class="thumbnail"></div>
+<span style="color:;  ">G-Tech</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-19 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/lancetas-e-lancetadores">
+<div class="thumbnail"></div>
+<span style="color:;  ">Lancetas e Lancetadores</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-20 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/tiras-para-teste">
+<div class="thumbnail"></div>
+<span style="color:;  ">Tiras para Teste</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-21 item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/acessorios">
+<div class="thumbnail"></div>
+<span style="color:;  ">Acessórios</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li><li  class="level1 nav-6-22 last item  no-level-thumbnail"style="width:21.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/aparelhos-e-testes/aparelhos-de-glicemia">
+<div class="thumbnail"></div>
+<span style="color:;  ">Aparelhos de Glicemia</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li></div>
+</ul>
+</ul>
+</div>
+</li><li  class="level nav-7 last parent  no-level-thumbnail">
+<a  style="background-color:#ff0000" href="http://farmaciacristorei.com.br/super-ofertas">
+<div class="thumbnail"></div>
+<span style="color:#ffffff;">Super Ofertas</span><span class="spanchildren"></span>
+</a>
+<div class="level-top">
+<ul class="level  column1" style="width:930px;">
+
+<ul class=" level">
+
+<div class="catagory_children" style="width:950px;"><li  class="level1 nav-7-1 first last item  no-level-thumbnail"style="width:96.842105263158%;">
+<a style="background-color: border-bottom: 2px solid " class="catagory-level1" href="http://farmaciacristorei.com.br/super-ofertas/promocoes-especiais">
+<div class="thumbnail"></div>
+<span style="color:;  ">Promoções Especiais</span>
+</a>
+
+<div class="level-top">
+<ul class="level1  column1">
+
+<ul class=" level1">
+
+</ul>
+</ul>
+</div>
+</li></div>
+</ul>
+</ul>
+</div>
+</li>                                                        
+                            <li></li>
+                     </ul>
+                </div>
+            </div>
+        </div>
+	</div>
+</div> <!-- end: nav-container -->
+<a href="https://www.facebook.com/CristoReiOficial/posts/518870068237232?notif_t=like&notif_id=1494521265941403" target="_blank"  title="Facebook Farmácia Cristo Rei">
+<img src='http://farmaciacristorei.com.br/skin/frontend/default/theme692/images/dia-das-maes.png' alt="Dia do Consumidor" style="width:100%">
+</a>        <div class="main-container col2-left-layout">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="main">
+							<div class="row">
+								<div class="col-main col-xs-12 col-sm-9">
+									<div class="padding-s">
+										<div class="breadcrumbs">
+    <ul>
+                    <li class="home">
+                            <a href="http://farmaciacristorei.com.br/" title="Ir p/ Página Inicial">Início</a>
+                                        <span>></span>
+                        </li>
+                    <li class="category98">
+                            <a href="http://farmaciacristorei.com.br/medicamentos" title="">Medicamentos</a>
+                                        <span>></span>
+                        </li>
+                    <li class="category115">
+                            <strong>Genéricos</strong>
+                                    </li>
+            </ul>
+</div>
+																				<div class="page-title category-title">
+        <h1>Genéricos</h1>
+</div>
+
+
+
+
+    
+    <div class="category-products">
+    <div class="toolbar">
+    <div class="pager">
+        <p class="amount">
+                            Itens 1 para 12 de 172 total                    </p>
+
+        <div class="limiter">
+            <label>Exibir</label>
+            <select onchange="setLocation(this.value)">
+                            <option value="http://farmaciacristorei.com.br/medicamentos/genericos?limit=12" selected="selected">
+                    12                </option>
+                            <option value="http://farmaciacristorei.com.br/medicamentos/genericos?limit=24">
+                    24                </option>
+                            <option value="http://farmaciacristorei.com.br/medicamentos/genericos?limit=36">
+                    36                </option>
+                        </select>         </div>
+
+        
+    
+    
+    
+        <div class="pages">
+        <strong>Página:</strong>
+        <ol>
+        
+        
+        
+                                    <li class="current">1</li>
+                                                <li><a href="http://farmaciacristorei.com.br/medicamentos/genericos?p=2">2</a></li>
+                                                <li><a href="http://farmaciacristorei.com.br/medicamentos/genericos?p=3">3</a></li>
+                                                <li><a href="http://farmaciacristorei.com.br/medicamentos/genericos?p=4">4</a></li>
+                                                <li><a href="http://farmaciacristorei.com.br/medicamentos/genericos?p=5">5</a></li>
+                    
+
+        
+        
+                    <li>
+                <a class="next i-next fa fa-caret-right" href="http://farmaciacristorei.com.br/medicamentos/genericos?p=2" title="Próximo">
+                                            <!-- <img src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/images/pager_arrow_right.gif" alt="Próximo" class="v-middle" /> -->
+                                    </a>
+            </li>
+                </ol>
+
+    </div>
+    
+    
+
+    </div>
+
+        <div class="sorter">
+                <p class="view-mode">
+                                    <label>Visualizar como:</label>
+                                                <strong title="Tabela" class="grid">Tabela</strong>&nbsp;
+                                                                <a href="http://farmaciacristorei.com.br/medicamentos/genericos?mode=list" title="Lista" class="list">Lista</a>&nbsp;
+                                                </p>
+            
+        <div class="sort-by">
+			<div class="right">
+									<a class="fa fa-arrow-up" href="http://farmaciacristorei.com.br/medicamentos/genericos?dir=desc&amp;order=position" title="Direção Descendente"><!-- <img src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/images/i_asc_arrow.gif" alt="Direção Descendente" class="v-middle" /> --></a>
+							</div>
+            <label>Ordem</label>
+            <select onchange="setLocation(this.value)">
+                            <option value="http://farmaciacristorei.com.br/medicamentos/genericos?dir=asc&amp;order=position" selected="selected">
+                    Relevância                </option>
+                            <option value="http://farmaciacristorei.com.br/medicamentos/genericos?dir=asc&amp;order=name">
+                    Nome                </option>
+                            <option value="http://farmaciacristorei.com.br/medicamentos/genericos?dir=asc&amp;order=price">
+                    Preço                </option>
+                            <option value="http://farmaciacristorei.com.br/medicamentos/genericos?dir=asc&amp;order=googleshopping">
+                    Google Shopping                </option>
+                        </select>
+        </div>
+    </div>
+    </div>
+        
+    
+                            <ul class="products-grid grid-clol-6">
+                    <li class="item first col-item4" itemscope itemtype="http://schema.org/product">
+                <div class="wrapper-hover">
+                    <a  href="http://farmaciacristorei.com.br/medicamentos/genericos/anastrozol-1mg-30comprimidos.html" title="Anastrozol 1MG 30 Comprimidos " class="product-image" itemprop="url"><img  src="http://farmaciacristorei.com.br/media/catalog/product/cache/1/small_image/270x414/9df78eab33525d08d6e5fb8d27136e95/a/n/anastrozol.jpg" alt="Anastrozol 1MG 30 Comprimidos " itemprop="image"/></a>
+                    <div class="product-shop">
+                        
+
+                        
+    <div class="price-box" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                                                                <span class="regular-price" itemprop="price" id="product-price-128">
+                                            <span class="price">R$64,90</span>                                    </span>
+                        
+        </div>
+
+                        <h3 class="product-name">
+                            <a href="http://farmaciacristorei.com.br/medicamentos/genericos/anastrozol-1mg-30comprimidos.html" title="Anastrozol 1MG 30 Comprimidos " itemprop="name">
+                                Anastrozol 1MG 30 Comprimidos                             </a>
+                        </h3>   
+                        <div class="desc_grid" itemprop="description">Anastrozol &eacute; um medicamento, gen&eacute;rico da Eurofarma para mulheres, desen...</div>
+
+                        
+                        <div class="actions">
+                                                            <button type="button" title="Comprar" class="button btn-cart" onclick="setLocation('http://farmaciacristorei.com.br/checkout/cart/add/uenc/aHR0cDovL2Zhcm1hY2lhY3Jpc3RvcmVpLmNvbS5ici9tZWRpY2FtZW50b3MvZ2VuZXJpY29z/product/128/form_key/PtvynVSFEO99QgEN/')"><span><span>Comprar</span></span></button>
+                                                       
+                        </div>
+                    </div>
+                                        <div class="label-product">             
+                                                                    </div>
+                    <div class="clear"></div>
+                </div>
+            </li>
+                                    <li class="item col-item4" itemscope itemtype="http://schema.org/product">
+                <div class="wrapper-hover">
+                    <a  href="http://farmaciacristorei.com.br/medicamentos/genericos/letrozol-2-5mg-30-comprimidos.html" title="Letrozol 2,5MG 30 Comprimidos " class="product-image" itemprop="url"><img  src="http://farmaciacristorei.com.br/media/catalog/product/cache/1/small_image/270x414/9df78eab33525d08d6e5fb8d27136e95/l/e/letrozol.jpg" alt="Letrozol 2,5MG 30 Comprimidos " itemprop="image"/></a>
+                    <div class="product-shop">
+                        
+
+                        
+    <div class="price-box" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                                                                <span class="regular-price" itemprop="price" id="product-price-160">
+                                            <span class="price">R$176,49</span>                                    </span>
+                        
+        </div>
+
+                        <h3 class="product-name">
+                            <a href="http://farmaciacristorei.com.br/medicamentos/genericos/letrozol-2-5mg-30-comprimidos.html" title="Letrozol 2,5MG 30 Comprimidos " itemprop="name">
+                                Letrozol 2,5MG 30 Comprimidos                             </a>
+                        </h3>   
+                        <div class="desc_grid" itemprop="description">Para mulheres com c&acirc;ncer de mama na p&oacute;s-menopausa, o medicamento &eacute...</div>
+
+                        
+                        <div class="actions">
+                                                            <button type="button" title="Comprar" class="button btn-cart" onclick="setLocation('http://farmaciacristorei.com.br/checkout/cart/add/uenc/aHR0cDovL2Zhcm1hY2lhY3Jpc3RvcmVpLmNvbS5ici9tZWRpY2FtZW50b3MvZ2VuZXJpY29z/product/160/form_key/PtvynVSFEO99QgEN/')"><span><span>Comprar</span></span></button>
+                                                       
+                        </div>
+                    </div>
+                                        <div class="label-product">             
+                                                                    </div>
+                    <div class="clear"></div>
+                </div>
+            </li>
+                                    <li class="item col-item4" itemscope itemtype="http://schema.org/product">
+                <div class="wrapper-hover">
+                    <a  href="http://farmaciacristorei.com.br/medicamentos/genericos/dienogeste-2mg-c-30.html" title="Dienogeste 2MG com 30 Comprimidos " class="product-image" itemprop="url"><img  src="http://farmaciacristorei.com.br/media/catalog/product/cache/1/small_image/270x414/9df78eab33525d08d6e5fb8d27136e95/d/i/dienogeste.jpg" alt="Dienogeste 2MG com 30 Comprimidos " itemprop="image"/></a>
+                    <div class="product-shop">
+                        
+
+                        
+    <div class="price-box" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                                                                <span class="regular-price" itemprop="price" id="product-price-171">
+                                            <span class="price">R$73,95</span>                                    </span>
+                        
+        </div>
+
+                        <h3 class="product-name">
+                            <a href="http://farmaciacristorei.com.br/medicamentos/genericos/dienogeste-2mg-c-30.html" title="Dienogeste 2MG com 30 Comprimidos " itemprop="name">
+                                Dienogeste 2MG com 30 Comprimidos                             </a>
+                        </h3>   
+                        <div class="desc_grid" itemprop="description">Dienogeste 2mg Gen&eacute;rico Eurofarma 30 Comprimidos &eacute; um horm&ocirc;nio qu...</div>
+
+                        
+                        <div class="actions">
+                                                            <p class="availability out-of-stock"><span>Consulte-nos</span></p>
+                                                       
+                        </div>
+                    </div>
+                                        <div class="label-product">             
+                                                                    </div>
+                    <div class="clear"></div>
+                </div>
+            </li>
+                                    <li class="item last col-item4" itemscope itemtype="http://schema.org/product">
+                <div class="wrapper-hover">
+                    <a  href="http://farmaciacristorei.com.br/medicamentos/genericos/cicatrimed-gel-30g.html" title="Cicatrimed Gel 30G " class="product-image" itemprop="url"><img  src="http://farmaciacristorei.com.br/media/catalog/product/cache/1/small_image/270x414/9df78eab33525d08d6e5fb8d27136e95/m/e/menor-preco-cicatrimed-gel.jpg" alt="Cicatrimed Gel 30G " itemprop="image"/></a>
+                    <div class="product-shop">
+                        
+
+                        
+    <div class="price-box" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                                                                <span class="regular-price" itemprop="price" id="product-price-500">
+                                            <span class="price">R$10,90</span>                                    </span>
+                        
+        </div>
+
+                        <h3 class="product-name">
+                            <a href="http://farmaciacristorei.com.br/medicamentos/genericos/cicatrimed-gel-30g.html" title="Cicatrimed Gel 30G " itemprop="name">
+                                Cicatrimed Gel 30G                             </a>
+                        </h3>   
+                        <div class="desc_grid" itemprop="description">&Eacute; um hidratante e umectante desenvolvido com extratos especiais que melhoram o...</div>
+
+                        
+                        <div class="actions">
+                                                            <p class="availability out-of-stock"><span>Consulte-nos</span></p>
+                                                       
+                        </div>
+                    </div>
+                                        <div class="label-product">             
+                                                                    </div>
+                    <div class="clear"></div>
+                </div>
+            </li>
+                </ul>
+                                <ul class="products-grid grid-clol-6">
+                    <li class="item first col-item4" itemscope itemtype="http://schema.org/product">
+                <div class="wrapper-hover">
+                    <a  href="http://farmaciacristorei.com.br/medicamentos/genericos/afrat-150mg-com-1-comprimido.html" title="IBANDRONATO DE  SÓDIO 150mg com 1 Comprimido (Afrat )" class="product-image" itemprop="url"><img  src="http://farmaciacristorei.com.br/media/catalog/product/cache/1/small_image/270x414/9df78eab33525d08d6e5fb8d27136e95/a/r/artico_2.jpg" alt="IBANDRONATO DE  SÓDIO 150mg com 1 Comprimido (Afrat )" itemprop="image"/></a>
+                    <div class="product-shop">
+                        
+
+                        
+    <div class="price-box" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                                                                <span class="regular-price" itemprop="price" id="product-price-568">
+                                            <span class="price">R$49,99</span>                                    </span>
+                        
+        </div>
+
+                        <h3 class="product-name">
+                            <a href="http://farmaciacristorei.com.br/medicamentos/genericos/afrat-150mg-com-1-comprimido.html" title="IBANDRONATO DE  SÓDIO 150mg com 1 Comprimido (Afrat )" itemprop="name">
+                                IBANDRONATO DE  SÓDIO 150mg com 1 Comprimido (Afra...                            </a>
+                        </h3>   
+                        <div class="desc_grid" itemprop="description">ibandronato de s&oacute;dio&nbsp;monoidratado 150mg com 1 comprimido
+&nbsp;</div>
+
+                        
+                        <div class="actions">
+                                                            <button type="button" title="Comprar" class="button btn-cart" onclick="setLocation('http://farmaciacristorei.com.br/checkout/cart/add/uenc/aHR0cDovL2Zhcm1hY2lhY3Jpc3RvcmVpLmNvbS5ici9tZWRpY2FtZW50b3MvZ2VuZXJpY29z/product/568/form_key/PtvynVSFEO99QgEN/')"><span><span>Comprar</span></span></button>
+                                                       
+                        </div>
+                    </div>
+                                        <div class="label-product">             
+                                                                    </div>
+                    <div class="clear"></div>
+                </div>
+            </li>
+                                    <li class="item col-item4" itemscope itemtype="http://schema.org/product">
+                <div class="wrapper-hover">
+                    <a  href="http://farmaciacristorei.com.br/medicamentos/genericos/zart-50mg-com-30-cpr-losartana-potassica-1471.html" title="Losartana Potássica 50mg com 30 cpr  Eurofarma" class="product-image" itemprop="url"><img  src="http://farmaciacristorei.com.br/media/catalog/product/cache/1/small_image/270x414/9df78eab33525d08d6e5fb8d27136e95/z/a/zart_1.jpg" alt="Losartana Potássica 50mg com 30 cpr  Eurofarma" itemprop="image"/></a>
+                    <div class="product-shop">
+                        
+
+                        
+    <div class="price-box" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                                                                <span class="regular-price" itemprop="price" id="product-price-1067">
+                                            <span class="price">R$7,90</span>                                    </span>
+                        
+        </div>
+
+                        <h3 class="product-name">
+                            <a href="http://farmaciacristorei.com.br/medicamentos/genericos/zart-50mg-com-30-cpr-losartana-potassica-1471.html" title="Losartana Potássica 50mg com 30 cpr  Eurofarma" itemprop="name">
+                                Losartana Potássica 50mg com 30 cpr  Eurofarma                            </a>
+                        </h3>   
+                        <div class="desc_grid" itemprop="description">Seu m&eacute;dico receitou &nbsp;(losartana pot&aacute;ssica) para tratar sua hiperte...</div>
+
+                        
+                        <div class="actions">
+                                                            <button type="button" title="Comprar" class="button btn-cart" onclick="setLocation('http://farmaciacristorei.com.br/checkout/cart/add/uenc/aHR0cDovL2Zhcm1hY2lhY3Jpc3RvcmVpLmNvbS5ici9tZWRpY2FtZW50b3MvZ2VuZXJpY29z/product/1067/form_key/PtvynVSFEO99QgEN/')"><span><span>Comprar</span></span></button>
+                                                       
+                        </div>
+                    </div>
+                                        <div class="label-product">             
+                                                                    </div>
+                    <div class="clear"></div>
+                </div>
+            </li>
+                                    <li class="item col-item4" itemscope itemtype="http://schema.org/product">
+                <div class="wrapper-hover">
+                    <a  href="http://farmaciacristorei.com.br/medicamentos/genericos/zart-50mg-com-30-cpr-losartana-potassica.html" title="Losartana Potássica 50mg com 30 cpr  Prati Donaduzzi" class="product-image" itemprop="url"><img  src="http://farmaciacristorei.com.br/media/catalog/product/cache/1/small_image/270x414/9df78eab33525d08d6e5fb8d27136e95/z/a/zart_1_1.jpg" alt="Losartana Potássica 50mg com 30 cpr  Prati Donaduzzi" itemprop="image"/></a>
+                    <div class="product-shop">
+                        
+
+                        
+    <div class="price-box" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                                                                <span class="regular-price" itemprop="price" id="product-price-1068">
+                                            <span class="price">R$7,90</span>                                    </span>
+                        
+        </div>
+
+                        <h3 class="product-name">
+                            <a href="http://farmaciacristorei.com.br/medicamentos/genericos/zart-50mg-com-30-cpr-losartana-potassica.html" title="Losartana Potássica 50mg com 30 cpr  Prati Donaduzzi" itemprop="name">
+                                Losartana Potássica 50mg com 30 cpr  Prati Donaduz...                            </a>
+                        </h3>   
+                        <div class="desc_grid" itemprop="description">Seu m&eacute;dico receitou &nbsp;(losartana pot&aacute;ssica) para tratar sua hiperte...</div>
+
+                        
+                        <div class="actions">
+                                                            <button type="button" title="Comprar" class="button btn-cart" onclick="setLocation('http://farmaciacristorei.com.br/checkout/cart/add/uenc/aHR0cDovL2Zhcm1hY2lhY3Jpc3RvcmVpLmNvbS5ici9tZWRpY2FtZW50b3MvZ2VuZXJpY29z/product/1068/form_key/PtvynVSFEO99QgEN/')"><span><span>Comprar</span></span></button>
+                                                       
+                        </div>
+                    </div>
+                                        <div class="label-product">             
+                                                                    </div>
+                    <div class="clear"></div>
+                </div>
+            </li>
+                                    <li class="item last col-item4" itemscope itemtype="http://schema.org/product">
+                <div class="wrapper-hover">
+                    <a  href="http://farmaciacristorei.com.br/medicamentos/genericos/telmisartana-40mg-com-30-comprimidos-ranbaxy-2091.html" title="Telmisartana 40mg com 30 comprimidos " class="product-image" itemprop="url"><img  src="http://farmaciacristorei.com.br/media/catalog/product/cache/1/small_image/270x414/9df78eab33525d08d6e5fb8d27136e95/t/e/telmisartana.jpg" alt="Telmisartana 40mg com 30 comprimidos " itemprop="image"/></a>
+                    <div class="product-shop">
+                        
+
+                        
+    <div class="price-box" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                                                                <span class="regular-price" itemprop="price" id="product-price-1093">
+                                            <span class="price">R$29,99</span>                                    </span>
+                        
+        </div>
+
+                        <h3 class="product-name">
+                            <a href="http://farmaciacristorei.com.br/medicamentos/genericos/telmisartana-40mg-com-30-comprimidos-ranbaxy-2091.html" title="Telmisartana 40mg com 30 comprimidos " itemprop="name">
+                                Telmisartana 40mg com 30 comprimidos                             </a>
+                        </h3>   
+                        <div class="desc_grid" itemprop="description">&nbsp;
+A telmisartana &eacute; indicado para o tratamento da hipertens&atilde;o arte...</div>
+
+                        
+                        <div class="actions">
+                                                            <button type="button" title="Comprar" class="button btn-cart" onclick="setLocation('http://farmaciacristorei.com.br/checkout/cart/add/uenc/aHR0cDovL2Zhcm1hY2lhY3Jpc3RvcmVpLmNvbS5ici9tZWRpY2FtZW50b3MvZ2VuZXJpY29z/product/1093/form_key/PtvynVSFEO99QgEN/')"><span><span>Comprar</span></span></button>
+                                                       
+                        </div>
+                    </div>
+                                        <div class="label-product">             
+                                                                    </div>
+                    <div class="clear"></div>
+                </div>
+            </li>
+                </ul>
+                                <ul class="products-grid grid-clol-6">
+                    <li class="item first col-item4" itemscope itemtype="http://schema.org/product">
+                <div class="wrapper-hover">
+                    <a  href="http://farmaciacristorei.com.br/medicamentos/genericos/telmisartana-40mg-com-30-comprimidos-ranbaxy-2092.html" title="Irbesartana 300mg + Hidroclortiazida 12,5mg com 30 cpr  Ranbaxy " class="product-image" itemprop="url"><img  src="http://farmaciacristorei.com.br/media/catalog/product/cache/1/small_image/270x414/9df78eab33525d08d6e5fb8d27136e95/i/b/ibersartana_hidroclorotiazida.jpg" alt="Irbesartana 300mg + Hidroclortiazida 12,5mg com 30 cpr  Ranbaxy " itemprop="image"/></a>
+                    <div class="product-shop">
+                        
+
+                        
+    <div class="price-box" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                                                                <span class="regular-price" itemprop="price" id="product-price-1094">
+                                            <span class="price">R$38,00</span>                                    </span>
+                        
+        </div>
+
+                        <h3 class="product-name">
+                            <a href="http://farmaciacristorei.com.br/medicamentos/genericos/telmisartana-40mg-com-30-comprimidos-ranbaxy-2092.html" title="Irbesartana 300mg + Hidroclortiazida 12,5mg com 30 cpr  Ranbaxy " itemprop="name">
+                                Irbesartana 300mg + Hidroclortiazida 12,5mg com 30...                            </a>
+                        </h3>   
+                        <div class="desc_grid" itemprop="description">A irbesartana + hidroclorotiazida &eacute; indicada no tratamento da hipertens&atilde...</div>
+
+                        
+                        <div class="actions">
+                                                            <p class="availability out-of-stock"><span>Consulte-nos</span></p>
+                                                       
+                        </div>
+                    </div>
+                                        <div class="label-product">             
+                                                                    </div>
+                    <div class="clear"></div>
+                </div>
+            </li>
+                                    <li class="item col-item4" itemscope itemtype="http://schema.org/product">
+                <div class="wrapper-hover">
+                    <a  href="http://farmaciacristorei.com.br/medicamentos/genericos/telmisartana-40mg-com-30-comprimidos-ranbaxy.html" title="Irbesartana 150mg + Hidroclortiazida 12,5mg com 30 cpr  Ranbaxy " class="product-image" itemprop="url"><img  src="http://farmaciacristorei.com.br/media/catalog/product/cache/1/small_image/270x414/9df78eab33525d08d6e5fb8d27136e95/i/b/ibersartana_hidroclorotiazida_1.jpg" alt="Irbesartana 150mg + Hidroclortiazida 12,5mg com 30 cpr  Ranbaxy " itemprop="image"/></a>
+                    <div class="product-shop">
+                        
+
+                        
+    <div class="price-box" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                                                                <span class="regular-price" itemprop="price" id="product-price-1095">
+                                            <span class="price">R$38,00</span>                                    </span>
+                        
+        </div>
+
+                        <h3 class="product-name">
+                            <a href="http://farmaciacristorei.com.br/medicamentos/genericos/telmisartana-40mg-com-30-comprimidos-ranbaxy.html" title="Irbesartana 150mg + Hidroclortiazida 12,5mg com 30 cpr  Ranbaxy " itemprop="name">
+                                Irbesartana 150mg + Hidroclortiazida 12,5mg com 30...                            </a>
+                        </h3>   
+                        <div class="desc_grid" itemprop="description">A irbesartana + hidroclorotiazida &eacute; indicada no tratamento da hipertens&atilde...</div>
+
+                        
+                        <div class="actions">
+                                                            <p class="availability out-of-stock"><span>Consulte-nos</span></p>
+                                                       
+                        </div>
+                    </div>
+                                        <div class="label-product">             
+                                                                    </div>
+                    <div class="clear"></div>
+                </div>
+            </li>
+                                    <li class="item col-item4" itemscope itemtype="http://schema.org/product">
+                <div class="wrapper-hover">
+                    <a  href="http://farmaciacristorei.com.br/medicamentos/genericos/dipirona-500mg-frasco-com-20ml-novaquimica.html" title="Dipirona 500mg  Frasco com 20ml  NovaQuÍmica" class="product-image" itemprop="url"><img  src="http://farmaciacristorei.com.br/media/catalog/product/cache/1/small_image/270x414/9df78eab33525d08d6e5fb8d27136e95/g/e/generico-dipirona500mgmlgts20mlnovaquimica.jpg" alt="Dipirona 500mg  Frasco com 20ml  NovaQuÍmica" itemprop="image"/></a>
+                    <div class="product-shop">
+                        
+
+                        
+    <div class="price-box" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                                                                <span class="regular-price" itemprop="price" id="product-price-1097">
+                                            <span class="price">R$4,99</span>                                    </span>
+                        
+        </div>
+
+                        <h3 class="product-name">
+                            <a href="http://farmaciacristorei.com.br/medicamentos/genericos/dipirona-500mg-frasco-com-20ml-novaquimica.html" title="Dipirona 500mg  Frasco com 20ml  NovaQuÍmica" itemprop="name">
+                                Dipirona 500mg  Frasco com 20ml  NovaQuÍmica                            </a>
+                        </h3>   
+                        <div class="desc_grid" itemprop="description">Dipirona 500mg gotas, indicado para o al&iacute;vio da dor e febre.</div>
+
+                        
+                        <div class="actions">
+                                                            <button type="button" title="Comprar" class="button btn-cart" onclick="setLocation('http://farmaciacristorei.com.br/checkout/cart/add/uenc/aHR0cDovL2Zhcm1hY2lhY3Jpc3RvcmVpLmNvbS5ici9tZWRpY2FtZW50b3MvZ2VuZXJpY29z/product/1097/form_key/PtvynVSFEO99QgEN/')"><span><span>Comprar</span></span></button>
+                                                       
+                        </div>
+                    </div>
+                                        <div class="label-product">             
+                                                                    </div>
+                    <div class="clear"></div>
+                </div>
+            </li>
+                                    <li class="item last col-item4" itemscope itemtype="http://schema.org/product">
+                <div class="wrapper-hover">
+                    <a  href="http://farmaciacristorei.com.br/medicamentos/genericos/acebrofilina-10mg-xarope-adulto-neo-quimica.html" title="Acebrofilina 10mg  Xarope  Adulto  Neo Quimica" class="product-image" itemprop="url"><img  src="http://farmaciacristorei.com.br/media/catalog/product/cache/1/small_image/270x414/9df78eab33525d08d6e5fb8d27136e95/a/c/acebrofilina.jpg" alt="Acebrofilina 10mg  Xarope  Adulto  Neo Quimica" itemprop="image"/></a>
+                    <div class="product-shop">
+                        
+
+                        
+    <div class="price-box" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                                            
+                    <p class="old-price">
+                <span class="price" id="old-price-1167">
+                    R$24,04                </span>
+                <span class="price-label">Preço:</span>
+                
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Preço Promocional</span>
+                <span class="price" itemprop="price" id="product-price-1167">
+                    R$16,99                </span>
+                </p>
+                    
+    
+        </div>
+
+                        <h3 class="product-name">
+                            <a href="http://farmaciacristorei.com.br/medicamentos/genericos/acebrofilina-10mg-xarope-adulto-neo-quimica.html" title="Acebrofilina 10mg  Xarope  Adulto  Neo Quimica" itemprop="name">
+                                Acebrofilina 10mg  Xarope  Adulto  Neo Quimica                            </a>
+                        </h3>   
+                        <div class="desc_grid" itemprop="description">A acebrofilina &eacute; indicada para o tratamento da obstru&ccedil;&atilde;o dos br&...</div>
+
+                        
+                        <div class="actions">
+                                                            <button type="button" title="Comprar" class="button btn-cart" onclick="setLocation('http://farmaciacristorei.com.br/checkout/cart/add/uenc/aHR0cDovL2Zhcm1hY2lhY3Jpc3RvcmVpLmNvbS5ici9tZWRpY2FtZW50b3MvZ2VuZXJpY29z/product/1167/form_key/PtvynVSFEO99QgEN/')"><span><span>Comprar</span></span></button>
+                                                       
+                        </div>
+                    </div>
+                                        <div class="label-product">             
+                                                                    </div>
+                    <div class="clear"></div>
+                </div>
+            </li>
+                </ul>
+                        <script type="text/javascript">decorateGeneric($$('ul.products-grid'), ['odd','even','first','last'])</script>
+    
+    <div class="toolbar-bottom">
+        <div class="toolbar">
+    <div class="pager">
+        <p class="amount">
+                            Itens 1 para 12 de 172 total                    </p>
+
+        <div class="limiter">
+            <label>Exibir</label>
+            <select onchange="setLocation(this.value)">
+                            <option value="http://farmaciacristorei.com.br/medicamentos/genericos?limit=12" selected="selected">
+                    12                </option>
+                            <option value="http://farmaciacristorei.com.br/medicamentos/genericos?limit=24">
+                    24                </option>
+                            <option value="http://farmaciacristorei.com.br/medicamentos/genericos?limit=36">
+                    36                </option>
+                        </select>         </div>
+
+        
+    
+    
+    
+        <div class="pages">
+        <strong>Página:</strong>
+        <ol>
+        
+        
+        
+                                    <li class="current">1</li>
+                                                <li><a href="http://farmaciacristorei.com.br/medicamentos/genericos?p=2">2</a></li>
+                                                <li><a href="http://farmaciacristorei.com.br/medicamentos/genericos?p=3">3</a></li>
+                                                <li><a href="http://farmaciacristorei.com.br/medicamentos/genericos?p=4">4</a></li>
+                                                <li><a href="http://farmaciacristorei.com.br/medicamentos/genericos?p=5">5</a></li>
+                    
+
+        
+        
+                    <li>
+                <a class="next i-next fa fa-caret-right" href="http://farmaciacristorei.com.br/medicamentos/genericos?p=2" title="Próximo">
+                                            <!-- <img src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/images/pager_arrow_right.gif" alt="Próximo" class="v-middle" /> -->
+                                    </a>
+            </li>
+                </ol>
+
+    </div>
+    
+    
+
+    </div>
+
+        <div class="sorter">
+                <p class="view-mode">
+                                    <label>Visualizar como:</label>
+                                                <strong title="Tabela" class="grid">Tabela</strong>&nbsp;
+                                                                <a href="http://farmaciacristorei.com.br/medicamentos/genericos?mode=list" title="Lista" class="list">Lista</a>&nbsp;
+                                                </p>
+            
+        <div class="sort-by">
+			<div class="right">
+									<a class="fa fa-arrow-up" href="http://farmaciacristorei.com.br/medicamentos/genericos?dir=desc&amp;order=position" title="Direção Descendente"><!-- <img src="http://farmaciacristorei.com.br/skin/frontend/default/theme692/images/i_asc_arrow.gif" alt="Direção Descendente" class="v-middle" /> --></a>
+							</div>
+            <label>Ordem</label>
+            <select onchange="setLocation(this.value)">
+                            <option value="http://farmaciacristorei.com.br/medicamentos/genericos?dir=asc&amp;order=position" selected="selected">
+                    Relevância                </option>
+                            <option value="http://farmaciacristorei.com.br/medicamentos/genericos?dir=asc&amp;order=name">
+                    Nome                </option>
+                            <option value="http://farmaciacristorei.com.br/medicamentos/genericos?dir=asc&amp;order=price">
+                    Preço                </option>
+                            <option value="http://farmaciacristorei.com.br/medicamentos/genericos?dir=asc&amp;order=googleshopping">
+                    Google Shopping                </option>
+                        </select>
+        </div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<div id="map-popup" class="map-popup" style="display:none;">
+    <a href="#" class="map-popup-close" id="map-popup-close">x</a>
+    <div class="map-popup-arrow"></div>
+    <div class="map-popup-heading"><h2 id="map-popup-heading"></h2></div>
+    <div class="map-popup-content" id="map-popup-content">
+        <div class="map-popup-msrp" id="map-popup-msrp-box"><strong>Preço:</strong> <span style="text-decoration:line-through;" id="map-popup-msrp"></span></div>
+        <div class="map-popup-price" id="map-popup-price-box"><strong>Preço Atual:</strong> <span id="map-popup-price"></span></div>
+        <div class="map-popup-checkout">
+            <form action="" method="POST" id="product_addtocart_form_from_popup">
+                <input type="hidden" name="product" class="product_id" value="" id="map-popup-product-id" />
+                <div class="additional-addtocart-box">
+                                    </div>
+                <button type="button" title="Comprar" class="button btn-cart" id="map-popup-button"><span><span>Comprar</span></span></button>
+            </form>
+        </div>
+        <script type="text/javascript">
+        //<![CDATA[
+            document.observe("dom:loaded", Catalog.Map.bindProductForm);
+        //]]>
+        </script>
+    </div>
+    <div class="map-popup-text" id="map-popup-text">Our price is lower than the manufacturer's &quot;minimum advertised price.&quot;  As a result, we cannot show you the price in catalog or the product page. <br /><br /> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.</div>
+    <div class="map-popup-text" id="map-popup-text-what-this">Our price is lower than the manufacturer's &quot;minimum advertised price.&quot;  As a result, we cannot show you the price in catalog or the product page. <br /><br /> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.</div>
+</div>
+									</div>
+								</div>
+								<div class="col-left sidebar col-xs-12 col-sm-3"><div class="block block-cart">
+        <div class="block-title">
+        <strong><span>Carrinho</span></strong>
+    </div>
+    <div class="block-content">
+                        <p class="empty">Nenhum produto no carrinho.</p>
+        </div>
+</div>
+</div>
+							</div>
+						</div>
+					</div>
+				</div>
+            </div>
+        </div>
+        
+<div class="footer-container">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+				<div class="footer">
+					<div class="footer-top">
+						<div class="block block-subscribe">
+    <div class="block-title">
+        <strong><span>Newsletter</span></strong>
+    </div>
+    <form action="https://farmaciacristorei.com.br/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <div class="form-subscribe-header">
+                <label for="newsletter">Assine Nossa Newsletter:</label>
+            </div>
+            <div class="input-box">
+               <input type="text" name="email" id="newsletter" title="Assine nossa newsletter" placeholder="Digite seu e-mail e receba nossas ofertas" class="input-text required-entry validate-email" />
+            </div>
+            <div class="actions">
+                <button type="submit" title="Assinar" class="button"><span><span>Go!</span></span></button>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+						<h3>Redes Sociais</h3>
+<ul class="list-icon">
+   <li><a class="fa fa-facebook" target="_blank" href="https://www.facebook.com/CristoReiOficial/"></a></li>
+   <li><a class="fa fa-rss" target="_blank" href="#"></a></li>
+</ul>					</div>
+					  <p id="back-top"><a href="#top"><span>Top</span></a> </p>
+					  <div class="footer-cols-wrapper">
+						<div class="footer-col">			
+							<h4>Informações</h4>
+							<div class="footer-col-content">
+																<ul class="links">
+                        <li class="first" ><a href="http://farmaciacristorei.com.br/catalog/seo_sitemap/category/" title="Mapa do Site" >Mapa do Site</a></li>
+                                <li ><a href="http://farmaciacristorei.com.br/catalogsearch/term/popular/" title="Termos de Pesquisa" >Termos de Pesquisa</a></li>
+                                <li ><a href="http://farmaciacristorei.com.br/catalogsearch/advanced/" title="Busca Avançada" >Busca Avançada</a></li>
+                                <li ><a href="https://farmaciacristorei.com.br/sales/guest/form/" title="Pedidos e Devoluções" >Pedidos e Devoluções</a></li>
+                                <li class=" last" ><a href="http://farmaciacristorei.com.br/contacts/" title="Fale Conosco" >Fale Conosco</a></li>
+            </ul>
+							</div>
+						</div>
+						<div class="footer-col">
+<h4>Dicas</h4>
+<div class="footer-col-content">
+<ul>
+<li><a href="/politica-troca-e-devolucao">Trocas &amp; Devolu&ccedil;&atilde;o</a></li>
+<li><a href="/politica-de-privacidade">Politica de Entrega</a></li>
+<li><a title="quem-somos" href="http://farmaciacristorei.com.br/quem-somos">Quem Somos</a></li>
+<li><a href="#">Formas de Pagamento</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-col">
+<h4>Minha Conta</h4>
+<div class="footer-col-content">
+<ul>
+<li><a href="https://farmaciacristorei.com.br/customer/account/login/">Login</a></li>
+<li><a href="http://farmaciacristorei.com.br/checkout/cart/">Carrinho</a></li>
+<li><a href="https://farmaciacristorei.com.br/wishlist/">Meus Favoritos</a></li>
+<li><a href="#">Rastrear meu pedidor</a></li>
+<li><a href="#">Ajuda</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-col last">
+<h4>Contato</h4>
+<div class="footer-col-content" style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: xx-small; padding-bottom: 20px; float: left;">DROGARIA E PERFUMARIA CRISTO REI | CNPJ 43.840.040/0001-54 | I.E. 110.318.078.113 | RUA PALMEIRA LACA, 183 JARDIM ELIANE S&Atilde;O PAULO/SP | CEP 03577-090 | Hor&aacute;rio de Atendimento: De Segunda a S&aacute;bado das 8 &agrave;s 20h e aos Domingos hor&aacute;rio das 8 &agrave;s 14h | Central de Atendimento ao Cliente: 2744-2040 | Farmac&ecirc;utico respons&aacute;vel: Eraldo Galv&atilde;o CRF-SP 22.889. Autoriza&ccedil;&atilde;o de Funcionamento: 25351.209127/2002-11 - Autoriza&ccedil;&atilde;o/MS: 0.20419.4 - CMVS: 355030801477-001234-1-2</span>
+<div style="display: inline-block; width: 50%; float: left;">
+<h4 style="text-align: left;">Selos de Seguran&ccedil;a</h4>
+<div class="footer-col-content" style="text-align: left;"><a title="Farm&aacute;cia Cristo Rei" href="http://m.cliquefarma.com.br/drogarias/farmaciacristorei" target="_blank"><img title="Estamos no Clique Farma comparador de pre&ccedil;os!" alt="Estamos no Clique Farma" src="//farmaciacristorei.com.br/media/wysiwyg/selos/selopadrao-cliquefarma.jpg" height="76" width="70" /></a><a title="Farm&aacute;cia Cristo Rei 100% seguro" href="https://www.google.com/transparencyreport/safebrowsing/diagnostic/?hl=pt-BR#url=http://farmaciacristorei.com.br/" target="_blank"><img title="Site 100% seguro" alt="Google Aprovou nosso site!" src="//farmaciacristorei.com.br/media/wysiwyg/selos/google-safe-browsing.png" height="69" width="65" /></a><a title="Cybersource - Sistema de An&aacute;lise de seguran&ccedil;a e Anti-Fraude" href="https://www.cybersource.com/pt-LAC/"><img title="Cybersouce" alt="Sistema de verfica&ccedil;&atilde;o e Anti Fraude - Cybersouce" src="//farmaciacristorei.com.br/media/wysiwyg/selos/google_anivers_rio.png" height="70" width="70" /></a></div>
+<div class="footer-col-content" style="text-align: left;"><a title="Consulta Rem&eacute;dios" href="https://consultaremedios.com.br/" target="_blank"><img title="Consulta Rem&eacute;dio" alt="Estamos no Consulta Rem&eacute;dio" src="//farmaciacristorei.com.br/media/wysiwyg/selos/consulta-remedio-selo.png" height="39" width="107" /></a><a title="Reclame Aqui" href="http://www.reclameaqui.com.br/"><img title="Reclame Aqui" alt="Zero Reclama&ccedil;&otilde;es no Reclame aqui" src="//farmaciacristorei.com.br/media/wysiwyg/selos/reclame_aqui.png" height="40" width="116" /></a></div>
+<div class="footer-col-content">
+<h4 style="text-align: left; font-size: 16px; padding-top: 35px;">Parcelamos em 3x sem juros!<br /><img style="float: left; width: 100%;" alt="" src="//farmaciacristorei.com.br/media/wysiwyg/selos/selos-cartoes.png" /></h4>
+
+<span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=p3q2EE4IjXR7aJAJ1ar23B6iJswS9tiTb3oQdgsEeoI541vNyVxYx9Z9DOtU"></script></span>
+
+<script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async></script>
+</div>
+</div>
+<div style="display: inline-block; width: 48%;"><iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCristoReiOficial%2F%3Ffref%3Dts&amp;tabs=timeline&amp;width=340&amp;height=500&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId" height="300" width="340"></iframe></div>
+</div>
+<p>&nbsp;</p>
+</div>												<div class="clear"></div>
+											  </div>
+					<div class="footer-shadow">
+						<address>&copy; <script type="text/javascript">var mdate = new Date(); document.write(mdate.getFullYear());</script> Farmácia Cristo Rei. Todos os direitos reservados. Criado por <a href="http://www.alemaoagenciadigital.com/"> Alemão Agência Digital </a></address>
+						<div class="clear"></div>
+													
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+                
+
+<script>var FEED_BASE_URL="http://farmaciacristorei.com.br/";</script><script src="http://farmaciacristorei.com.br/js/mirasvit/code/feedexport/performance.js" type="text/javascript"></script>
+<!-- Anaraky GDRT v.1.0.9 script begin -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_tag_params = {
+	ecomm_pagetype: "category",
+	ecomm_category: "Genéricos"
+};
+var google_conversion_id = 871871408;
+var google_custom_params = google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/871871408/?value=0&amp;guid=ON&amp;script=0&amp;data=ecomm_pagetype%3Dcategory%3Becomm_category%3DGen%C3%A9ricos"/>
+</div>
+</noscript>
+<!-- Anaraky GDRT script end -->
+    </div>
+</div>
+</body>
+</html>

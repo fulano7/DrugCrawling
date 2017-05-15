@@ -1,0 +1,540 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <!-- MOBIFY - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG -->
+    
+    
+    <!-- Chaordic -->
+    
+    <!-- ./ Chaordic -->
+
+    <!--Script Chaordic Loader-->
+    <script async defer src="//static.chaordicsystems.com/static/loader.js" data-apikey="onofrefarma"></script>
+    <!--Script Chaordic Loader - FIM -->
+    <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=8" /><title>
+	Farmácia Online - Medicamentos e Produtos de Beleza em Casa - Onofre 
+</title><link rel="icon" href="https://www.onofre.com.br/favicon.ico" type="image/x-icon" /><link rel="SHORTCUT ICON" href="https://www.onofre.com.br/favicon.ico" type="image/x-icon" /><link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+        <!-- CSS -->
+        <link href="/Css/resetNovo.css" rel="stylesheet"/>
+<link href="/Css/EstiloMasterNovo.css" rel="stylesheet"/>
+<link href="/Jss/ToolTip/bubbletip/bubbletip.css" rel="stylesheet"/>
+<link href="/Jss/ToolTip/bubbletip/bubbletip-IE.css" rel="stylesheet"/>
+<link href="/Jss/Colorbox/colorbox.css" rel="stylesheet"/>
+<link href="/Css/EstiloExtraBucks.css" rel="stylesheet"/>
+<link href="/assets/css/base.css" rel="stylesheet"/>
+<link href="/assets/css/prateleira.css" rel="stylesheet"/>
+<link href="/assets/css/common-checkout.css" rel="stylesheet"/>
+<link href="/assets/css/carrinho.css" rel="stylesheet"/>
+<link href="/assets/css/lib/owl.transitions.css" rel="stylesheet"/>
+<link href="/assets/css/lib/owl.carousel.css" rel="stylesheet"/>
+
+        <!-- CSS -->
+        <!-- JSS -->
+        <script src="/Jss/jquery-1.6.1.min.js"></script>
+<script src="/Jss/Dialog/jquery-ui-1.10.1.custom.min.js"></script>
+<script src="/assets/js/lib/jquery-1.8.js"></script>
+<script src="/Jss/jquery.maskMoney.js"></script>
+<script src="/Jss/jquery.cookie.js"></script>
+<script src="/Jss/generic.js"></script>
+<script src="/Jss/jquery.hoverIntent.minified.js"></script>
+<script src="/Jss/ToolTip/jQuery.bubbletip-1.0.6.js"></script>
+<script src="/Jss/ToolTip/ToolTip.js"></script>
+<script src="/Jss/Colorbox/jquery.colorbox-min.js"></script>
+<script src="/assets/js/lib/owl.carousel.min.js"></script>
+<script src="/assets/js/main.js"></script>
+
+        <!-- JSS -->
+    <link href="/Css/Master-checkoutResponsiva.css" rel="stylesheet" />
+    <script language="javascript" type="text/javascript">/*<![CDATA[*/var tl_loc0 = (window.location.protocol == "https:") ? "https://secure.comodo.net/trustlogo/javascript/trustlogo.js" : "http://www.trustlogo.com/trustlogo/javascript/trustlogo.js"; document.writeln('<script language="JavaScript" src="' + tl_loc0 + '" type="text/javascript"><\/script>');/*]]>*/</script>
+    
+    
+        <!-- CSS -->
+        <link href="/assets/css/criar-conta.css" rel="stylesheet"/>
+
+        <!-- CSS -->
+        <!-- JSS -->
+        <script src="/Jss/jquery.maskedinput-1.1.4.pack.js"></script>
+<script src="/Jss/Default.js"></script>
+<script src="/Jss/Utils/CadastroCliente.js"></script>
+
+        <!-- JSS -->
+    
+    
+    <style>
+        #cphConteudo_lblTextoIsento {
+            color: #4169E1;
+        }
+    </style>
+</head>
+<body>
+    
+    <script type="text/javascript" src="//onofre.resultspage.com/autocomplete/sli-rac.config.js"></script>
+    <form method="post" action="" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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MS41NDkuMjU5LzAwMTMtMTQgfCBJRSAxMTUuMjc2LjA1My4xMTQgfCBBdi4gZGEgTGliZXJkYWRlLCA5MDIgQ29tcGxlbWVudG8gOTA0IC0gTGliZXJkYWRlIHwgU8OjbyBQYXVsbyAoU1ApIHwgSG9yw6FyaW8gZGUgZnVuY2lvbmFtZW50bzogU2VndW5kYSBhIERvbWluZ28gMDc6MDAgw6BzIDIyOjAwIHwgQ0VQOiAwMTUwMi0wMDEgfCBUZWxlZm9uZSA0MDA3LTI1MjY8L3NwYW4+PGJyIC8+PHNwYW4gc3R5bGU9ImNvbG9yOiAjODg4ODg4OyI+RmFybWFjw6p1dGljbyBSZXNwb25zw6F2ZWw6IERyYS4gVGhhaXMgQnJpb3R0byBkZSBBbmRyYWRlIGRvcyBTYW50b3MgfCBDUkYgLSBTUDogNTMuOTEyICB8IEFGRTogNy40NjU0NC01IHwgQ01WUzogMzU1MDMwODAxNDc3MDA4NjcwMTI8L3NwYW4+PC9wPgo8cCBhbGlnbj0iY2VudGVyIj48c3BhbiBzdHlsZT0iY29sb3I6ICM4ODg4ODg7Ij5BcyBpbmZvcm1hw6fDtWVzIGNvbnRpZGFzIG5lc3RlIHNpdGUgbsOjbyBkZXZlbSBzZXIgdXNhZGFzIHBhcmEgYXV0b21lZGljYcOnw6NvIGUgbsOjbyBzdWJzdGl0dWVtLCBlbSBoaXDDs3Rlc2UgYWxndW1hLCBhcyBvcmllbnRhw6fDtWVzIGRhZGFzIHBlbG8gcHJvZmlzc2lvbmFsIGRhIMOhcmVhIG3DqWRpY2EuIFNvbWVudGUgbyBtw6lkaWNvIGVzdMOhIGFwdG8gYSBkaWFnbm9zdGljYXIgcXVhbHF1ZXIgcHJvYmxlbWEgZGUgc2HDumRlIGUgcHJlc2NyZXZlciBvIHRyYXRhbWVudG8gYWRlcXVhZG8uIEFvIHBlcnNpc3RpcmVtIG9zIHNpbnRvbWFzLCBvIG3DqWRpY28gZGV2ZXLDoSBzZXIgY29uc3VsdGFkby4gT3MgcHJlw6dvcyBlIHByb21vw6fDtWVzIGRpdnVsZ2Fkb3Mgbm8gc2l0ZSBzw6NvIHbDoWxpZG9zIGFwZW5hcyBwYXJhIGNvbXByYXMgZmVpdGFzIHBlbGEgSW50ZXJuZXQuIEVtIGNhc28gZGUgZGl2ZXJnw6puY2lhLCBvIHByZcOnbyB2w6FsaWRvIMOpIG8gZG8gY2FycmluaG8gZGUgY29tcHJhcy4gSW1hZ2VucyBtZXJhbWVudGUgaWx1c3RyYXRpdmFzLiBFc3RlIHNpdGUgw6kgbWVsaG9yIHZpc3VhbGl6YWRvIG5hIGNvbmZpZ3VyYcOnw6NvIDEwMjR4NzY4Ljwvc3Bhbj48L3A+CjxwIGFsaWduPSJjZW50ZXIiPjxzcGFuIHN0eWxlPSJjb2xvcjogIzg4ODg4ODsiPkNvcHlyaWdodCDCqSAxOTk5IC0gMjAxNiBPbm9mcmUgZW0gQ2FzYS4gVG9kb3Mgb3MgZGlyZWl0b3MgcmVzZXJ2YWRvcy48L3NwYW4+PC9wPmRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRtjdGwwMCRjcGhDb250ZXVkbyRjYk9mZXJ0YXP/QNl+l0LM4lb8urYmRBexAGUMpg==" />
+
+<script> ECO_Step='';</script><script> ECO_DepName='';</script><script> ECO_DepId='';</script><script> ECO_CatName='';</script><script> ECO_CatId='';</script><script> ECO_ProdName='';</script>
+<script src="/ScriptResource.axd?d=BnWrJ6-gLV3GlI8g28LCzYXkfKJLttyoigz0AJpfnvO4NN21YTBbDD9JctBIuGGW8YufhqFw-AnVHbmyWvfFb_B2w9DMLRk3OO9iqYmkxfGcvnVf4ImxaGFLKlWYiwlxPddzmc-9JHkJ8clChxff5mADpJw1&amp;t=42a7acab" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="FAB61C47" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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" />
+        
+        <!-- HEADER -->
+        <header id="main-header-checkout" class="page-header-checkout"> <div class="wrapper full"> <div class="logo col4"><a href="http://www.onofre.com.br/" class="logo-img">Onofre</a></div> <div class="contact col7"> <div class="tel col"> <p>Televendas <strong><a href="tel:40072526" style="color:inherit">4007-2526</a></strong></p> </div> <div class="infos col"> <span>Grande SP <strong><a href="tel:40072526" style="color:inherit">4007-2526</a></strong></span> <span>Rio de Janeiro <strong><a href="tel:40072526" style="color:inherit">4007-2526</a></strong></span> </div> </div> 
+            <div class="safe col3"> <p class="carrinho-site-seguro-head">Site <em>100% seguro</em></p> </div> </div><!--/wrapper header--> </header>
+        <!--/main-header-checkout-->        
+        <!-- FIM HEADER -->
+        
+        <!-- ESTRUTURA -->
+        <div class="page-content">
+            <div class="wrapper">
+                
+    
+    <input type="hidden" name="ctl00$cphConteudo$alertar" id="alertar" />
+    <!-- ESTRUTURA -->
+    <div class="page-content">
+        <div class="wrapper">
+            <section class="checkout-steps col16 row"> <ul class="steps-list"> <li class="step-item carrinho completed">Carrinho</li> <li class="step-item identificacao current">Identificação</li> <li class="step-item entrega-pagamento">Entrega e Pagamento</li> <li class="step-item confirmacao-pedido last">Confirmação do Pedido</li> </ul> </section>
+            <div class="main-content row">
+                <fieldset class="box dados-acesso">
+                    <legend class="main-title section-title"><span>Dados de acesso</span></legend>
+                    <div class="col8">
+                        <div class="wrap-field">
+                            <label class="highlight-label" for="email">
+                                Seu e-mail:
+                                &nbsp;
+                                &nbsp;
+                            </label>
+                            <input name="ctl00$cphConteudo$txtEmail" type="text" id="cphConteudo_txtEmail" class="input-full" onblur="VerifyEmail()" />
+                        </div>
+                        <div class="wrap-field">
+                            <label class="highlight-label" for="confirma-email">
+                                Confirme seu e-mail:
+                                &nbsp;
+                            </label>
+                            <input name="ctl00$cphConteudo$txtConfEmail" type="text" id="cphConteudo_txtConfEmail" class="input-full" />
+                        </div>
+                        <div id="cphConteudo_emailexiste" class="wrap-field">
+                            <a href="/acesso/">
+                                <span id="cphConteudo_lblExists" class="email_warning">Email já cadastrado em nossa base de dados, caso queira fazer o login agora clique aqui</span></a>
+                        </div>
+                        <div class="wrap-field">
+                            <label class="highlight-label" for="senha">
+                                Senha:
+                                &nbsp;
+                            </label>
+                            <input name="ctl00$cphConteudo$txtSenha" type="password" id="cphConteudo_txtSenha" class="input-full" />
+                        </div>
+                        <div class="wrap-field">
+                            <label class="highlight-label" for="confirma-senha">
+                                Confirme sua Senha:
+                                &nbsp;
+                            </label>
+                            <input name="ctl00$cphConteudo$txtConfSenha" type="password" id="cphConteudo_txtConfSenha" class="input-full" />
+                        </div>
+                    </div>
+                </fieldset>
+                <fieldset class="box dados-pessoais">
+                    <legend class="main-title section-title"><span>Dados pessoais</span></legend>
+                    <div class="col14">
+                        <div class="wrap-field">
+                            <label class="highlight-label" for="tipo-pessoa">Tipo de pessoa:</label>
+                            <span id="cphConteudo_rblOpcao"><span Class="separador"><input id="cphConteudo_rblOpcao_0" type="radio" name="ctl00$cphConteudo$rblOpcao" value="PF" checked="checked" /><label for="cphConteudo_rblOpcao_0">Física</label></span><span Class="separador"><input id="cphConteudo_rblOpcao_1" type="radio" name="ctl00$cphConteudo$rblOpcao" value="PJ" onclick="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$cphConteudo$rblOpcao$1\&#39;,\&#39;\&#39;)&#39;, 0)" /><label for="cphConteudo_rblOpcao_1">Jurídica</label></span></span>
+                        </div>
+                        <div class="wrap-field half">
+                            <label class="highlight-label" for="nome">
+                                <span id="cphConteudo_lblNome">Primeiro Nome: </span>
+                                &nbsp;
+                            </label>
+                            <input name="ctl00$cphConteudo$txtNome" type="text" id="cphConteudo_txtNome" class="input-full" />
+                        </div>
+                        <div id="cphConteudo_divDataNasc" class="wrap-field half">
+                            <label class="highlight-label" for="data-nascimento">
+                                <span id="cphConteudo_lblData">Data de Nascimento:</span></label>
+                            
+                            <select name="ctl00$cphConteudo$dtNascDia" id="cphConteudo_dtNascDia" class="highlight-dtnasc">
+	<option value="01">1</option>
+	<option value="02">2</option>
+	<option value="03">3</option>
+	<option value="04">4</option>
+	<option value="05">5</option>
+	<option value="06">6</option>
+	<option value="07">7</option>
+	<option value="08">8</option>
+	<option value="09">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+	<option value="13">13</option>
+	<option value="14">14</option>
+	<option value="15">15</option>
+	<option value="16">16</option>
+	<option value="17">17</option>
+	<option value="18">18</option>
+	<option value="19">19</option>
+	<option value="20">20</option>
+	<option value="21">21</option>
+	<option value="22">22</option>
+	<option value="23">23</option>
+	<option value="24">24</option>
+	<option value="25">25</option>
+	<option value="26">26</option>
+	<option value="27">27</option>
+	<option value="28">28</option>
+	<option value="29">29</option>
+	<option value="30">30</option>
+	<option value="31">31</option>
+</select>
+                            <select name="ctl00$cphConteudo$dtNascMes" id="cphConteudo_dtNascMes" class="highlight-dtnasc">
+	<option value="01">Janeiro</option>
+	<option value="02">Fevereiro</option>
+	<option value="03">Mar&#231;o</option>
+	<option value="04">Abril</option>
+	<option value="05">Maio</option>
+	<option value="06">Junho</option>
+	<option value="07">Julho</option>
+	<option value="08">Agosto</option>
+	<option value="09">Setembro</option>
+	<option value="10">Outubro</option>
+	<option value="11">Novembro</option>
+	<option value="12">Dezembro</option>
+</select>
+                            <select name="ctl00$cphConteudo$ddlDataNascAno" id="cphConteudo_ddlDataNascAno" class="highlight-dtnasc">
+	<option value="2017">2017</option>
+	<option value="2016">2016</option>
+	<option value="2015">2015</option>
+	<option value="2014">2014</option>
+	<option value="2013">2013</option>
+	<option value="2012">2012</option>
+	<option value="2011">2011</option>
+	<option value="2010">2010</option>
+	<option value="2009">2009</option>
+	<option value="2008">2008</option>
+	<option value="2007">2007</option>
+	<option value="2006">2006</option>
+	<option value="2005">2005</option>
+	<option value="2004">2004</option>
+	<option value="2003">2003</option>
+	<option value="2002">2002</option>
+	<option value="2001">2001</option>
+	<option value="2000">2000</option>
+	<option value="1999">1999</option>
+	<option value="1998">1998</option>
+	<option value="1997">1997</option>
+	<option value="1996">1996</option>
+	<option value="1995">1995</option>
+	<option value="1994">1994</option>
+	<option value="1993">1993</option>
+	<option value="1992">1992</option>
+	<option value="1991">1991</option>
+	<option value="1990">1990</option>
+	<option value="1989">1989</option>
+	<option value="1988">1988</option>
+	<option value="1987">1987</option>
+	<option value="1986">1986</option>
+	<option value="1985">1985</option>
+	<option value="1984">1984</option>
+	<option value="1983">1983</option>
+	<option value="1982">1982</option>
+	<option value="1981">1981</option>
+	<option value="1980">1980</option>
+	<option value="1979">1979</option>
+	<option value="1978">1978</option>
+	<option value="1977">1977</option>
+	<option value="1976">1976</option>
+	<option value="1975">1975</option>
+	<option value="1974">1974</option>
+	<option value="1973">1973</option>
+	<option value="1972">1972</option>
+	<option value="1971">1971</option>
+	<option value="1970">1970</option>
+	<option value="1969">1969</option>
+	<option value="1968">1968</option>
+	<option value="1967">1967</option>
+	<option value="1966">1966</option>
+	<option value="1965">1965</option>
+	<option value="1964">1964</option>
+	<option value="1963">1963</option>
+	<option value="1962">1962</option>
+	<option value="1961">1961</option>
+	<option value="1960">1960</option>
+	<option value="1959">1959</option>
+	<option value="1958">1958</option>
+	<option value="1957">1957</option>
+	<option value="1956">1956</option>
+	<option value="1955">1955</option>
+	<option value="1954">1954</option>
+	<option value="1953">1953</option>
+	<option value="1952">1952</option>
+	<option value="1951">1951</option>
+	<option value="1950">1950</option>
+	<option value="1949">1949</option>
+	<option value="1948">1948</option>
+	<option value="1947">1947</option>
+	<option value="1946">1946</option>
+	<option value="1945">1945</option>
+	<option value="1944">1944</option>
+	<option value="1943">1943</option>
+	<option value="1942">1942</option>
+	<option value="1941">1941</option>
+	<option value="1940">1940</option>
+	<option value="1939">1939</option>
+	<option value="1938">1938</option>
+	<option value="1937">1937</option>
+	<option value="1936">1936</option>
+	<option value="1935">1935</option>
+	<option value="1934">1934</option>
+	<option value="1933">1933</option>
+	<option value="1932">1932</option>
+	<option value="1931">1931</option>
+	<option value="1930">1930</option>
+	<option value="1929">1929</option>
+	<option value="1928">1928</option>
+	<option value="1927">1927</option>
+	<option value="1926">1926</option>
+	<option value="1925">1925</option>
+	<option value="1924">1924</option>
+	<option value="1923">1923</option>
+	<option value="1922">1922</option>
+	<option value="1921">1921</option>
+	<option value="1920">1920</option>
+	<option value="1919">1919</option>
+	<option value="1918">1918</option>
+	<option value="1917">1917</option>
+	<option value="1916">1916</option>
+	<option value="1915">1915</option>
+	<option value="1914">1914</option>
+	<option value="1913">1913</option>
+	<option value="1912">1912</option>
+	<option value="1911">1911</option>
+
+</select>
+                        </div>
+                        <div class="wrap-field half">
+                            <label class="highlight-label" for="sobrenome">
+                                <span id="cphConteudo_lblSobrenome">Sobrenome:</span></label>
+                            <input name="ctl00$cphConteudo$txtSobrenome" type="text" id="cphConteudo_txtSobrenome" class="input-full" />
+                        </div>
+
+                        <div class="wrap-field half">
+                            <label class="highlight-label" for="sexo">
+                                <span id="cphConteudo_lblSexo">Sexo:</span></label>
+                            <span id="cphConteudo_RadioButtonListSexo"><span Class="separador"><input id="cphConteudo_RadioButtonListSexo_0" type="radio" name="ctl00$cphConteudo$RadioButtonListSexo" value="M" checked="checked" /><label for="cphConteudo_RadioButtonListSexo_0">Masculino </label></span><span Class="separador"><input id="cphConteudo_RadioButtonListSexo_1" type="radio" name="ctl00$cphConteudo$RadioButtonListSexo" value="F" /><label for="cphConteudo_RadioButtonListSexo_1">Feminino</label></span></span>
+                        </div>
+
+                        <div id="cphConteudo_div_CPF_CNPJ" class="wrap-field half">
+                            <label class="highlight-label" for="cpf">
+                                <span id="cphConteudo_lblCPF">CPF:</span>
+                                &nbsp;
+                                &nbsp;
+                            </label>
+                            <input name="ctl00$cphConteudo$txtCPF_CNPJ" type="text" id="cphConteudo_txtCPF_CNPJ" class="input-full msk_cpf" onblur="VerifyCPF()" />
+                        </div>
+                        <div class="wrap-field telefone">
+                            <label class="highlight-label" for="telefone">
+                                Telefone:
+                                &nbsp;
+                                &nbsp;
+                            </label>
+                            <input name="ctl00$cphConteudo$txtDDD" type="text" maxlength="2" id="cphConteudo_txtDDD" class="input-full telefone1" onblur="ShowPrefix()" onkeypress="return BloquearLetras(event)" onkeyup="tab(&#39;cphConteudo_txtDDD&#39;,&#39;cphConteudo_txtTelefone&#39;,&#39;2&#39;)" />
+                            <input name="ctl00$cphConteudo$txtTelefone" type="text" maxlength="8" id="cphConteudo_txtTelefone" class="input-full telefone2" onblur="FillPhone()" onkeypress="return BloquearLetras(event)" />
+                        </div>
+                        <div class="wrap-field half">
+                            <label id="cphConteudo_div_RG_IE" class="highlight-label" for="rg">
+                                <span id="cphConteudo_lblRG">RG:</span>
+                                &nbsp;
+                            </label>
+
+                            <div class="check-newsletter">
+                                <input name="ctl00$cphConteudo$txtRG" type="text" maxlength="13" id="cphConteudo_txtRG" class="input-full" onkeypress="false" />
+                                
+                                <span id="cphConteudo_lblTextoIsento" style="display: none">Isento</span>
+                            </div>
+
+                        </div>
+
+                        <div class="wrap-field telefone">
+                            <label class="highlight-label" for="celular">Celular:</label>
+                            <input name="ctl00$cphConteudo$txtDDD2" type="text" maxlength="2" id="cphConteudo_txtDDD2" class="input-full telefone1" onblur="ShowPrefix()" onkeypress="return BloquearLetras(event)" onkeyup="tab(&#39;cphConteudo_txtDDD2&#39;,&#39;cphConteudo_txtCelular&#39;,&#39;2&#39;)" />
+                            <input name="ctl00$cphConteudo$txtCelular" type="text" maxlength="9" id="cphConteudo_txtCelular" class="input-full telefone2" onblur="FillPhone()" onkeypress="return BloquearLetras(event)" />
+                        </div>
+                            </label>   
+                    </div>
+            </div>
+            </fieldset>
+            <fieldset class="box endereco-entrega">
+                <input type="hidden" name="ctl00$cphConteudo$hddIdEndereco" id="cphConteudo_hddIdEndereco" value="0" />
+                <input type="hidden" name="ctl00$cphConteudo$hddIndex" id="cphConteudo_hddIndex" value="0" />
+                <legend class="main-title section-title"><span>Meu endereço de entrega</span></legend>
+                <div class="col14">
+                    <div class="wrap-field descricao">
+                        <label class="highlight-label" for="descricao">
+                            Descrição:
+                            &nbsp;
+                        </label>
+                        <input name="ctl00$cphConteudo$txtDescricao" type="text" id="cphConteudo_txtDescricao" class="input-full" />
+                        <span class="msg">Utilize este campo para apelidar os seus endereços. Ex: CASA, ESCRITÓRIO, CASA DA MÃE.</span>
+                    </div>
+                    <div class="wrap-field cep">
+                        <label class="highlight-label" for="cep">
+                            Cep:
+                            &nbsp;
+                            &nbsp;
+                        </label>
+                        <input name="ctl00$cphConteudo$txtCep" type="text" maxlength="5" id="cphConteudo_txtCep" class="input-full cep1" onkeypress="return BloquearLetras(event)" onkeyup="tab(&#39;cphConteudo_txtCep&#39;,&#39;cphConteudo_txtCep1&#39;,&#39;5&#39;)" />
+                        <input name="ctl00$cphConteudo$txtCep1" type="text" maxlength="3" id="cphConteudo_txtCep1" class="input-full cep2" onkeypress="return BloquearLetras(event)" />
+                        <span class="msg">
+                            <input type="submit" name="ctl00$cphConteudo$btCep" value="OK" id="cphConteudo_btCep" class="btn btn-gray-light action-button go-back" />
+                            Não sabe seu cep? <a href="javascript:ExibirPopup('/Cep/busca_cep.htm',370,380)" target="_blank">clique aqui</a> </span>
+                        
+                    </div>
+                    <div class="wrap-field">
+                        <label class="highlight-label" for="tipo-endereco">Tipo de endereço:</label>
+                        <span id="cphConteudo_RadioButtonListAddressType" class="endereco_label"><input id="cphConteudo_RadioButtonListAddressType_0" type="radio" name="ctl00$cphConteudo$RadioButtonListAddressType" value="1" checked="checked" /><label for="cphConteudo_RadioButtonListAddressType_0">Residencial</label><input id="cphConteudo_RadioButtonListAddressType_1" type="radio" name="ctl00$cphConteudo$RadioButtonListAddressType" value="2" /><label for="cphConteudo_RadioButtonListAddressType_1">Comercial</label></span>
+                    </div>
+                    <div class="wrap-field half endereco">
+                        <label class="highlight-label" for="endereco">
+                            Endereço:
+                            &nbsp;
+                        </label>
+                        <input name="ctl00$cphConteudo$txtEndereco" type="text" id="cphConteudo_txtEndereco" class="input-full" />
+                    </div>
+                    <div class="wrap-field half numero">
+                        <label class="highlight-label" for="numero">
+                            Número:
+                            &nbsp;
+                        </label>
+                        <input name="ctl00$cphConteudo$txtNumero" id="cphConteudo_txtNumero" class="input-full number" type="number" name="numero" />
+                    </div>
+                    <div class="wrap-field half">
+                        <label class="highlight-label" for="complemento">Complemento:</label>
+                        <input name="ctl00$cphConteudo$txtComplemento" type="text" maxlength="15" id="cphConteudo_txtComplemento" class="input-full" />
+                    </div>
+                    <div class="wrap-field half">
+                        <label class="highlight-label" for="bairro">
+                            Bairro:
+                            &nbsp;
+                        </label>
+                        <input name="ctl00$cphConteudo$txtBairro" type="text" id="cphConteudo_txtBairro" class="input-full" />
+                    </div>
+                    <div class="wrap-field half clear">
+                        <label class="highlight-label" for="ponto-referencia">Ponto de Referência:</label>
+                        <input name="ctl00$cphConteudo$txtReferencia" type="text" maxlength="100" id="cphConteudo_txtReferencia" class="input-full" />
+                    </div>
+                    <div class="wrap-field half">
+                        <label class="highlight-label" for="estado">
+                            Estado:
+                            &nbsp;
+                        </label>
+                        <select name="ctl00$cphConteudo$ddlEstado" id="cphConteudo_ddlEstado" class="highlight-label">
+	<option value=""></option>
+	<option value="AC">AC</option>
+	<option value="AL">AL</option>
+	<option value="AP">AP</option>
+	<option value="AM">AM</option>
+	<option value="BA">BA</option>
+	<option value="CE">CE</option>
+	<option value="DF">DF</option>
+	<option value="ES">ES</option>
+	<option value="GO">GO</option>
+	<option value="MA">MA</option>
+	<option value="MT">MT</option>
+	<option value="MS">MS</option>
+	<option value="MG">MG</option>
+	<option value="PA">PA</option>
+	<option value="PB">PB</option>
+	<option value="PR">PR</option>
+	<option value="PE">PE</option>
+	<option value="PI">PI</option>
+	<option value="RJ">RJ</option>
+	<option value="RN">RN</option>
+	<option value="RS">RS</option>
+	<option value="RO">RO</option>
+	<option value="RR">RR</option>
+	<option value="SC">SC</option>
+	<option value="SP">SP</option>
+	<option value="SE">SE</option>
+	<option value="TO">TO</option>
+
+</select>
+                    </div>
+                    <div class="wrap-field half">
+                        <label class="highlight-label" for="cidade">
+                            Cidade:
+                            &nbsp;
+                        </label>
+                        <input name="ctl00$cphConteudo$txtCidade" type="text" id="cphConteudo_txtCidade" class="input-full" />
+                    </div>
+                    <div class="wrap-field telefone">
+                        <label class="highlight-label" for="telefone-contato">
+                            Telefone de contato:
+                            &nbsp;
+                            &nbsp;
+                        </label>
+                        <input name="ctl00$cphConteudo$txtDDDContato" type="text" maxlength="2" id="cphConteudo_txtDDDContato" class="input-full telefone1" onkeypress="return BloquearLetras(event)" onkeyup="tab(&#39;cphConteudo_txtDDDContato&#39;,&#39;cphConteudo_txtTelefoneContato&#39;,&#39;2&#39;)" />
+                        <input name="ctl00$cphConteudo$txtTelefoneContato" type="text" maxlength="9" id="cphConteudo_txtTelefoneContato" class="input-full telefone2" onkeypress="return BloquearLetras(event)" />
+                        <span class="msg">Este telefone será utilizado para sua localização caso haja algum problema no pedido.</span>
+                    </div>
+                    <div class="check-newsletter">
+                        <input id="cphConteudo_cbOfertas" type="checkbox" name="ctl00$cphConteudo$cbOfertas" checked="checked" />
+                        <label class="checkboxtexto">Desejo receber e-mails e ofertas promocionais da Onofre em casa</label>
+                    </div>
+                </div>
+            </fieldset>
+            <fieldset class="action">
+                <a href="javascript:history.back()" class="btn btn-gray-light action-button go-back">Voltar</a>
+                <input type="submit" name="ctl00$cphConteudo$btCadastro" value="Confirmar cadastro" id="cphConteudo_btCadastro" class="btn btn-green action-button" />
+            </fieldset>
+        </div>
+    </div>
+    </div>
+    
+        
+    <script>
+
+        //Altera o campo de IE para isento
+        var validador = document.getElementById("cphConteudo_CheckBoxIsento");
+        var campoRG = document.getElementById("cphConteudo_txtRG");
+
+        validador.onclick = function () {
+
+            if (validador.checked) {
+                campoRG.setAttribute("value", "Isento");
+                campoRG.readOnly = true;
+                campoRG.style.backgroundColor = "#DCDCDC";
+            }
+            else {
+                campoRG.setAttribute("value", "");
+                campoRG.readOnly = false;
+                campoRG.style.backgroundColor = "white";
+            }
+        }
+
+    </script>
+    <!-- FIM ESTRUTURA -->
+
+            </div>
+        </div>
+        <!-- FIM ESTRUTURA -->
+        <!-- FOOTER -->
+        <footer class="page-footer-checkout"> <div class="page-footer-top row"> <div class="wrapper"> 
+            <div class="col5 compre-por"> <h6>Compre pelo telefone</h6> <p class="tel">4007-2526</p> <span>(Custo de uma ligação local)</span> <ul class="infos">  <li class="small">Horário das 8h às 21h, de segunda a sábado</li> </ul> </div> 
+            <div class="col5 formas-pagamento"> <h6 class="title-box">Formas de pagamento</h6> <img src="/assets/img/formas-de-pagamento-checkout.png" class="img-formas-pagamento-master" alt="Visa, MasterCard, Amex, Diners, Hipercard, Aura e Boleto bancário" /> </div> 
+            <div class="col6 seguranca"> <h6>Segurança</h6> <ul class="selos"> <li><a id="seloEbit" href="https://www.ebit.com.br/onofre-em-casa" target="_blank" onclick="redir(this.href)" style="background-image:url(&quot;https://a248.e.akamai.net/f/248/52872/0s/img.ebit.com.br/ebitBR/selo/img_973.png&quot;);width:89px;height:95px;display:block;overflow:hidden;position:relative;float:left" title="Avaliado pelos consumidores"></a></li> <li><script language="JavaScript" type="text/javascript">TrustLogo("https://www.onofre.com.br/img/Rodape/comodo.png", "SC5", "none");</script></li> </ul> </div> </div> </div><!--/page-footer-top--> <div class="copyright row"> <div class="wrapper"> <address class="col14"> <span id="lblDescriptionAddress"><p align="center"><span style="color: #888888;">Drogaria Onofre Ltda | CNPJ 61.549.259/0013-14 | IE 115.276.053.114 | Av. da Liberdade, 902 Complemento 904 - Liberdade | São Paulo (SP) | Horário de funcionamento: Segunda a Domingo 07:00 às 22:00 | CEP: 01502-001 | Telefone 4007-2526</span><br /><span style="color: #888888;">Farmacêutico Responsável: Dra. Thais Briotto de Andrade dos Santos | CRF - SP: 53.912  | AFE: 7.46544-5 | CMVS: 35503080147700867012</span></p>
+<p align="center"><span style="color: #888888;">As informações contidas neste site não devem ser usadas para automedicação e não substituem, em hipótese alguma, as orientações dadas pelo profissional da área médica. Somente o médico está apto a diagnosticar qualquer problema de saúde e prescrever o tratamento adequado. Ao persistirem os sintomas, o médico deverá ser consultado. Os preços e promoções divulgados no site são válidos apenas para compras feitas pela Internet. Em caso de divergência, o preço válido é o do carrinho de compras. Imagens meramente ilustrativas. Este site é melhor visualizado na configuração 1024x768.</span></p>
+<p align="center"><span style="color: #888888;">Copyright © 1999 - 2016 Onofre em Casa. Todos os direitos reservados.</span></p></span> </address>   </div> </div> </div><!--/copyright--> </footer>
+        <!--/page-footer-->
+        <!-- FIM FOOTER -->
+        
+    </form>
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5SFH26" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+
+    <script>/*<![CDATA[*/(function (b, m, h, a, g) { b[a] = b[a] || []; b[a].push({ "gtm.start": new Date().getTime(), event: "gtm.js" }); var k = m.getElementsByTagName(h)[0], e = m.createElement(h), c = a != "dataLayer" ? "&l=" + a : ""; e.async = true; e.src = "//www.googletagmanager.com/gtm.js?id=" + g + c; k.parentNode.insertBefore(e, k) })(window, document, "script", "dataLayer", "GTM-5SFH26");/*]]>*/</script>
+    <!-- End Google Tag Manager -->
+</body>
+</html>
+<link href="Css/Estilo.css" rel="stylesheet" />

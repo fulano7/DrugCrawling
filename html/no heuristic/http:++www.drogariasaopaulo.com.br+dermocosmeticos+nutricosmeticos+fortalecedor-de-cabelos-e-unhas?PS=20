@@ -1,0 +1,2361 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce">
+  <head><meta name="language" content="pt-BR" />
+<meta name="country" content="BRA" />
+<meta name="currency" content="R$" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="description" content="" />
+<meta name="Abstract" content="Fortalecedor de Cabelos e Unhas" />
+<meta name="author" content="Drogaria São Paulo" />
+<meta name="copyright" content="Drogaria São Paulo" />
+<meta name="vtex-version" content="1.4.728.1319" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="shortcut icon" href="//drogariasp.vteximg.com.br/arquivos/favicon.ico" /><title>Fortalecedor de Cabelos e Unhas</title><script type="text/javascript" language="javascript">var jscheckoutUrl = 'https://www.drogariasaopaulo.com.br/checkout/#/cart';var jscheckoutAddUrl = 'https://www.drogariasaopaulo.com.br/checkout/cart/add';var jscheckoutGiftListId = '';var jsnomeSite = 'drogariasp';var jsnomeLoja = 'drogariasp';var jssalesChannel = '1';var defaultStoreCurrency = 'R$';var localeInfo = {"CountryCode":"BRA","CultureCode":"pt-BR","CurrencyLocale":{"RegionDisplayName":"Brazil","RegionName":"BR","RegionNativeName":"Brasil","TwoLetterIsoRegionName":"BR","CurrencyEnglishName":"Real","CurrencyNativeName":"Real","CurrencySymbol":"R$","ISOCurrencySymbol":"BRL","Locale":1046,"Format":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","CurrencyGroupSeparator":".","CurrencyGroupSize":3,"StartsWithCurrencySymbol":true},"FlagUrl":"http://www.geonames.org/flags/x/br.gif"}};</script> 
+<script type="text/javascript" language="javascript">vtxctx = {searchTerm:"",categoryId:"319",categoryName:"Fortalecedor de Cabelos e Unhas",departmentyId:"231",departmentName:"Dermocosméticos",isOrder:"0",isCheck:"0",isCart:"0",actionType:"",actionValue:"",login:"",url:"www.drogariasaopaulo.com.br",transurl:"www.drogariasaopaulo.com.br"};</script> 
+<script language="javascript" src="http://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.ajax.wait.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.common.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/front-i18n/0.4.1/vtex-i18n.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/front-utils/1.0.1/vtex-utils.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/dustjs-linkedin/2.3.5/dust-core-2.3.5.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://dmx56ht1p4edz.cloudfront.net/rc.js?an=drogariasp?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.tagmanager.helper.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-ui/1.7.5/scripts/vtex-events-all.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-ui/1.7.5/scripts/vtex-analytics.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/vtex.js/2.7.0/vtex.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/vtex-id-ui/3.11.1/vtexid-jquery.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/portal-template-as-modal.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/portal-sku-selector-with-template.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.cookie.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/jquery.pager.js?v=1.4.728.1319"  type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="//drogariasp.vteximg.com.br/arquivos/mainDSP.css" /><link rel="stylesheet" type="text/css" href="//drogariasp.vteximg.com.br/arquivos/dpsp-flags.css" /><link rel="stylesheet" type="text/css" href="//drogariasp.vteximg.com.br/arquivos/dep-cat-bus-DSP.css" /><link rel="stylesheet" type="text/css" href="//drogariasp.vteximg.com.br/arquivos/dsp-drogariasp-main.css" /><link rel="stylesheet" type="text/css" href="//drogariasp.vteximg.com.br/arquivos/giftlist-busca.css" /><link rel="stylesheet" type="text/css" href="//drogariasp.vteximg.com.br/arquivos/mainDSP-responsible.css" /><link rel="stylesheet" type="text/css" href="//drogariasp.vteximg.com.br/arquivos/dep-cat-bus-DSP-responsible.css" /><link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic" rel="stylesheet" type="text/css" /><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" /><link rel="stylesheet" type="text/css" href="//drogariasp.vteximg.com.br/arquivos/dsp-produto-pbm.css" /><link rel="stylesheet" type="text/css" href="//drogariasp.vteximg.com.br/arquivos/avt-flags.css" /><link rel="stylesheet" type="text/css" href="//drogariasp.vteximg.com.br/arquivos/avt-produto.css" /><link rel="stylesheet" type="text/css" href="//drogariasp.vteximg.com.br/arquivos/avt-brand-slider-home.css" /><link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css" /><link rel="stylesheet" type="text/css" href="//drogariasp.vteximg.com.br/arquivos/slick-1.5.9.css" /><link rel="stylesheet" type="text/css" href="//drogariasp.vteximg.com.br/arquivos/1-dsp-web-style.css" /><script language="javascript">var ___scriptPathTransac = '';</script><script language="javascript">var ___scriptPath = '';</script><script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/mainDSP.js"></script><script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/dpsp-pbm.js"></script><!-- Css Responsivo --><!-- End Css Responsivo --><script type="text/javascript" src="http://io.vtex.com.br/vtex.js/2.2.0/vtex.min.js"></script><!--[if lte IE 9]>
+           <script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/cria-elemento.js"></script>
+        <![endif]--><!--[if IE 8]>
+           <link rel="stylesheet" type="text/css" href="//drogariasp.vteximg.com.br/arquivos/ie8.css">
+        <![endif]--><!-- INICIO: Novo topo --><meta name="controller" content="Categoria" /><!-- INICIO - Subtemplate Metatags --><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="icon" type="image/x-icon" href="//drogariasp.vteximg.com.br/arquivos/favicon.ico" /><meta name="msapplication-TileColor" content="#ffffff" /><meta name="theme-color" content="#ffffff" /><!-- FIM - Subtemplate Metatags --><!-- INICIO - Subtemplate Styles --><!-- FIM - Subtemplate Styles --><!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --><!-- WARNING: Respond.js doesn't work if you view the page via file:// --><!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]--><!-- FIM: Novo topo --><link rel="canonical" href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas" /></head>
+  <body class="dep-cat-bus categoria">
+<!-- Start - WebAnalyticsViewPart -->
+<script> var defaultUtmFromFolder = '';</script>
+<!-- CommerceContext.Current.VirtualFolder.Name: @categoria@ -->
+
+<script>
+vtex.events.addData({"pageCategory":"Category","pageDepartment":"Dermocosméticos","pageUrl":"http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas?PS=20","pageTitle":"Fortalecedor de Cabelos e Unhas","skuStockOutFromShelf":["488429","389706","384003"],"skuStockOutFromProductDetail":[],"shelfProductIds":["168734","169366","533068","513997","610410","524042","523003","543500","518395","332909"],"accountName":"drogariasp","pageFacets":["departmentId:8","categoriesFullPath:/231/","brandId:463","productClusterSearchableIds:147","Apresentação:Cápsula","priceFrom:[50 TO 100]"],"categoryId":319,"categoryName":"Fortalecedor de Cabelos e Unhas"});
+</script>
+
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                            })(window,document,'script','dataLayer','GTM-KCBD8P');
+</script>
+
+<script>
+var helper = new vtexTagManagerHelper('categoryView'); helper.init();
+</script>
+
+<!-- End - WebAnalyticsViewPart -->
+<div class="ajax-content-loader" rel="/no-cache/callcenter/disclaimer"></div><div class="wrapper"><div class="canvas"><!-- INICIO - Subtemplate Header --><header class="header-wrap"><div class="header__fixed"><!-- INICIO: Links --><div class="header__links-wrap"><div class="avt-container"><div class="avt-row"><div class="avt-col-xs-24"><ul class="header__links-list"><li class="header__links-item header__links-item--phone"><span class="header__links-link"><a href="/central-de-atendimento">Televendas <strong>4003-3393</strong></a></span></li><li class="header__links-item header__links-item--central"><a href="/central-de-atendimento" class="header__links-link">Central de <strong>dúvidas</strong></a></li><li class="header__links-item header__links-item--orders"><a href="/account/orders/" class="header__links-link">Acompanhamento <strong>pedidos e dados</strong></a></li><li class="header__links-item header__links-item--listas"><a href="/GiftList/manage/" class="header__links-link">Minhas <strong>Listas</strong></a></li><li class="header__links-item header__links-item--account"><a href="/account/" class="header__links-link">Minha conta</a></li><li class="header__links-item header__links-item--welcome"><script>
+                                    $(document).ready(function () {
+                                        vtexid.setScope('4f948035-24a4-4ca9-965f-dd315c811a36');
+                                        vtexid.setScopeName('drogariasp');
+                                        $('body').on('click', '#login', function () {
+                                            vtexid.start(
+                                                    {
+                                                        returnUrl: '/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas?PS=20',
+                                                        userEmail: '',
+                                                        locale: 'pt-BR',
+                                                        forceReload: false
+                                                    });
+                                        });
+                                    });
+                                   </script><div class="ajax-content-loader" rel="/no-cache/user/welcome"></div></li></ul></div></div></div></div><!-- FIM: Links --><!-- INICIO: Logo, Busca e Carrinho --><div class="header__content-wrap"><div class="avt-container"><div class="avt-row"><div class="avt-col-xs-24"><div class="header__content"><div class="header__menu-bar"><a href="#" class="header__menu-bar__link"><span class="header__menu-bar__span"></span></a></div><span class="header__logo"><a href="/" class="header__logo-link"><img src="//drogariasp.vteximg.com.br/arquivos/header__logo.png" alt="Drogaria São Paulo" class="header__logo-image" /></a></span><!--
+                            <h1 class="nova-logo header__logo">
+                                <a href="/" class="header__logo-link">
+                                    <p>Drogaria</p> 
+                                    <p>SãoPaulo</p>
+                                </a>
+                            </h1>
+                            --><!-- INICIO: Busca --><div class="header__search"><div class="search__overlay"></div><div class="search__input"><input type="search" name="header__search" placeholder="Olá, o que você procura?" class="search__field-input" /></div><div class="search__submit"><button type="submit" class="search__field-submit">Buscar</button></div><div class="search__close"><span class="search__close-button">Fechar</span></div><div class="search__target"></div></div><!-- FIM: Busca --><div class="header__cart"><div class="header__cart-link"><div class="header__cart-ico"><span class="header__cart-items">0</span></div><div class="header__cart-total"><strong>R$ 0,00</strong><div class="header__cart-total__link">Meu carrinho</div></div><div class="header__cart-drop"><h3 class="header__cart-title">Meu carrinho</h3><div class="cart__products"><ul class="cart__products-list"></ul></div><div class="cart__bottom"><div class="cart__status"><div class="cart__qtd">
+                                                    Qtd: <span class="cart__items">0</span></div><div class="cart__total">
+                                                    Subtotal: <span class="cart__price">R$ 0,00</span></div></div><a class="cart__more">Escolher mais produtos</a><a href="/checkout" class="cart__buy">Finalizar compra</a></div></div></div><a href="/checkout" class="header__cart-checkout">
+                                    Finalizar compra
+                                </a></div></div></div></div></div></div><!-- FIM: Logo, Busca e Carrinho --><!-- INICIO: Menu --><div class="header__menu-wrap"><div class="avt-container"><div class="avt-row"><div class="avt-col-xs-24 avt-col-static"><menu class="header__menu"><ul class="header__menu-list"><li class="header__menu-item header__menu-item--home"><a class="header__menu-link" href="/">Home</a></li><li class="header__menu-item promo"><a class="header__menu-link header__menu-link--featured" href="/promocao/mais-oferta">Promoção</a></li><li class="header__menu-item"><a class="header__menu-link" href="/medicamentos?PS=20&amp;O=OrderByTopSaleDESC">Medicamentos</a><div class="header__submenu subPosLeft"><div class="avt-container"><div class="avt-row"><ul class="header__submenu-list">
+    <li class="header__submenu-item header__submenu-item--back">
+        <a href="#" class="header__submenu-link">Voltar</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/diabetes/">Diabetes</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/primeiros-socorros/agulhas-e-seringas">Agulhas e Seringas</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/diabetes/hipoglicemiante?PS=20">Hipoglicemiante</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/diabetes/lancetas-e-tiras">Lancetas e Tiras</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/doenca-dos-ossos?PS=20">Doenças dos Ossos</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/doenca-dos-ossos/artrite-artrose?PS=20">Artrite/Artrose</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/doenca-dos-ossos/osteoporose?PS=20">Osteoporose</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/doenca-dos-ossos/vitaminas?PS=20">Vitaminas</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/dor-e-contusao?O=OrderByTopSaleDESC&PS=20/">Dor e Contusão</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/dor-e-contusao/analgesicos-e-antitermicos?PS=20">Analgésicos</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/dor-e-contusao?PS=20&amp;O=OrderByTopSaleDESC">Contusão</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/dor-e-contusao/enxaqueca?PS=20">Dor de Cabeça e Enxaqueca</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/dor-e-contusao/anti-inflamatorios-e-relaxante-muscular?PS=20">Relaxante Muscular</a>
+    </li>
+</ul>
+
+<ul class="header__submenu-list">
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/Genérico?PS=20&map=c,spec_fct_20&O=OrderByTopSaleDESC">Genéricos</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/gripes-e-resfriados">Gripes e Resfriados</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/gripes-e-resfriados/antigripais?PS=20">Antigripais</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/gripes-e-resfriados/descongestionante-nasal?PS=20">Descongestionante Nasal</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/dor-e-contusao/dor-de-garganta?PS=20">Dor de Garganta</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-pessoal/lencos-de-papel">Lenços de Papel</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/gripes-e-resfriados/naturais?PS=20">Naturais</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/testes-e-ortopedia/aparelhos/termometro/">Termômetro</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/gripes-e-resfriados/tosse?PS=20">Tosse</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/pare-de-fumar?O=OrderByTopSaleDESC&amp;PS=20">Pare de Fumar</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/pare-de-fumar/adesivos?PS=20">Adesivos</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/sistema-nervoso/ansiedade?PS=20">Ansiedade</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/pare-de-fumar/gomas-e-pastilhas?PS=20">Gomas e Pastilhas</a>
+    </li>
+</ul>
+
+<ul class="header__submenu-list">
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/pressao-alta?O=OrderByTopSaleDESC&amp;PS=20">Pressão Alta</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/pressao-alta/anti-hipertensivo?O=OrderByTopSaleDESC&amp;PS=20">Anti-Hipertensivo</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/pressao-alta/diureticos?O=OrderByTopSaleDESC&amp;PS=20">Diuréticos</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medidor de pressão?PS=20&amp;O=OrderByPriceASC">Medidor de Pressão</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/redutores-de-peso?O=OrderByTopSaleDESC&amp;PS=20">Redutores de Peso</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/testes-e-ortopedia/aparelhos/balanca/">Balanças</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/vitaminas-e-suplementos/colageno-e-gelatina?PS=20">Colágeno</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/saude-feminina/">Saúde Feminina</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/saude-feminina/anticoncepcionais?PS=20">Anticoncepcionais</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/pele-e-mucosa/antimicoticos-e-fungos/cetoconazol?PS=20">Antimicóticos e Fungos</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/saude-feminina/colica?PS=20">Cólica</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/saude-feminina/pilula-do-dia-seguinte?PS=20">Pílula do Dia Seguinte</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/testes-e-aparelhos/teste-de-gravidez">Teste de Gravidez</a>
+    </li>
+</ul>
+
+<ul class="header__submenu-list">
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/saude-masculina/">Saúde Masculina</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/saude-masculina/disfuncao-eretil?PS=20">Disfunção Erétil</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/saude-masculina/disturbios-urinarios?PS=20">Distúrbios Urinários</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/saude-masculina/prostata?PS=20">Próstata</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/cabelo">Tratamento Capilar</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas?PS=20">Fortalecedor de Cabelos</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/vermes-e-parasitas/piolhos?PS=20">Piolhos</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/medicamentos/saude-masculina/queda-de-cabelo?PS=20">Queda de Cabelo</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/">Todos os Medicamentos</a>
+    </li>
+</ul><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome HTML não foi renderizado por nao ser um XDocument válido, erro: - '=' is an unexpected token. The expected token is ';'. Line 39, position 127.--><div class="header__submenu-banner"><div class="box-banner"><a href="/busca/?fq=H:1226?"><img width="380" height="395" id="ihttp://drogariasp.vteximg.com.br/arquivos/ids/204412/6.-Medicamentos-min.jpg" alt="bannerMenuMedicamentos" src="http://drogariasp.vteximg.com.br/arquivos/ids/204412/6.-Medicamentos-min.jpg" complete="complete"/></a></div></div></div></div></div></li><li class="header__menu-item"><a class="header__menu-link" href="/medicamentos/Genérico?PS=20&amp;map=c,spec_fct_20&amp;O=OrderByTopSaleDESC">Genéricos</a><div class="header__submenu subPosLeft"><div class="avt-container"><div class="avt-row">
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item header__submenu-item--back">
+      <a href="#" class="header__submenu-link">Voltar</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/alergias-e-infeccoes/Genérico?map=c,c,spec_fct_20">Alergias e Infecções</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/alergias-e-infeccoes/antialergicos/Genérico?map=c,c,c,spec_fct_20">Antialérgico</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/alergias-e-infeccoes/asma/Genérico?map=c,c,c,spec_fct_20">Asma</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/diabetes/Genérico?map=c,c,spec_fct_20">Diabetes</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/diabetes/Genérico?map=c,c,spec_fct_20">Hipoglicemiante</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/digestao-e-regulador-intestinal/Genérico?map=c,c,spec_fct_20">Digestão e Regulador Intestinal</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/digestao-e-regulador-intestinal/antigases/Genérico?map=c,c,c,spec_fct_20">Antigases</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/digestao-e-regulador-intestinal/digestivo/Genérico?map=c,c,c,spec_fct_20">Digestivo</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/dor-e-contusao/Genérico?map=c,c,spec_fct_20">Dor e Contusão</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/dor-e-contusao/analgesicos-e-antitermicos/Genérico?map=c,c,c,spec_fct_20">Analgésico e Antitérmico</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/dor-e-contusao/anti-inflamatorios-e-relaxante-muscular/Genérico?map=c,c,c,spec_fct_20">Anti-inflamatórios e Relaxante Muscular</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/dor-e-contusao/enxaqueca/Genérico?map=c,c,c,spec_fct_20">Enxaqueca</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/gripes-e-resfriados/Genérico?map=c,c,spec_fct_20">Gripes e Resfriados</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/gripes-e-resfriados/antigripais/Genérico?map=c,c,c,spec_fct_20">Antigripais</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/gripes-e-resfriados/descongestionante-nasal/Genérico?map=c,c,c,spec_fct_20">Descongestionante Nasal</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/gripes-e-resfriados/Tosse/Genérico?map=c,c,c,spec_fct_20">Tosse</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/olhos/Genérico?map=c,c,spec_fct_20">Olhos</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/olhos/catarata/Genérico?map=c,c,c,spec_fct_20">Catarata</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/olhos/glaucoma/Genérico?map=c,c,c,spec_fct_20">Glaucoma</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/pele-e-mucosa/Genérico?map=c,c,spec_fct_20">Pele e Mucosa</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/pele-e-mucosa/anestesicos/Genérico?map=c,c,c,spec_fct_20">Anestésico</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/pele-e-mucosa/antimicoticos-e-fungos/Genérico?map=c,c,c,spec_fct_20">Antimicóticos e Fungos</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/pele-e-mucosa/despigmentador/Genérico?map=c,c,c,spec_fct_20">Despigmentador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/pressao-alta/Genérico?map=c,c,spec_fct_20">Pressão Alta</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/pressao-alta/anti-hipertensivo/Genérico?map=c,c,c,spec_fct_20">Antihipertensivo</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/pressao-alta/diureticos/Genérico?map=c,c,c,spec_fct_20">Diuréticos</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/respiratorio/Genérico?map=c,c,spec_fct_20">Respiratório</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/respiratorio/bronco-respiratorio/Genérico?map=c,c,c,spec_fct_20">Bronco Respiratório</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/saude-feminina/Genérico?map=c,c,spec_fct_20">Saúde Feminina</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/saude-feminina/anticoncepcionais/Genérico?map=c,c,c,spec_fct_20">Anticoncepcionais</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/saude-feminina/colica/Genérico?map=c,c,c,spec_fct_20">Cólicas menstruais</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/saude-feminina/cremes-e-ovulos-vaginais/Genérico?map=c,c,c,spec_fct_20">Creme e óvulos vaginais</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/medicamentos/saude-masculina/Genérico?map=c,c,spec_fct_20">Saúde Masculina</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/saude-masculina/disfunção-eretil/Genérico?map=c,c,c,spec_fct_20">Disfunção Erétil</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/saude-masculina/disturbios-urinarios/Genérico?map=c,c,c,spec_fct_20">Distúrbios Urinários</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/saude-masculina/queda-de-cabelo/Genérico?map=c,c,c,spec_fct_20">Queda de Cabelo</a>
+    </li>
+  </ul>
+<div class="header__submenu-banner"><div class="box-banner"><a href="/busca/?fq=H:1219?"><img width="380" height="395" id="ihttp://drogariasp.vteximg.com.br/arquivos/ids/204413/3.-Genericos-min.jpg" alt="bannerMenuGenericos" src="http://drogariasp.vteximg.com.br/arquivos/ids/204413/3.-Genericos-min.jpg" complete="complete"/></a></div></div></div></div></div></li><li class="header__menu-item"><a class="header__menu-link" href="/dermocosmeticos?PS=20&amp;O=OrderByTopSaleDESC">Dermocosméticos</a><div class="header__submenu subPosLeft"><div class="avt-container"><div class="avt-row">
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item header__submenu-item--back">
+      <a href="#" class="header__submenu-link">Voltar</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/dermocosmeticos/capilar">Cabelo</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/dermocosmeticos/capilar/condicionador">Condicionador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/dermocosmeticos/capilar/shampoo">Shampoo</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/dermocosmeticos/capilar/tratamento">Tratamento</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/dermocosmeticos/corporal">Corpo</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/dermocosmeticos/corporal/antiestrias">Antiestrias e Firmador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/dermocosmeticos/corporal/desodorante-creme">Desodorante Creme</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/dermocosmeticos/corporal/hidratante-corporal">Hidratante Corporal</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/dermocosmeticos/corporal/protetor-solar-corporal">Protetor Solar Corporal</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/dermocosmeticos/olhos">Olhos</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/dermocosmeticos/rosto">Rosto</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/promocao/Comprar-Agua-Termal">Água Termal</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/dermocosmeticos/rosto/anti-idade">Anti-idade</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/dermocosmeticos/rosto/antirrugas">Antirrugas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/dermocosmeticos/rosto/hidratante">Hidratante</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/dermocosmeticos/rosto/protetor-solar-facial">Protetor Solar Facial</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/dermocosmeticos/nutricosmeticos">Nutricosméticos</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/dermocosmeticos/nutricosmeticos/anticelulite-e-firmador">Anticelulite e Firmador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-Unhas">Fortalecedor de Cabelos e Unhas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/dermocosmeticos/nutricosmeticos/redutor-de-medidas">Redutor de Medidas</a>
+    </li>
+  </ul>
+<div class="header__submenu-banner"><div class="box-banner"><a href="/busca/?fq=H:1215?"><img width="380" height="395" id="ihttp://drogariasp.vteximg.com.br/arquivos/ids/204414/1.-Dermo-min.jpg" alt="bannerMenuDermocosmeticos" src="http://drogariasp.vteximg.com.br/arquivos/ids/204414/1.-Dermo-min.jpg" complete="complete"/></a></div></div></div></div></div></li><li class="header__menu-item"><a class="header__menu-link" href="/higiene?PS=20&amp;O=OrderByTopSaleDESC">Higiene</a><div class="header__submenu subPosLeft"><div class="avt-container"><div class="avt-row"><ul class="header__submenu-list">
+    <li class="header__submenu-item header__submenu-item--back">
+        <a href="#" class="header__submenu-link">Voltar</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--featured" href="/bloqueador-de-odor-sanitario-freeco-60ml/p">FreeCô</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/higiene/geriatrico">Geriátrico</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/geriatrico/absorvente-geriatrico">Absorvente Geriátrico</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--featured" href="/corega">Corega</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-oral/fixador-e-limpeza-de-proteses?PS=20">Fixador de Próteses</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/geriatrico/fralda-geriatrica">Fralda Geriátrica</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/geriatrico/roupa-intima">Roupa Intima</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/higiene/feminino">Higiene Feminina</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/absorventes/Com abas?PS=20&amp;map=c,c,specificationFilter_54">Absorventes com Abas</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/absorventes/Sem abas?PS=20&amp;map=c,c,specificationFilter_54">Absorventes sem Abas</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/absorventes/Interno?PS=20&amp;map=c,c,specificationFilter_54">Absorventes Internos</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/absorventes/Protetor diário?PS=20&amp;map=c,c,specificationFilter_54">Protetor Diário</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-pessoal/higiene-intima?PS=20">Higiene Íntima</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-pessoal/sabonetes-intimos?PS=20">Sabonete Íntimo</a>
+    </li>
+</ul>
+
+<ul class="header__submenu-list">
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/higiene/masculino">Higiene Masculina</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/estetica/barba/aparelho-de-barbear?PS=20">Barbeador</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/estetica/barba/barbeador-eletrico?PS=20">Barbeador Elétrico</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/estetica/barba/refil-para-barbeador?PS=20">Refil para Barbeador</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/perfumaria/Masculino?PS=20&amp;map=c,specificationFilter_25">Desodorantes Masculinos</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/shampoo/masculino?PS=20">Shampoo</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/higiene/higiene-oral">Higiene Oral</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-oral/antisseptico-bucal?PS=20">Enxaguante Antisséptico</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-oral/escova-dental?PS=20">Escova de Dentes</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-oral/fios-e-fitas-dentais?PS=20">Fios e Fitas Dentais</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-oral/creme-e-gel-dental?PS=20">Pasta de Dentes</a>
+    </li>
+</ul>
+
+<ul class="header__submenu-list">
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/higiene/higiene-pessoal">Higiene Pessoal</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-pessoal/gel-antisseptico?PS=20">Álcool em Gel</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-pessoal/algodao-e-hastes-flexiveis">Algodão e Hastes Flexíveis</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-pessoal/higiene-intima?O=OrderByTopSaleDESC&PS=20">Higiene Íntima</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-pessoal/lencos-de-papel?PS=20">Lenços de Papel</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-pessoal/papel-higienico?O=OrderByTopSaleDESC&PS=20">Papel Higiênico</a>
+    </li>
+    
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-pessoal/sabonetes-intimos?O=OrderByTopSaleDESC&PS=20">Sabonetes Íntimos</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/higiene/higiene-corporal">Higiene Corporal</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/condicionador?PS=20">Condicionador</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-corporal/esponja-para-banho?O=OrderByTopSaleDESC&PS=20">Esponja para Banho</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-corporal/sabonetes?PS=20">Sabonetes</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-corporal/sabonetes-especiais?PS=20">Sabonetes Especiais</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/higiene-corporal/sabonetes-liquidos?PS=20">Sabonetes Líquidos</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/shampoo?PS=20">Shampoo</a>
+    </li>
+</ul>
+
+<ul class="header__submenu-list">
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/higiene/pes">Pés</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/pes/desodorante">Desodorante</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/pes/esfoliante">Esfoliante</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/higiene/repelentes">Repelentes</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--featured" href="/exposis">Exposis</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/repelentes/acessorios">Inseticidas</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--title" href="/higiene/vida-sexual">Vida Sexual</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/vida-sexual/lubrificantes">Lubrificantes</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/vida-sexual/preservativos">Preservativos</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link" href="/higiene/vida-sexual/preservativos-femininos">Preservativo Feminino</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--featured" href="/higiene/vida-sexual/preservativos/olla?PS=20">Olla</a>
+    </li>
+
+    <li class="header__submenu-item">
+        <a class="header__submenu-link header__submenu-link--featured" href="/higiene/vida-sexual/preservativos/preserv?PS=20">Preserv</a>
+    </li>
+</ul><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome HTML não foi renderizado por nao ser um XDocument válido, erro: - '=' is an unexpected token. The expected token is ';'. Line 123, position 110.--><div class="header__submenu-banner"><div class="box-banner"><a href="/busca/?fq=H:1290?"><img width="380" height="395" id="ihttp://drogariasp.vteximg.com.br/arquivos/ids/204617/DPSP_Rexona_380x395.jpg" alt="bannerMenuHigiene" src="http://drogariasp.vteximg.com.br/arquivos/ids/204617/DPSP_Rexona_380x395.jpg" complete="complete"/></a></div></div></div></div></div></li><li class="header__menu-item"><a class="header__menu-link" href="/bebe-e-mamae?PS=20&amp;O=OrderByTopSaleDESC">Bebê e <br />Mamãe</a><div class="header__submenu subPosLeft"><div class="avt-container"><div class="avt-row">
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item header__submenu-item--back">
+      <a href="#" class="header__submenu-link">Voltar</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/bebe-e-mamae/alimentos-infantis">Alimentos Infantis</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/alimentos-infantis/complemento-alimentar-infantil">Complemento Alimentar Infantil</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/alimentos-infantis/leites-e-formulas-infantis">Leites e Fórmulas Infantis</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/acessorios-infantis/mamadeiras?PS=20">Mamadeiras</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/alimentos-infantis/papinhas">Papinhas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/bebe-e-mamae/acessorios-infantis">Acessórios Infantis</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/acessorios-infantis/bicos-de-mamadeira?PS=20">Bicos de Mamadeira</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/alimentos-infantis/chupetas">Chupetas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/alimentos-infantis/mordedores">Mordedores</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/acessorios-infantis/pratos-e-dosador-de-leite?PS=20">Kit Alimentação</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/bebe-e-mamae/corpo-e-banho">Corpo e Banho</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/corpo-e-banho/colonias-infantis?PS=20">Colônia Infantil</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/corpo-e-banho/fixadores-e-modeladores?PS=20">Gel e Creme para Pentear</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/corpo-e-banho/hidratante-para-o-corpo-infantil?PS=20">Hidratante Corporal</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/corpo-e-banho/protetor-solar-infantil?PS=20">Protetor Solar Infantil</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/corpo-e-banho/repelente-infantil?PS=20">Repelente Infantil</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/corpo-e-banho/sabonete-infantil?PS=20">Sabonete em Barra</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/corpo-e-banho/sabonete-liquido-infantil">Sabonete Líquido Infantil</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/corpo-e-banho/shampoo-infantil">Shampoo Infantil</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/corpo-e-banho/talco-infantil">Talco Infantil</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/bebe-e-mamae/cuidado-bucal-infantil">Cuidado Bucal Infantil</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/cuidado-bucal-infantil/creme-dental">Creme Dental</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/cuidado-bucal-infantil/escova-dental">Escova Dental</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/cuidado-bucal-infantil?PS=20">Higiene Bucal Bebê</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/bebe-e-mamae/fraldas">Fraldas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/fraldas/fralda/tamanho-m">Fralda RN</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/fraldas/fralda/tamanho-g">Fralda P</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/fraldas/fralda/tamanho-m">Fralda M</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/fraldas/fralda/tamanho-g">Fralda G</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/fraldas/fralda/tamanho-g">Fralda XG</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/fraldas/fralda/tamanho-g">Fralda XXG</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/fraldas/fralda-para-piscina/">Fralda para Piscina</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/pampers">Pampers</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/bebe-e-mamae/para-troca-do-bebe">Para troca do bebê</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/para-troca-do-bebe/assaduras-do-bebe">Assaduras do Bebê</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/para-troca-do-bebe/fitas-adesivas">Fitas Adesivas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/para-troca-do-bebe/lenços-umedecidos">Lenços Umedecidos</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/bebe-e-mamae/cuidado-com-a-mae">Cuidado com a Mãe</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/cuidado-com-a-mae/absorvente-para-seios">Absorvente para Seios</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/cuidado-com-a-mae/amamentacao">Amamentação</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/cuidado-com-a-mae/meias-elasticas">Meias Elásticas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/cuidado-com-a-mae/tratamento-corpo-mamae">Tratamento Corpo Mamãe</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/bebe-e-mamae/kit?PS=20">Kits e Presentes</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/acessorios-infantis/kit?PS=20">Acessórios</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/corpo-e-banho/kit?PS=20">Corpo e Banho</a>
+    </li>
+  </ul>
+<div class="header__submenu-banner"><div class="box-banner"><a href="/composto-lacteo-nestle-ninho-fases-1-sache-800g/p"><img width="380" height="395" id="ihttp://drogariasp.vteximg.com.br/arquivos/ids/204445/DPS_Menu_Interativo-min.jpg" alt="bannerMenuBebeMamae" src="http://drogariasp.vteximg.com.br/arquivos/ids/204445/DPS_Menu_Interativo-min.jpg" complete="complete"/></a></div></div></div></div></div></li><li class="header__menu-item"><a class="header__menu-link" href="/estetica">Estética</a><div class="header__submenu subPosRight"><div class="avt-container"><div class="avt-row">
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item header__submenu-item--back">
+      <a href="#" class="header__submenu-link">Voltar</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/higiene/cabelos?PS=20">Cabelos</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/tintura-e-tratamento/alisantes-e-relaxamentos?PS=20">Alisantes e Relaxamentos</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/finalizacao-e-tratamento/ampola-de-tratamento/Ampola?PS=20&amp;map=c,c,c,specificationFilter_22">Ampolas de Tratamento</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/antiqueda">Antiqueda</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/acessorios/chapinha?PS=20">Chapinhas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/higiene/condicionador">Condicionador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/tintura-e-tratamento/descolorante?PS=20">Descolorantes</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/finalizacao-e-tratamento/spray-e-fluidos-para-cabelos?PS=20">Fixador e Texturizador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/finalizacao-e-tratamento/gel-fixador?PS=20">Gel Fixador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/finalizacao-e-tratamento/keratina-liquida?PS=20">Keratina </a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/finalizacao-e-tratamento/mascara-de-tratamento?PS=20">Máscara de Tratamento</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/finalizacao-e-tratamento/mousse?PS=20">Mousse</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/finalizacao-e-tratamento/oleo-e-locao?PS=20">Óleo Reparador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/pré shampoo">Pré Shampoo</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list sem-title">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/finalizacao-e-tratamento/pomada-modeladora?PS=20">Pomada Modeladora</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/higiene/shampoo">Shampoo</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/acessorios/secador-de-cabelo?PS=20">Secadores</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/tintura-e-tratamento/tintura/Feminino?PS=20&amp;map=c,c,c,specificationFilter_68">Tinturas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/finalizacao-e-tratamento/vitaminas?PS=20">Vitaminas e Tônicos</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/estetica/cuidados-com-a-pele/corpo?PS=20">Corpo</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/cuidados-com-a-pele/creme-para-pernas?PS=20">Creme para as pernas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/cuidados-com-a-pele/creme-para-maos?PS=20">Creme para as mãos</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/cuidados-com-a-pele/hidratante-corporal?PS=20">Hidratante Corporal</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/cuidados-com-a-pele/oleo-de-amendoas?PS=20">Óleo de Amêndoas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/cuidados-com-a-pele/talco?PS=20">Talco</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/estetica/depilacao?PS=20">Depilação</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/depilacao/aparador-de-pelos">Aparador de Pelos</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/depilacao/aparelho-depilatorio?PS=20">Lâmina Depilatória</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list sem-title">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/depilacao/cera-depilatoria?PS=20">Cera Depilatória</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/depilacao/creme-depilatorio?PS=20">Creme Depilatório</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/depilacao/folhas-para-depilacao?PS=20">Folhas Depilatórias</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/depilacao/removedor-pos-depilacao?PS=20">Pós Depilação</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/estetica/masculino?PS=20&amp;O=OrderByTopSaleDESC">Estética Masculina</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/barba/aparelho-de-barbear?PS=20">Barbeador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/barba/aparelho-de-barbear-descartavel?PS=20">Barbeador Descartável</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/barba/barbeador-eletrico?PS=20">Barbeador Elétrico</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/barba/creme-de-barbear?PS=20">Creme de Barbear</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/barba/espuma-de-barbear">Espuma de Barbear</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/barba/gel-de-barbear?PS=20">Gel de barbear</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/barba/pos-barba?PS=20">Pós-Barba</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/barba/refil-para-barbeador?PS=20">Refil para Barbeador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/tintura-e-tratamento/Masculino?PS=20&amp;map=c,c,specificationFilter_68">Tinturas Masculinas</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/estetica/344?PS=20&amp;map=c,productClusterIds&amp;utmi_p=_promocao_cruelty-free&amp;utmi_pc=Refino Full Text&amp;utmi_cp=">Não testam em animais</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/estetica/cuidados-com-a-pele/hidratante-corporal/tatuagem?PS=20">Tatuagem</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/estetica/unhas">Unhas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/unhas/alicate-e-cortador?PS=20">Alicate e Cortador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/pele-e-mucosa/antimicoticos-e-fungos/Frasco?PS=20&amp;map=c,c,c,specificationFilter_19">Antimicótico</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/unhas/esmaltes">Esmaltes</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/unhas/removedor-de-esmalte?PS=20">Removedor de Esmalte</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/unhas/tesoura-e-lixa?PS=20">Tesoura e Lixa</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/unhas/unhas-posticas?PS=20">Unhas Postiças</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/unhas/esmaltes/colorama?PS=20">Colorama</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/unhas/esmaltes/revlon?PS=20">Revlon</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/risque">Risqué</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/unhas/esmaltes/vult?PS=20">Vult</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/estetica/kit">Kits</a>
+    </li>
+  </ul>
+<div class="header__submenu-banner"><div class="box-banner"><a href="/promocao/dia-das-maes"><img width="380" height="395" id="ihttp://drogariasp.vteximg.com.br/arquivos/ids/204584/MKTmaes_Menu-Interativo-min.jpg" alt="bannerMenuEstetica" src="http://drogariasp.vteximg.com.br/arquivos/ids/204584/MKTmaes_Menu-Interativo-min.jpg" complete="complete"/></a></div></div></div></div></div></li><li class="header__menu-item"><a class="header__menu-link" href="/nutricao-e-alimentos">Nutrição</a><div class="header__submenu subPosRight"><div class="avt-container"><div class="avt-row">
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item header__submenu-item--back">
+      <a href="#" class="header__submenu-link">Voltar</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/nutricao-e-alimentos/alimentos">Alimentos</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/alimentos/adoçante">Adoçante</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/alimentos/balas">Balas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/alimentos/barra-de-cereal">Barra de Cereal</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/alimentos/chicletes">Chicletes</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/alimentos/chocolates">Chocolates</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/alimentos/complemento-alimentar">Complemento Alimentar</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/alimentos/cookies">Cookies</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/alimentos/frutas-secas">Frutas Secas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/alimentos/geleias">Geléias</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/alimentos/granola">Granola</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/alimentos/sal">Sal</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/nutricao-e-alimentos/bebidas">Bebidas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/bebidas/achocolatado">Achocolatado</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/bebidas/agua">Água</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/bebidas/cha">Chá</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/bebidas/energetico">Energético</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/bebidas/isotonico">Isotônico</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/bebidas/suco">Suco</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/bebe-e-mamae/alimentos-infantis">Nutrição Infantil</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/alimentos-infantis/complemento-alimentar-infantil">Complemento Alimentar </a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/bebe-e-mamae/alimentos-infantis/leites-e-formulas-infantis">Leites e Fórmulas Infantis</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/nutricao-e-alimentos/emagrecedores">Emagrecedores</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/emagrecedores/capsulas-e-tabletes">Cápsulas e Tabletes</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/emagrecedores/shake">Shakes</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/emagrecedores/naturais">Naturais</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/emagrecedores/cha">Chá</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/nutricao-e-alimentos/nutricao-esportiva">Nutrição Esportiva</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/nutricao-esportiva/energetico">Energéticos</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/nutricao-esportiva/massa-muscular">Massa Muscular</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/nutricao-e-alimentos/nutricao-esportiva/suplemento-alimentar">Suplemento Alimentar</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/promocao/linha-diet">Linha Diet</a>
+    </li>
+  </ul>
+<div class="header__submenu-banner"><div class="box-banner"><a href="/milnutri-danone-800g/p"><img width="380" height="395" id="ihttp://drogariasp.vteximg.com.br/arquivos/ids/204417/7.-Nutri-min.jpg" alt="bannerMenuNutricao" src="http://drogariasp.vteximg.com.br/arquivos/ids/204417/7.-Nutri-min.jpg" complete="complete"/></a></div></div></div></div></div></li><li class="header__menu-item"><a class="header__menu-link" href="/perfumaria">Perfumaria</a><div class="header__submenu subPosRight"><div class="avt-container"><div class="avt-row">
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item header__submenu-item--back">
+      <a href="#" class="header__submenu-link">Voltar</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/perfumaria/colonias">Colônias</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/perfumaria/colonias/feminino">Feminino</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/perfumaria/colonias/masculino">Masculino</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/perfumaria/colonias/infantil">Infantil</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/perfumaria/desodorante-aerosol">Desodorante Aerosol</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/perfumaria/desodorante-aerosol/feminino">Feminino</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/perfumaria/desodorante-aerosol/masculino">Masculino</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/perfumaria/desodorante-aerosol/unissex">Unissex</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/perfumaria/desodorante-roll-on-e-creme">Desodorante Creme e Roll-on</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/perfumaria/desodorante-roll-on-e-creme/feminino">Feminino</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/perfumaria/desodorante-roll-on-e-creme/masculino">Masculino</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/perfumaria/desodorante-roll-on-e-creme/unissex">Unissex</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/perfumaria/desodorante-spray">Desodorante Spray</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/perfumaria/desodorante-spray/feminino">Feminino</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/perfumaria/desodorante-spray/masculino">Masculino</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/perfumaria/perfume-de-ambiente">Perfume de Ambiente</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/perfumaria/kit?PS=20&amp;utmi_p=_kit&amp;utmi_pc=Refino Full Text&amp;utmi_cp=kit">Kits Especiais</a>
+    </li>
+  </ul>
+<div class="header__submenu-banner"><div class="box-banner"><a href="/busca/?fq=H:1288?"><img width="380" height="395" id="ihttp://drogariasp.vteximg.com.br/arquivos/ids/204620/DPSP_Dove_380x395.jpg" alt="bannerMenuPerfumaria" src="http://drogariasp.vteximg.com.br/arquivos/ids/204620/DPSP_Dove_380x395.jpg" complete="complete"/></a></div></div></div></div></div></li><li class="header__menu-item"><a class="header__menu-link" href="/testes-e-ortopedia">Testes e <br />Ortopedia</a><div class="header__submenu subPosRight"><div class="avt-container"><div class="avt-row">
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item header__submenu-item--back">
+      <a href="#" class="header__submenu-link">Voltar</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/testes-e-ortopedia/acessorios?PS=20">Acessórios</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/acessorios/bengalas?PS=20">Bengalas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/acessorios/bolinha-de-fisioterapia?PS=20">Bolinha de fisioterapia</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/acessorios/bolsa-termica?PS=20">Bolsa Térmica</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/acessorios/faixa-abdominal-e-toracica?PS=20">Faixa Abdominal e Torácica</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/acessorios/massageador?PS=20">Massageador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/acessorios/suspensorio-escrotal?PS=20">Suspensório Escrotal</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/testes-e-ortopedia/aparelhos?PS=20">Aparelhos</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/aparelhos/aparelho-de-pressao?PS=20">Aparelho de Pressão</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/aparelhos/balanca?PS=20">Balança</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/aparelhos/inalador-purificador-e-acessorios?PS=20">Inalador, Purificador e Acessórios</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/aparelhos/termometro?PS=20">Termômetro</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/testes-e-ortopedia/cabeca?PS=20">Cabeça</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/medicamentos/respiratorio/dilatador-nasal/dilatador%20nasal?PS=20">Dilatador Nasal</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/cabeca/mascara?PS=20">Máscara</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/cabeca/protetor-de-ouvido?PS=20">Protetor de Ouvido</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/testes">Exames</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/exames/abaixador-de-lingua?PS=20">Abaixador de língua</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/exames/bolsa-para-colostomia?PS=20">Bolsa Para Colostomia</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/exames/coletor-de-fezes-e-urina?PS=20 ">Coletor de Fezes e Urina</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/testes-e-ortopedia/maos-e-bracos?PS=20">Mãos e Braços</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/luvas">Luvas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/maos-e-bracos/munhequeiras?PS=20">Munhequeiras</a>
+    </li>
+    <!--<li class="header__submenu-item">
+        <a class="header__submenu-link" href="/testes-e-ortopedia/maos-e-bracos/tala-para-tendinite">Tala para Tendinite</a>
+    </li>-->
+  </ul>
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/testes-e-ortopedia/pes-e-pernas?PS=20">Pés e Pernas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/pes-e-pernas/calcanheira?PS=20">Calcanheira</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/pes-e-pernas/meias?PS=20">Meias</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/pes-e-pernas/palmilha?PS=20">Palmilha</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/pes-e-pernas/protetor-adesivo?PS=20">Protetor Adesivo</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/pes-e-pernas/tornozeleira-e-joelheira?PS=20">Tornozeleira e Joelheira</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/testes-e-ortopedia">Testes</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/testes-e-ortopedia/testes/teste-de-fertilidade-e-gravidez?PS=20">Teste de Fertilidade e gravidez</a>
+    </li>
+  </ul>
+<div class="header__submenu-banner"><div class="box-banner"><a href="/busca/?fq=H:1234?"><img width="380" height="395" id="ihttp://drogariasp.vteximg.com.br/arquivos/ids/204462/8.-Saude-min.jpg" alt="bannerMenuTestesAparelhos" src="http://drogariasp.vteximg.com.br/arquivos/ids/204462/8.-Saude-min.jpg" complete="complete"/></a></div></div></div></div></div></li><li class="header__menu-item"><a class="header__menu-link" href="/maquiagem?PS=20&amp;O=OrderByTopSaleDESC">Maquiagem</a><div class="header__submenu subPosRight"><div class="avt-container"><div class="avt-row">
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item header__submenu-item--back">
+      <a href="#" class="header__submenu-link">Voltar</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/maquiagem/rosto">Rosto</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/rosto/base">Base</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/rosto/blush">Blush</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/rosto/corretivo">Corretivo</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/rosto/demaquilante">Demaquilante</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/rosto/fixador">Fixador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/rosto/iluminador">Iluminador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/rosto/po-facial">Pó Facial</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/rosto/pre-maquiagem">Pré-Maquiagem</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/maquiagem/labios">Lábios</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/labios/batom">Batom</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/labios/batom-hidratante">Batom Hidratante</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/labios/brilho-labial">Brilho Labial</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/labios/lapis">Lápis</a>
+    </li>
+  </ul>
+  <ul class="header__submenu-list">
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/maquiagem/olhos">Olhos</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/olhos/cilios-postiços">Cílios Postiços</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/olhos/delineador">Delineador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/olhos/demaquilante">Demaquilante</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/olhos/lapis-de-olho">Lápis de Olho</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/olhos/lapis-de-sobrancelha">Lápis de Sobrancelha</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/olhos/mascara-de-cilios">Máscara de Cílios</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/olhos/pinca">Pinça</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/maquiagem/olhos/sombra">Sombra</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/estetica/unhas">Unhas</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/unhas/alicate-e-cortador">Alicate e Cortador</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/unhas/esmalte">Esmalte</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link" href="/estetica/unhas/removedor-de-esmalte">Removedor de Esmalte</a>
+    </li>
+    <li class="header__submenu-item">
+      <a class="header__submenu-link header__submenu-link--title" href="/maquiagem/rosto/kits-especiais">Kits Especiais</a>
+    </li>
+  </ul>
+<div class="header__submenu-banner"><div class="box-banner"><a href="/promocao/dia-das-maes"><img width="380" height="395" id="ihttp://drogariasp.vteximg.com.br/arquivos/ids/204584/MKTmaes_Menu-Interativo-min.jpg" alt="bannerMenuMaquiagem" src="http://drogariasp.vteximg.com.br/arquivos/ids/204584/MKTmaes_Menu-Interativo-min.jpg" complete="complete"/></a></div></div></div></div></div></li><li class="header__menu-item lista"><a class="header__menu-link header__menu-link--featured" href="/cha-de-bebe">Chá de Bebê </a></li></ul><ul class="menu__links-list"><li class="menu__links-item">
+                                    Televendas: 4003-3393
+                                </li><li class="menu__links-item"><a href="/account" class="menu__links-link">Minha conta</a></li><li class="menu__links-item"><a href="/account/orders" class="menu__links-link">Meus pedidos</a></li><li class="menu__links-item"><a href="/institucional/nossas-lojas" class="menu__links-link">Nossas lojas</a></li><li class="menu__links-item"><a href="/central-de-atendimento" class="menu__links-link">Central de dúvidas</a></li><li class="menu__links-item"><a href="/cha-de-bebe" class="menu__links-link">Chá de Bebê </a></li></ul></menu></div></div></div></div><!-- FIM: Menu --><!-- INICIO: Benefícios --><div class="header__benefits-wrap"><div class="avt-container"><div class="avt-row"><div class="avt-col-xs-24"><div class="header__benefits__blocks-wrap">
+  <a class="header__benefits header__benefits--newsletter" href="#">
+    <div class="header__benefits-block">
+      <span class="header__feature">Assine nossa newsletter</span>
+        Acompanhe as novidades
+    </div>
+  </a>
+
+  <a class="header__benefits header__benefits--discounts" href="/programa-beneficios-medicamentos">
+    <div class="header__benefits-block">
+      <span class="header__feature">Descontos em medicamentos</span>
+        Veja se seu medicamento faz parte do PBM
+    </div>
+  </a>
+
+  <a class="header__benefits header__benefits--plans" href="/convenio">
+    <div class="header__benefits-block">
+      <span class="header__feature">Possui Plano de Saúde?</span>
+        Ative seus descontos exclusivos
+    </div>
+  </a>
+<a class="header__benefits header__benefits--free-shipping">
+    <div class="header__benefits-block">
+        <span class="header__feature">Frete Grátis nas compras acima R$170*</span>
+        Consulte as regiões atendidas.
+    </div>
+</a><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome frete-gratis-170 não foi renderizado por nao ser um XDocument válido, erro: - Object reference not set to an instance of an object.--></div></div></div></div></div><!-- FIM: Benefícios --></div><div class="search__fake"><div class="fake-search__input"><input type="search" name="fake-header__search" placeholder="Olá, o que você procura?" class="fake-search__field-input" /></div><div class="fake-search__submit"><button type="submit" class="fake-search__field-submit">Buscar</button></div></div></header><!-- FIM - Subtemplate Header --><!-- INICIO - Miolo da página --><main class="main" id="main"><section class="full_width departamentTop clear"><div class="grid_1244"><div class="hidden-xs"><div class="banner-depto-genericos"></div></div><div class="visible-xs-block banner-categoria-mobile"><div class="banner-depto-genericos"></div></div></div><!-- grid_1244 END --></section><!-- departamentTop END --><section class="full_width breadcrumb_bg top_nav"><!--  hidden-xs --><div class="grid_1244"><div class="flt_left hidden-xs"><div class="bread-crumb">
+<ul>
+<li><a title="Drogaria Sao Paulo" href="/">Drogaria Sao Paulo</a></li>
+<li><a title="Dermocosméticos" href="http://www.drogariasaopaulo.com.br/dermocosmeticos">Dermocosméticos</a></li><li><a title="Nutricosméticos" href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos?PS=20">Nutricosméticos</a></li><li class="last"><strong><a title="Fortalecedor de Cabelos e Unhas" href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas?PS=20">Fortalecedor de Cabelos e Unhas</a></strong></li></ul>
+</div>
+</div><div class="flt_right"></div></div></section><!-- breadCrumb top_nav END --><div class="full_width grid_1244">
+<div class='giftlist-insertsku-wrapper'>
+<span class='hidden-glis-create-url' style='display: none !important;'>/giftlist/create</span>
+<span class='hidden-glis-edit-url' style='display: none !important;'>/giftlist/product</span>
+<span class='hidden-glis-addtoquantity' style='display: none !important;'>True</span>
+<span class='hidden-glis-address-message' style='display: none !important;'>O Tipo de Lista selecionado requer um endereço de entrega. Você será redirecionado para a criação da lista e retornará para esta página ao concluir o cadastro.</span>
+<span class='hidden-glis-address-message-add' style='display: none !important;'>Todos os Produtos selecionados serão incluidos à sua nova Lista</span>
+<span class='hidden-glis-address-message-noadd' style='display: none !important;'>Você precisará incluir os Produtos após o cadastro de sua nova Lista</span>
+<div class='glis-save-template' style='display: none !important;'>
+<li class='glis-save-title-new'>Sua Lista foi criada com sucesso</li>
+<li class='glis-save-inserted'>#quantidade# Produto(s) adicionado(s) à sua Lista</li>
+<li class='glis-save-existing'>#quantidade# Produto  (s) selecionado(s) já existia(m) em sua Lista</li>
+<li class='glis-save-edit'><a class='glis-edit-link' href='/giftlist/manage'>Clique aqui para gerenciar sua Lista</a></li>
+</div>
+<div class="ajax-content-loader" rel="/no-cache/GiftListInsertSkuV2.aspx?mode=list&popup=true&types=6&return=%2fdermocosmeticos%2fnutricosmeticos%2ffortalecedor-de-cabelos-e-unhas%3fPS%3d20"></div>
+</div>
+<section class="sidebar flt_left hidden-xs"><h1 style="display:none;"></h1>
+<script type="text/javascript" language="javascript">
+    $(document).ready(function() {
+        partialSearchUrl = '/busca?PS=20&';
+    });
+</script>
+<div class="navigation-tabs">    <div class="menu-departamento">        <span class="rt"></span><span class="rb"></span>        <div>            <div class="menu-navegue">                <a title="Navegue" class="search-navigator-tab tab-navegue-ativo" href="#">Navegue</a>                <a title="Refinar Resultado" class="search-navigator-tab tab-refinar" href="#">Refinar Resultado</a>            </div><div class="search-multiple-navigator" style="display: none;" ><h3 class="dermocosmeticos"><span></span><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos" title="Dermocosméticos">Dermocosméticos</a></h3>
+<h4 class="dermocosmeticos"><span></span><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos" title="Fortalecedor de Cabelos e Unhas">Fortalecedor de Cabelos e Unhas</a></h4>
+<a title="Refinar Resultado" class="bt-refinar search-filter-button even" href="#">Refinar Resultado</a><fieldset class="refino-marca even">
+<h5 class="  even">Marca</h5>
+<div class="">
+<label><input rel="fq=B:90474" class="multi-search-checkbox" type="checkbox" name="90474" value="90474"/>APSEN (1)</label><label><input rel="fq=B:10093" class="multi-search-checkbox" type="checkbox" name="10093" value="10093"/>AVERT (2)</label><label><input rel="fq=B:463" class="multi-search-checkbox" type="checkbox" name="463" value="463"/>BIOLAB SANUS (2)</label><label><input rel="fq=B:90087" class="multi-search-checkbox" type="checkbox" name="90087" value="90087"/>CRISTALIA (1)</label><label><input rel="fq=B:4199" class="multi-search-checkbox" type="checkbox" name="4199" value="4199"/>EQUALIV (1)</label><label><input rel="fq=B:4713" class="multi-search-checkbox" type="checkbox" name="4713" value="4713"/>HERBAGE (1)</label><label><input rel="fq=B:1839" class="multi-search-checkbox" type="checkbox" name="1839" value="1839"/>INNEOV (1)</label><label><input rel="fq=B:2000092" class="multi-search-checkbox" type="checkbox" name="2000092" value="2000092"/>MANTECORP (1)</label><label><input rel="fq=B:4764" class="multi-search-checkbox" type="checkbox" name="4764" value="4764"/>NUTRIGER (2)</label><label><input rel="fq=B:3018" class="multi-search-checkbox" type="checkbox" name="3018" value="3018"/>RENNOVEE (1)</label></div></fieldset><fieldset class="refino Informações">
+<h5 class="  Informações">Apresentação</h5>
+<div class="">
+<label><input rel="fq=specificationFilter_28:C%c3%a1psula" class="multi-search-checkbox" type="checkbox" name="C%c3%a1psula" value="C&#225;psula"/>C&#225;psula (6)</label></div></fieldset><fieldset class="refino even">
+<h5 class="  even">Faixa de preço</h5>
+<div class="">
+<label><input rel="fq=P:%5b50+TO+100%5d" class="multi-search-checkbox" type="checkbox" name="%5b50+TO+100%5d" value="[50 TO 100]"/>De R$ 50,00 a R$ 100,00 (6)</label><label><input rel="fq=P:%5b100+TO+200%5d" class="multi-search-checkbox" type="checkbox" name="%5b100+TO+200%5d" value="[100 TO 200]"/>De R$ 100,00 a R$ 200,00 (4)</label></div></fieldset></div><div class="search-single-navigator" style="display:block"><h3 class="dermocosmeticos"><span></span><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos" title="Dermocosméticos">Dermocosméticos</a></h3><ul class="productClusterSearchableIds  even" >
+<li ><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/147?PS=20&map=c,c,c,productClusterSearchableIds" title="saude-feminina-menopausa-tpm">saude-feminina-menopausa-tpm (7)</a></li>
+<li ><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/148?PS=20&map=c,c,c,productClusterSearchableIds" title="esmalte-unhas-mãos">esmalte-unhas-mãos (9)</a></li>
+<li ><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/159?PS=20&map=c,c,c,productClusterSearchableIds" title="shampoo-condicionador">shampoo-condicionador (9)</a></li>
+<li ><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/181?PS=20&map=c,c,c,productClusterSearchableIds" title="penteados-acessorios-finalizacao">penteados-acessorios-finalizacao (2)</a></li>
+<li class="last"><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/201?PS=20&map=c,c,c,productClusterSearchableIds" title="shopmania">shopmania (9)</a></li>
+</ul>
+<h4 class="dermocosmeticos even"><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas?PS=20" title="Fortalecedor de Cabelos e Unhas">Fortalecedor de Cabelos e Unhas (13)</a></h4>
+<h5 class="Hide HideMarca">Marca</h5>
+<ul class="Marca " >
+<li ><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/apsen?PS=20" title="APSEN">APSEN (1)</a></li>
+<li ><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/avert?PS=20" title="AVERT">AVERT (2)</a></li>
+<li ><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/biolab-sanus?PS=20" title="BIOLAB SANUS">BIOLAB SANUS (2)</a></li>
+<li ><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/cristalia?PS=20" title="CRISTALIA">CRISTALIA (1)</a></li>
+<li ><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/equaliv?PS=20" title="EQUALIV">EQUALIV (1)</a></li>
+<li ><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/herbage?PS=20" title="HERBAGE">HERBAGE (1)</a></li>
+<li ><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/inneov?PS=20" title="INNEOV">INNEOV (1)</a></li>
+<li ><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/mantecorp?PS=20" title="MANTECORP">MANTECORP (1)</a></li>
+<li ><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/nutriger?PS=20" title="NUTRIGER">NUTRIGER (2)</a></li>
+<li class="last"><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/rennovee?PS=20" title="RENNOVEE">RENNOVEE (1)</a></li>
+</ul><h5 class="Hide Informações HideApresentacao">Apresentação</h5>
+<ul class="Apresentação  Informações" >
+<li class="last"><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/Cápsula?PS=20&map=c,c,c,specificationFilter_28" title="Cápsula">Cápsula (6)</a></li>
+</ul><h5 class="Hide even HideFaixa-de-preco">Faixa de preço</h5>
+<ul class="Faixa de preço  even" >
+<li ><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/de-50-a-100?PS=20&map=c,c,c,priceFrom" title="De R$ 50,00 a R$ 100,00">De R$ 50,00 a R$ 100,00 (6)</a></li>
+<li class="last"><a href="http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas/de-100-a-200?PS=20&map=c,c,c,priceFrom" title="De R$ 100,00 a R$ 200,00">De R$ 100,00 a R$ 200,00 (4)</a></li>
+</ul></div>        </div>    </div></div><div class="urlLastSearch" style="display:none">http://www.drogariasaopaulo.com.br/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas?PS=20</div></section><!-- sidebar END --><!-- Mobile Selectors --><nav id="mobile-navigation" class="visible-xs-block"><select id="product-type-select" name="product-type-select"></select><select id="brand-select" name="brand-select"></select><select id="price-range-select" name="price-range-select"></select></nav><!-- End Mobile Selectors --><div class="mainPrateleira prateleiraDepartamento flt_right"><div class="main"><p class="searchResultsTime"><span class="resultado-busca-numero"><span class="label">Produtos encontrados:</span> <span class="value">13</span></span><span class="resultado-busca-termo"> <span class="label">Resultado da Pesquisa por:</span> <strong class="value"></strong></span><span class="resultado-busca-tempo"> <span class="label">em</span> <span class="value">193 ms</span></span></p><div class="sub"><div class="resultado-busca-filtro">
+<fieldset class="orderBy">
+<label>Ordenar por:</label>
+<select id="O" onchange="window.location.href= '/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas?PS=20&' + 'O=' + this.options[this.selectedIndex].value">
+<option  value="">Selecione</option>
+<option  value="OrderByPriceASC">Menor Preço</option>
+<option  value="OrderByPriceDESC">Maior Preço</option>
+<option  value="OrderByTopSaleDESC">Mais vendidos</option>
+<option  value="OrderByReviewRateDESC">Melhores avaliações</option>
+<option  value="OrderByNameASC">A - Z</option>
+<option  value="OrderByNameDESC">Z - A</option>
+<option  value="OrderByReleaseDateDESC">Data de lançamento</option>
+<option  value="OrderByBestDiscountDESC">Melhor Desconto</option>
+</select>
+</fieldset>
+<fieldset class="filterBy">
+Itens por página:
+<select id="PS" onchange="window.location.href= '/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas?' + 'PS=' + this.options[this.selectedIndex].value">
+<option selected="selected" value="20">20</option>
+<option  value="40">40</option>
+<option  value="60">60</option>
+<option  value="80">80</option>
+</select>
+</fieldset>
+<p class="compare">Produtos selecionados para comparar: <strong><span class="compare-selection-count" id="NumeroSuperior">0</span></strong><a title="Comparar" class="btn-comparar" href="#">Comparar</a></p></div></div><div class="vitrine resultItemsWrapper">
+            <script type='text/javascript'>
+            var pagecount_36835571;
+            $(document).ready(function () {
+                pagecount_36835571 = 1;
+                $('#PagerTop_36835571').pager({ pagenumber: 1, pagecount: pagecount_36835571, buttonClickCallback: PageClick_36835571 });
+                $('#PagerBottom_36835571').pager({ pagenumber: 1, pagecount: pagecount_36835571, buttonClickCallback: PageClick_36835571 });
+                if (window.location.hash != '') PageClick_36835571(window.location.hash.replace(/\#/, ''));
+            });
+            PageClick_36835571 = function(pageclickednumber) {
+                window.location.hash = pageclickednumber;
+                $('#ResultItems_36835571').load('/buscapagina?fq=C%3a%2f231%2f277%2f319%2f&PS=20&sl=b4e61bc0-9cfe-44ac-81a8-beba0fe2d1f2&cc=20&sm=0&PageNumber=' + pageclickednumber,
+                    function() {
+                        $('#PagerTop_36835571').pager({ pagenumber: pageclickednumber, pagecount: pagecount_36835571, buttonClickCallback: PageClick_36835571 });
+                        $('#PagerBottom_36835571').pager({ pagenumber: pageclickednumber, pagecount: pagecount_36835571, buttonClickCallback: PageClick_36835571 });
+                    bindQuickView();
+                });
+            }</script><div class="pager top" id="PagerTop_36835571"></div><div id="ResultItems_36835571" class="prateleira"><div class="prateleira n13colunas"><ul><li layout="b4e61bc0-9cfe-44ac-81a8-beba0fe2d1f2" class="medicamentos---drogaria-sao-paulo">
+
+<div style="display: none" class="shelf-giftlist">
+            <p class="gift-list-wished not-wished">nenhum desejado</p>
+        
+            <p class="gift-list-purchased not-purchased">nenhum comprado</p>
+        
+    <p class="gift-list-insert"><div class='product-insertsku must-login' style='display: none;'>
+<fieldset>
+<ul class='insert-sku-checklist'>
+<li class='is-checklist-item from-shelf first last'>
+<input type='text' size='3' class='insert-sku-quantity' maxlength='3' id='isq-87bed603779f49babee25db7c35dc9fc' value='1' title='Pantogar Biolab Sanus 90 Cápsulas'><input id='chk-87bed603779f49babee25db7c35dc9fc' type='checkbox' class='insert-sku-checkbox' rel='168734' name='168734' /><label for='chk-87bed603779f49babee25db7c35dc9fc' title='Pantogar Biolab Sanus 90 Cápsulas'><span class='insert-sku-count'>Adicionar</span><span class='insert-sku-name'> Pantogar Biolab Sanus 90 Cápsulas</span></label></li>
+</ul>
+</fieldset>
+</div></p>
+    
+    
+</div>
+
+<span style="font-size:0;opacity:0;position:absolute;"><div class="product-field product_field_20 product-field-type_7">
+Tipo de Medicamento
+<ul>
+<li class="similar" >Similar</li>
+</ul>
+</div>
+</span>
+
+<a title="Pantogar Biolab Sanus 90 C&#225;psulas" href="http://www.drogariasaopaulo.com.br/pantogar-biolab-sanus-90-capsulas/p" class="productPrateleira transition_all Medicamentos">
+    <img src="http://drogariasp.vteximg.com.br/arquivos/ids/181502-130-130/VSPM.jpg" width="130" height="130" alt="Pantogar-Biolab-Sanus-90-capsulas" id="" />
+    <span class="promo_flag transition_all"></span>
+    <span class="discount_flag transition_all"></span>
+    <h3>Pantogar Biolab Sanus 90 Cápsulas</h3>
+
+                        <span class="oldPrice transition_all">
+                De: <span class="the-price">R$ 230,02</span>
+            </span>
+            <span class="bestPrice transition_all">
+                <span>Por:</span> <span class="the-price">R$ 174,17</span> <span class="pbm-discount" style="display:none;"><small>ou</small> <strong class="pbmPrice">R$ <span>0,00</span></strong></span>
+            </span>
+                <em class="installment transition_all">
+                            3X de R$ 58,05
+                <span>sem juros</span>
+                    </em>
+        <div class="wrapper-buy-button-asynchronous bba168734"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="168734" class="buy-button-asynchronous-product-id"><input type="hidden" value="168734" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-168734"><span class="add"><a href="https://www.drogariasaopaulo.com.br/checkout/cart/add?sku=168734&qty=1&seller=1&sc=1&price=17417&cv=5395462216f8b1294739f0fcf1e5ded9_geral:D6B24C4E9FF7C0EFF9F325EDD8975CBE&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod168734">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-168734" /><div class="buy-button-asynchronous message-user168734"></div></div>
+    
+    <span class="venda_proibida" style="display:none;"></span>    
+    <div class="venda_proibida_btns">
+        <a href="http://www.drogariasaopaulo.com.br/pantogar-biolab-sanus-90-capsulas/p">Mais informações</a>
+    </div>
+
+    <div class="pbm-shelf-btn" style="display:none;">
+        <a href="http://www.drogariasaopaulo.com.br/pantogar-biolab-sanus-90-capsulas/p">Clique e saiba mais</a>
+    </div>
+    
+    <ul class="product-info" style="display:none;">
+        <li class="product-id">168734</li>
+        <li class="product-sku-id">168734</li>
+        <li class="pbm-info">
+            <ul>
+                <li class="pbm-info-pbm-active"><div class="product-field product_field_77 product-field-type_7">
+PBM
+<ul>
+<li class="sim" >SIM</li>
+</ul>
+</div>
+</li>
+                <li class="pbm-info-discount"><div class="product-field product_field_78 product-field-type_1">
+Desconto PBM
+<ul>
+<li class="40" >40</li>
+</ul>
+</div>
+</li>
+                <li class="pbm-info-program"><div class="product-field product_field_79 product-field-type_7">
+Programa PBM
+<ul>
+<li class="saude-em-evolucao" >Saúde em evolução</li>
+</ul>
+</div>
+</li>
+            </ul>
+        </li>
+    </ul>
+</a>
+</li><li id="helperComplement_168734" style="display:none" class="helperComplement"></li><li layout="b4e61bc0-9cfe-44ac-81a8-beba0fe2d1f2" class="medicamentos---drogaria-sao-paulo">
+
+<div style="display: none" class="shelf-giftlist">
+            <p class="gift-list-wished not-wished">nenhum desejado</p>
+        
+            <p class="gift-list-purchased not-purchased">nenhum comprado</p>
+        
+    <p class="gift-list-insert"><div class='product-insertsku must-login' style='display: none;'>
+<fieldset>
+<ul class='insert-sku-checklist'>
+<li class='is-checklist-item from-shelf first last'>
+<input type='text' size='3' class='insert-sku-quantity' maxlength='3' id='isq-25358ba1c27a4baf88f1325514ecc6c2' value='1' title='Pantogar Biolab Sanus 30 Cápsulas'><input id='chk-25358ba1c27a4baf88f1325514ecc6c2' type='checkbox' class='insert-sku-checkbox' rel='169366' name='169366' /><label for='chk-25358ba1c27a4baf88f1325514ecc6c2' title='Pantogar Biolab Sanus 30 Cápsulas'><span class='insert-sku-count'>Adicionar</span><span class='insert-sku-name'> Pantogar Biolab Sanus 30 Cápsulas</span></label></li>
+</ul>
+</fieldset>
+</div></p>
+    
+    
+</div>
+
+<span style="font-size:0;opacity:0;position:absolute;"><div class="product-field product_field_20 product-field-type_7">
+Tipo de Medicamento
+<ul>
+<li class="similar" >Similar</li>
+</ul>
+</div>
+</span>
+
+<a title="Pantogar Biolab Sanus 30 C&#225;psulas" href="http://www.drogariasaopaulo.com.br/pantogar-biolab-sanus-30-capsulas/p" class="productPrateleira transition_all Medicamentos">
+    <img src="http://drogariasp.vteximg.com.br/arquivos/ids/181507-130-130/VSPM.jpg" width="130" height="130" alt="Pantogar-Biolab-Sanus-30-capsulas" id="" />
+    <span class="promo_flag transition_all"></span>
+    <span class="discount_flag transition_all"></span>
+    <h3>Pantogar Biolab Sanus 30 Cápsulas</h3>
+
+                        <span class="oldPrice transition_all">
+                De: <span class="the-price">R$ 76,66</span>
+            </span>
+            <span class="bestPrice transition_all">
+                <span>Por:</span> <span class="the-price">R$ 62,03</span> <span class="pbm-discount" style="display:none;"><small>ou</small> <strong class="pbmPrice">R$ <span>0,00</span></strong></span>
+            </span>
+                <em class="installment transition_all">
+                            <span>à vista</span>
+                    </em>
+        <div class="wrapper-buy-button-asynchronous bba169366"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="169366" class="buy-button-asynchronous-product-id"><input type="hidden" value="169366" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-169366"><span class="add"><a href="https://www.drogariasaopaulo.com.br/checkout/cart/add?sku=169366&qty=1&seller=1&sc=1&price=6203&cv=bb1928553f5cedd9061e8b54e99fee03_geral:D6B24C4E9FF7C0EFF9F325EDD8975CBE&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod169366">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-169366" /><div class="buy-button-asynchronous message-user169366"></div></div>
+    
+    <span class="venda_proibida" style="display:none;"></span>    
+    <div class="venda_proibida_btns">
+        <a href="http://www.drogariasaopaulo.com.br/pantogar-biolab-sanus-30-capsulas/p">Mais informações</a>
+    </div>
+
+    <div class="pbm-shelf-btn" style="display:none;">
+        <a href="http://www.drogariasaopaulo.com.br/pantogar-biolab-sanus-30-capsulas/p">Clique e saiba mais</a>
+    </div>
+    
+    <ul class="product-info" style="display:none;">
+        <li class="product-id">169366</li>
+        <li class="product-sku-id">169366</li>
+        <li class="pbm-info">
+            <ul>
+                <li class="pbm-info-pbm-active"></li>
+                <li class="pbm-info-discount"><div class="product-field product_field_78 product-field-type_1">
+Desconto PBM
+<ul>
+<li class="" ></li>
+</ul>
+</div>
+</li>
+                <li class="pbm-info-program"></li>
+            </ul>
+        </li>
+    </ul>
+</a>
+</li><li id="helperComplement_169366" style="display:none" class="helperComplement"></li><li layout="b4e61bc0-9cfe-44ac-81a8-beba0fe2d1f2" class="dermocosmeticos---drogaria-sao-paulo">
+
+<div style="display: none" class="shelf-giftlist">
+            <p class="gift-list-wished not-wished">nenhum desejado</p>
+        
+            <p class="gift-list-purchased not-purchased">nenhum comprado</p>
+        
+    <p class="gift-list-insert"><div class='product-insertsku must-login' style='display: none;'>
+<fieldset>
+<ul class='insert-sku-checklist'>
+<li class='is-checklist-item from-shelf first last'>
+<input type='text' size='3' class='insert-sku-quantity' maxlength='3' id='isq-6649ca9c531b45c7a96137cda2609648' value='1' title='Tacita Cristalia 30 Comprimidos'><input id='chk-6649ca9c531b45c7a96137cda2609648' type='checkbox' class='insert-sku-checkbox' rel='533068' name='533068' /><label for='chk-6649ca9c531b45c7a96137cda2609648' title='Tacita Cristalia 30 Comprimidos'><span class='insert-sku-count'>Adicionar</span><span class='insert-sku-name'> Tacita Cristalia 30 Comprimidos</span></label></li>
+</ul>
+</fieldset>
+</div></p>
+    
+    
+</div>
+
+<span style="font-size:0;opacity:0;position:absolute;"></span>
+
+<a title="Tacita Cristalia 30 Comprimidos" href="http://www.drogariasaopaulo.com.br/tacita-cristalia-30-comprimidos/p" class="productPrateleira transition_all Dermocosméticos">
+    <img src="http://drogariasp.vteximg.com.br/arquivos/ids/190780-130-130/Tacita-Cristalia-30-Comprimidos-533068.jpg" width="130" height="130" alt="Tacita-Cristalia-30-Comprimidos-533068" id="" />
+    <span class="promo_flag transition_all"><p class="flag parcele-em-ate-3x-sem-juros">parcele em ate 3x sem juros</p></span>
+    <span class="discount_flag transition_all"></span>
+    <h3>Tacita Cristalia 30 Comprimidos</h3>
+
+                        <span class="bestPrice transition_all">
+                <span class="the-price">R$ 72,99</span> <span class="pbm-discount" style="display:none;"><small>ou</small> <strong class="pbmPrice">R$ <span>0,00</span></strong></span>
+            </span>
+                <em class="installment transition_all">
+                            <span>à vista</span>
+                    </em>
+        <div class="wrapper-buy-button-asynchronous bba533068"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="533068" class="buy-button-asynchronous-product-id"><input type="hidden" value="533068" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-533068"><span class="add"><a href="https://www.drogariasaopaulo.com.br/checkout/cart/add?sku=533068&qty=1&seller=1&sc=1&price=7299&cv=56a0f43f34a396f81f96d07dc76e1bec_geral:D6B24C4E9FF7C0EFF9F325EDD8975CBE&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod533068">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-533068" /><div class="buy-button-asynchronous message-user533068"></div></div>
+    
+    <span class="venda_proibida" style="display:none;"></span>    
+    <div class="venda_proibida_btns">
+        <a href="http://www.drogariasaopaulo.com.br/tacita-cristalia-30-comprimidos/p">Mais informações</a>
+    </div>
+
+    <div class="pbm-shelf-btn" style="display:none;">
+        <a href="http://www.drogariasaopaulo.com.br/tacita-cristalia-30-comprimidos/p">Clique e saiba mais</a>
+    </div>
+    
+    <ul class="product-info" style="display:none;">
+        <li class="product-id">533068</li>
+        <li class="product-sku-id">533068</li>
+        <li class="pbm-info">
+            <ul>
+                <li class="pbm-info-pbm-active"></li>
+                <li class="pbm-info-discount"></li>
+                <li class="pbm-info-program"></li>
+            </ul>
+        </li>
+    </ul>
+</a>
+</li><li id="helperComplement_533068" style="display:none" class="helperComplement"></li><li layout="b4e61bc0-9cfe-44ac-81a8-beba0fe2d1f2" class="dermocosmeticos---drogaria-sao-paulo">
+
+<div style="display: none" class="shelf-giftlist">
+            <p class="gift-list-wished not-wished">nenhum desejado</p>
+        
+            <p class="gift-list-purchased not-purchased">nenhum comprado</p>
+        
+    <p class="gift-list-insert"><div class='product-insertsku must-login' style='display: none;'>
+<fieldset>
+<ul class='insert-sku-checklist'>
+<li class='is-checklist-item from-shelf first last'>
+<input type='text' size='3' class='insert-sku-quantity' maxlength='3' id='isq-790187a9e244413a96ad354f93617735' value='1' title='Foline Hair Apsen 60 cápsulas'><input id='chk-790187a9e244413a96ad354f93617735' type='checkbox' class='insert-sku-checkbox' rel='513997' name='513997' /><label for='chk-790187a9e244413a96ad354f93617735' title='Foline Hair Apsen 60 cápsulas'><span class='insert-sku-count'>Adicionar</span><span class='insert-sku-name'> Foline Hair Apsen 60 cápsulas</span></label></li>
+</ul>
+</fieldset>
+</div></p>
+    
+    
+</div>
+
+<span style="font-size:0;opacity:0;position:absolute;"></span>
+
+<a title="Foline Hair Apsen 60 c&#225;psulas" href="http://www.drogariasaopaulo.com.br/foline-hair-apsen-60-capsulas/p" class="productPrateleira transition_all Dermocosméticos">
+    <img src="http://drogariasp.vteximg.com.br/arquivos/ids/188810-130-130/513997.jpg" width="130" height="130" alt="Foline-Hair-Apsen-60-capsulas" id="" />
+    <span class="promo_flag transition_all"><p class="flag bom---barato">Bom & Barato</p></span>
+    <span class="discount_flag transition_all"></span>
+    <h3>Foline Hair Apsen 60 cápsulas</h3>
+
+                        <span class="bestPrice transition_all">
+                <span class="the-price">R$ 59,79</span> <span class="pbm-discount" style="display:none;"><small>ou</small> <strong class="pbmPrice">R$ <span>0,00</span></strong></span>
+            </span>
+                <em class="installment transition_all">
+                            <span>à vista</span>
+                    </em>
+        <div class="wrapper-buy-button-asynchronous bba513997"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="513997" class="buy-button-asynchronous-product-id"><input type="hidden" value="513997" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-513997"><span class="add"><a href="https://www.drogariasaopaulo.com.br/checkout/cart/add?sku=513997&qty=1&seller=1&sc=1&price=5979&cv=7243a97574da9e514c1cc382280a0d47_geral:D6B24C4E9FF7C0EFF9F325EDD8975CBE&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod513997">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-513997" /><div class="buy-button-asynchronous message-user513997"></div></div>
+    
+    <span class="venda_proibida" style="display:none;"></span>    
+    <div class="venda_proibida_btns">
+        <a href="http://www.drogariasaopaulo.com.br/foline-hair-apsen-60-capsulas/p">Mais informações</a>
+    </div>
+
+    <div class="pbm-shelf-btn" style="display:none;">
+        <a href="http://www.drogariasaopaulo.com.br/foline-hair-apsen-60-capsulas/p">Clique e saiba mais</a>
+    </div>
+    
+    <ul class="product-info" style="display:none;">
+        <li class="product-id">513997</li>
+        <li class="product-sku-id">513997</li>
+        <li class="pbm-info">
+            <ul>
+                <li class="pbm-info-pbm-active"></li>
+                <li class="pbm-info-discount"></li>
+                <li class="pbm-info-program"></li>
+            </ul>
+        </li>
+    </ul>
+</a>
+</li><li id="helperComplement_513997" style="display:none" class="helperComplement"></li><li layout="b4e61bc0-9cfe-44ac-81a8-beba0fe2d1f2" class="dermocosmeticos---drogaria-sao-paulo">
+
+<div style="display: none" class="shelf-giftlist">
+            <p class="gift-list-wished not-wished">nenhum desejado</p>
+        
+            <p class="gift-list-purchased not-purchased">nenhum comprado</p>
+        
+    <p class="gift-list-insert"><div class='product-insertsku must-login' style='display: none;'>
+<fieldset>
+<ul class='insert-sku-checklist'>
+<li class='is-checklist-item from-shelf first last'>
+<input type='text' size='3' class='insert-sku-quantity' maxlength='3' id='isq-bbafc815172e48c7b5e664bef37b5779' value='1' title='Nouve Biotin Mantecorp 30 Cápsulas'><input id='chk-bbafc815172e48c7b5e664bef37b5779' type='checkbox' class='insert-sku-checkbox' rel='610410' name='610410' /><label for='chk-bbafc815172e48c7b5e664bef37b5779' title='Nouve Biotin Mantecorp 30 Cápsulas'><span class='insert-sku-count'>Adicionar</span><span class='insert-sku-name'> Nouve Biotin Mantecorp 30 Cápsulas</span></label></li>
+</ul>
+</fieldset>
+</div></p>
+    
+    
+</div>
+
+<span style="font-size:0;opacity:0;position:absolute;"></span>
+
+<a title="Nouve Biotin Mantecorp 30 C&#225;psulas" href="http://www.drogariasaopaulo.com.br/nouve-biotin-mantecorp-30-capsulas/p" class="productPrateleira transition_all Dermocosméticos">
+    <img src="http://drogariasp.vteximg.com.br/arquivos/ids/204598-130-130/Nouve-Biotin-Mantecorp-30-Capsulas-Drogaria-SP-610410.jpg" width="130" height="130" alt="Nouve-Biotin-Mantecorp-30-Capsulas-Drogaria-SP-610410" id="" />
+    <span class="promo_flag transition_all"></span>
+    <span class="discount_flag transition_all"></span>
+    <h3>Nouve Biotin Mantecorp 30 Cápsulas</h3>
+
+                        <span class="bestPrice transition_all">
+                <span class="the-price">R$ 108,65</span> <span class="pbm-discount" style="display:none;"><small>ou</small> <strong class="pbmPrice">R$ <span>0,00</span></strong></span>
+            </span>
+                <em class="installment transition_all">
+                            3X de R$ 36,21
+                <span>sem juros</span>
+                    </em>
+        <div class="wrapper-buy-button-asynchronous bba610410"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="610410" class="buy-button-asynchronous-product-id"><input type="hidden" value="610410" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-610410"><span class="add"><a href="https://www.drogariasaopaulo.com.br/checkout/cart/add?sku=610410&qty=1&seller=1&sc=1&price=10865&cv=07faa72269c8a5fb434ea3e9a4c725f0_geral:D6B24C4E9FF7C0EFF9F325EDD8975CBE&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod610410">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-610410" /><div class="buy-button-asynchronous message-user610410"></div></div>
+    
+    <span class="venda_proibida" style="display:none;"></span>    
+    <div class="venda_proibida_btns">
+        <a href="http://www.drogariasaopaulo.com.br/nouve-biotin-mantecorp-30-capsulas/p">Mais informações</a>
+    </div>
+
+    <div class="pbm-shelf-btn" style="display:none;">
+        <a href="http://www.drogariasaopaulo.com.br/nouve-biotin-mantecorp-30-capsulas/p">Clique e saiba mais</a>
+    </div>
+    
+    <ul class="product-info" style="display:none;">
+        <li class="product-id">610410</li>
+        <li class="product-sku-id">610410</li>
+        <li class="pbm-info">
+            <ul>
+                <li class="pbm-info-pbm-active"></li>
+                <li class="pbm-info-discount"></li>
+                <li class="pbm-info-program"></li>
+            </ul>
+        </li>
+    </ul>
+</a>
+</li><li id="helperComplement_610410" style="display:none" class="helperComplement"></li><li layout="b4e61bc0-9cfe-44ac-81a8-beba0fe2d1f2" class="medicamentos---drogaria-sao-paulo">
+
+<div style="display: none" class="shelf-giftlist">
+            <p class="gift-list-wished not-wished">nenhum desejado</p>
+        
+            <p class="gift-list-purchased not-purchased">nenhum comprado</p>
+        
+    <p class="gift-list-insert"><div class='product-insertsku must-login' style='display: none;'>
+<fieldset>
+<ul class='insert-sku-checklist'>
+<li class='is-checklist-item from-shelf first last'>
+<input type='text' size='3' class='insert-sku-quantity' maxlength='3' id='isq-4f4719c677cd4f0282ac5d74135b92af' value='1' title='Monessa Avert 30 Cápsulas'><input id='chk-4f4719c677cd4f0282ac5d74135b92af' type='checkbox' class='insert-sku-checkbox' rel='524042' name='524042' /><label for='chk-4f4719c677cd4f0282ac5d74135b92af' title='Monessa Avert 30 Cápsulas'><span class='insert-sku-count'>Adicionar</span><span class='insert-sku-name'> Monessa Avert 30 Cápsulas</span></label></li>
+</ul>
+</fieldset>
+</div></p>
+    
+    
+</div>
+
+<span style="font-size:0;opacity:0;position:absolute;"><div class="product-field product_field_20 product-field-type_7">
+Tipo de Medicamento
+<ul>
+<li class="similar" >Similar</li>
+</ul>
+</div>
+</span>
+
+<a title="Monessa Avert 30 C&#225;psulas" href="http://www.drogariasaopaulo.com.br/monessa-zurita-30-capsulas/p" class="productPrateleira transition_all Medicamentos">
+    <img src="http://drogariasp.vteximg.com.br/arquivos/ids/187073-130-130/VSPM.jpg" width="130" height="130" alt="Monessa-Zurita-30-Capsulas" id="" />
+    <span class="promo_flag transition_all"></span>
+    <span class="discount_flag transition_all"></span>
+    <h3>Monessa Avert 30 Cápsulas</h3>
+
+                        <span class="oldPrice transition_all">
+                De: <span class="the-price">R$ 76,66</span>
+            </span>
+            <span class="bestPrice transition_all">
+                <span>Por:</span> <span class="the-price">R$ 62,03</span> <span class="pbm-discount" style="display:none;"><small>ou</small> <strong class="pbmPrice">R$ <span>0,00</span></strong></span>
+            </span>
+                <em class="installment transition_all">
+                            <span>à vista</span>
+                    </em>
+        <div class="wrapper-buy-button-asynchronous bba524042"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="524042" class="buy-button-asynchronous-product-id"><input type="hidden" value="524042" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-524042"><span class="add"><a href="https://www.drogariasaopaulo.com.br/checkout/cart/add?sku=524042&qty=1&seller=1&sc=1&price=6203&cv=ae84abefca3bcea9e241118c749ba7fa_geral:D6B24C4E9FF7C0EFF9F325EDD8975CBE&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod524042">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-524042" /><div class="buy-button-asynchronous message-user524042"></div></div>
+    
+    <span class="venda_proibida" style="display:none;"></span>    
+    <div class="venda_proibida_btns">
+        <a href="http://www.drogariasaopaulo.com.br/monessa-zurita-30-capsulas/p">Mais informações</a>
+    </div>
+
+    <div class="pbm-shelf-btn" style="display:none;">
+        <a href="http://www.drogariasaopaulo.com.br/monessa-zurita-30-capsulas/p">Clique e saiba mais</a>
+    </div>
+    
+    <ul class="product-info" style="display:none;">
+        <li class="product-id">524042</li>
+        <li class="product-sku-id">524042</li>
+        <li class="pbm-info">
+            <ul>
+                <li class="pbm-info-pbm-active"></li>
+                <li class="pbm-info-discount"></li>
+                <li class="pbm-info-program"></li>
+            </ul>
+        </li>
+    </ul>
+</a>
+</li><li id="helperComplement_524042" style="display:none" class="helperComplement"></li><li layout="b4e61bc0-9cfe-44ac-81a8-beba0fe2d1f2" class="medicamentos---drogaria-sao-paulo">
+
+<div style="display: none" class="shelf-giftlist">
+            <p class="gift-list-wished not-wished">nenhum desejado</p>
+        
+            <p class="gift-list-purchased not-purchased">nenhum comprado</p>
+        
+    <p class="gift-list-insert"><div class='product-insertsku must-login' style='display: none;'>
+<fieldset>
+<ul class='insert-sku-checklist'>
+<li class='is-checklist-item from-shelf first last'>
+<input type='text' size='3' class='insert-sku-quantity' maxlength='3' id='isq-608933b554e647f293d78c56a3d62b58' value='1' title='Monessa Avert 90 Cápsulas'><input id='chk-608933b554e647f293d78c56a3d62b58' type='checkbox' class='insert-sku-checkbox' rel='523003' name='523003' /><label for='chk-608933b554e647f293d78c56a3d62b58' title='Monessa Avert 90 Cápsulas'><span class='insert-sku-count'>Adicionar</span><span class='insert-sku-name'> Monessa Avert 90 Cápsulas</span></label></li>
+</ul>
+</fieldset>
+</div></p>
+    
+    
+</div>
+
+<span style="font-size:0;opacity:0;position:absolute;"><div class="product-field product_field_20 product-field-type_7">
+Tipo de Medicamento
+<ul>
+<li class="similar" >Similar</li>
+</ul>
+</div>
+</span>
+
+<a title="Monessa Avert 90 C&#225;psulas" href="http://www.drogariasaopaulo.com.br/monessa-zurita-90-capsulas/p" class="productPrateleira transition_all Medicamentos">
+    <img src="http://drogariasp.vteximg.com.br/arquivos/ids/187061-130-130/VSPM.jpg" width="130" height="130" alt="Monessa-Zurita-90-Capsulas" id="" />
+    <span class="promo_flag transition_all"></span>
+    <span class="discount_flag transition_all"></span>
+    <h3>Monessa Avert 90 Cápsulas</h3>
+
+                        <span class="oldPrice transition_all">
+                De: <span class="the-price">R$ 230,02</span>
+            </span>
+            <span class="bestPrice transition_all">
+                <span>Por:</span> <span class="the-price">R$ 184,02</span> <span class="pbm-discount" style="display:none;"><small>ou</small> <strong class="pbmPrice">R$ <span>0,00</span></strong></span>
+            </span>
+                <em class="installment transition_all">
+                            3X de R$ 61,34
+                <span>sem juros</span>
+                    </em>
+        <div class="wrapper-buy-button-asynchronous bba523003"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="523003" class="buy-button-asynchronous-product-id"><input type="hidden" value="523003" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-523003"><span class="add"><a href="https://www.drogariasaopaulo.com.br/checkout/cart/add?sku=523003&qty=1&seller=1&sc=1&price=18402&cv=8b6e3543a137e031f29baadbdb5df40e_geral:D6B24C4E9FF7C0EFF9F325EDD8975CBE&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod523003">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-523003" /><div class="buy-button-asynchronous message-user523003"></div></div>
+    
+    <span class="venda_proibida" style="display:none;"></span>    
+    <div class="venda_proibida_btns">
+        <a href="http://www.drogariasaopaulo.com.br/monessa-zurita-90-capsulas/p">Mais informações</a>
+    </div>
+
+    <div class="pbm-shelf-btn" style="display:none;">
+        <a href="http://www.drogariasaopaulo.com.br/monessa-zurita-90-capsulas/p">Clique e saiba mais</a>
+    </div>
+    
+    <ul class="product-info" style="display:none;">
+        <li class="product-id">523003</li>
+        <li class="product-sku-id">523003</li>
+        <li class="pbm-info">
+            <ul>
+                <li class="pbm-info-pbm-active"></li>
+                <li class="pbm-info-discount"></li>
+                <li class="pbm-info-program"></li>
+            </ul>
+        </li>
+    </ul>
+</a>
+</li><li id="helperComplement_523003" style="display:none" class="helperComplement"></li><li layout="b4e61bc0-9cfe-44ac-81a8-beba0fe2d1f2" class="dermocosmeticos---drogaria-sao-paulo">
+
+<div style="display: none" class="shelf-giftlist">
+            <p class="gift-list-wished not-wished">nenhum desejado</p>
+        
+            <p class="gift-list-purchased not-purchased">nenhum comprado</p>
+        
+    <p class="gift-list-insert"><div class='product-insertsku must-login' style='display: none;'>
+<fieldset>
+<ul class='insert-sku-checklist'>
+<li class='is-checklist-item from-shelf first last'>
+<input type='text' size='3' class='insert-sku-quantity' maxlength='3' id='isq-1a6823d06cb348b9861cfc799eefa1d2' value='1' title='Inneov Duocap 30 Cápsulas'><input id='chk-1a6823d06cb348b9861cfc799eefa1d2' type='checkbox' class='insert-sku-checkbox' rel='543500' name='543500' /><label for='chk-1a6823d06cb348b9861cfc799eefa1d2' title='Inneov Duocap 30 Cápsulas'><span class='insert-sku-count'>Adicionar</span><span class='insert-sku-name'> Inneov Duocap 30 Cápsulas</span></label></li>
+</ul>
+</fieldset>
+</div></p>
+    
+    
+</div>
+
+<span style="font-size:0;opacity:0;position:absolute;"></span>
+
+<a title="Inneov Duocap 30 C&#225;psulas" href="http://www.drogariasaopaulo.com.br/inneov-duocap-30-capsulas/p" class="productPrateleira transition_all Dermocosméticos">
+    <img src="http://drogariasp.vteximg.com.br/arquivos/ids/192448-130-130/Inneov-Duocap-30-Capsulas-543500.jpg" width="130" height="130" alt="Inneov-Duocap-30-Capsulas-543500" id="" />
+    <span class="promo_flag transition_all"></span>
+    <span class="discount_flag transition_all"></span>
+    <h3>Inneov Duocap 30 Cápsulas</h3>
+
+                        <span class="bestPrice transition_all">
+                <span class="the-price">R$ 140,07</span> <span class="pbm-discount" style="display:none;"><small>ou</small> <strong class="pbmPrice">R$ <span>0,00</span></strong></span>
+            </span>
+                <em class="installment transition_all">
+                            3X de R$ 46,69
+                <span>sem juros</span>
+                    </em>
+        <div class="wrapper-buy-button-asynchronous bba543500"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="543500" class="buy-button-asynchronous-product-id"><input type="hidden" value="543500" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-543500"><span class="add"><a href="https://www.drogariasaopaulo.com.br/checkout/cart/add?sku=543500&qty=1&seller=1&sc=1&price=14007&cv=69e4afdd87f2056e9e525813b9b05dc4_geral:D6B24C4E9FF7C0EFF9F325EDD8975CBE&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod543500">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-543500" /><div class="buy-button-asynchronous message-user543500"></div></div>
+    
+    <span class="venda_proibida" style="display:none;"></span>    
+    <div class="venda_proibida_btns">
+        <a href="http://www.drogariasaopaulo.com.br/inneov-duocap-30-capsulas/p">Mais informações</a>
+    </div>
+
+    <div class="pbm-shelf-btn" style="display:none;">
+        <a href="http://www.drogariasaopaulo.com.br/inneov-duocap-30-capsulas/p">Clique e saiba mais</a>
+    </div>
+    
+    <ul class="product-info" style="display:none;">
+        <li class="product-id">543500</li>
+        <li class="product-sku-id">543500</li>
+        <li class="pbm-info">
+            <ul>
+                <li class="pbm-info-pbm-active"></li>
+                <li class="pbm-info-discount"></li>
+                <li class="pbm-info-program"></li>
+            </ul>
+        </li>
+    </ul>
+</a>
+</li><li id="helperComplement_543500" style="display:none" class="helperComplement"></li><li layout="b4e61bc0-9cfe-44ac-81a8-beba0fe2d1f2" class="dermocosmeticos---drogaria-sao-paulo">
+
+<div style="display: none" class="shelf-giftlist">
+            <p class="gift-list-wished not-wished">nenhum desejado</p>
+        
+            <p class="gift-list-purchased not-purchased">nenhum comprado</p>
+        
+    <p class="gift-list-insert"><div class='product-insertsku must-login' style='display: none;'>
+<fieldset>
+<ul class='insert-sku-checklist'>
+<li class='is-checklist-item from-shelf first last'>
+<input type='text' size='3' class='insert-sku-quantity' maxlength='3' id='isq-f9928269eba648818538ebce45d72472' value='1' title='Equaliv Reinforce Cabelo E Unhas 30 Cápsulas'><input id='chk-f9928269eba648818538ebce45d72472' type='checkbox' class='insert-sku-checkbox' rel='518395' name='518395' /><label for='chk-f9928269eba648818538ebce45d72472' title='Equaliv Reinforce Cabelo E Unhas 30 Cápsulas'><span class='insert-sku-count'>Adicionar</span><span class='insert-sku-name'> Equaliv Reinforce Cabelo E Unhas 30 Cápsulas</span></label></li>
+</ul>
+</fieldset>
+</div></p>
+    
+    
+</div>
+
+<span style="font-size:0;opacity:0;position:absolute;"></span>
+
+<a title="Equaliv Reinforce Cabelo E Unhas 30 C&#225;psulas" href="http://www.drogariasaopaulo.com.br/equaliv-reinforce-cabelo-e-unhas-30-capsulas/p" class="productPrateleira transition_all Dermocosméticos">
+    <img src="http://drogariasp.vteximg.com.br/arquivos/ids/184901-130-130/518395.jpg" width="130" height="130" alt="Equaliv-Reinforce-Cabelo-E-Unhas-30-Capsulas" id="" />
+    <span class="promo_flag transition_all"></span>
+    <span class="discount_flag transition_all"></span>
+    <h3>Equaliv Reinforce Cabelo E Unhas 30 Cápsulas</h3>
+
+                        <span class="bestPrice transition_all">
+                <span class="the-price">R$ 79,90</span> <span class="pbm-discount" style="display:none;"><small>ou</small> <strong class="pbmPrice">R$ <span>0,00</span></strong></span>
+            </span>
+                <em class="installment transition_all">
+                            <span>à vista</span>
+                    </em>
+        <div class="wrapper-buy-button-asynchronous bba518395"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="518395" class="buy-button-asynchronous-product-id"><input type="hidden" value="518395" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-518395"><span class="add"><a href="https://www.drogariasaopaulo.com.br/checkout/cart/add?sku=518395&qty=1&seller=1&sc=1&price=7990&cv=c5b7d2b0177bb45b02de684ec47b95e1_geral:D6B24C4E9FF7C0EFF9F325EDD8975CBE&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod518395">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-518395" /><div class="buy-button-asynchronous message-user518395"></div></div>
+    
+    <span class="venda_proibida" style="display:none;"></span>    
+    <div class="venda_proibida_btns">
+        <a href="http://www.drogariasaopaulo.com.br/equaliv-reinforce-cabelo-e-unhas-30-capsulas/p">Mais informações</a>
+    </div>
+
+    <div class="pbm-shelf-btn" style="display:none;">
+        <a href="http://www.drogariasaopaulo.com.br/equaliv-reinforce-cabelo-e-unhas-30-capsulas/p">Clique e saiba mais</a>
+    </div>
+    
+    <ul class="product-info" style="display:none;">
+        <li class="product-id">518395</li>
+        <li class="product-sku-id">518395</li>
+        <li class="pbm-info">
+            <ul>
+                <li class="pbm-info-pbm-active"></li>
+                <li class="pbm-info-discount"></li>
+                <li class="pbm-info-program"></li>
+            </ul>
+        </li>
+    </ul>
+</a>
+</li><li id="helperComplement_518395" style="display:none" class="helperComplement"></li><li layout="b4e61bc0-9cfe-44ac-81a8-beba0fe2d1f2" class="dermocosmeticos---drogaria-sao-paulo">
+
+<div style="display: none" class="shelf-giftlist">
+            <p class="gift-list-wished not-wished">nenhum desejado</p>
+        
+            <p class="gift-list-purchased not-purchased">nenhum comprado</p>
+        
+    <p class="gift-list-insert"><div class='product-insertsku must-login' style='display: none;'>
+<fieldset>
+<ul class='insert-sku-checklist'>
+<li class='is-checklist-item from-shelf first last'>
+<input type='text' size='3' class='insert-sku-quantity' maxlength='3' id='isq-d8d7717ba94d4e3fa868d184ba253093' value='1' title='Rennovee Nutriserum 30 Cápsulas Gelatinosas'><input id='chk-d8d7717ba94d4e3fa868d184ba253093' type='checkbox' class='insert-sku-checkbox' rel='332909' name='332909' /><label for='chk-d8d7717ba94d4e3fa868d184ba253093' title='Rennovee Nutriserum 30 Cápsulas Gelatinosas'><span class='insert-sku-count'>Adicionar</span><span class='insert-sku-name'> Rennovee Nutriserum 30 Cápsulas Gelatinosas</span></label></li>
+</ul>
+</fieldset>
+</div></p>
+    
+    
+</div>
+
+<span style="font-size:0;opacity:0;position:absolute;"></span>
+
+<a title="Rennovee Nutriserum 30 C&#225;psulas Gelatinosas" href="http://www.drogariasaopaulo.com.br/rennovee-hair-e-nail-solution-30-capsulas-gelatinosas/p" class="productPrateleira transition_all Dermocosméticos">
+    <img src="http://drogariasp.vteximg.com.br/arquivos/ids/198543-130-130/rennovee-hair-e-nail-solution-30-capsulas-gelatinosas-Drogaria-SP-332909.jpg" width="130" height="130" alt="rennovee-hair-e-nail-solution-30-capsulas-gelatinosas-Drogaria-SP-332909" id="" />
+    <span class="promo_flag transition_all"><p class="flag parcele-em-ate-3x-sem-juros">parcele em ate 3x sem juros</p></span>
+    <span class="discount_flag transition_all"></span>
+    <h3>Rennovee Nutriserum 30 Cápsulas Gelatinosas</h3>
+
+                        <span class="bestPrice transition_all">
+                <span class="the-price">R$ 93,95</span> <span class="pbm-discount" style="display:none;"><small>ou</small> <strong class="pbmPrice">R$ <span>0,00</span></strong></span>
+            </span>
+                <em class="installment transition_all">
+                            3X de R$ 31,31
+                <span>sem juros</span>
+                    </em>
+        <div class="wrapper-buy-button-asynchronous bba332909"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="332909" class="buy-button-asynchronous-product-id"><input type="hidden" value="332909" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-332909"><span class="add"><a href="https://www.drogariasaopaulo.com.br/checkout/cart/add?sku=332909&qty=1&seller=1&sc=1&price=9395&cv=ce969c1c8e0007f2c95bc8aafcef237a_geral:D6B24C4E9FF7C0EFF9F325EDD8975CBE&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod332909">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-332909" /><div class="buy-button-asynchronous message-user332909"></div></div>
+    
+    <span class="venda_proibida" style="display:none;"></span>    
+    <div class="venda_proibida_btns">
+        <a href="http://www.drogariasaopaulo.com.br/rennovee-hair-e-nail-solution-30-capsulas-gelatinosas/p">Mais informações</a>
+    </div>
+
+    <div class="pbm-shelf-btn" style="display:none;">
+        <a href="http://www.drogariasaopaulo.com.br/rennovee-hair-e-nail-solution-30-capsulas-gelatinosas/p">Clique e saiba mais</a>
+    </div>
+    
+    <ul class="product-info" style="display:none;">
+        <li class="product-id">332909</li>
+        <li class="product-sku-id">332909</li>
+        <li class="pbm-info">
+            <ul>
+                <li class="pbm-info-pbm-active"></li>
+                <li class="pbm-info-discount"><div class="product-field product_field_78 product-field-type_1">
+Desconto PBM
+<ul>
+<li class="" ></li>
+</ul>
+</div>
+</li>
+                <li class="pbm-info-program"></li>
+            </ul>
+        </li>
+    </ul>
+</a>
+</li><li id="helperComplement_332909" style="display:none" class="helperComplement"></li><li layout="b4e61bc0-9cfe-44ac-81a8-beba0fe2d1f2" class="dermocosmeticos---drogaria-sao-paulo">
+
+<div style="display: none" class="shelf-giftlist">
+            <p class="gift-list-wished not-wished">nenhum desejado</p>
+        
+            <p class="gift-list-purchased not-purchased">nenhum comprado</p>
+        
+    <p class="gift-list-insert"><div class='product-insertsku must-login' style='display: none;'>
+<fieldset>
+<ul class='insert-sku-checklist'>
+<li class='is-checklist-item from-shelf unavailable first last'>
+<input type='text' size='3' class='insert-sku-quantity' maxlength='3' id='isq-821ff1c7e04645068b9bd631e6e7b7e2' value='1' title='Complemento Vitamínico Nutriger Nutrire 30 cápsulas'><input id='chk-821ff1c7e04645068b9bd631e6e7b7e2' type='checkbox' class='insert-sku-checkbox' rel='488429' name='488429' /><label for='chk-821ff1c7e04645068b9bd631e6e7b7e2' title='Complemento Vitamínico Nutriger Nutrire 30 cápsulas'><span class='insert-sku-count'>Adicionar</span><span class='insert-sku-name'> Complemento Vitamínico Nutriger Nutrire 30 cápsulas</span></label></li>
+</ul>
+</fieldset>
+</div></p>
+    
+    
+</div>
+
+<span style="font-size:0;opacity:0;position:absolute;"></span>
+
+<a title="Complemento Vitam&#237;nico Nutriger Nutrire 30 c&#225;psulas" href="http://www.drogariasaopaulo.com.br/complemento-vitaminico-nutriger-nutrire-30-capsulas/p" class="productPrateleira transition_all Dermocosméticos">
+    <img src="http://drogariasp.vteximg.com.br/arquivos/ids/177439-130-130/7896004747484.JPG.jpg" width="130" height="130" alt="7896004747484.JPG" id="" />
+    <span class="promo_flag transition_all"><p class="flag parcele-em-ate-3x-sem-juros">parcele em ate 3x sem juros</p></span>
+    <span class="discount_flag transition_all"></span>
+    <h3>Complemento Vitamínico Nutriger Nutrire 30 cápsulas</h3>
+
+            <span class="outOfStock transition_all">Avise-me quando chegar</span>
+    
+    <span class="venda_proibida" style="display:none;"></span>    
+    <div class="venda_proibida_btns">
+        <a href="http://www.drogariasaopaulo.com.br/complemento-vitaminico-nutriger-nutrire-30-capsulas/p">Mais informações</a>
+    </div>
+
+    <div class="pbm-shelf-btn" style="display:none;">
+        <a href="http://www.drogariasaopaulo.com.br/complemento-vitaminico-nutriger-nutrire-30-capsulas/p">Clique e saiba mais</a>
+    </div>
+    
+    <ul class="product-info" style="display:none;">
+        <li class="product-id">488429</li>
+        <li class="product-sku-id">488429</li>
+        <li class="pbm-info">
+            <ul>
+                <li class="pbm-info-pbm-active"></li>
+                <li class="pbm-info-discount"></li>
+                <li class="pbm-info-program"></li>
+            </ul>
+        </li>
+    </ul>
+</a>
+</li><li id="helperComplement_488429" style="display:none" class="helperComplement"></li><li layout="b4e61bc0-9cfe-44ac-81a8-beba0fe2d1f2" class="dermocosmeticos---drogaria-sao-paulo">
+
+<div style="display: none" class="shelf-giftlist">
+            <p class="gift-list-wished not-wished">nenhum desejado</p>
+        
+            <p class="gift-list-purchased not-purchased">nenhum comprado</p>
+        
+    <p class="gift-list-insert"><div class='product-insertsku must-login' style='display: none;'>
+<fieldset>
+<ul class='insert-sku-checklist'>
+<li class='is-checklist-item from-shelf unavailable first last'>
+<input type='text' size='3' class='insert-sku-quantity' maxlength='3' id='isq-aeba73392fef4843a5d47d189f08484f' value='1' title='Nutriger Fissità 30 cápsulas gelatinosas'><input id='chk-aeba73392fef4843a5d47d189f08484f' type='checkbox' class='insert-sku-checkbox' rel='389706' name='389706' /><label for='chk-aeba73392fef4843a5d47d189f08484f' title='Nutriger Fissità 30 cápsulas gelatinosas'><span class='insert-sku-count'>Adicionar</span><span class='insert-sku-name'> Nutriger Fissità 30 cápsulas gelatinosas</span></label></li>
+</ul>
+</fieldset>
+</div></p>
+    
+    
+</div>
+
+<span style="font-size:0;opacity:0;position:absolute;"></span>
+
+<a title="Nutriger Fissit&#224; 30 c&#225;psulas gelatinosas" href="http://www.drogariasaopaulo.com.br/nutriger-fissita-30-capsulas-gelatinosas/p" class="productPrateleira transition_all Dermocosméticos">
+    <img src="http://drogariasp.vteximg.com.br/arquivos/ids/175730-130-130/7896004743929.JPG.jpg" width="130" height="130" alt="7896004743929.JPG" id="" />
+    <span class="promo_flag transition_all"><p class="flag parcele-em-ate-3x-sem-juros">parcele em ate 3x sem juros</p></span>
+    <span class="discount_flag transition_all"></span>
+    <h3>Nutriger Fissità 30 cápsulas gelatinosas</h3>
+
+            <span class="outOfStock transition_all">Avise-me quando chegar</span>
+    
+    <span class="venda_proibida" style="display:none;"></span>    
+    <div class="venda_proibida_btns">
+        <a href="http://www.drogariasaopaulo.com.br/nutriger-fissita-30-capsulas-gelatinosas/p">Mais informações</a>
+    </div>
+
+    <div class="pbm-shelf-btn" style="display:none;">
+        <a href="http://www.drogariasaopaulo.com.br/nutriger-fissita-30-capsulas-gelatinosas/p">Clique e saiba mais</a>
+    </div>
+    
+    <ul class="product-info" style="display:none;">
+        <li class="product-id">389706</li>
+        <li class="product-sku-id">389706</li>
+        <li class="pbm-info">
+            <ul>
+                <li class="pbm-info-pbm-active"></li>
+                <li class="pbm-info-discount"></li>
+                <li class="pbm-info-program"></li>
+            </ul>
+        </li>
+    </ul>
+</a>
+</li><li id="helperComplement_389706" style="display:none" class="helperComplement"></li><li layout="b4e61bc0-9cfe-44ac-81a8-beba0fe2d1f2" class="dermocosmeticos---drogaria-sao-paulo last">
+
+<div style="display: none" class="shelf-giftlist">
+            <p class="gift-list-wished not-wished">nenhum desejado</p>
+        
+            <p class="gift-list-purchased not-purchased">nenhum comprado</p>
+        
+    <p class="gift-list-insert"><div class='product-insertsku must-login' style='display: none;'>
+<fieldset>
+<ul class='insert-sku-checklist'>
+<li class='is-checklist-item from-shelf unavailable first last'>
+<input type='text' size='3' class='insert-sku-quantity' maxlength='3' id='isq-370749842605477180df36a9fbef2670' value='1' title='Herbage nas Pontas 30 comprimidos'><input id='chk-370749842605477180df36a9fbef2670' type='checkbox' class='insert-sku-checkbox' rel='384003' name='384003' /><label for='chk-370749842605477180df36a9fbef2670' title='Herbage nas Pontas 30 comprimidos'><span class='insert-sku-count'>Adicionar</span><span class='insert-sku-name'> Herbage nas Pontas 30 comprimidos</span></label></li>
+</ul>
+</fieldset>
+</div></p>
+    
+    
+</div>
+
+<span style="font-size:0;opacity:0;position:absolute;"></span>
+
+<a title="Herbage nas Pontas 30 comprimidos" href="http://www.drogariasaopaulo.com.br/herbage-nas-pontas-30-comprimidos/p" class="productPrateleira transition_all Dermocosméticos">
+    <img src="http://drogariasp.vteximg.com.br/arquivos/ids/175490-130-130/7896083406517.JPG.jpg" width="130" height="130" alt="7896083406517.JPG" id="" />
+    <span class="promo_flag transition_all"></span>
+    <span class="discount_flag transition_all"></span>
+    <h3>Herbage nas Pontas 30 comprimidos</h3>
+
+            <span class="outOfStock transition_all">Avise-me quando chegar</span>
+    
+    <span class="venda_proibida" style="display:none;"></span>    
+    <div class="venda_proibida_btns">
+        <a href="http://www.drogariasaopaulo.com.br/herbage-nas-pontas-30-comprimidos/p">Mais informações</a>
+    </div>
+
+    <div class="pbm-shelf-btn" style="display:none;">
+        <a href="http://www.drogariasaopaulo.com.br/herbage-nas-pontas-30-comprimidos/p">Clique e saiba mais</a>
+    </div>
+    
+    <ul class="product-info" style="display:none;">
+        <li class="product-id">384003</li>
+        <li class="product-sku-id">384003</li>
+        <li class="pbm-info">
+            <ul>
+                <li class="pbm-info-pbm-active"></li>
+                <li class="pbm-info-discount"></li>
+                <li class="pbm-info-program"></li>
+            </ul>
+        </li>
+    </ul>
+</a>
+</li><li id="helperComplement_384003" style="display:none" class="helperComplement"></li></ul></div></div><div class="pager bottom" id="PagerBottom_36835571"></div></div><p class="searchResultsTime"><span class="resultado-busca-numero"><span class="label">Produtos encontrados:</span> <span class="value">13</span></span><span class="resultado-busca-termo"> <span class="label">Resultado da Pesquisa por:</span> <strong class="value"></strong></span><span class="resultado-busca-tempo"> <span class="label">em</span> <span class="value">193 ms</span></span></p><div class="sub"><div class="resultado-busca-filtro">
+<fieldset class="orderBy">
+<label>Ordenar por:</label>
+<select id="O" onchange="window.location.href= '/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas?PS=20&' + 'O=' + this.options[this.selectedIndex].value">
+<option  value="">Selecione</option>
+<option  value="OrderByPriceASC">Menor Preço</option>
+<option  value="OrderByPriceDESC">Maior Preço</option>
+<option  value="OrderByTopSaleDESC">Mais vendidos</option>
+<option  value="OrderByReviewRateDESC">Melhores avaliações</option>
+<option  value="OrderByNameASC">A - Z</option>
+<option  value="OrderByNameDESC">Z - A</option>
+<option  value="OrderByReleaseDateDESC">Data de lançamento</option>
+<option  value="OrderByBestDiscountDESC">Melhor Desconto</option>
+</select>
+</fieldset>
+<fieldset class="filterBy">
+Itens por página:
+<select id="PS" onchange="window.location.href= '/dermocosmeticos/nutricosmeticos/fortalecedor-de-cabelos-e-unhas?' + 'PS=' + this.options[this.selectedIndex].value">
+<option selected="selected" value="20">20</option>
+<option  value="40">40</option>
+<option  value="60">60</option>
+<option  value="80">80</option>
+</select>
+</fieldset>
+<p class="compare">Produtos selecionados para comparar: <strong><span class="compare-selection-count" id="NumeroSuperior">0</span></strong><a title="Comparar" class="btn-comparar" href="#">Comparar</a></p></div></div></div></div><!-- prateleiraDepartamento END --><section class="bannersBottom clear transition_all"></section></div><!-- grid_1244 END --><!-- INICIO Subtemplate Banner Sky --><div class="bottom__banner" style="display: none;"><div class="avt-container"><div class="box-banner"><a><img width="370" height="250" id="ihttp://drogariasp.vteximg.com.br/arquivos/ids/201684/advil-analgesico.jpg" alt="bannerSkyUm" src="http://drogariasp.vteximg.com.br/arquivos/ids/201684/advil-analgesico.jpg" complete="complete"/></a></div><div class="box-banner"><a><img width="370" height="250" id="ihttp://drogariasp.vteximg.com.br/arquivos/ids/202512/Soniclear_Banner-Sky.jpg" alt="bannerSkyDois" src="http://drogariasp.vteximg.com.br/arquivos/ids/202512/Soniclear_Banner-Sky.jpg" complete="complete"/></a></div><div class="box-banner"><a><img width="370" height="250" id="ihttp://drogariasp.vteximg.com.br/arquivos/ids/202099/linea-adocantes-sucralose-diet-banner-sky.jpg" alt="bannerSkyTres" src="http://drogariasp.vteximg.com.br/arquivos/ids/202099/linea-adocantes-sucralose-diet-banner-sky.jpg" complete="complete"/></a></div></div></div><!-- FIM Subtemplate Banner Sky --></main><!-- FIM - Miolo da página --><!-- INICIO - Subtemplate Footer --><footer class="footer"><div class="footer__dark-bar"><div class="avt-container"><div class="avt-row"><div class="avt-col-xs-24"><div class="footer__dark-bar__app"><span class="footer__dark-bar__app-text">
+                            Baixe nosso aplicativo
+                        </span><a class="footer__dark-bar__app-link" href="/aplicativo-drogaria-sao-paulo" target="_blank"><img src="//drogariasp.vteximg.com.br/arquivos/footer__app-play.png" alt="Google Play" /></a><a class="footer__dark-bar__app-link" href="/aplicativo-drogaria-sao-paulo" target="_blank"><img src="//drogariasp.vteximg.com.br/arquivos/footer__app-store.png" alt="App Store" /></a></div><div class="footer__dark-bar__like"><a class="footer__dark-bar__like-link" href="https://www.facebook.com/drogariasaopaulo" target="_blank">
+                            Curta nossa fanpage
+                        </a></div><div class="footer__dark-bar__newsletter"><form action="/drogariasp/dataentities/NL/documents" method="post" novalidate="true" class="newsletter__form"><div class="newsletter__input"><input type="email" name="email" required="true" placeholder="Assine nossa newsletter" id="newsletter__email" class="newsletter__field-input" /></div><div class="newsletter__submit"><button type="submit" class="newsletter__field-submit">Cadastrar</button></div></form><div class="newsletter__form-success">
+                            E-mail cadastrado com sucesso!
+                        </div></div></div></div></div></div><div class="footer__links-wrap"><div class="avt-container"><div class="avt-row"><div class="avt-col-xs-24 avt-col-md-18"><div class="avt-row"><div class="footer__links-content"><div class="avt-col-xs-24 avt-col-md-8"><div class="avt-row"><div class="avt-col-xs-12 avt-col-md-24"><h3 class="footer__links-title">Institucional</h3><ul class="footer__links-list"><li class="footer__links-item"><a href="/institucional/nossas-lojas" target="_blank" class="footer__links-link">Encontre nossas lojas</a></li><li class="footer__links-item"><a href="/institucional/trabalhe-conosco" target="_blank" class="footer__links-link">Trabalhe conosco</a></li><li class="footer__links-item"><a href="/institucional/drogarias-sao-paulo" target="_blank" class="footer__links-link">Sobre a Drogaria São Paulo</a></li></ul></div><div class="avt-col-xs-12 avt-col-md-24"><h3 class="footer__links-title">Televendas</h3><h4 class="footer__links-subtitle"><a href="/central-de-atendimento">4003-3393</a></h4></div></div></div><div class="avt-col-xs-12 avt-col-md-8"><h3 class="footer__links-title">Serviços</h3><ul class="footer__links-list"><li class="footer__links-item"><a href="http://www.anvisa.gov.br/datavisa/fila_bula/index.asp" target="_blank" class="footer__links-link">Bulário Anvisa</a></li><li class="footer__links-item"><a href="/convenio" class="footer__links-link">Convênio Farmácia</a></li><li class="footer__links-item"><a href="/institucional/pergunte-ao-farmaceutico" target="_blank" class="footer__links-link">Fale com o Farmacêutico</a></li><li class="footer__links-item"><a href="/programa-beneficios-medicamentos" target="_blank" class="footer__links-link">PBM - Programa de Benefícios em Medicamentos</a></li><li class="footer__links-item"><a href="/relacionamento?campaign=site-fidelidade&amp;media=link-rodape-home" target="_blank" class="footer__links-link">Programa Viva Saúde</a></li><li class="footer__links-item"><a href="/aplicativo-drogaria-sao-paulo" target="_blank" class="footer__links-link">Aplicativo Drogaria São Paulo</a></li><li class="footer__links-item"><a href="/cha-de-bebe" class="footer__links-link">Chá de Bebê</a></li></ul></div><div class="avt-col-xs-12 avt-col-md-8"><h3 class="footer__links-title">Central de dúvidas</h3><ul class="footer__links-list"><li class="footer__links-item"><a href="/central-de-atendimento#como_comprar" class="footer__links-link">Como Comprar</a></li><li class="footer__links-item"><a href="/central-de-atendimento#formas_pgto" class="footer__links-link">Formas de Pagamento</a></li><li class="footer__links-item"><a href="/account" class="footer__links-link">Meus Pedidos e Dados</a></li><li class="footer__links-item"><a href="/central-de-atendimento#frete" class="footer__links-link">Política de Frete</a></li><li class="footer__links-item"><a href="/central-de-atendimento#troca" class="footer__links-link">Política de Troca e Devolução</a></li></ul></div></div></div></div><div class="avt-col-xs-24 avt-col-md-6"><div class="footer__contact"><h3 class="footer__links-title">Fale conosco</h3><ul class="footer__links-list"><li class="footer__links-item"><a href="http://drogariasp.neoassist.com/?th=chatdrogariaspvt" target="_blank" class="footer__links-link footer__links-link--chat">Chat online</a></li><!--<li class="footer__links-item">
+                                <a href="#" class="footer__links-link footer__links-link-x-email">E-mail</a>
+                            </li>--><li class="footer__links-item"><a href="/central-de-atendimento" class="footer__links-link footer__links-link--attendance">Auto atedimento</a></li></ul></div></div></div></div></div><div class="avt-container"><div class="avt-row"><div class="avt-col-xs-24 avt-col-md-18"><div class="footer__payment"><h3 class="footer__links-title">Formas de pagamento</h3><div class="footer__payment-block"><div class="footer__payment-content footer__payment-content--creditcards"><h4 class="footer__payment-title">Cartão de crédito</h4><ul class="footer__payment-list"><li class="footer__payment-item footer__payment-item--visa">Visa</li><li class="footer__payment-item footer__payment-item--mastercard">Mastercard</li><li class="footer__payment-item footer__payment-item--diners">Diners</li><li class="footer__payment-item footer__payment-item--hipercard">Hipercard</li><li class="footer__payment-item footer__payment-item--american-express">American Express</li><li class="footer__payment-item footer__payment-item--elo">Elo</li></ul></div><div class="footer__payment-content footer__payment-content--onlinedebit"><h4 class="footer__payment-title">Débito Online</h4><ul class="footer__payment-list"><li class="footer__payment-item footer__payment-item--santander">Santander</li><li class="footer__payment-item footer__payment-item--itau">Itaú</li><!--li class="footer__payment-item footer__payment-item-caixa">Caixa Econômica Federal</li--><li class="footer__payment-item footer__payment-item--banco-brasil">Banco do Brasil</li><li class="footer__payment-item footer__payment-item--banrisul">Banrisul</li><li class="footer__payment-item footer__payment-item--bradesco">Bradesco</li><li class="footer__payment-item footer__payment-item--via-safety-pay">Via Safety Pay</li></ul></div></div><div class="footer__payment-block"><div class="footer__payment-content footer__payment-content--others"><h4 class="footer__payment-title">Boleto</h4><ul class="footer__payment-list"><li class="footer__payment-item footer__payment-item--bank-invoice">Boleto</li></ul></div><div class="footer__payment-content footer__payment-content--others"><h4 class="footer__payment-title">Convênio</h4><ul class="footer__payment-list"><li class="footer__payment-item footer__payment-item--insurance">Convênio</li></ul></div><div class="footer__payment-content footer__payment-content--others"><h4 class="footer__payment-title">Débito em folha</h4><ul class="footer__payment-list"><li class="footer__payment-item footer__payment-item--debit">Débito em folha</li></ul></div><div class="footer__payment-content footer__payment-content--others"><h4 class="footer__payment-title">Cheque</h4><ul class="footer__payment-list"><li class="footer__payment-item footer__payment-item--check">Cheque</li></ul></div><div class="footer__payment-content footer__payment-content--others"><h4 class="footer__payment-title">Dinheiro</h4><ul class="footer__payment-list"><li class="footer__payment-item footer__payment-item--money">Dinheiro</li></ul></div><div class="footer__payment-content footer__payment-content--others"><h4 class="footer__payment-title">Lotérica</h4><ul class="footer__payment-list"><li class="footer__payment-item footer__payment-item--loterica">Lotérica</li></ul></div></div></div></div><div class="avt-col-xs-24 avt-col-md-6"><div class="footer__security"><h3 class="footer__links-title">Segurança</h3><div class="footer__seals"><div class="footer__seals--clearsale"><a href="#"><img src="//drogariasp.vteximg.com.br/arquivos/footer-seal-clearsale.png" alt="ClearSale" /></a></div><div class="footer__seals--ebit"><a id="seloEbit" href="http://www.ebit.com.br/#drogaria-sao-paulo" target="_blank" onclick="redir(this.href);"></a><script type="text/javascript" id="getSelo" src="https://imgs.ebit.com.br/ebitBR/selo-ebit/js/getSelo.js?60351"></script></div><div class="footer__seals--digicert"><a href="#"><img src="//drogariasp.vteximg.com.br/arquivos/digicert.png" alt="ClearSale" /></a></div></div></div></div></div><div class="avt-row"><div class="avt-col-xs-24"><p class="footer__info">
+                    Drogaria São Paulo S.A. I CNPJ: 61.412.110/0565-33 l SAC: 0800 779 8767 | São Paulo – SP: Avenida Renata, 60, Chácara Belenzinho – Vila Formosa | Alessandra Graziel Paganini - CRF: 20679 | 24 horas | Autorização de Funcionamento - Processo: 2531.559767/2014-90 | Autorização/MS: 7.31847.3 | As informações contidas neste site, como promoções e ofertas de remédios e medicamentos, não devem ser usadas para automedicação e não substituem, em hipótese alguma, a medicação prescrita pelo profissional da área médica. Somente o médico está em condições de diagnosticar qualquer problema de saúde e prescrever o tratamento adequado. Os preços e as promoções são válidos apenas para compras via Internet. | As fotos contidas em nosso site são meramente ilustrativas. | *Preços e disponibilidade sujeitos a alterações no decorrer do dia.
+                </p></div></div></div></footer><script type="text/javascript">
+    var _vwo_code=(function(){
+    var account_id=286286,
+    settings_tolerance=2000,
+    library_tolerance=2500,
+    use_existing_jquery=false,
+    /* DO NOT EDIT BELOW THIS LINE */
+    f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'%26u='+encodeURIComponent(d.URL)+'%26r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><!-- FIM - Subtemplate Footer --><!-- INICIO - Subtemplate Modal --><div class="modal-overlay"></div><div class="modal">
+    Modal
+</div><!-- FIM - Subtemplate Modal --></div></div><script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/controllerListBusca.js"></script><!-- INICIO - Subtemplate Scripts --><script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/1-dsp-web-application.js"></script><script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/dpsp-televendas.js"></script><!-- FIM - Subtemplate Scripts --><script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/slick-1.5.9.min.js"></script><script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/avantiEntity.js"></script><script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/avantiStorage.js"></script><script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/flagDescontoProduto.js"></script><script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/mascarasJavascript.js"></script><script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/avt-banners.js"></script><script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/avt-produto.js"></script><script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/pbm-page.js"></script><script type="text/javascript" src="//drogariasp.vteximg.com.br/arquivos/avt-brand-slider-home.js"></script><script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/Track.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/thickbox.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/json2.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.viewPart.CallCenterDisclaimer.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.viewPart.ajaxLoader_V2.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/social/vtex-view-part.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/knockout-2.2.0.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.viewPart.GiftListInsertSkuV2.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.commerce.search.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.viewPart.searchNavigator.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.commerce.batchbuy.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.jsevents.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.skuEvents.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.skuEvents.skuDataFetcher.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/jquery.livequery.min.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/prettyPhoto/js/jquery.prettyPhoto.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/prettyPhoto/js/lean-prettyPhoto.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.commerce.Compare.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/mobile/vtex.make.mobile.pager.js?v=1.4.728.1319"  type="text/javascript"></script>
+<script language="javascript" src="http://drogariasp.vteximg.com.br/Scripts/vtex.commerce.switchGridListView.js?v=1.4.728.1319"  type="text/javascript"></script>
+</body>
+</html>

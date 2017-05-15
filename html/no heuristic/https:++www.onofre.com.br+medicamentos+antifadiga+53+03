@@ -1,0 +1,2941 @@
+
+            <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+            <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+
+            <head id="Head1"><meta name="google-site-verification" content="_VGwTV0Z3wNC7pQw33rX86U_BGdiQMqGvEu9XPCrV54" />
+                <!--MOBIFY - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG -->
+                <style type="text/css">
+                    .bannerTopo {
+                        width: 100%;
+                        height: auto;
+                        float: left;
+                    }
+                </style>
+                
+                    <script type="text/javascript">
+                        /*<![CDATA[*/
+                        (function(n, p) {
+                            function d(a) {
+                                if (a.mode) {
+                                    var b = c("mobify-mode");
+                                    b && a[b] || (b = a.mode(l.ua));
+                                    return a[b]
+                                }
+                                return a
+                            }
+
+                            function g() {
+                                function a(b) {
+                                    n.addEventListener(b, function() {
+                                        l[b] = +new Date
+                                    }, !1)
+                                }
+                                n.addEventListener && (a("DOMContentLoaded"), a("load"))
+                            }
+
+                            function h() {
+                                var a = new Date;
+                                a.setTime(a.getTime() + 300000);
+                                p.cookie = "mobify-path=; expires=" + a.toGMTString() + "; path=/";
+                                n.location.reload()
+                            }
+
+                            function k() {
+                                e({
+                                    src: "https://preview.mobify.com/v7/"
+                                })
+                            }
+
+                            function c(a) {
+                                if (a = p.cookie.match(RegExp("(^|; )" + a + "((=([^;]*))|(; |$))"))) {
+                                    return a[4] || ""
+                                }
+                            }
+
+                            function f(a) {
+                                p.write('<plaintext style="display:none">');
+                                setTimeout(function() {
+                                    m.capturing = !0;
+                                    a()
+                                }, 0)
+                            }
+
+                            function e(j, o) {
+                                var i = p.getElementsByTagName("script")[0],
+                                    a = p.createElement("script"),
+                                    b;
+                                for (b in j) {
+                                    a[b] = j[b]
+                                }
+                                o && a.setAttribute("class", o);
+                                i.parentNode.insertBefore(a, i)
+                            }
+                            var m = n.Mobify = {},
+                                l = m.Tag = {};
+                            m.points = [+new Date];
+                            m.tagVersion = [7, 0];
+                            l.ua = n.navigator.userAgent;
+                            l.getOptions = d;
+                            l.init = function(b) {
+                                l.options = b;
+                                if ("" !== c("mobify-path")) {
+                                    if (g(), b.skipPreview || "true" != c("mobify-path") && !/mobify-path=true/.test(n.location.hash)) {
+                                        var i = d(b);
+                                        if (i) {
+                                            var a = function() {
+                                                i.post && i.post()
+                                            };
+                                            b = function() {
+                                                i.pre && i.pre();
+                                                e({
+                                                    id: "mobify-js",
+                                                    src: i.url,
+                                                    onerror: h,
+                                                    onload: a
+                                                }, "mobify")
+                                            };
+                                            !1 === i.capture ? b() : f(b)
+                                        }
+                                    } else {
+                                        f(k)
+                                    }
+                                }
+                            }
+                        })(window, document);
+                        (function() {
+                            var b = "//cdn.mobify.com/sites/onofre-mobile/production/adaptive.min.js";
+                            Mobify.Tag.init({
+                                mode: function(a) {
+                                    return /^((?!windows\sphone).)*(ip(hone|od)|android.*(mobile)(?!.*firefox))/i.test(a) ? "enabled" : "desktop"
+                                },
+                                enabled: {
+                                    url: b
+                                },
+                                desktop: {
+                                    capture: !1,
+                                    url: "//a.mobify.com/onofre-mobile/a.js"
+                                }
+                            })
+                        })(); /*]]>*/
+                    </script>
+                    <!-- END MOBIFY -->
+                    
+                        <!--END chat online -->
+                        <script language="javascript" type="text/javascript">window.chaordic_meta = { "page": { "name": "subcategory", "timestamp": new Date(),"selected_specs": {"sales_channel": "24"},"categories": [{"name": "Medicamentos","id": "55"},{"name": "Antifadiga","id": "53","parents": ["55"]}]}}</script>
+                        <!--Script Chaordic Loader-->
+                        <script async defer src="//static.chaordicsystems.com/static/loader.js" data-apikey="onofrefarma"></script>
+                        <!--<script type="text/javascript"> var headID = document.getElementsByTagName("head")[0]; var newScript = document.createElement('script'); newScript.type = 'text/javascript'; newScript.src = '//static.chaordicsystems.com/static/loader.js'; newScript.setAttribute('data-apikey', 'onofrefarma'); newScript.async = true; newScript.defer = true; headID.appendChild(newScript); </script> -->
+                        <!--Script Chaordic Loader - FIM -->
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=8" /><title>
+	  Medicamentos Antifadiga com os Menores Preços | Onofre 
+</title>
+                
+                        <script src="Jss/gaEventos.js"></script>
+                        <link type="image/x-icon" href="https://www.onofre.com.br/favicon.ico" rel="icon" /><link type="image/x-icon" href="https://www.onofre.com.br/favicon.ico" rel="SHORTCUT ICON" />
+                            <!-- CSS -->
+                            <link href="/Jss/Colorbox/colorbox.css" rel="stylesheet"/>
+<link href="/Jss/ToolTip/bubbletip/bubbletip.css" rel="stylesheet"/>
+<link href="/Jss/ToolTip/bubbletip/bubbletip-IE.css" rel="stylesheet"/>
+<link href="/Css/resetNovo.css" rel="stylesheet"/>
+<link href="/Css/star_rating.css" rel="stylesheet"/>
+<link href="/Css/EstiloMasterNovo.css" rel="stylesheet"/>
+<link href="/Css/MasterNova.css" rel="stylesheet"/>
+<link href="/shadowbox/shadowbox.css" rel="stylesheet"/>
+<link href="/Css/rodape.css" rel="stylesheet"/>
+<link href="/Css/EstiloExtraBucks.css" rel="stylesheet"/>
+<link href="/assets/css/base.css" rel="stylesheet"/>
+<link href="/assets/css/common.css" rel="stylesheet"/>
+
+                                <link href="/Css/AutenticacaoPBM.css" rel="stylesheet" />
+                                <!-- CSS -->
+                                <!-- JSS -->
+                                <script src="/assets/js/lib/jquery-1.8.js"></script>
+<script src="/Jss/Dialog/jquery-ui-1.10.1.custom.min.js"></script>
+<script src="/Jss/jquery.maskMoney.js"></script>
+<script src="/shadowbox/shadowbox.js"></script>
+<script src="/Jss/jquery.cookie.js"></script>
+<script src="/Jss/Colorbox/jquery.colorbox-min.js"></script>
+<script src="/Jss/generic.js"></script>
+<script src="/Jss/jqzoom.pack.1.0.1.js"></script>
+<script src="/Jss/jquery.hoverIntent.minified.js"></script>
+<script src="/Jss/ToolTip/jQuery.bubbletip-1.0.6.js"></script>
+<script src="/Jss/ToolTip/ToolTip.js"></script>
+<script src="/assets/js/lib/owl.carousel.min.js"></script>
+<script src="/assets/js/main.js"></script>
+<script src="/Jss/Utils/MasterPage.js"></script>
+
+                                    <script src="/Jss/AutenticaFloatBar.js"></script>
+                                    <link href="/Css/select2.min.css" rel="stylesheet" />
+                                    <script src="/Jss/Utils/select2.min.js"></script>
+                                    <link href="/Css/MasterResponsivo.css" rel="stylesheet" />
+                                    <!-- JSS -->
+                        
+                        <!--[if lt IE 9]> <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
+                        <!-- JSS -->
+                          <!-- Channel Advisor --> <script async defer src="//static.chaordicsystems.com/static/loader.js" data-apikey="onofrefarma"></script> <link id="head_linkestilo" href="" type="text/css" rel="stylesheet"></link>  <!-- CSS --> <link href="/Jss/Colorbox/colorbox.css" rel="stylesheet"/>
+<link href="/assets/css/prateleira.css" rel="stylesheet"/>
+<link href="/assets/css/listagem.css" rel="stylesheet"/>
+<link href="/assets/css/produto.css" rel="stylesheet"/>
+<link href="/assets/css/lib/owl.transitions.css" rel="stylesheet"/>
+<link href="/assets/css/lib/owl.carousel.css" rel="stylesheet"/>
+ <!-- CSS --> <!-- JSS --> <script src="/JSS/subcategoria"></script>
+ <!-- JSS -->  <script type="text/javascript">/*<![CDATA[*/;/*]]>*/</script> <link rel="stylesheet" type="text/css" href="//onofre.resultspage.com/autocomplete/sli-rac.css" /><meta name="description" content="Medicamentos Antifadiga com os menores preços é na Onofre. Receba seu Antifadiga em casa pagando parcelado em até 3x. Compre agora!" /></head>
+
+            <body class="site_bodyteste">
+                <!-- BANNER TOPO -->
+                
+                    <div class="bannerTopo" style="max-height:100px">
+                        <div class="box-banner" style="cursor:pointer;background-color:#CFD9E2;"><img src="https://www.onofre.com.br/estatico/Banner/faixa-topo-centrum-vitamints.jpg"   height="auto" style="margin-left:auto;margin-right:auto;" onclick="javascript:countClick('http://busca.onofre.com.br/ppc/CENTRUM', '4113')" border="0" alt="TOPO | CENTRUM VITAMINTS 80517"/></div>
+                    </div>
+                    <!-- FIM - BANNER TOPO -->
+                    <script type="text/javascript" src="//onofre.resultspage.com/autocomplete/sli-rac.config.js"></script>
+                    
+                    <!-- Start Alexa Certify Javascript -->
+                    <script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script>
+                    <script type="text/javascript">
+                        _atrk_opts = {
+                            atrk_acct: "xfCse1aALO00g7",
+                            domain: "onofre.com.br"
+                        };
+                        atrk();
+                    </script>
+                    <noscript> <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=xfCse1aALO00g7" style="display: none" height="1" width="1" alt="" /> </noscript>
+                    <script type="text/javascript">
+                        /* Set the width of the side navigation to 250px */
+                        function openNavMobile() {
+                            document.getElementById("mySidenav").style.width = "255px";
+                        } /* Set the width of the side navigation to 0 */
+                        function closeNavMobile() {
+                            document.getElementById("mySidenav").style.width = "0";
+                        }
+                    </script>
+                    <!-- End Alexa Certify Javascript -->
+                    <form method="post" action="/medicamentos/antifadiga/53/03" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<script> ECO_Step='';</script><script> ECO_DepName='medicamentos';</script><script> ECO_DepId='';</script><script> ECO_CatName=''antifadiga'';</script><script> ECO_CatId='';</script><script> ECO_ProdName='';</script>
+<script src="/ScriptResource.axd?d=BnWrJ6-gLV3GlI8g28LCzYXkfKJLttyoigz0AJpfnvO4NN21YTBbDD9JctBIuGGW8YufhqFw-AnVHbmyWvfFb_B2w9DMLRk3OO9iqYmkxfGcvnVf4ImxaGFLKlWYiwlxPddzmc-9JHkJ8clChxff5mADpJw1&amp;t=42a7acab" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="378DAD67" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="+9QQt3sPfISD4Xi8Su1jxU0qNmk/P4WlYVbEnVtLLNWPb9D8C1BPn2AKS71h7JTa78rh0NIgkOATAGsYSUlLi+wKxMfIpDOh+Ed9Zem4SNSeAmLiFPoFB+txXKeEPKRK5KPyL2cUWJm67yyfF81cUHJgGNtfecuV6ZUKJYdT0shLhCO3blPrkIXWbFDa8zIpP9MJtwOQvKze/thz3TSF1y4XqTOpYG1KHYwSjumWLvpdPlFIbPbsovQ0os6ZsYFl4zN2iotKN/DefJlTGDO0l+cfga8UOEDBvwtX6vFZCkKLRToDsZ1ByS93/06bcCOkfa6uVEEaWrHB8M14Wd06cDQC5InEnDqJp7b4ip4q+zM8ujmJ2DwQ0EtllV9x/EdbUna1NYHHkmBKhMO9MNcYo0OAiCOJ2+lhBeDG5tBlPuu4zbEUEewAahnu+F0E/sJbvBZxWUhUCmDrCw1PL9DP5mBDfsF+AGIZEpjGYHBkGZx5gUJw6pbyNNbWny+pcU3buDF05RY8PC+CIBZmLT7KCx2O2//8ZJ+34q2gafi+Uo35F3rs/AiQg4HakLtU9wO1ArzKRpbjqUVaf0bTTSeDZ1eCUP16vDW/aB8YbPTM9oM9J7Jx9z2pSAUcHVHLatAZQtkBkOBcbO0kK04neFT5qqPiD1KiukgBSwqBI5uCUy6o1d9kw0L+TqzHpMykCchay4YV+ehl31DZSczy/1IpJAHI3rmU2TaI8pTIKb1+PNBYx3j8" />
+                        
+                        <!-- Master -->
+                        
+                            <!-- Header -->
+                            <div id="mySidenav" class="sidenav">
+                                 <a href="javascript:void(0)" id="divMobileLogin"><span style="float: left; font-size: 18px; text-decoration: underline" onclick="window.location.href='https://www.onofre.com.br/acesso/'">Faça o login ou cadastre-se</span> <br /> <span class="closebtn" onclick="closeNavMobile()">&times;</span></a>
+                                <!--<a href="#">About</a> <a href="#">Services</a> <a href="#">Clients</a> <a href="#">Contact</a>-->
+                                <hr />
+                                <nav id="mobile-nav" class="page-nav">
+                                    <div class="wrapper full">
+                                        <ul class="nav-list">
+                                            <li class="medicamentos-e-saude"><a onclick="$('.medicamentos-e-saude .sub-nav').toggle();" title="Medicamentos" class="nav-link">Medicamentos</a>
+                                                <div class="sub-nav">
+                                                    <ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Intestino e Digestão</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antidiarreico/44/03' class='medi-sub-nav-link' >Antidiarréico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiflatulento/54/03' class='medi-sub-nav-link' >Antiflatulento</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiacido/95/03' class='medi-sub-nav-link' >Antiácido</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/laxante/248/03' class='medi-sub-nav-link' >Laxante</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Diabetes</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/hipoglicemiante/234/03' class='medi-sub-nav-link' >Hipoglicemiante</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Hormônios</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antigotoso/57/03' class='medi-sub-nav-link' >Antigotoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/tireoidiano/342/03' class='medi-sub-nav-link' >Tireoidiano</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Infecções</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antibiotico/32/03' class='medi-sub-nav-link' >Antibiótico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-infeccioso/67/03' class='medi-sub-nav-link' >Anti-infeccioso</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Aparelho Urinário</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antidiuretico/46/03' class='medi-sub-nav-link' >Antidiurético</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antilitiasico/80/03' class='medi-sub-nav-link' >Antilitiásico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/diuretico/190/03' class='medi-sub-nav-link' >Diurético</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/incontinencia-urinaria/242/03' class='medi-sub-nav-link' >Incontinência Urinária</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Nervoso</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antivertiginoso/112/03' class='medi-sub-nav-link' >Antivertiginoso</a></li><li class='medi-sub-nav-item'><a href='/homeopaticos/calmante/147/03' class='medi-sub-nav-link' >Calmante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/disturbio-do-tubo-neural/188/03' class='medi-sub-nav-link' >Distúrbio do Tubo Neural</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/neuropsicoestimulante/278/03' class='medi-sub-nav-link' >Neuropsicoestimulante</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Gripe e Resfriado</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antitussigenos/109/03' class='medi-sub-nav-link' >Antitussígenos</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/descongestionante/179/03' class='medi-sub-nav-link' >Descongestionante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/irritacoes-da-garganta/246/03' class='medi-sub-nav-link' >Irritações da Garganta</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/expectorante-e-mucolitico/274/03' class='medi-sub-nav-link' >Expectorante e Mucolítico</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Anti-Hipertensivo</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiarritmico/27/03' class='medi-sub-nav-link' >Antiarritmico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-hipertensivo/62/03' class='medi-sub-nav-link' >Anti-hipertensivo</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/cardiotonico/149/03' class='medi-sub-nav-link' >Cardiotônico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/hipertensor/231/03' class='medi-sub-nav-link' >Hipertensor</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Cuidado com os Olhos</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiglaucomatoso/56/03' class='medi-sub-nav-link' >Antiglaucomatoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/descongestionante-ocular/180/03' class='medi-sub-nav-link' >Descongestionante Ocular</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/distrofia-do-globo-ocular/189/03' class='medi-sub-nav-link' >Distrofia do Globo Ocular</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/lubrificante-ocular/260/03' class='medi-sub-nav-link' >Lubrificante Ocular</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Circulatório</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antianemico/26/03' class='medi-sub-nav-link' >Antianêmico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-hemorragico/61/03' class='medi-sub-nav-link' >Anti-hemorrágico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antivaricoso/111/03' class='medi-sub-nav-link' >Antivaricoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/hemostatico/221/03' class='medi-sub-nav-link' >Hemostático</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Vermes e Parasitas</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antifungico/52/03' class='medi-sub-nav-link' >Antifúngico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antimalarico/81/03' class='medi-sub-nav-link' >Antimalárico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiparasitario/90/03' class='medi-sub-nav-link' >Antiparasitário</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Dor e Febre</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/analgesico/8/03' class='medi-sub-nav-link' >Analgésico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anestesico/13/03' class='medi-sub-nav-link' >Anestésico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antienxaquecoso/48/03' class='medi-sub-nav-link' >Antienxaquecoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-inflamatorio/69/03' class='medi-sub-nav-link' >Anti-inflamatório</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Alergias</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antialergico/21/03' class='medi-sub-nav-link' >Antialérgico</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Respiratório</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiasmatico/29/03' class='medi-sub-nav-link' >Antiasmático</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/broncodilatador/142/03' class='medi-sub-nav-link' >Broncodilatador</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Pele e Mucosa</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/cicatrizante/155/03' class='medi-sub-nav-link' >Cicatrizante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/despigmentante/182/03' class='medi-sub-nav-link' >Despigmentante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/aftas/215/03' class='medi-sub-nav-link' >Aftas</a></li><li class='medi-sub-nav-item'><a href='/tratamento-rosto/antiacne/399/03' class='medi-sub-nav-link' >Antiacne</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Vitaminas e Suplementos</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antifadiga/53/03' class='medi-sub-nav-link' >Antifadiga</a></li><li class='medi-sub-nav-item'><a href='/nutricosmeticos/antioxidante/88/03' class='medi-sub-nav-link' >Antioxidante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/orexigeno/281/03' class='medi-sub-nav-link' >Orexígeno</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/vitaminico/367/03' class='medi-sub-nav-link' >Vitamínico</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Saúde Masculina</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antialopecia/20/03' class='medi-sub-nav-link' >Antialopécia</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiandrogenico/24/03' class='medi-sub-nav-link' >Antiandrogénico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/disfuncao-eretil/185/03' class='medi-sub-nav-link' >Disfunção Erétil</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/hiperplasia-prostatica-benigna/230/03' class='medi-sub-nav-link' >Hiperplasia Prostática Benigna</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Saúde Feminina</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/anticoncepcionais/39/03' class='medi-sub-nav-link' >Anticoncepcionais</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/disturbio-do-ciclo-menstrual/187/03' class='medi-sub-nav-link' >Distúrbio do Ciclo Menstrual</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/indutor-da-ovulacao/243/03' class='medi-sub-nav-link' >Indutor da Ovulação</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/terapeutica-da-menopausa/337/03' class='medi-sub-nav-link' >Terapêutica da Menopausa</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Ósseo</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiartrosico/28/03' class='medi-sub-nav-link' >Antiartrósico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiosteoporotico/87/03' class='medi-sub-nav-link' >Antiosteoporótico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antirreumatico/94/03' class='medi-sub-nav-link' >Antirreumático</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/repositor-de-potassio/315/03' class='medi-sub-nav-link' >Repositor de Potássio</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Controle Especial</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antidepressivo/42/03' class='medi-sub-nav-link' >Antidepressivo</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiparkinsoniano/91/03' class='medi-sub-nav-link' >Antiparkinsoniano</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Outros</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antineoplasico/84/03' class='medi-sub-nav-link' >Antineoplásico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antitabagismo/103/03' class='medi-sub-nav-link' >Antitabagismo</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul>
+                                                         </div>
+                                            </li>
+                                            <li class="medicamentos-e-saude_new"><a onclick="$('.medicamentos-e-saude_new .sub-nav').toggle();" title="Saúde" class="nav-link">Saúde</a>
+                                                <div class="sub-nav">
+                                                    <ul class="sub-nav-col">
+                                                        <li class='sub-nav-item'><a href='/geriatria/46/01' class='sub-nav-link' title='Geriatria'>Geriatria</a></li><li class='sub-nav-item'><a href='/higiene-e-limpeza/48/01' class='sub-nav-link' title='Higiene e Limpeza'>Higiene e Limpeza</a></li><li class='sub-nav-item'><a href='/homeopaticos/50/01' class='sub-nav-link' title='Homeopáticos'>Homeopáticos</a></li><li class='sub-nav-item'><a href='/alimentos-e-bebidas/52/01' class='sub-nav-link' title='Alimentos e Bebidas'>Alimentos e Bebidas</a></li><li class='sub-nav-item'><a href='/medicamentos/55/01' class='sub-nav-link' title='Medicamentos'>Medicamentos</a></li><li class='sub-nav-item'><a href='/cuidado-com-os-olhos/57/01' class='sub-nav-link' title='Cuidado com os Olhos'>Cuidado com os Olhos</a></li><li class='sub-nav-item'><a href='/ortopedia-e-acessorios/58/01' class='sub-nav-link' title='Ortopedia e Acessórios'>Ortopedia e Acessórios</a></li><li class='sub-nav-item'><a href='/primeiros-socorros/60/01' class='sub-nav-link' title='Primeiros Socorros'>Primeiros Socorros</a></li><li class='sub-nav-item'><a href='/sexo-seguro/61/01' class='sub-nav-link' title='Sexo Seguro'>Sexo Seguro</a></li><li class='sub-nav-item'><a href='/fitness-e-dietas/62/01' class='sub-nav-link' title='Fitness e Dietas'>Fitness e Dietas</a></li><li class='sub-nav-item'><a href='/testes-e-aparelhos/63/01' class='sub-nav-link' title='Testes e Aparelhos'>Testes e Aparelhos</a></li><li class='sub-nav-item'><a href='/vitaminas-e-naturais/65/01' class='sub-nav-link' title='Vitaminas e Naturais'>Vitaminas e Naturais</a></li>
+                                                    </ul>
+                                                    <div class="banner-menu">
+                                                        <a id="A2"> <img id="Img2" /></a>
+                                                        > </div>
+                                                </div>
+                                            </li>
+                                            <li class="beleza-e-bem-estar"><a onclick="$('.beleza-e-bem-estar .sub-nav').toggle();" title="Beleza e Bem Estar" class="nav-link">Beleza e Bem Estar</a>
+                                                <div class="sub-nav">
+                                                    <ul class="sub-nav-col">
+                                                        <li class='sub-nav-item'><a href='/tratamento-rosto/39/01' class='sub-nav-link' title='Tratamento Rosto'>Tratamento Rosto</a></li><li class='sub-nav-item'><a href='/cabelos/40/01' class='sub-nav-link' title='Cabelos'>Cabelos</a></li><li class='sub-nav-item'><a href='/corpo-e-banho/42/01' class='sub-nav-link' title='Corpo e Banho'>Corpo e Banho</a></li><li class='sub-nav-item'><a href='/cuidados-femininos/44/01' class='sub-nav-link' title='Cuidados Femininos'>Cuidados Femininos</a></li><li class='sub-nav-item'><a href='/cuidados-masculinos/49/01' class='sub-nav-link' title='Cuidados Masculinos'>Cuidados Masculinos</a></li><li class='sub-nav-item'><a href='/maos-e-pes/53/01' class='sub-nav-link' title='Mãos e Pés'>Mãos e Pés</a></li><li class='sub-nav-item'><a href='/maquiagem/54/01' class='sub-nav-link' title='Maquiagem'>Maquiagem</a></li><li class='sub-nav-item'><a href='/nutricosmeticos/56/01' class='sub-nav-link' title='Nutricosméticos'>Nutricosméticos</a></li><li class='sub-nav-item'><a href='/colonias/59/01' class='sub-nav-link' title='Colônias'>Colônias</a></li><li class='sub-nav-item'><a href='/tratamento-corpo/64/01' class='sub-nav-link' title='Tratamento Corpo'>Tratamento Corpo</a></li><li class='sub-nav-item'><a href='/higiene-bucal/68/01' class='sub-nav-link' title='Higiene Bucal'>Higiene Bucal</a></li><li class='sub-nav-item'><a href='/protecao-solar/69/01' class='sub-nav-link' title='Proteção Solar'>Proteção Solar</a></li>
+                                                    </ul>
+                                                    <div class="banner-menu">
+                                                        <a id="A3"> <img id="Img3" /></a>
+                                                         </div>
+                                                </div>
+                                            </li>
+                                            <li class="mamae-e-bebe"><a onclick="$('.mamae-e-bebe .sub-nav').toggle();" title="Mamãe e Bebê" class="nav-link">Mamãe e Bebê</a>
+                                                <div class="sub-nav">
+                                                    <ul class="sub-nav-col">
+                                                        <li class='sub-nav-item'><a href='/acessorios-infantis/37/01' class='sub-nav-link' title='Acessórios Infantis'>Acessórios Infantis</a></li><li class='sub-nav-item'><a href='/alimentos-infantis/38/01' class='sub-nav-link' title='Alimentos Infantis'>Alimentos Infantis</a></li><li class='sub-nav-item'><a href='/corpo-e-banho-infantil/41/01' class='sub-nav-link' title='Corpo e Banho Infantil'>Corpo e Banho Infantil</a></li><li class='sub-nav-item'><a href='/cuidados-com-a-mamae/43/01' class='sub-nav-link' title='Cuidados com a Mamãe'>Cuidados com a Mamãe</a></li><li class='sub-nav-item'><a href='/troca-de-fraldas/45/01' class='sub-nav-link' title='Troca de Fraldas'>Troca de Fraldas</a></li><li class='sub-nav-item'><a href='/cuidado-bucal-infantil/47/01' class='sub-nav-link' title='Cuidado Bucal Infantil'>Cuidado Bucal Infantil</a></li>
+                                                    </ul>
+                                                    <div class="banner-menu">
+                                                        <a id="A4"> <img id="Img4" /></a>
+                                                         </div>
+                                                </div>
+                                            </li>
+                                            <li class="ofertas-e-lancamentos"><a onclick="$('.ofertas-e-lancamentos .sub-nav').toggle();" title="Ofertas e Lançamentos" class="nav-link"> Ofertas e Lançamentos</a>
+                                                <div class="sub-nav">
+                                                    <ul class="sub-nav-col">
+                                                        <li class="sub-nav-item"><a href="/Produtos/OfertasLancamentos/oferta/66" class="sub-nav-link" title="Ofertas">Ofertas</a></li>
+                                                    </ul>
+                                                    <ul class="sub-nav-col">
+                                                        <li class="sub-nav-item"><a href="/Produtos/OfertasLancamentos/lancamento/66" class="sub-nav-link" title="Lançamentos">Lançamentos</a></li>
+                                                    </ul>
+                                                    <div class="banner-menu">
+                                                        <a id="A5"> <img id="Img5" /></a>
+                                                         </div>
+                                                </div>
+                                            </li>
+                                            <li class="como-comprar"><a href="http://www.onofre.com.br/Institucional/Default.aspx?InstId=251" title="Como Comprar" class="nav-link">Como Comprar</a> </li>
+                                        </ul>
+                                    </div>
+                                </nav>
+                            </div>
+                            <header id="main-header" class="page-header">
+                                <!--<div class="topbar-responsive"> <div class="wrapper-responsive full"> <div class="televendas col"> <p><span>Televendas:</span> <strong>4007-2526</strong></p> </div> <div class="social-responsive"> <ul class="social-list"> <li class="social-item"><a href="https://www.facebook.com/DrogariaOnofreOficial" class="social-link facebook" target="_blank" title="Facebook">Facebook</a></li> <li class="social-item"><a href="https://blogonofre.wordpress.com/" class="social-link beonofre" target="_blank" title="BeOnofre">BeOnofre</a></li>  </ul> </div> </div> </div>-->
+                                <div class="topbar">
+                                    <div class="wrapper full">
+                                        <div class="welcome col" style="width: 570px; margin-top: 20px;">
+                                            <!-- usuario logado-->
+                                            
+                                            <!-- fim usuario logado-->
+                                            <!-- usuario não logado-->
+                                            <div id="divTopoLogin" class="login col">
+                                                <div id="Panel2" class="login-form">
+	
+                                                    <div style="display: none">
+                                                        <label for="identificacao">Faça seu login:</label>
+                                                        <input name="ctl00$TxtUsuario" type="text" id="TxtUsuario" class="campo_texto" autocomplete="off" placeholder="Digite seu email ou cpf" />
+                                                    </div>
+                                                    <div id="divPasswordDoLogin" style="display: none">
+                                                        <label for="senha">Senha</label>
+                                                        <input name="ctl00$TxtSenha" type="password" id="TxtSenha" class="campo_texto" />
+                                                    </div>
+                                                     <a class="welcome-msg" style="font-size: 12px; vertical-align: middle; font-family: Tahoma"> OLÁ VISITANTE, </a> <a href="/acesso/" class="action-link criar-conta" style="font-size: 12px; font-family: Tahoma">FAÇA LOGIN</a> <a>|</a> <a href="/cadastro/" class="action-link criar-conta" style="font-size: 12px; font-family: Tahoma">CRIAR CONTA</a> <a>|</a>
+                                                    <div><a class="forgot-password action-link" href="#" style="font-size: 12px; font-family: Tahoma;vertical-align: middle;display: inline-block" onclick="ExibirPopup('../../login/ForgotPassWord.aspx',450,290)">ESQUECI MINHA SENHA</a> </div>
+                                                     
+</div>
+                                            </div>
+                                            <!-- fim usuario não logado -->
+                                        </div>
+                                        <div class="televendas col" style="margin-top: 20px;">
+                                            <p><span>Televendas:</span> <strong>4007-2526</strong></p>
+                                        </div>
+                                        
+                                            <div class="social col" style="margin-top: 15px;">
+                                                <ul class="social-list">
+                                                    <li class="social-item"><a href="https://www.facebook.com/DrogariaOnofreOficial" class="social-link facebook" target="_blank" title="Facebook">Facebook</a></li>
+                                                    <li class="social-item"><a href="https://www.instagram.com/drogariaonofre/" class="social-link instagram" target="_blank" title="Instagram">Instagram</a></li>
+                                                    <li class="social-item"><a href="https://blogonofre.wordpress.com/" class="social-link beonofre" target="_blank" title="BeOnofre">BeOnofre</a></li>
+                                                    
+                                                </ul>
+                                            </div>
+                                    </div>
+                                </div>
+                                <!-- /topbar -->
+                                <div class="wrapper full">
+                                    <div class="menu-responsive col" onclick="openNavMobile()"> </div>
+                                    <div class="logo col">
+                                        <h1>  <a href="http://www.onofre.com.br/" class="logo-img">Onofre</a>  </h1> </div>
+                                    <div class="cart-responsive">
+                                        <div class="cart col"> <a href="/carrinho" class="go-to-cart"><span class="total-value"> <span id="lblCartTotalResponsive">R$ 0,00</span> </span></a> </div>
+                                    </div>
+                                    <div class="search col">
+                                        <div class="msg-cvs">
+                                            <p> <img src="https://www.onofre.com.br/assets/img/cvs-health-logo.jpg" alt="CVS Health" width="105" height="21" /> A drogaria onofre agora faz parte da rede de farmácias CVS Health. <a href="http://www.onofre.com.br/Institucional/Default.aspx?InstId=230" class="action-link">Clique aqui e saiba mais.</a> </p>
+                                        </div>
+                                        <!-- /search -->
+                                        <div class="search-box">
+                                            <!-- search box starts here -->
+                                            
+                                            <div id="pnBuscaSli">
+	
+                                                <input type="hidden" name="asug" />
+                                                <input name="ctl00$sli_search_1" type="text" id="sli_search_1" data-provide="rac" value="Digite o nome do produto, marca ou princípio ativo..." class="search-field search-input" data-sli-test="searchbox" onblur="if(value==&#39;&#39;)value=&#39;Digite o nome do produto, marca ou princípio ativo...&#39;" onfocus="if(value==&#39;Digite o nome do produto, marca ou princípio ativo...&#39;)value=&#39;&#39;" onkeydown="javascript:return fnTrapKD(event,this)" autocomplete="off" /> <a id="btnOkSli" class="search-icon" href="javascript:SliSearchById('sli_search_1')" data-sli-test="searchbutton">Ok</a> 
+</div>
+                                            <!-- search box ends here -->
+                                        </div>
+                                    </div>
+                                    <!-- /search -->
+                                    <!-- carrinho -->
+                                    <div class="cart col cart-normal"> <a href="/carrinho" class="go-to-cart"><span class="total-value"> <span id="lblShoppingCartTotal">R$ 0,00</span> </span></a>
+                                        <div class="cart-hover">
+                                            <div id="CartPopUp" class="cart-list">
+                                                 </div>
+                                            <div class="cart-bottom">
+                                                <div class="line">
+                                                     <span class="total">Total: <strong class="total-value"> <span id="lblCartTotal">R$ 0,00</span></strong> </span> </div>
+                                                <div class="line">
+                                                    <!--<div class="one-click"><a href="" class="btn btn-gray buy-one-click">Comprar com 1 clique</a></div>-->
+                                                    <div class="buy-cart"><a href="/carrinho" class="btn btn-green">Finalizar compra</a> </div>
+                                                </div>
+                                            </div> <span id="lblProdAdicionado" class="prod-added">Produto adicionado ao carrinho</span> </div>
+                                    </div>
+                                </div>
+                                
+                            </header>
+                            <nav id="main-nav" class="page-nav">
+                                <div class="wrapper full">
+                                    <ul class="nav-list">
+                                        <li class="nav-item medicamentos-e-saude"><a onclick="window.location.href = 'http://busca.onofre.com.br/search#?p=Q&lbc=onofre&uid=251179742&ts=ajax&isort=score&method=and&view=grid&af=cat1%3amedicamentos'" title="Medicamentos e Saúde" class="nav-link">Medicamentos</a>
+                                            <div class="sub-nav" style="z-index:5003">
+                                                <ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Intestino e Digestão</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antidiarreico/44/03' class='medi-sub-nav-link' >Antidiarréico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiflatulento/54/03' class='medi-sub-nav-link' >Antiflatulento</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiacido/95/03' class='medi-sub-nav-link' >Antiácido</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/laxante/248/03' class='medi-sub-nav-link' >Laxante</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Diabetes</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/hipoglicemiante/234/03' class='medi-sub-nav-link' >Hipoglicemiante</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Hormônios</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antigotoso/57/03' class='medi-sub-nav-link' >Antigotoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/tireoidiano/342/03' class='medi-sub-nav-link' >Tireoidiano</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Infecções</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antibiotico/32/03' class='medi-sub-nav-link' >Antibiótico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-infeccioso/67/03' class='medi-sub-nav-link' >Anti-infeccioso</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Aparelho Urinário</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antidiuretico/46/03' class='medi-sub-nav-link' >Antidiurético</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antilitiasico/80/03' class='medi-sub-nav-link' >Antilitiásico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/diuretico/190/03' class='medi-sub-nav-link' >Diurético</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/incontinencia-urinaria/242/03' class='medi-sub-nav-link' >Incontinência Urinária</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Nervoso</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antivertiginoso/112/03' class='medi-sub-nav-link' >Antivertiginoso</a></li><li class='medi-sub-nav-item'><a href='/homeopaticos/calmante/147/03' class='medi-sub-nav-link' >Calmante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/disturbio-do-tubo-neural/188/03' class='medi-sub-nav-link' >Distúrbio do Tubo Neural</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/neuropsicoestimulante/278/03' class='medi-sub-nav-link' >Neuropsicoestimulante</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Gripe e Resfriado</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antitussigenos/109/03' class='medi-sub-nav-link' >Antitussígenos</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/descongestionante/179/03' class='medi-sub-nav-link' >Descongestionante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/irritacoes-da-garganta/246/03' class='medi-sub-nav-link' >Irritações da Garganta</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/expectorante-e-mucolitico/274/03' class='medi-sub-nav-link' >Expectorante e Mucolítico</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Anti-Hipertensivo</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiarritmico/27/03' class='medi-sub-nav-link' >Antiarritmico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-hipertensivo/62/03' class='medi-sub-nav-link' >Anti-hipertensivo</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/cardiotonico/149/03' class='medi-sub-nav-link' >Cardiotônico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/hipertensor/231/03' class='medi-sub-nav-link' >Hipertensor</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Cuidado com os Olhos</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiglaucomatoso/56/03' class='medi-sub-nav-link' >Antiglaucomatoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/descongestionante-ocular/180/03' class='medi-sub-nav-link' >Descongestionante Ocular</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/distrofia-do-globo-ocular/189/03' class='medi-sub-nav-link' >Distrofia do Globo Ocular</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/lubrificante-ocular/260/03' class='medi-sub-nav-link' >Lubrificante Ocular</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Circulatório</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antianemico/26/03' class='medi-sub-nav-link' >Antianêmico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-hemorragico/61/03' class='medi-sub-nav-link' >Anti-hemorrágico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antivaricoso/111/03' class='medi-sub-nav-link' >Antivaricoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/hemostatico/221/03' class='medi-sub-nav-link' >Hemostático</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Vermes e Parasitas</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antifungico/52/03' class='medi-sub-nav-link' >Antifúngico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antimalarico/81/03' class='medi-sub-nav-link' >Antimalárico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiparasitario/90/03' class='medi-sub-nav-link' >Antiparasitário</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Dor e Febre</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/analgesico/8/03' class='medi-sub-nav-link' >Analgésico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anestesico/13/03' class='medi-sub-nav-link' >Anestésico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antienxaquecoso/48/03' class='medi-sub-nav-link' >Antienxaquecoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-inflamatorio/69/03' class='medi-sub-nav-link' >Anti-inflamatório</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Alergias</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antialergico/21/03' class='medi-sub-nav-link' >Antialérgico</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Respiratório</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiasmatico/29/03' class='medi-sub-nav-link' >Antiasmático</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/broncodilatador/142/03' class='medi-sub-nav-link' >Broncodilatador</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Pele e Mucosa</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/cicatrizante/155/03' class='medi-sub-nav-link' >Cicatrizante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/despigmentante/182/03' class='medi-sub-nav-link' >Despigmentante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/aftas/215/03' class='medi-sub-nav-link' >Aftas</a></li><li class='medi-sub-nav-item'><a href='/tratamento-rosto/antiacne/399/03' class='medi-sub-nav-link' >Antiacne</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Vitaminas e Suplementos</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antifadiga/53/03' class='medi-sub-nav-link' >Antifadiga</a></li><li class='medi-sub-nav-item'><a href='/nutricosmeticos/antioxidante/88/03' class='medi-sub-nav-link' >Antioxidante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/orexigeno/281/03' class='medi-sub-nav-link' >Orexígeno</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/vitaminico/367/03' class='medi-sub-nav-link' >Vitamínico</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Saúde Masculina</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antialopecia/20/03' class='medi-sub-nav-link' >Antialopécia</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiandrogenico/24/03' class='medi-sub-nav-link' >Antiandrogénico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/disfuncao-eretil/185/03' class='medi-sub-nav-link' >Disfunção Erétil</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/hiperplasia-prostatica-benigna/230/03' class='medi-sub-nav-link' >Hiperplasia Prostática Benigna</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Saúde Feminina</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/anticoncepcionais/39/03' class='medi-sub-nav-link' >Anticoncepcionais</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/disturbio-do-ciclo-menstrual/187/03' class='medi-sub-nav-link' >Distúrbio do Ciclo Menstrual</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/indutor-da-ovulacao/243/03' class='medi-sub-nav-link' >Indutor da Ovulação</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/terapeutica-da-menopausa/337/03' class='medi-sub-nav-link' >Terapêutica da Menopausa</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Ósseo</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiartrosico/28/03' class='medi-sub-nav-link' >Antiartrósico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiosteoporotico/87/03' class='medi-sub-nav-link' >Antiosteoporótico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antirreumatico/94/03' class='medi-sub-nav-link' >Antirreumático</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/repositor-de-potassio/315/03' class='medi-sub-nav-link' >Repositor de Potássio</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Controle Especial</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antidepressivo/42/03' class='medi-sub-nav-link' >Antidepressivo</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiparkinsoniano/91/03' class='medi-sub-nav-link' >Antiparkinsoniano</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Outros</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antineoplasico/84/03' class='medi-sub-nav-link' >Antineoplásico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antitabagismo/103/03' class='medi-sub-nav-link' >Antitabagismo</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul>
+                                                     </div>
+                                        </li>
+                                        <li class="nav-item medicamentos-e-saude_new"><a title="Medicamentos e Saúde" class="nav-link">Saúde</a>
+                                            <div class="sub-nav" style="z-index:5003">
+                                                <ul class="sub-nav-col">
+                                                    <li class='sub-nav-item'><a href='/geriatria/46/01' class='sub-nav-link' title='Geriatria'>Geriatria</a></li><li class='sub-nav-item'><a href='/higiene-e-limpeza/48/01' class='sub-nav-link' title='Higiene e Limpeza'>Higiene e Limpeza</a></li><li class='sub-nav-item'><a href='/homeopaticos/50/01' class='sub-nav-link' title='Homeopáticos'>Homeopáticos</a></li><li class='sub-nav-item'><a href='/alimentos-e-bebidas/52/01' class='sub-nav-link' title='Alimentos e Bebidas'>Alimentos e Bebidas</a></li><li class='sub-nav-item'><a href='/medicamentos/55/01' class='sub-nav-link' title='Medicamentos'>Medicamentos</a></li><li class='sub-nav-item'><a href='/cuidado-com-os-olhos/57/01' class='sub-nav-link' title='Cuidado com os Olhos'>Cuidado com os Olhos</a></li><li class='sub-nav-item'><a href='/ortopedia-e-acessorios/58/01' class='sub-nav-link' title='Ortopedia e Acessórios'>Ortopedia e Acessórios</a></li><li class='sub-nav-item'><a href='/primeiros-socorros/60/01' class='sub-nav-link' title='Primeiros Socorros'>Primeiros Socorros</a></li><li class='sub-nav-item'><a href='/sexo-seguro/61/01' class='sub-nav-link' title='Sexo Seguro'>Sexo Seguro</a></li><li class='sub-nav-item'><a href='/fitness-e-dietas/62/01' class='sub-nav-link' title='Fitness e Dietas'>Fitness e Dietas</a></li><li class='sub-nav-item'><a href='/testes-e-aparelhos/63/01' class='sub-nav-link' title='Testes e Aparelhos'>Testes e Aparelhos</a></li><li class='sub-nav-item'><a href='/vitaminas-e-naturais/65/01' class='sub-nav-link' title='Vitaminas e Naturais'>Vitaminas e Naturais</a></li>
+                                                </ul>
+                                                <div class="banner-menu">
+                                                    <a id="A1"> <img id="Img1" /></a>
+                                                    > </div>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item beleza-e-bem-estar"><a title="Beleza e Bem Estar" class="nav-link">Beleza e Bem Estar</a>
+                                            <div class="sub-nav" style="z-index:5003">
+                                                <ul class="sub-nav-col">
+                                                    <li class='sub-nav-item'><a href='/tratamento-rosto/39/01' class='sub-nav-link' title='Tratamento Rosto'>Tratamento Rosto</a></li><li class='sub-nav-item'><a href='/cabelos/40/01' class='sub-nav-link' title='Cabelos'>Cabelos</a></li><li class='sub-nav-item'><a href='/corpo-e-banho/42/01' class='sub-nav-link' title='Corpo e Banho'>Corpo e Banho</a></li><li class='sub-nav-item'><a href='/cuidados-femininos/44/01' class='sub-nav-link' title='Cuidados Femininos'>Cuidados Femininos</a></li><li class='sub-nav-item'><a href='/cuidados-masculinos/49/01' class='sub-nav-link' title='Cuidados Masculinos'>Cuidados Masculinos</a></li><li class='sub-nav-item'><a href='/maos-e-pes/53/01' class='sub-nav-link' title='Mãos e Pés'>Mãos e Pés</a></li><li class='sub-nav-item'><a href='/maquiagem/54/01' class='sub-nav-link' title='Maquiagem'>Maquiagem</a></li><li class='sub-nav-item'><a href='/nutricosmeticos/56/01' class='sub-nav-link' title='Nutricosméticos'>Nutricosméticos</a></li><li class='sub-nav-item'><a href='/colonias/59/01' class='sub-nav-link' title='Colônias'>Colônias</a></li><li class='sub-nav-item'><a href='/tratamento-corpo/64/01' class='sub-nav-link' title='Tratamento Corpo'>Tratamento Corpo</a></li><li class='sub-nav-item'><a href='/higiene-bucal/68/01' class='sub-nav-link' title='Higiene Bucal'>Higiene Bucal</a></li><li class='sub-nav-item'><a href='/protecao-solar/69/01' class='sub-nav-link' title='Proteção Solar'>Proteção Solar</a></li>
+                                                </ul>
+                                                <div class="banner-menu">
+                                                    <a id="banner_menu_p2"> <img id="banner_menu_img2" /></a>
+                                                     </div>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item mamae-e-bebe"><a title="Mamãe e Bebê" class="nav-link">Mamãe e Bebê</a>
+                                            <div class="sub-nav" style="z-index:5003">
+                                                <ul class="sub-nav-col">
+                                                    <li class='sub-nav-item'><a href='/acessorios-infantis/37/01' class='sub-nav-link' title='Acessórios Infantis'>Acessórios Infantis</a></li><li class='sub-nav-item'><a href='/alimentos-infantis/38/01' class='sub-nav-link' title='Alimentos Infantis'>Alimentos Infantis</a></li><li class='sub-nav-item'><a href='/corpo-e-banho-infantil/41/01' class='sub-nav-link' title='Corpo e Banho Infantil'>Corpo e Banho Infantil</a></li><li class='sub-nav-item'><a href='/cuidados-com-a-mamae/43/01' class='sub-nav-link' title='Cuidados com a Mamãe'>Cuidados com a Mamãe</a></li><li class='sub-nav-item'><a href='/troca-de-fraldas/45/01' class='sub-nav-link' title='Troca de Fraldas'>Troca de Fraldas</a></li><li class='sub-nav-item'><a href='/cuidado-bucal-infantil/47/01' class='sub-nav-link' title='Cuidado Bucal Infantil'>Cuidado Bucal Infantil</a></li>
+                                                </ul>
+                                                <div class="banner-menu">
+                                                    <a id="banner_menu_p3"> <img id="banner_menu_img3" /></a>
+                                                     </div>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item ofertas-e-lancamentos"><a title="Ofertas e Lançamentos" class="nav-link">&nbsp&nbsp Ofertas e &nbsp&nbsp&nbsp&nbsp&nbsp<br /> &nbsp&nbsp Lançamentos</a>
+                                            <div class="sub-nav" style="z-index:5003">
+                                                <ul class="sub-nav-col">
+                                                    <li class="sub-nav-item"><a href="/Produtos/OfertasLancamentos/oferta/66" class="sub-nav-link" title="Ofertas">Ofertas</a></li>
+                                                </ul>
+                                                <ul class="sub-nav-col">
+                                                    <li class="sub-nav-item"><a href="/Produtos/OfertasLancamentos/lancamento/66" class="sub-nav-link" title="Lançamentos">Lançamentos</a></li>
+                                                </ul>
+                                                <div class="banner-menu">
+                                                    <a id="banner_menu_p4"> <img id="banner_menu_img4" /></a>
+                                                     </div>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item como-comprar"><a href="http://www.onofre.com.br/Institucional/Default.aspx?InstId=251" title="Como Comprar" class="nav-link">Como Comprar</a> </li>
+                                    </ul>
+                                </div>
+                            </nav>
+                            <div class="float-bar"></div>
+                            
+                                    <!-- /floatbar -->
+                                    <!-- FIM HEADER -->
+                                    <!-- ESTRUTURA -->
+                                    <div class="page-content">
+                                        <div class="wrapper">
+                                            <!-- conteudo -->
+                                             <div class="search-top col16"> <ul class="breadcrumb full"> <div id="breadcrumbs"> <a href="/Default.aspx">Drogaria Onofre</a> &#62; <a href=/medicamentos/55/01 class="bread_saude">Medicamentos</a> &#62; <a href=/medicamentos/antifadiga/53/03 class="bread_saude">Antifadiga</a>
+ </div> </ul> <div id="descricao_vitrine">   </div> <!-- Chaordic Top --> <div class="ch_clear" chaordic="top"></div> <div class="search-bar"> <div class="item view-type"> <span class="item-name">Visualizar:</span> <div class="select-view"> <a id="lbTabela" class="table-viewAtivo" href="javascript:__doPostBack(&#39;ctl00$cphConteudo$lbTabela&#39;,&#39;&#39;)"></a> <a id="lbLista" class="list-view" href="javascript:__doPostBack(&#39;ctl00$cphConteudo$lbLista&#39;,&#39;&#39;)"></a> </div> </div> <div class="item order-by"> <span class="item-name">Ordenar por:</span> <select name="ctl00$cphConteudo$ddlOrderBy" id="cphConteudo_ddlOrderBy">
+	<option selected="selected" value="0">Selecionar</option>
+	<option value="1">Produto</option>
+	<option value="2">Valor</option>
+
+</select> </div> <div class="item products-per-page"> <span class="item-name">Itens por página:</span> <select name="ctl00$cphConteudo$ddlItensPagina" id="cphConteudo_ddlItensPagina">
+	<option selected="selected" value="15">15</option>
+	<option value="30">30</option>
+	<option value="50">50</option>
+
+</select> </div> <div class="item pages last"> <span>Mostrando de <span id="cphConteudo_lblPagAtual">1</span> a <span id="cphConteudo_lblNumItens">12</span> de <span id="cphConteudo_lblNumTotal">12</span></span> <ul class="pagination">  </ul> </div> </div> </div> <aside class="sidebar col4"> <div class="menu-sidebar menu-search"> <div class="box secao"> <h2 class="main-title menu-title"><span id="cphConteudo_spLevel">se&#231;&#245;es</span></h2> <ul class="menu-list"> <input type="hidden" name="ctl00$cphConteudo$HiddenField1" id="cphConteudo_HiddenField1" value="1" />  <input type="hidden" name="ctl00$cphConteudo$rptSecao$ctl00$Id" id="cphConteudo_rptSecao_Id_0" value="53" /> <li class="menu-item"><a> Antifadiga</a></li>  <ul class="submenu_lat">  </ul>    <div class="secao_cat" style="margin-top:0"> <ul class="menu-list">  <li class="menu-item item-menor"> <h3 class="main-title menu-title"><span>Por Forma Farmacêutica:</span></h3>  <ul class="submenu_lat">  <li class="menu-item"> <span class="cb_sub" foId="193"><input id="cphConteudo_rptFiltro_rptFiltroOpcao_0_cbFiltro_0" type="checkbox" name="ctl00$cphConteudo$rptFiltro$ctl00$rptFiltroOpcao$ctl01$cbFiltro" /><label for="cphConteudo_rptFiltro_rptFiltroOpcao_0_cbFiltro_0">Comprimidos (5)</label></span><br /> </li>  <li class="menu-item"> <span class="cb_sub" foId="201"><input id="cphConteudo_rptFiltro_rptFiltroOpcao_0_cbFiltro_1" type="checkbox" name="ctl00$cphConteudo$rptFiltro$ctl00$rptFiltroOpcao$ctl02$cbFiltro" /><label for="cphConteudo_rptFiltro_rptFiltroOpcao_0_cbFiltro_1">Solução (2)</label></span><br /> </li>  </ul>  </li>  <li class="menu-item item-menor"> <h3 class="main-title menu-title"><span>Por Quantidade:</span></h3>  <ul class="submenu_lat">  <li class="menu-item"> <span class="cb_sub" foId="313"><input id="cphConteudo_rptFiltro_rptFiltroOpcao_1_cbFiltro_0" type="checkbox" name="ctl00$cphConteudo$rptFiltro$ctl01$rptFiltroOpcao$ctl01$cbFiltro" /><label for="cphConteudo_rptFiltro_rptFiltroOpcao_1_cbFiltro_0">16 comprimidos (2)</label></span><br /> </li>  <li class="menu-item"> <span class="cb_sub" foId="317"><input id="cphConteudo_rptFiltro_rptFiltroOpcao_1_cbFiltro_1" type="checkbox" name="ctl00$cphConteudo$rptFiltro$ctl01$rptFiltroOpcao$ctl02$cbFiltro" /><label for="cphConteudo_rptFiltro_rptFiltroOpcao_1_cbFiltro_1">20 comprimidos (4)</label></span><br /> </li>  <li class="menu-item"> <span class="cb_sub" foId="326"><input id="cphConteudo_rptFiltro_rptFiltroOpcao_1_cbFiltro_2" type="checkbox" name="ctl00$cphConteudo$rptFiltro$ctl01$rptFiltroOpcao$ctl03$cbFiltro" /><label for="cphConteudo_rptFiltro_rptFiltroOpcao_1_cbFiltro_2">30 comprimidos (1)</label></span><br /> </li>  <li class="menu-item"> <span class="cb_sub" foId="341"><input id="cphConteudo_rptFiltro_rptFiltroOpcao_1_cbFiltro_3" type="checkbox" name="ctl00$cphConteudo$rptFiltro$ctl01$rptFiltroOpcao$ctl04$cbFiltro" /><label for="cphConteudo_rptFiltro_rptFiltroOpcao_1_cbFiltro_3">60 comprimidos (2)</label></span><br /> </li>  </ul>  </li>  </ul> </div> </ul> </div> <div class="box marcas"> <h2 class="main-title menu-title"> <span id="cphConteudo_lblFabricante">Por Fabricante/ Marca:</span></h2> <ul class="menu-list"> <div class="fabricante_menu"> <div class="fab_body">  <ul class="marca_fabricante">  <li> <span faId="66" style="display:block;"><input id="cphConteudo_rptManufacturer_cbFiltro_Manufacturer_0" type="checkbox" name="ctl00$cphConteudo$rptManufacturer$ctl01$cbFiltro_Manufacturer" /><label for="cphConteudo_rptManufacturer_cbFiltro_Manufacturer_0">Ativus Farmaceutica (1)</label></span> </li>  <li> <span faId="170" style="display:block;"><input id="cphConteudo_rptManufacturer_cbFiltro_Manufacturer_1" type="checkbox" name="ctl00$cphConteudo$rptManufacturer$ctl02$cbFiltro_Manufacturer" /><label for="cphConteudo_rptManufacturer_cbFiltro_Manufacturer_1">Chiesi Farmaceuticas (1)</label></span> </li>  <li> <span faId="265" style="display:block;"><input id="cphConteudo_rptManufacturer_cbFiltro_Manufacturer_2" type="checkbox" name="ctl00$cphConteudo$rptManufacturer$ctl03$cbFiltro_Manufacturer" /><label for="cphConteudo_rptManufacturer_cbFiltro_Manufacturer_2">EMS (1)</label></span> </li>  <li> <span faId="592" style="display:block;"><input id="cphConteudo_rptManufacturer_cbFiltro_Manufacturer_3" type="checkbox" name="ctl00$cphConteudo$rptManufacturer$ctl04$cbFiltro_Manufacturer" /><label for="cphConteudo_rptManufacturer_cbFiltro_Manufacturer_3">Nikkho do Brasil (3)</label></span> </li>  <li> <span faId="739" style="display:block;"><input id="cphConteudo_rptManufacturer_cbFiltro_Manufacturer_4" type="checkbox" name="ctl00$cphConteudo$rptManufacturer$ctl05$cbFiltro_Manufacturer" /><label for="cphConteudo_rptManufacturer_cbFiltro_Manufacturer_4">Sanofi Aventis (4)</label></span> </li>  <li> <span faId="757" style="display:block;"><input id="cphConteudo_rptManufacturer_cbFiltro_Manufacturer_5" type="checkbox" name="ctl00$cphConteudo$rptManufacturer$ctl06$cbFiltro_Manufacturer" /><label for="cphConteudo_rptManufacturer_cbFiltro_Manufacturer_5">Servier do Brasil (2)</label></span> </li>  </ul>  </div> <div class="fabricante_menu"> </div> </ul> </div> </div> </aside> <input type="hidden" name="ctl00$cphConteudo$hfPosicao" id="cphConteudo_hfPosicao" value="0" /> <section class="main-content col12"> <!-- Chaordic Middle --> <div class="ch_clear" chaordic="middle"></div>    <div class="shelf column3"> <ul class="shelf-list">  
+<li class="shelf-item">
+    <div class="shelf-product" data-productid="39659">
+        <div class="product-image"><a href="/targifor-c-500500mg-com-60-comprimidos-revestidos/39659/05" id="cphConteudo_rptProdutosTabela_produtoTabela_0_lnkProdutoImagem_0">
+            <img id="cphConteudo_rptProdutosTabela_produtoTabela_0_imgProduto_0" title="Targifor C 500/500mg Com 60 Comprimidos Revestidos" border="0" alt="Targifor C 500/500mg Com 60 Comprimidos Revestidos" src="https://www.onofre.com.br/estatico/Produto/Normal/406597.jpg" />
+        </a><span class="flag flag-highlight" style="">
+            </span>
+            <div style="width: 105px; height: 42px; background-color: #FF7C80; padding-left: 1px; padding-right: 1px; padding-top: 1px; position: absolute; left: 35px; bottom: -50px; display: none">
+                <div style="background-color: white; width: 103px; height: 40px;">
+                    <div style="margin: 0 auto; width: 96%; padding-top: 5px;">
+                        <img style="float: left; margin-right: 1px;" alt="Promoção" height="16" src="/~/img/DetalheProduto/icone-medalha.png" />
+                        <img style="float: left; margin-right: 1px;" alt="DermaClub" height="10" src="/~/img/DetalheProduto/dermaclub-logo.png" />
+                        <!--<div style="float:left;font-size:10px;color:white;font-weight:600;width:12px;height:12px;background-image:url('/~/img/DetalheProduto/interrogation-mark.png');background-size:cover;"></div>-->
+                        <div style="float: left; font-size: 8px; font-weight: 800">COMPRE & GANHE<br />
+                            <span style="color: #5EB1D9">0 PONTOS</span> </div>
+                    </div>
+                    <!--<p align="center" style="font-family:Arial; font-weight: 900;color: black;font-size: 9px; padding-top: 10px;">Comprar com desconto</p>-->
+                </div>
+                <p id="cphConteudo_rptProdutosTabela_produtoTabela_0_pDescontoPorcentagemDermaclub_0" align="center" style="color: white; font-weight: bold; font-size: 13px;"></p>
+            </div>
+            <!-- SELO DE PRODUTO -->
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_0_seloProduto_0" style="background:white;border-radius:5px;color:white;text-align:center;">selo produto</div>
+            <!-- FIM SELO DE PRODUTO-->
+        </div>
+        <div id="rptProdutosTabelaDIV">
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_0_divDesconto_0" class="flag flag-discount"><span id="cphConteudo_rptProdutosTabela_produtoTabela_0_lblDesconto_0" class="discount-value"><span class='discount-bandeira'></span>22% de desconto</span></div>
+        </div>
+        <div id="ratingDIV">
+            
+        </div>
+        <h2>
+            <p class="product-name"><a href="/targifor-c-500500mg-com-60-comprimidos-revestidos/39659/05" id="cphConteudo_rptProdutosTabela_produtoTabela_0_lnkProdutoDescricao_0">Targifor C 500/500mg Com 60 Comprimidos Revestidos </a></p>
+        </h2>
+        <p>
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_0_tabelaProdutoAntibiotico_0"> </span>
+        </p>
+        <br />
+        <br />
+        <p class="product-prinativo">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_0_lblPrincipioAtivo_0" class="info-small">Ácido Ascórbico+Aspartato de Arginina</span>
+        </p>
+        <p class="product-prinativo2">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_0_num_registro_0"> MS: 1130002370089</span>
+        </p>
+         <a class="brand-name" href="/sanofi/78/0/0/0/0/0/003" title="Sanofi Aventis">Sanofi Aventis </a>
+        <div class="product-price"><a href="" title="Targifor C 500/500mg Com 60 Comprimidos Revestidos">
+            <span class='old-price'><em>R$ 92,42</em></span><span class='regular-price'>R$ 72,09</span>
+        </a></div>
+          
+        
+        
+        <div id="cphConteudo_rptProdutosTabela_produtoTabela_0_divComprar_CRM_0" class="buy-product buy-shelf"><a href="/targifor-c-500500mg-com-60-comprimidos-revestidos/39659/05" id="cphConteudo_rptProdutosTabela_produtoTabela_0_btn_Comprar_0" class="btn-green btn-buy">Comprar</a> </div>
+        <!-- Botao indisponivel avise-me-->
+        
+        <!-- Botao indisponivel controlado -->
+        
+        
+        
+        
+        <a id="cphConteudo_rptProdutosTabela_produtoTabela_0_topLink_0" class="see-more-catg" title="Veja mais produtos da categoria Desodorantes"></a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<li class="shelf-item">
+    <div class="shelf-product" data-productid="39658">
+        <div class="product-image"><a href="/targifor-c-adulto-500500mg-com-30-comprimidos-revestidos/39658/05" id="cphConteudo_rptProdutosTabela_produtoTabela_1_lnkProdutoImagem_1">
+            <img id="cphConteudo_rptProdutosTabela_produtoTabela_1_imgProduto_1" title="Targifor C Adulto 500/500mg Com 30 Comprimidos Revestidos" border="0" alt="Targifor C Adulto 500/500mg Com 30 Comprimidos Revestidos" src="https://www.onofre.com.br/estatico/Produto/Normal/406589.jpg" />
+        </a><span class="flag flag-highlight" style="">
+            </span>
+            <div style="width: 105px; height: 42px; background-color: #FF7C80; padding-left: 1px; padding-right: 1px; padding-top: 1px; position: absolute; left: 35px; bottom: -50px; display: none">
+                <div style="background-color: white; width: 103px; height: 40px;">
+                    <div style="margin: 0 auto; width: 96%; padding-top: 5px;">
+                        <img style="float: left; margin-right: 1px;" alt="Promoção" height="16" src="/~/img/DetalheProduto/icone-medalha.png" />
+                        <img style="float: left; margin-right: 1px;" alt="DermaClub" height="10" src="/~/img/DetalheProduto/dermaclub-logo.png" />
+                        <!--<div style="float:left;font-size:10px;color:white;font-weight:600;width:12px;height:12px;background-image:url('/~/img/DetalheProduto/interrogation-mark.png');background-size:cover;"></div>-->
+                        <div style="float: left; font-size: 8px; font-weight: 800">COMPRE & GANHE<br />
+                            <span style="color: #5EB1D9">0 PONTOS</span> </div>
+                    </div>
+                    <!--<p align="center" style="font-family:Arial; font-weight: 900;color: black;font-size: 9px; padding-top: 10px;">Comprar com desconto</p>-->
+                </div>
+                <p id="cphConteudo_rptProdutosTabela_produtoTabela_1_pDescontoPorcentagemDermaclub_1" align="center" style="color: white; font-weight: bold; font-size: 13px;"></p>
+            </div>
+            <!-- SELO DE PRODUTO -->
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_1_seloProduto_1" style="background:white;border-radius:5px;color:white;text-align:center;">selo produto</div>
+            <!-- FIM SELO DE PRODUTO-->
+        </div>
+        <div id="rptProdutosTabelaDIV">
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_1_divDesconto_1" class="flag flag-discount"><span id="cphConteudo_rptProdutosTabela_produtoTabela_1_lblDesconto_1" class="discount-value"><span class='discount-bandeira'></span>22% de desconto</span></div>
+        </div>
+        <div id="ratingDIV">
+            
+        </div>
+        <h2>
+            <p class="product-name"><a href="/targifor-c-adulto-500500mg-com-30-comprimidos-revestidos/39658/05" id="cphConteudo_rptProdutosTabela_produtoTabela_1_lnkProdutoDescricao_1">Targifor C Adulto 500/500mg Com 30 Comprimidos Revestidos </a></p>
+        </h2>
+        <p>
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_1_tabelaProdutoAntibiotico_1"> </span>
+        </p>
+        <br />
+        <br />
+        <p class="product-prinativo">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_1_lblPrincipioAtivo_1" class="info-small">Ácido Ascórbico+Aspartato de Arginina</span>
+        </p>
+        <p class="product-prinativo2">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_1_num_registro_1"> MS: 1130002370070</span>
+        </p>
+         <a class="brand-name" href="/sanofi/78/0/0/0/0/0/003" title="Sanofi Aventis">Sanofi Aventis </a>
+        <div class="product-price"><a href="" title="Targifor C Adulto 500/500mg Com 30 Comprimidos Revestidos">
+            <span class='old-price'><em>R$ 51,36</em></span><span class='regular-price'>R$ 40,06</span>
+        </a></div>
+          
+        
+        
+        <div id="cphConteudo_rptProdutosTabela_produtoTabela_1_divComprar_CRM_1" class="buy-product buy-shelf"><a href="/targifor-c-adulto-500500mg-com-30-comprimidos-revestidos/39658/05" id="cphConteudo_rptProdutosTabela_produtoTabela_1_btn_Comprar_1" class="btn-green btn-buy">Comprar</a> </div>
+        <!-- Botao indisponivel avise-me-->
+        
+        <!-- Botao indisponivel controlado -->
+        
+        
+        
+        
+        <a id="cphConteudo_rptProdutosTabela_produtoTabela_1_topLink_1" class="see-more-catg" title="Veja mais produtos da categoria Desodorantes"></a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<li class="shelf-item">
+    <div class="shelf-product" data-productid="39657">
+        <div class="product-image"><a href="/targifor-c-adulto-11g-com-16-comprimidos-efervescentes/39657/05" id="cphConteudo_rptProdutosTabela_produtoTabela_2_lnkProdutoImagem_2">
+            <img id="cphConteudo_rptProdutosTabela_produtoTabela_2_imgProduto_2" title="Targifor C Adulto 1/1g Com 16 Comprimidos Efervescentes" border="0" alt="Targifor C Adulto 1/1g Com 16 Comprimidos Efervescentes" src="https://www.onofre.com.br/estatico/Produto/Normal/033766.jpg" />
+        </a><span class="flag flag-highlight" style="">
+            </span>
+            <div style="width: 105px; height: 42px; background-color: #FF7C80; padding-left: 1px; padding-right: 1px; padding-top: 1px; position: absolute; left: 35px; bottom: -50px; display: none">
+                <div style="background-color: white; width: 103px; height: 40px;">
+                    <div style="margin: 0 auto; width: 96%; padding-top: 5px;">
+                        <img style="float: left; margin-right: 1px;" alt="Promoção" height="16" src="/~/img/DetalheProduto/icone-medalha.png" />
+                        <img style="float: left; margin-right: 1px;" alt="DermaClub" height="10" src="/~/img/DetalheProduto/dermaclub-logo.png" />
+                        <!--<div style="float:left;font-size:10px;color:white;font-weight:600;width:12px;height:12px;background-image:url('/~/img/DetalheProduto/interrogation-mark.png');background-size:cover;"></div>-->
+                        <div style="float: left; font-size: 8px; font-weight: 800">COMPRE & GANHE<br />
+                            <span style="color: #5EB1D9">0 PONTOS</span> </div>
+                    </div>
+                    <!--<p align="center" style="font-family:Arial; font-weight: 900;color: black;font-size: 9px; padding-top: 10px;">Comprar com desconto</p>-->
+                </div>
+                <p id="cphConteudo_rptProdutosTabela_produtoTabela_2_pDescontoPorcentagemDermaclub_2" align="center" style="color: white; font-weight: bold; font-size: 13px;"></p>
+            </div>
+            <!-- SELO DE PRODUTO -->
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_2_seloProduto_2" style="background:white;border-radius:5px;color:white;text-align:center;">selo produto</div>
+            <!-- FIM SELO DE PRODUTO-->
+        </div>
+        <div id="rptProdutosTabelaDIV">
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_2_divDesconto_2" class="flag flag-discount"><span id="cphConteudo_rptProdutosTabela_produtoTabela_2_lblDesconto_2" class="discount-value"><span class='discount-bandeira'></span>22% de desconto</span></div>
+        </div>
+        <div id="ratingDIV">
+            
+        </div>
+        <h2>
+            <p class="product-name"><a href="/targifor-c-adulto-11g-com-16-comprimidos-efervescentes/39657/05" id="cphConteudo_rptProdutosTabela_produtoTabela_2_lnkProdutoDescricao_2">Targifor C Adulto 1/1g Com 16 Comprimidos Efervescentes </a></p>
+        </h2>
+        <p>
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_2_tabelaProdutoAntibiotico_2"> </span>
+        </p>
+        <br />
+        <br />
+        <p class="product-prinativo">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_2_lblPrincipioAtivo_2" class="info-small">Ácido Ascórbico+Aspartato de Arginina</span>
+        </p>
+        <p class="product-prinativo2">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_2_num_registro_2"> MS: 1130002370038</span>
+        </p>
+         <a class="brand-name" href="/sanofi/78/0/0/0/0/0/003" title="Sanofi Aventis">Sanofi Aventis </a>
+        <div class="product-price"><a href="" title="Targifor C Adulto 1/1g Com 16 Comprimidos Efervescentes">
+            <span class='old-price'><em>R$ 43,60</em></span><span class='regular-price'>R$ 34,01</span>
+        </a></div>
+          
+        
+        
+        <div id="cphConteudo_rptProdutosTabela_produtoTabela_2_divComprar_CRM_2" class="buy-product buy-shelf"><a href="/targifor-c-adulto-11g-com-16-comprimidos-efervescentes/39657/05" id="cphConteudo_rptProdutosTabela_produtoTabela_2_btn_Comprar_2" class="btn-green btn-buy">Comprar</a> </div>
+        <!-- Botao indisponivel avise-me-->
+        
+        <!-- Botao indisponivel controlado -->
+        
+        
+        
+        
+        <a id="cphConteudo_rptProdutosTabela_produtoTabela_2_topLink_2" class="see-more-catg" title="Veja mais produtos da categoria Desodorantes"></a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<li class="shelf-item">
+    <div class="shelf-product" data-productid="39661">
+        <div class="product-image"><a href="/targifor-15g-com-20-comprimidos-efervescentes/39661/05" id="cphConteudo_rptProdutosTabela_produtoTabela_3_lnkProdutoImagem_3">
+            <img id="cphConteudo_rptProdutosTabela_produtoTabela_3_imgProduto_3" title="Targifor 1,5g Com 20 Comprimidos Efervescentes" border="0" alt="Targifor 1,5g Com 20 Comprimidos Efervescentes" src="https://www.onofre.com.br/estatico/Produto/Normal/033758.jpg" />
+        </a><span class="flag flag-highlight" style="">
+            </span>
+            <div style="width: 105px; height: 42px; background-color: #FF7C80; padding-left: 1px; padding-right: 1px; padding-top: 1px; position: absolute; left: 35px; bottom: -50px; display: none">
+                <div style="background-color: white; width: 103px; height: 40px;">
+                    <div style="margin: 0 auto; width: 96%; padding-top: 5px;">
+                        <img style="float: left; margin-right: 1px;" alt="Promoção" height="16" src="/~/img/DetalheProduto/icone-medalha.png" />
+                        <img style="float: left; margin-right: 1px;" alt="DermaClub" height="10" src="/~/img/DetalheProduto/dermaclub-logo.png" />
+                        <!--<div style="float:left;font-size:10px;color:white;font-weight:600;width:12px;height:12px;background-image:url('/~/img/DetalheProduto/interrogation-mark.png');background-size:cover;"></div>-->
+                        <div style="float: left; font-size: 8px; font-weight: 800">COMPRE & GANHE<br />
+                            <span style="color: #5EB1D9">0 PONTOS</span> </div>
+                    </div>
+                    <!--<p align="center" style="font-family:Arial; font-weight: 900;color: black;font-size: 9px; padding-top: 10px;">Comprar com desconto</p>-->
+                </div>
+                <p id="cphConteudo_rptProdutosTabela_produtoTabela_3_pDescontoPorcentagemDermaclub_3" align="center" style="color: white; font-weight: bold; font-size: 13px;"></p>
+            </div>
+            <!-- SELO DE PRODUTO -->
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_3_seloProduto_3" style="background:white;border-radius:5px;color:white;text-align:center;">selo produto</div>
+            <!-- FIM SELO DE PRODUTO-->
+        </div>
+        <div id="rptProdutosTabelaDIV">
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_3_divDesconto_3" class="flag flag-discount"><span id="cphConteudo_rptProdutosTabela_produtoTabela_3_lblDesconto_3" class="discount-value"><span class='discount-bandeira'></span>22% de desconto</span></div>
+        </div>
+        <div id="ratingDIV">
+            
+        </div>
+        <h2>
+            <p class="product-name"><a href="/targifor-15g-com-20-comprimidos-efervescentes/39661/05" id="cphConteudo_rptProdutosTabela_produtoTabela_3_lnkProdutoDescricao_3">Targifor 1,5g Com 20 Comprimidos Efervescentes </a></p>
+        </h2>
+        <p>
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_3_tabelaProdutoAntibiotico_3"> </span>
+        </p>
+        <br />
+        <br />
+        <p class="product-prinativo">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_3_lblPrincipioAtivo_3" class="info-small">Arginina</span>
+        </p>
+        <p class="product-prinativo2">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_3_num_registro_3"> MS: 1130002380017</span>
+        </p>
+         <a class="brand-name" href="/sanofi/78/0/0/0/0/0/003" title="Sanofi Aventis">Sanofi Aventis </a>
+        <div class="product-price"><a href="" title="Targifor 1,5g Com 20 Comprimidos Efervescentes">
+            <span class='old-price'><em>R$ 45,06</em></span><span class='regular-price'>R$ 35,15</span>
+        </a></div>
+          
+        
+        
+        <div id="cphConteudo_rptProdutosTabela_produtoTabela_3_divComprar_CRM_3" class="buy-product buy-shelf"><a href="/targifor-15g-com-20-comprimidos-efervescentes/39661/05" id="cphConteudo_rptProdutosTabela_produtoTabela_3_btn_Comprar_3" class="btn-green btn-buy">Comprar</a> </div>
+        <!-- Botao indisponivel avise-me-->
+        
+        <!-- Botao indisponivel controlado -->
+        
+        
+        
+        
+        <a id="cphConteudo_rptProdutosTabela_produtoTabela_3_topLink_3" class="see-more-catg" title="Veja mais produtos da categoria Desodorantes"></a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<li class="shelf-item">
+    <div class="shelf-product" data-productid="55817">
+        <div class="product-image"><a href="/argix-500mg-com-60-comprimidos/55817/05" id="cphConteudo_rptProdutosTabela_produtoTabela_4_lnkProdutoImagem_4">
+            <img id="cphConteudo_rptProdutosTabela_produtoTabela_4_imgProduto_4" title="Argix 500mg Com 60 Comprimidos" border="0" alt="Argix 500mg Com 60 Comprimidos" src="/img/Busca/imagem_prescricao.jpg" />
+        </a><span class="flag flag-highlight" style="">
+            </span>
+            <div style="width: 105px; height: 42px; background-color: #FF7C80; padding-left: 1px; padding-right: 1px; padding-top: 1px; position: absolute; left: 35px; bottom: -50px; display: none">
+                <div style="background-color: white; width: 103px; height: 40px;">
+                    <div style="margin: 0 auto; width: 96%; padding-top: 5px;">
+                        <img style="float: left; margin-right: 1px;" alt="Promoção" height="16" src="/~/img/DetalheProduto/icone-medalha.png" />
+                        <img style="float: left; margin-right: 1px;" alt="DermaClub" height="10" src="/~/img/DetalheProduto/dermaclub-logo.png" />
+                        <!--<div style="float:left;font-size:10px;color:white;font-weight:600;width:12px;height:12px;background-image:url('/~/img/DetalheProduto/interrogation-mark.png');background-size:cover;"></div>-->
+                        <div style="float: left; font-size: 8px; font-weight: 800">COMPRE & GANHE<br />
+                            <span style="color: #5EB1D9">0 PONTOS</span> </div>
+                    </div>
+                    <!--<p align="center" style="font-family:Arial; font-weight: 900;color: black;font-size: 9px; padding-top: 10px;">Comprar com desconto</p>-->
+                </div>
+                <p id="cphConteudo_rptProdutosTabela_produtoTabela_4_pDescontoPorcentagemDermaclub_4" align="center" style="color: white; font-weight: bold; font-size: 13px;"></p>
+            </div>
+            <!-- SELO DE PRODUTO -->
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_4_seloProduto_4" style="background:white;border-radius:5px;color:white;text-align:center;">selo produto</div>
+            <!-- FIM SELO DE PRODUTO-->
+        </div>
+        <div id="rptProdutosTabelaDIV">
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_4_divDesconto_4" class="flag flag-discount"><span id="cphConteudo_rptProdutosTabela_produtoTabela_4_lblDesconto_4" class="discount-value"><span class='discount-bandeira'></span>22% de desconto</span></div>
+        </div>
+        <div id="ratingDIV">
+            
+        </div>
+        <h2>
+            <p class="product-name"><a href="/argix-500mg-com-60-comprimidos/55817/05" id="cphConteudo_rptProdutosTabela_produtoTabela_4_lnkProdutoDescricao_4">Argix 500mg Com 60 Comprimidos </a></p>
+        </h2>
+        <p>
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_4_tabelaProdutoAntibiotico_4"> </span>
+        </p>
+        <br />
+        <br />
+        <p class="product-prinativo">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_4_lblPrincipioAtivo_4" class="info-small">Aspartato de Arginina</span>
+        </p>
+        <p class="product-prinativo2">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_4_num_registro_4"> MS: 1186102710022</span>
+        </p>
+         <a class="brand-name" href="/busca/0/0/0/0/66,/0/0/08" title="Ativus Farmaceutica">Ativus Farmaceutica </a>
+        <div class="product-price"><a href="" title="Argix 500mg Com 60 Comprimidos">
+            <span class='old-price'><em>R$ 64,22</em></span><span class='regular-price'>R$ 50,09</span>
+        </a></div>
+          
+        
+        
+        <div id="cphConteudo_rptProdutosTabela_produtoTabela_4_divComprar_CRM_4" class="buy-product buy-shelf"><a href="/argix-500mg-com-60-comprimidos/55817/05" id="cphConteudo_rptProdutosTabela_produtoTabela_4_btn_Comprar_4" class="btn-green btn-buy">Comprar</a> </div>
+        <!-- Botao indisponivel avise-me-->
+        
+        <!-- Botao indisponivel controlado -->
+        
+        
+        
+        
+        <a id="cphConteudo_rptProdutosTabela_produtoTabela_4_topLink_4" class="see-more-catg" title="Veja mais produtos da categoria Desodorantes"></a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<li class="shelf-item">
+    <div class="shelf-product" data-productid="1883">
+        <div class="product-image"><a href="/arcalion-com-20-drageas/1883/05" id="cphConteudo_rptProdutosTabela_produtoTabela_5_lnkProdutoImagem_5">
+            <img id="cphConteudo_rptProdutosTabela_produtoTabela_5_imgProduto_5" title="Arcalion Com 20 Drágeas" border="0" alt="Arcalion Com 20 Drágeas" src="/img/Busca/imagem_prescricao.jpg" />
+        </a><span class="flag flag-highlight" style="">
+            </span>
+            <div style="width: 105px; height: 42px; background-color: #FF7C80; padding-left: 1px; padding-right: 1px; padding-top: 1px; position: absolute; left: 35px; bottom: -50px; display: none">
+                <div style="background-color: white; width: 103px; height: 40px;">
+                    <div style="margin: 0 auto; width: 96%; padding-top: 5px;">
+                        <img style="float: left; margin-right: 1px;" alt="Promoção" height="16" src="/~/img/DetalheProduto/icone-medalha.png" />
+                        <img style="float: left; margin-right: 1px;" alt="DermaClub" height="10" src="/~/img/DetalheProduto/dermaclub-logo.png" />
+                        <!--<div style="float:left;font-size:10px;color:white;font-weight:600;width:12px;height:12px;background-image:url('/~/img/DetalheProduto/interrogation-mark.png');background-size:cover;"></div>-->
+                        <div style="float: left; font-size: 8px; font-weight: 800">COMPRE & GANHE<br />
+                            <span style="color: #5EB1D9">0 PONTOS</span> </div>
+                    </div>
+                    <!--<p align="center" style="font-family:Arial; font-weight: 900;color: black;font-size: 9px; padding-top: 10px;">Comprar com desconto</p>-->
+                </div>
+                <p id="cphConteudo_rptProdutosTabela_produtoTabela_5_pDescontoPorcentagemDermaclub_5" align="center" style="color: white; font-weight: bold; font-size: 13px;"></p>
+            </div>
+            <!-- SELO DE PRODUTO -->
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_5_seloProduto_5" style="background:white;border-radius:5px;color:white;text-align:center;">selo produto</div>
+            <!-- FIM SELO DE PRODUTO-->
+        </div>
+        <div id="rptProdutosTabelaDIV">
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_5_divDesconto_5" class="flag flag-discount"><span id="cphConteudo_rptProdutosTabela_produtoTabela_5_lblDesconto_5" class="discount-value"><span class='discount-bandeira'></span>23% de desconto</span></div>
+        </div>
+        <div id="ratingDIV">
+            
+        </div>
+        <h2>
+            <p class="product-name"><a href="/arcalion-com-20-drageas/1883/05" id="cphConteudo_rptProdutosTabela_produtoTabela_5_lnkProdutoDescricao_5">Arcalion Com 20 Drágeas </a></p>
+        </h2>
+        <p>
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_5_tabelaProdutoAntibiotico_5"> </span>
+        </p>
+        <br />
+        <br />
+        <p class="product-prinativo">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_5_lblPrincipioAtivo_5" class="info-small">Sulbutiamina</span>
+        </p>
+        <p class="product-prinativo2">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_5_num_registro_5"> MS: 1127800060011</span>
+        </p>
+         <a class="brand-name" href="/busca/0/0/0/0/757,/0/0/08" title="Servier do Brasil">Servier do Brasil </a>
+        <div class="product-price"><a href="" title="Arcalion Com 20 Drágeas">
+            <span class='old-price'><em>R$ 41,45</em></span><span class='regular-price'>R$ 31,92</span>
+        </a></div>
+          
+        
+        
+        
+        <!-- Botao indisponivel avise-me-->
+        <div id="cphConteudo_rptProdutosTabela_produtoTabela_5_divAvise_5" class="buy-product buy-shelf unavailable">
+            <p class="title">Produto indisponível </p>
+            <a id="cphConteudo_rptProdutosTabela_produtoTabela_5_colorboxaviseme_5" data-lbwidth="500" data-lbheight="460" class="lightbox-call btn btn-gray btn-unavailable" onclick="ExibirPopup(&#39;/DetalheProduto/EstoqueInformar.aspx?ProductId=1883&#39;,500,440)">Avise-me quando chegar</a> </div>
+        <!-- Botao indisponivel controlado -->
+        
+        
+        
+        
+        <a id="cphConteudo_rptProdutosTabela_produtoTabela_5_topLink_5" class="see-more-catg" title="Veja mais produtos da categoria Desodorantes"></a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<li class="shelf-item">
+    <div class="shelf-product" data-productid="1884">
+        <div class="product-image"><a href="/arcalion-com-60-drageas/1884/05" id="cphConteudo_rptProdutosTabela_produtoTabela_6_lnkProdutoImagem_6">
+            <img id="cphConteudo_rptProdutosTabela_produtoTabela_6_imgProduto_6" title="Arcalion Com 60 Drágeas" border="0" alt="Arcalion Com 60 Drágeas" src="/img/Busca/imagem_prescricao.jpg" />
+        </a><span class="flag flag-highlight" style="">
+            </span>
+            <div style="width: 105px; height: 42px; background-color: #FF7C80; padding-left: 1px; padding-right: 1px; padding-top: 1px; position: absolute; left: 35px; bottom: -50px; display: none">
+                <div style="background-color: white; width: 103px; height: 40px;">
+                    <div style="margin: 0 auto; width: 96%; padding-top: 5px;">
+                        <img style="float: left; margin-right: 1px;" alt="Promoção" height="16" src="/~/img/DetalheProduto/icone-medalha.png" />
+                        <img style="float: left; margin-right: 1px;" alt="DermaClub" height="10" src="/~/img/DetalheProduto/dermaclub-logo.png" />
+                        <!--<div style="float:left;font-size:10px;color:white;font-weight:600;width:12px;height:12px;background-image:url('/~/img/DetalheProduto/interrogation-mark.png');background-size:cover;"></div>-->
+                        <div style="float: left; font-size: 8px; font-weight: 800">COMPRE & GANHE<br />
+                            <span style="color: #5EB1D9">0 PONTOS</span> </div>
+                    </div>
+                    <!--<p align="center" style="font-family:Arial; font-weight: 900;color: black;font-size: 9px; padding-top: 10px;">Comprar com desconto</p>-->
+                </div>
+                <p id="cphConteudo_rptProdutosTabela_produtoTabela_6_pDescontoPorcentagemDermaclub_6" align="center" style="color: white; font-weight: bold; font-size: 13px;"></p>
+            </div>
+            <!-- SELO DE PRODUTO -->
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_6_seloProduto_6" style="background:white;border-radius:5px;color:white;text-align:center;">selo produto</div>
+            <!-- FIM SELO DE PRODUTO-->
+        </div>
+        <div id="rptProdutosTabelaDIV">
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_6_divDesconto_6" class="flag flag-discount"><span id="cphConteudo_rptProdutosTabela_produtoTabela_6_lblDesconto_6" class="discount-value"><span class='discount-bandeira'></span>23% de desconto</span></div>
+        </div>
+        <div id="ratingDIV">
+            
+        </div>
+        <h2>
+            <p class="product-name"><a href="/arcalion-com-60-drageas/1884/05" id="cphConteudo_rptProdutosTabela_produtoTabela_6_lnkProdutoDescricao_6">Arcalion Com 60 Drágeas </a></p>
+        </h2>
+        <p>
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_6_tabelaProdutoAntibiotico_6"> </span>
+        </p>
+        <br />
+        <br />
+        <p class="product-prinativo">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_6_lblPrincipioAtivo_6" class="info-small">Sulbutiamina</span>
+        </p>
+        <p class="product-prinativo2">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_6_num_registro_6"> MS: 1127800060028</span>
+        </p>
+         <a class="brand-name" href="/busca/0/0/0/0/757,/0/0/08" title="Servier do Brasil">Servier do Brasil </a>
+        <div class="product-price"><a href="" title="Arcalion Com 60 Drágeas">
+            <span class='old-price'><em>R$ 120,05</em></span><span class='regular-price'>R$ 92,44</span>
+        </a></div>
+          
+        
+        
+        
+        <!-- Botao indisponivel avise-me-->
+        <div id="cphConteudo_rptProdutosTabela_produtoTabela_6_divAvise_6" class="buy-product buy-shelf unavailable">
+            <p class="title">Produto indisponível </p>
+            <a id="cphConteudo_rptProdutosTabela_produtoTabela_6_colorboxaviseme_6" data-lbwidth="500" data-lbheight="460" class="lightbox-call btn btn-gray btn-unavailable" onclick="ExibirPopup(&#39;/DetalheProduto/EstoqueInformar.aspx?ProductId=1884&#39;,500,440)">Avise-me quando chegar</a> </div>
+        <!-- Botao indisponivel controlado -->
+        
+        
+        
+        
+        <a id="cphConteudo_rptProdutosTabela_produtoTabela_6_topLink_6" class="see-more-catg" title="Veja mais produtos da categoria Desodorantes"></a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<li class="shelf-item">
+    <div class="shelf-product" data-productid="17880">
+        <div class="product-image"><a href="/energil-c-amino-com-16-comprimidos/17880/05" id="cphConteudo_rptProdutosTabela_produtoTabela_7_lnkProdutoImagem_7">
+            <img id="cphConteudo_rptProdutosTabela_produtoTabela_7_imgProduto_7" title="Energil C Amino Com 16 Comprimidos" border="0" alt="Energil C Amino Com 16 Comprimidos" src="https://www.onofre.com.br/estatico/Produto/Normal/343277.jpg" />
+        </a><span class="flag flag-highlight" style="">
+            </span>
+            <div style="width: 105px; height: 42px; background-color: #FF7C80; padding-left: 1px; padding-right: 1px; padding-top: 1px; position: absolute; left: 35px; bottom: -50px; display: none">
+                <div style="background-color: white; width: 103px; height: 40px;">
+                    <div style="margin: 0 auto; width: 96%; padding-top: 5px;">
+                        <img style="float: left; margin-right: 1px;" alt="Promoção" height="16" src="/~/img/DetalheProduto/icone-medalha.png" />
+                        <img style="float: left; margin-right: 1px;" alt="DermaClub" height="10" src="/~/img/DetalheProduto/dermaclub-logo.png" />
+                        <!--<div style="float:left;font-size:10px;color:white;font-weight:600;width:12px;height:12px;background-image:url('/~/img/DetalheProduto/interrogation-mark.png');background-size:cover;"></div>-->
+                        <div style="float: left; font-size: 8px; font-weight: 800">COMPRE & GANHE<br />
+                            <span style="color: #5EB1D9">0 PONTOS</span> </div>
+                    </div>
+                    <!--<p align="center" style="font-family:Arial; font-weight: 900;color: black;font-size: 9px; padding-top: 10px;">Comprar com desconto</p>-->
+                </div>
+                <p id="cphConteudo_rptProdutosTabela_produtoTabela_7_pDescontoPorcentagemDermaclub_7" align="center" style="color: white; font-weight: bold; font-size: 13px;"></p>
+            </div>
+            <!-- SELO DE PRODUTO -->
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_7_seloProduto_7" style="background:white;border-radius:5px;color:white;text-align:center;">selo produto</div>
+            <!-- FIM SELO DE PRODUTO-->
+        </div>
+        <div id="rptProdutosTabelaDIV">
+            
+        </div>
+        <div id="ratingDIV">
+            
+        </div>
+        <h2>
+            <p class="product-name"><a href="/energil-c-amino-com-16-comprimidos/17880/05" id="cphConteudo_rptProdutosTabela_produtoTabela_7_lnkProdutoDescricao_7">Energil C Amino Com 16 Comprimidos </a></p>
+        </h2>
+        <p>
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_7_tabelaProdutoAntibiotico_7"> </span>
+        </p>
+        <br />
+        <br />
+        <p class="product-prinativo">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_7_lblPrincipioAtivo_7" class="info-small">Ácido Ascórbico+Aspartato de Arginina</span>
+        </p>
+        <p class="product-prinativo2">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_7_num_registro_7"> MS: 1023506090056</span>
+        </p>
+         <a class="brand-name" href="/busca/0/0/0/0/265,/0/0/08" title="EMS">EMS </a>
+        <div class="product-price"><a href="" title="Energil C Amino Com 16 Comprimidos">
+            <span class='old-price'><em></em></span><span class='regular-price'>R$ 28,66</span>
+        </a></div>
+          
+        
+        
+        <div id="cphConteudo_rptProdutosTabela_produtoTabela_7_divComprar_CRM_7" class="buy-product buy-shelf"><a href="/energil-c-amino-com-16-comprimidos/17880/05" id="cphConteudo_rptProdutosTabela_produtoTabela_7_btn_Comprar_7" class="btn-green btn-buy">Comprar</a> </div>
+        <!-- Botao indisponivel avise-me-->
+        
+        <!-- Botao indisponivel controlado -->
+        
+        
+        
+        
+        <a id="cphConteudo_rptProdutosTabela_produtoTabela_7_topLink_7" class="see-more-catg" title="Veja mais produtos da categoria Desodorantes"></a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<li class="shelf-item">
+    <div class="shelf-product" data-productid="20845">
+        <div class="product-image"><a href="/forten-solucao-com-10-frascos-de-10ml/20845/05" id="cphConteudo_rptProdutosTabela_produtoTabela_8_lnkProdutoImagem_8">
+            <img id="cphConteudo_rptProdutosTabela_produtoTabela_8_imgProduto_8" title="Forten Solução Com 10 Frascos de 10ml" border="0" alt="Forten Solução Com 10 Frascos de 10ml" src="https://www.onofre.com.br/estatico/Produto/Normal/012947.jpg" />
+        </a><span class="flag flag-highlight" style="">
+            </span>
+            <div style="width: 105px; height: 42px; background-color: #FF7C80; padding-left: 1px; padding-right: 1px; padding-top: 1px; position: absolute; left: 35px; bottom: -50px; display: none">
+                <div style="background-color: white; width: 103px; height: 40px;">
+                    <div style="margin: 0 auto; width: 96%; padding-top: 5px;">
+                        <img style="float: left; margin-right: 1px;" alt="Promoção" height="16" src="/~/img/DetalheProduto/icone-medalha.png" />
+                        <img style="float: left; margin-right: 1px;" alt="DermaClub" height="10" src="/~/img/DetalheProduto/dermaclub-logo.png" />
+                        <!--<div style="float:left;font-size:10px;color:white;font-weight:600;width:12px;height:12px;background-image:url('/~/img/DetalheProduto/interrogation-mark.png');background-size:cover;"></div>-->
+                        <div style="float: left; font-size: 8px; font-weight: 800">COMPRE & GANHE<br />
+                            <span style="color: #5EB1D9">0 PONTOS</span> </div>
+                    </div>
+                    <!--<p align="center" style="font-family:Arial; font-weight: 900;color: black;font-size: 9px; padding-top: 10px;">Comprar com desconto</p>-->
+                </div>
+                <p id="cphConteudo_rptProdutosTabela_produtoTabela_8_pDescontoPorcentagemDermaclub_8" align="center" style="color: white; font-weight: bold; font-size: 13px;"></p>
+            </div>
+            <!-- SELO DE PRODUTO -->
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_8_seloProduto_8" style="background:white;border-radius:5px;color:white;text-align:center;">selo produto</div>
+            <!-- FIM SELO DE PRODUTO-->
+        </div>
+        <div id="rptProdutosTabelaDIV">
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_8_divDesconto_8" class="flag flag-discount"><span id="cphConteudo_rptProdutosTabela_produtoTabela_8_lblDesconto_8" class="discount-value"><span class='discount-bandeira'></span>22% de desconto</span></div>
+        </div>
+        <div id="ratingDIV">
+            
+        </div>
+        <h2>
+            <p class="product-name"><a href="/forten-solucao-com-10-frascos-de-10ml/20845/05" id="cphConteudo_rptProdutosTabela_produtoTabela_8_lnkProdutoDescricao_8">Forten Solução Com 10 Frascos de 10ml </a></p>
+        </h2>
+        <p>
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_8_tabelaProdutoAntibiotico_8"> </span>
+        </p>
+        <br />
+        <br />
+        <p class="product-prinativo">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_8_lblPrincipioAtivo_8" class="info-small">Poliaminoácido</span>
+        </p>
+        <p class="product-prinativo2">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_8_num_registro_8"> MS: 1005800140010</span>
+        </p>
+         <a class="brand-name" href="/busca/0/0/0/0/170,/0/0/08" title="Chiesi Farmaceuticas">Chiesi Farmaceuticas </a>
+        <div class="product-price"><a href="" title="Forten Solução Com 10 Frascos de 10ml">
+            <span class='old-price'><em>R$ 55,18</em></span><span class='regular-price'>R$ 43,04</span>
+        </a></div>
+          
+        
+        
+        <div id="cphConteudo_rptProdutosTabela_produtoTabela_8_divComprar_CRM_8" class="buy-product buy-shelf"><a href="/forten-solucao-com-10-frascos-de-10ml/20845/05" id="cphConteudo_rptProdutosTabela_produtoTabela_8_btn_Comprar_8" class="btn-green btn-buy">Comprar</a> </div>
+        <!-- Botao indisponivel avise-me-->
+        
+        <!-- Botao indisponivel controlado -->
+        
+        
+        
+        
+        <a id="cphConteudo_rptProdutosTabela_produtoTabela_8_topLink_8" class="see-more-catg" title="Veja mais produtos da categoria Desodorantes"></a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<li class="shelf-item">
+    <div class="shelf-product" data-productid="21550">
+        <div class="product-image"><a href="/gaballon-com-100ml/21550/05" id="cphConteudo_rptProdutosTabela_produtoTabela_9_lnkProdutoImagem_9">
+            <img id="cphConteudo_rptProdutosTabela_produtoTabela_9_imgProduto_9" title="Gaballon Com 100ml" border="0" alt="Gaballon Com 100ml" src="/img/Busca/imagem_prescricao.jpg" />
+        </a><span class="flag flag-highlight" style="">
+            </span>
+            <div style="width: 105px; height: 42px; background-color: #FF7C80; padding-left: 1px; padding-right: 1px; padding-top: 1px; position: absolute; left: 35px; bottom: -50px; display: none">
+                <div style="background-color: white; width: 103px; height: 40px;">
+                    <div style="margin: 0 auto; width: 96%; padding-top: 5px;">
+                        <img style="float: left; margin-right: 1px;" alt="Promoção" height="16" src="/~/img/DetalheProduto/icone-medalha.png" />
+                        <img style="float: left; margin-right: 1px;" alt="DermaClub" height="10" src="/~/img/DetalheProduto/dermaclub-logo.png" />
+                        <!--<div style="float:left;font-size:10px;color:white;font-weight:600;width:12px;height:12px;background-image:url('/~/img/DetalheProduto/interrogation-mark.png');background-size:cover;"></div>-->
+                        <div style="float: left; font-size: 8px; font-weight: 800">COMPRE & GANHE<br />
+                            <span style="color: #5EB1D9">0 PONTOS</span> </div>
+                    </div>
+                    <!--<p align="center" style="font-family:Arial; font-weight: 900;color: black;font-size: 9px; padding-top: 10px;">Comprar com desconto</p>-->
+                </div>
+                <p id="cphConteudo_rptProdutosTabela_produtoTabela_9_pDescontoPorcentagemDermaclub_9" align="center" style="color: white; font-weight: bold; font-size: 13px;"></p>
+            </div>
+            <!-- SELO DE PRODUTO -->
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_9_seloProduto_9" style="background:white;border-radius:5px;color:white;text-align:center;">selo produto</div>
+            <!-- FIM SELO DE PRODUTO-->
+        </div>
+        <div id="rptProdutosTabelaDIV">
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_9_divDesconto_9" class="flag flag-discount"><span id="cphConteudo_rptProdutosTabela_produtoTabela_9_lblDesconto_9" class="discount-value"><span class='discount-bandeira'></span>23% de desconto</span></div>
+        </div>
+        <div id="ratingDIV">
+            
+        </div>
+        <h2>
+            <p class="product-name"><a href="/gaballon-com-100ml/21550/05" id="cphConteudo_rptProdutosTabela_produtoTabela_9_lnkProdutoDescricao_9">Gaballon Com 100ml </a></p>
+        </h2>
+        <p>
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_9_tabelaProdutoAntibiotico_9"> </span>
+        </p>
+        <br />
+        <br />
+        <p class="product-prinativo">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_9_lblPrincipioAtivo_9" class="info-small">Ácido gama-aminobutírico+Lisina+Tiamina+Piridoxina+Pantotenato Cálcio</span>
+        </p>
+        <p class="product-prinativo2">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_9_num_registro_9"> MS: 1565100400029</span>
+        </p>
+         <a class="brand-name" href="/busca/0/0/0/0/592,/0/0/08" title="Nikkho do Brasil">Nikkho do Brasil </a>
+        <div class="product-price"><a href="" title="Gaballon Com 100ml">
+            <span class='old-price'><em>R$ 33,21</em></span><span class='regular-price'>R$ 25,57</span>
+        </a></div>
+          
+        
+        
+        
+        <!-- Botao indisponivel avise-me-->
+        <div id="cphConteudo_rptProdutosTabela_produtoTabela_9_divAvise_9" class="buy-product buy-shelf unavailable">
+            <p class="title">Produto indisponível </p>
+            <a id="cphConteudo_rptProdutosTabela_produtoTabela_9_colorboxaviseme_9" data-lbwidth="500" data-lbheight="460" class="lightbox-call btn btn-gray btn-unavailable" onclick="ExibirPopup(&#39;/DetalheProduto/EstoqueInformar.aspx?ProductId=21550&#39;,500,440)">Avise-me quando chegar</a> </div>
+        <!-- Botao indisponivel controlado -->
+        
+        
+        
+        
+        <a id="cphConteudo_rptProdutosTabela_produtoTabela_9_topLink_9" class="see-more-catg" title="Veja mais produtos da categoria Desodorantes"></a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<li class="shelf-item">
+    <div class="shelf-product" data-productid="21551">
+        <div class="product-image"><a href="/gaballon-com-20-comprimidos/21551/05" id="cphConteudo_rptProdutosTabela_produtoTabela_10_lnkProdutoImagem_10">
+            <img id="cphConteudo_rptProdutosTabela_produtoTabela_10_imgProduto_10" title="Gaballon Com 20 Comprimidos" border="0" alt="Gaballon Com 20 Comprimidos" src="/img/Busca/imagem_prescricao.jpg" />
+        </a><span class="flag flag-highlight" style="">
+            </span>
+            <div style="width: 105px; height: 42px; background-color: #FF7C80; padding-left: 1px; padding-right: 1px; padding-top: 1px; position: absolute; left: 35px; bottom: -50px; display: none">
+                <div style="background-color: white; width: 103px; height: 40px;">
+                    <div style="margin: 0 auto; width: 96%; padding-top: 5px;">
+                        <img style="float: left; margin-right: 1px;" alt="Promoção" height="16" src="/~/img/DetalheProduto/icone-medalha.png" />
+                        <img style="float: left; margin-right: 1px;" alt="DermaClub" height="10" src="/~/img/DetalheProduto/dermaclub-logo.png" />
+                        <!--<div style="float:left;font-size:10px;color:white;font-weight:600;width:12px;height:12px;background-image:url('/~/img/DetalheProduto/interrogation-mark.png');background-size:cover;"></div>-->
+                        <div style="float: left; font-size: 8px; font-weight: 800">COMPRE & GANHE<br />
+                            <span style="color: #5EB1D9">0 PONTOS</span> </div>
+                    </div>
+                    <!--<p align="center" style="font-family:Arial; font-weight: 900;color: black;font-size: 9px; padding-top: 10px;">Comprar com desconto</p>-->
+                </div>
+                <p id="cphConteudo_rptProdutosTabela_produtoTabela_10_pDescontoPorcentagemDermaclub_10" align="center" style="color: white; font-weight: bold; font-size: 13px;"></p>
+            </div>
+            <!-- SELO DE PRODUTO -->
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_10_seloProduto_10" style="background:white;border-radius:5px;color:white;text-align:center;">selo produto</div>
+            <!-- FIM SELO DE PRODUTO-->
+        </div>
+        <div id="rptProdutosTabelaDIV">
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_10_divDesconto_10" class="flag flag-discount"><span id="cphConteudo_rptProdutosTabela_produtoTabela_10_lblDesconto_10" class="discount-value"><span class='discount-bandeira'></span>23% de desconto</span></div>
+        </div>
+        <div id="ratingDIV">
+            
+        </div>
+        <h2>
+            <p class="product-name"><a href="/gaballon-com-20-comprimidos/21551/05" id="cphConteudo_rptProdutosTabela_produtoTabela_10_lnkProdutoDescricao_10">Gaballon Com 20 Comprimidos </a></p>
+        </h2>
+        <p>
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_10_tabelaProdutoAntibiotico_10"> </span>
+        </p>
+        <br />
+        <br />
+        <p class="product-prinativo">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_10_lblPrincipioAtivo_10" class="info-small">Ácido gama-aminobutírico+Lisina+Tiamina+Piridoxina+Pantotenato Cálcio</span>
+        </p>
+        <p class="product-prinativo2">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_10_num_registro_10"> MS: 1565100400010</span>
+        </p>
+         <a class="brand-name" href="/busca/0/0/0/0/592,/0/0/08" title="Nikkho do Brasil">Nikkho do Brasil </a>
+        <div class="product-price"><a href="" title="Gaballon Com 20 Comprimidos">
+            <span class='old-price'><em>R$ 33,64</em></span><span class='regular-price'>R$ 25,90</span>
+        </a></div>
+          
+        
+        
+        <div id="cphConteudo_rptProdutosTabela_produtoTabela_10_divComprar_CRM_10" class="buy-product buy-shelf"><a href="/gaballon-com-20-comprimidos/21551/05" id="cphConteudo_rptProdutosTabela_produtoTabela_10_btn_Comprar_10" class="btn-green btn-buy">Comprar</a> </div>
+        <!-- Botao indisponivel avise-me-->
+        
+        <!-- Botao indisponivel controlado -->
+        
+        
+        
+        
+        <a id="cphConteudo_rptProdutosTabela_produtoTabela_10_topLink_10" class="see-more-catg" title="Veja mais produtos da categoria Desodorantes"></a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<li class="shelf-item">
+    <div class="shelf-product" data-productid="33654">
+        <div class="product-image"><a href="/reforgan-c-20-comprimidos/33654/05" id="cphConteudo_rptProdutosTabela_produtoTabela_11_lnkProdutoImagem_11">
+            <img id="cphConteudo_rptProdutosTabela_produtoTabela_11_imgProduto_11" title="Reforgan c/ 20 Comprimidos" border="0" alt="Reforgan c/ 20 Comprimidos" src="https://www.onofre.com.br/estatico/Produto/Normal/049565.jpg" />
+        </a><span class="flag flag-highlight" style="">
+            </span>
+            <div style="width: 105px; height: 42px; background-color: #FF7C80; padding-left: 1px; padding-right: 1px; padding-top: 1px; position: absolute; left: 35px; bottom: -50px; display: none">
+                <div style="background-color: white; width: 103px; height: 40px;">
+                    <div style="margin: 0 auto; width: 96%; padding-top: 5px;">
+                        <img style="float: left; margin-right: 1px;" alt="Promoção" height="16" src="/~/img/DetalheProduto/icone-medalha.png" />
+                        <img style="float: left; margin-right: 1px;" alt="DermaClub" height="10" src="/~/img/DetalheProduto/dermaclub-logo.png" />
+                        <!--<div style="float:left;font-size:10px;color:white;font-weight:600;width:12px;height:12px;background-image:url('/~/img/DetalheProduto/interrogation-mark.png');background-size:cover;"></div>-->
+                        <div style="float: left; font-size: 8px; font-weight: 800">COMPRE & GANHE<br />
+                            <span style="color: #5EB1D9">0 PONTOS</span> </div>
+                    </div>
+                    <!--<p align="center" style="font-family:Arial; font-weight: 900;color: black;font-size: 9px; padding-top: 10px;">Comprar com desconto</p>-->
+                </div>
+                <p id="cphConteudo_rptProdutosTabela_produtoTabela_11_pDescontoPorcentagemDermaclub_11" align="center" style="color: white; font-weight: bold; font-size: 13px;"></p>
+            </div>
+            <!-- SELO DE PRODUTO -->
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_11_seloProduto_11" style="background:white;border-radius:5px;color:white;text-align:center;">selo produto</div>
+            <!-- FIM SELO DE PRODUTO-->
+        </div>
+        <div id="rptProdutosTabelaDIV">
+            <div id="cphConteudo_rptProdutosTabela_produtoTabela_11_divDesconto_11" class="flag flag-discount"><span id="cphConteudo_rptProdutosTabela_produtoTabela_11_lblDesconto_11" class="discount-value"><span class='discount-bandeira'></span>23% de desconto</span></div>
+        </div>
+        <div id="ratingDIV">
+            
+        </div>
+        <h2>
+            <p class="product-name"><a href="/reforgan-c-20-comprimidos/33654/05" id="cphConteudo_rptProdutosTabela_produtoTabela_11_lnkProdutoDescricao_11">Reforgan c/ 20 Comprimidos </a></p>
+        </h2>
+        <p>
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_11_tabelaProdutoAntibiotico_11"> </span>
+        </p>
+        <br />
+        <br />
+        <p class="product-prinativo">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_11_lblPrincipioAtivo_11" class="info-small">Aspartato de Arginina</span>
+        </p>
+        <p class="product-prinativo2">
+            <span id="cphConteudo_rptProdutosTabela_produtoTabela_11_num_registro_11"> MS: 1001400760014</span>
+        </p>
+         <a class="brand-name" href="/busca/0/0/0/0/592,/0/0/08" title="Nikkho do Brasil">Nikkho do Brasil </a>
+        <div class="product-price"><a href="" title="Reforgan c/ 20 Comprimidos">
+            <span class='old-price'><em>R$ 53,31</em></span><span class='regular-price'>R$ 41,05</span>
+        </a></div>
+          
+        
+        
+        <div id="cphConteudo_rptProdutosTabela_produtoTabela_11_divComprar_CRM_11" class="buy-product buy-shelf"><a href="/reforgan-c-20-comprimidos/33654/05" id="cphConteudo_rptProdutosTabela_produtoTabela_11_btn_Comprar_11" class="btn-green btn-buy">Comprar</a> </div>
+        <!-- Botao indisponivel avise-me-->
+        
+        <!-- Botao indisponivel controlado -->
+        
+        
+        
+        
+        <a id="cphConteudo_rptProdutosTabela_produtoTabela_11_topLink_11" class="see-more-catg" title="Veja mais produtos da categoria Desodorantes"></a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </ul> </div>  <div class="pages pages-bottom row"> <ul class="pagination">  </ul> </div> <!-- Chaordic Bottom --> <div class="ch_clear" chaordic="bottom"></div> </section> <section class="brands-carousel row"> <div class="col16"> <h2 class="main-title section-title"><span>Lojas Especiais</span></h2> <ul class="brands-list gallery">  </ul> </div> <div id="Div1">  </div> </section> <!-- SCRIPTS --> <script type="text/javascript" src="/assets/js/produto.js"></script> <!-- FIM SCRIPTS --> 
+                                            <!-- conteudo -->
+                                        </div>
+                                    </div>
+                                    <!-- FIM ESTRUTURA -->
+                                    <!-- FOOTER -->
+                                    <div class="pre-footer row">
+                                        <div class="wrapper full">
+                                            <div class="col newsletter">
+                                                <h5 class="news-title">Newsletter!</h5>
+                                                <p class="news-sub-title"><span>Cadastre-se</span></p>
+                                                <p class="text">Fique por dentro de todas as nossas promoções e descontos exclusivos.</p>
+                                                <input type="email" class="input-email" placeholder="Digite seu email" id="txtnewslettermaster" /> <a class="btn btn-acqua" onclick="AdicionarNewsLetter(1)">OK</a>
+                                                <p id="NewsLetterMaster" class="textNewsLetter"></p>
+                                            </div>
+                                            <div class="col cvs">
+                                                <p align="center"> <img class="img-cvs-health" src="https://www.onofre.com.br/assets/img/cvs-health-logo-grande.jpg" alt="CVS Health" /> </p>
+                                                <p class="text">Desde 2013, a Drogaria Onofre faz parte da maior empresa de saúde do mundo, CVS Health. Com mais de 7.500 drogarias distribuídas por todo o território americano, e 47 no Brasil. </p> <a href="/Institucional/Default.aspx?InstId=230" class="btn btn-red" title="Saiba mais sobre a CVS Health">CLique aqui</a> </div>
+                                            <div class="col lojas last">
+                                                <div class="info">
+                                                    <h5>Nossas Lojas</h5>
+                                                    <p class="text">A Drogaria Onofre possui 47 lojas em todo o território nacional e oferece mais de 15 horas de atendimento farmacêutico por dia.</p> <a href="/nossaslojas/nossaslojas.aspx" class="btn btn-blue" title="Veja mais lojas">Clique aqui</a> </div> <img src="https://www.onofre.com.br/assets/img/banner-nossas-lojas.jpg" alt="Conheça nossas lojas" /> </div>
+                                        </div>
+                                        <!-- /wrapper prefooter -->
+                                    </div>
+                                    <!-- /prefooter -->
+                                    <footer class="page-footer">
+                                        <div class="page-footer-top row">
+                                            <div class="wrapper">
+                                                <div class="row top-items">
+                                                    
+                                                            <div class="col4">
+                                                                <h5 class="box-title">Sobre a Onofre</h5>
+                                                                <ul class="links-list">
+                                                                    
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/Institucional/Default.aspx?InstId=93' target='' class="list-link">
+                                                                                    Quem Somos
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/nossaslojas/nossaslojas.aspx' target='' class="list-link">
+                                                                                    Nossas Lojas
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.vagas.com.br/onofre' target='' class="list-link">
+                                                                                    Trabalhe Conosco
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/nossaspoliticas' target='' class="list-link">
+                                                                                    Nossas Políticas
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/Institucional/Default.aspx?InstId=207' target='' class="list-link">
+                                                                                    Imprensa
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                </ul>
+                                                            </div>
+                                                        
+                                                            <div class="col4">
+                                                                <h5 class="box-title">Serviços</h5>
+                                                                <ul class="links-list">
+                                                                    
+                                                                            <li class="list-item">
+                                                                                <a href='http://portal.anvisa.gov.br/wps/portal/anvisa/informetecnico/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3hnd0cPE3MfAwMDMydnA093Uz8z00B_A3dTU6B8JE55A38jArrDQfbh1w-SN8ABHA30_Tzyc1P1I_WjzBGmuBtamBt4WribujmFOhsbhBnqR-akpicmV-oX5EYYZJmEKgIAztfaUw!!/dl3/d3/L2d' target='_blank' class="list-link">
+                                                                                    Alertas e Informes Anvisa
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.cff.org.br/' target='_blank' class="list-link">
+                                                                                    Conselho Federal de Farmácia
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://portal.cfm.org.br/' target='_blank' class="list-link">
+                                                                                    Conselho Federal de Medicina
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/Institucional/Default.aspx?InstId=25' target='' class="list-link">
+                                                                                    Aplicativo Onofre para iPhone e Android
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='/mapa-site' target='' class="list-link">
+                                                                                    Mapa do Site
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://portalsaude.saude.gov.br/index.php/o-ministerio/principal/secretarias/sctie/farmacia-popular' target='_blank' class="list-link">
+                                                                                    Farmácia Popular
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/entregaRapida/' target='' class="list-link">
+                                                                                    Entrega Rápida
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/Institucional/Default.aspx?InstId=275' target='' class="list-link">
+                                                                                    Monte sua farmacinha
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/Institucional/Default.aspx?InstId=28' target='' class="list-link">
+                                                                                    Confira condições de frete
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                </ul>
+                                                            </div>
+                                                        
+                                                            <div class="col4">
+                                                                <h5 class="box-title">Relacionamento</h5>
+                                                                <ul class="links-list">
+                                                                    
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/CentralCliente/Default.aspx' target='' class="list-link">
+                                                                                    Central do Cliente
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/FaleConosco/' target='' class="list-link">
+                                                                                    Fale Conosco
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/centralajuda/centralajuda.aspx' target='' class="list-link">
+                                                                                    Central de Ajuda
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/falefarmaceutico/' target='' class="list-link">
+                                                                                    Fale com o Farmacêutico
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://blog.onofre.com.br/' target='' class="list-link">
+                                                                                    Blog da Onofre
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/Institucional/Default.aspx?InstId=97' target='' class="list-link">
+                                                                                    Troca e Devolução
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://chat_online' target='' class="list-link">
+                                                                                    Chat Online
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                </ul>
+                                                            </div>
+                                                        
+                                                    <div class="col4 apps last">
+                                                        <h5 class="box-title">Aplicativo Onofre</h5>
+                                                        <p>Baixe os nossos aplicativos e tenha nossas ofertas na palma da mão</p> <span>Baixar Apps</span> <a href="http://www.onofre.com.br/Institucional/Default.aspx?InstId=25" target="_blank" class="app-link apple">Apple</a> <a href="http://www.onofre.com.br/Institucional/Default.aspx?InstId=25" target="_blank" class="app-link android">Android</a> </div>
+                                                </div>
+                                                <div class="row bottom-items">
+                                                    <div class="col8">
+                                                        <h6>Compre pelo telefone</h6>
+                                                        <div class="tel">
+                                                            <p>4007-2526</p> <span>(Custo de uma ligação local)</span> </div>
+                                                        <ul class="infos">
+                                                            <li></li>
+                                                            <li></li>
+                                                            <li>Horário das 8h às 21h, de segunda a sábado</li>
+                                                        </ul>
+                                                        <div class="col8" style="margin: 10px 0px 0px 0px"> Caro cliente, a Drogaria Onofre informa que, temporariamente, os pedidos realizados no site após às 21h de sábado serão processados na segunda-feira, a partir das 8h. Desta forma, ressaltamos que o prazo de entrega da sua compra
+                                                            <br> será calculado a partir desta data. </div>
+                                                    </div>
+                                                    <div class="col5 social">
+                                                        <h6>Acompanhe a Onofre</h6>
+                                                        <ul class="social-links">
+                                                            <li class="social-item"><a class="social-link facebook" href="https://www.facebook.com/DrogariaOnofreOficial" class="social-link facebook" target="_blank" title="Facebook">Facebook</a></li>
+                                                            
+                                                                <li class="social-item"><a href="https://www.instagram.com/drogariaonofre/" class="social-link instagram" target="_blank" title="Instagram">Instagram</a></li>
+                                                                <li class="social-item">
+                                                                    <a href="https://blogonofre.wordpress.com" target="_blank"> <img src="https://www.onofre.com.br/assets/img/be-onofre-logo.jpg" alt="Be onofre" /></a>
+                                                                </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- /wrapper page-footer-top -->
+                                        </div>
+                                        <!-- /page-footer-->
+                                        <div class="page-footer-bottom row">
+                                            <div class="wrapper">
+                                                <div class="col8">
+                                                    <p class="title-box">Formas de pagamento</p> <img class="img-formas-pagamento-master" src="https://www.onofre.com.br/assets/img/formas-de-pagamento.jpg" alt="Visa, MasterCard, Amex, Diners, Hipercard, Aura e Boleto bancário" /> </div>
+                                                <div class="col5 seguranca">
+                                                    <p class="title-box">Segurança</p>
+                                                    <ul class="selos">
+                                                        <li>
+                                                            <a id="seloEbit" href="https://www.ebit.com.br/onofre-em-casa" target="_blank" onclick="redir(this.href)" style="background-image: url(&quot;https://a248.e.akamai.net/f/248/52872/0s/img.ebit.com.br/ebitBR/selo/img_973.png&quot;); width: 89px; height: 95px; display: block; overflow: hidden; position: relative; float: left" title="Avaliado pelos consumidores"></a>
+                                                        </li>
+                                                        <li>
+                                                            <!-- COMODO -->
+                                                            <script language="javascript" type="text/javascript">
+                                                                /*<![CDATA[*/
+                                                                var tl_loc0 = (window.location.protocol == "https:") ? "https://secure.comodo.net/trustlogo/javascript/trustlogo.js" : "http://www.trustlogo.com/trustlogo/javascript/trustlogo.js";
+                                                                document.writeln('<script language="JavaScript" src="' + tl_loc0 + '" type="text/javascript"><\/script>'); /*]]>*/
+                                                            </script>
+                                                            <!-- COMODO -->
+                                                            <script language="JavaScript" type="text/javascript">
+                                                                TrustLogo("https://www.onofre.com.br/img/Rodape/comodo.png", "SC5", "none");
+                                                            </script>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <!-- /wrapper page-footer -->
+                                        </div>
+                                        <!-- /page-footer-bottom -->
+                                        <div class="row">
+                                            <div class="wrapper"> <address class="col16"> <span id="lblDescriptionAddress"><p align="center"><span style="color: #888888;">Drogaria Onofre Ltda | CNPJ 61.549.259/0013-14 | IE 115.276.053.114 | Av. da Liberdade, 902 Complemento 904 - Liberdade | São Paulo (SP) | Horário de funcionamento: Segunda a Domingo 07:00 às 22:00 | CEP: 01502-001 | Telefone 4007-2526</span><br /><span style="color: #888888;">Farmacêutico Responsável: Dra. Thais Briotto de Andrade dos Santos | CRF - SP: 53.912  | AFE: 7.46544-5 | CMVS: 35503080147700867012</span></p>
+<p align="center"><span style="color: #888888;">As informações contidas neste site não devem ser usadas para automedicação e não substituem, em hipótese alguma, as orientações dadas pelo profissional da área médica. Somente o médico está apto a diagnosticar qualquer problema de saúde e prescrever o tratamento adequado. Ao persistirem os sintomas, o médico deverá ser consultado. Os preços e promoções divulgados no site são válidos apenas para compras feitas pela Internet. Em caso de divergência, o preço válido é o do carrinho de compras. Imagens meramente ilustrativas. Este site é melhor visualizado na configuração 1024x768.</span></p>
+<p align="center"><span style="color: #888888;">Copyright © 1999 - 2016 Onofre em Casa. Todos os direitos reservados.</span></p></span> </address>
+                                                 </div>
+                                        </div>
+                                        <!-- /wrapper copyright -->
+                                        </div>
+                                        <div id="armored_website">
+                                            <param id="aw_preload" value="true" /> </div>
+                                        <script type="text/javascript" src="//selo.siteblindado.com/aw.js"></script>
+                                        <!-- /copyright -->
+                                    </footer>
+                                    <!-- /page-footer -->
+                                    <!-- FIM FOOTER -->
+                                    
+                    
+
+<script type="text/javascript">
+//<![CDATA[
+var dataLayer = [{
+                               'site' : { 'domain' : document.location.host },
+                               'page' : { 
+                                            'name' : document.title,
+                                            'pageType' : 'list'
+                                        },
+                               'list' : [],
+                               'session' : {
+                                                'isLogged': false,
+                                                'user' : { 'id' : 'VISIT-1190962226' }
+                                           }
+                                }];dataLayer[0]['list'].push({
+                                           'productId' : 39659,
+                                           'productName' : 'TARGIFOR C C/60 S REVESTIDOS',
+                                           'positionList' : '0'
+                                        });dataLayer[0]['list'].push({
+                                           'productId' : 39658,
+                                           'productName' : 'TARGIFOR C ADT C/30 S REVESTID',
+                                           'positionList' : '1'
+                                        });dataLayer[0]['list'].push({
+                                           'productId' : 39657,
+                                           'productName' : 'TARGIFOR C ADT C/16 S EFEVERCE',
+                                           'positionList' : '2'
+                                        });dataLayer[0]['list'].push({
+                                           'productId' : 39661,
+                                           'productName' : 'TARGIFOR C/20 S EFERVECENTES',
+                                           'positionList' : '3'
+                                        });dataLayer[0]['list'].push({
+                                           'productId' : 55817,
+                                           'productName' : 'ARGIX 500MG 60 S',
+                                           'positionList' : '4'
+                                        });dataLayer[0]['list'].push({
+                                           'productId' : 1883,
+                                           'productName' : 'ARCALION 20 S',
+                                           'positionList' : '5'
+                                        });dataLayer[0]['list'].push({
+                                           'productId' : 1884,
+                                           'productName' : 'ARCALION 60 S',
+                                           'positionList' : '6'
+                                        });dataLayer[0]['list'].push({
+                                           'productId' : 17880,
+                                           'productName' : 'ENERGIL C AMINO 16 S',
+                                           'positionList' : '7'
+                                        });dataLayer[0]['list'].push({
+                                           'productId' : 20845,
+                                           'productName' : 'FORTEN 10X10ML',
+                                           'positionList' : '8'
+                                        });dataLayer[0]['list'].push({
+                                           'productId' : 21550,
+                                           'productName' : 'GABALLON 100ML',
+                                           'positionList' : '9'
+                                        });dataLayer[0]['list'].push({
+                                           'productId' : 21551,
+                                           'productName' : 'GABALLON 20 S',
+                                           'positionList' : '10'
+                                        });dataLayer[0]['list'].push({
+                                           'productId' : 33654,
+                                           'productName' : 'REFORGAN 20 S',
+                                           'positionList' : '11'
+                                        });//]]>
+</script>
+</form>
+                    <!-- ------------------------------------------------------------------------------------------------------------- -->
+                    <!-- -------------------------------------------------- SCRIPTS -------------------------------------------------- -->
+                    <!-- ------------------------------------------------------------------------------------------------------------- -->
+                    <!-- Google Tag Manager -->
+                    <noscript>
+                        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5SFH26" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+                    </noscript>
+                    <!-- Script Chat online-->
+                    <script>
+                        var chat_online = $("a[href='http://chat_online']").removeAttr("href");
+                        chat_online.click(function(event) { window.open("https://onofre.custhelp.com/app/chat/chat_launch", "Chat Online Drogaria Onofre", "top=80,left=900,width=475,height=715"); });
+                    </script>
+                    <script>
+                        /*<![CDATA[*/
+                        (function(f, d, l, i, n) {
+                            f[i] = f[i] || [];
+                            f[i].push({
+                                "gtm.start": new Date().getTime(),
+                                event: "gtm.js"
+                            });
+                            var j = d.getElementsByTagName(l)[0],
+                                o = d.createElement(l),
+                                p = i != "dataLayer" ? "&l=" + i : "";
+                            o.async = true;
+                            o.src = "//www.googletagmanager.com/gtm.js?id=" + n + p;
+                            j.parentNode.insertBefore(o, j)
+                        })(window, document, "script", "dataLayer", "GTM-5SFH26"); /*]]>*/
+                    </script>
+                    <!-- End Google Tag Manager -->
+                    <!-- ------------------------------------------------------------------------------------------------------------- -->
+                    <!-- -------------------------------------------------- SCRIPTS -------------------------------------------------- -->
+                    <!-- ------------------------------------------------------------------------------------------------------------- -->
+            </body>
+            <link href="assets/css/chaordic.css" rel="stylesheet" />
+
+            </html>
