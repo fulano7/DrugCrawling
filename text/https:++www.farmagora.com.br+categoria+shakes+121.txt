@@ -1,1001 +1,781 @@
-![](/Assets/images/icon/favicon-32x32.png)
 
-  * [__** Meus **Pedidos](/central-cliente/meus-pedidos)
-  * [__** Meu **Cadastro](/central-cliente/cadastro)
-  * [__** Central **de Atendimento](/central-atendimento)
 
-    * LOJA P: **CEP:** (Editar) __ __ [ __ ** NOSSAS** LOJAS __ ](/nossas-lojas)
-
-__
-
-[ ![Farmagora](/backoffice/uploads/loja/logo/logo.png) ](/home)
-
-  * [Medicamentos  ](/medicamentos/1-02)
-  * [Saude e Bem Estar](/saude-e-bem-estar/45-02)
-  * [Beleza e Proteção](/beleza-e-protecao/48-02)
-  * [Mamae e Bebê](/mamae-e-bebe/50-02)
-  * [Dermocosmeticos  ](/dermocosmeticos/49-02)
-  * [Higiene  ](/higiene/46-02)
-  * [Primeiros Socorros](/primeiros-socorros/47-02)
-  * [Dieta e Suplemento](/dieta-e-suplemento/111-02)
-  * [Aparelhos  ](/aparelhos/123-02)
-
-  * [
-
-__
-
-**Login**  
-e **Cadastrar** __
-
-](/login)
-
-  * [
-
-__ 00
-
-__ 00
-
-**Carrinho**  
-**R$ 0,00** __
-
-](/carrinho)
-
-  * [
-
-__ 00
-
-__ 00
-
-**Carrinho**  
-**R$ 0,00** __
-
-](/carrinho)
-
-### Carrinho Vazio
-
-__
-
-  * __ **Todos **Departamentos
-
-  * [ ![](/backoffice/uploads/categoria/produto/icon_medicamentos.png) Medicamentos   ](/medicamentos/1-02)
-  * [ ![](/backoffice/uploads/categoria/produto/icon_saude_e_alimentacao.png) Saude e Bem Estar ](/saude-e-bem-estar/45-02)
-  * [ ![](/backoffice/uploads/categoria/produto/icon_beleza_bemestar.png) Beleza e Proteção ](/beleza-e-protecao/48-02)
-  * [ ![](/backoffice/uploads/categoria/produto/icon_mae_e_bebe.png) Mamae e Bebê ](/mamae-e-bebe/50-02)
-  * [ ![](/backoffice/uploads/categoria/produto/icon_dermo.png) Dermocosmeticos   ](/dermocosmeticos/49-02)
-
-  * [ __ ** Nossas **Ofertas ](/kitmix-ofertas)
-
-  *     * [
-
-![](/backoffice/uploads/categoria/produto/icon_medicamentos.png)
-
-** Medicamentos  ** ](/medicamentos/1-02)
-    * [Alergia](/categoria/alergia/4)
-    * [Anestesico](/categoria/anestesico/135)
-    * [Aparelho Digestivo](/categoria/aparelho-digestivo/34)
-    * [Aparelho Respiratorio](/categoria/aparelho-respiratorio/25)
-    * [Circulaçao](/categoria/circulacao/10)
-    * [**Mais Categorias __**](/medicamentos/1-02)
-  *     * [
-
-![](/backoffice/uploads/categoria/produto/icon_saude_e_alimentacao.png)
-
-** Saude e Bem Estar** ](/saude-e-bem-estar/45-02)
-    * [Acessorios](/categoria/acessorios/51)
-    * [Alimentos e bebidas](/categoria/alimentos-e-bebidas/52)
-    * [Dentadura](/categoria/dentadura/53)
-    * [Dilatador nasal](/categoria/dilatador-nasal/54)
-    * [Fitoterapicos e Homeopaticos](/categoria/fitoterapicos-e-homeopaticos/18)
-    * [**Mais Categorias __**](/saude-e-bem-estar/45-02)
-  *     * [
-
-![](/backoffice/uploads/categoria/produto/icon_beleza_bemestar.png)
-
-** Beleza e Proteção** ](/beleza-e-protecao/48-02)
-    * [Acessorios](/categoria/acessorios/82)
-    * [Cabelo](/categoria/cabelo/83)
-    * [Colonias e perfumes](/categoria/colonias-e-perfumes/84)
-    * [Corpo](/categoria/corpo/85)
-    * [Labios](/categoria/labios/86)
-    * [**Mais Categorias __**](/beleza-e-protecao/48-02)
-  *     * [
-
-![](/backoffice/uploads/categoria/produto/icon_mae_e_bebe.png)
-
-** Mamae e Bebê** ](/mamae-e-bebe/50-02)
-    * [Acessorios](/categoria/acessorios/99)
-    * [Alimentos](/categoria/alimentos/100)
-    * [Anestesico Dental](/categoria/anestesico-dental/134)
-    * [Assaduras](/categoria/assaduras/101)
-    * [Bomba de tirar leite](/categoria/bomba-de-tirar-leite/102)
-    * [**Mais Categorias __**](/mamae-e-bebe/50-02)
-  *     * [
-
-![](/backoffice/uploads/categoria/produto/icon_dermo.png)
-
-** Dermocosmeticos  ** ](/dermocosmeticos/49-02)
-    * [Cabelo](/categoria/cabelo/94)
-    * [Corpo](/categoria/corpo/95)
-    * [Maos e Pes](/categoria/maos-e-pes/97)
-    * [Proteçao solar](/categoria/protecao-solar/98)
-    * [Rosto](/categoria/rosto/144)
-  *     * [
-
-![](/backoffice/uploads/categoria/produto/icon_higiene.png)
-
-** Higiene  ** ](/higiene/46-02)
-    * [Acessorios](/categoria/acessorios/74)
-    * [Banho](/categoria/banho/75)
-    * [Barba](/categoria/barba/76)
-    * [Depilaçao e descoloraçao](/categoria/depilacao-e-descoloracao/77)
-    * [Higiene bucal](/categoria/higiene-bucal/78)
-    * [**Mais Categorias __**](/higiene/46-02)
-  *     * [
-
-![](/backoffice/uploads/categoria/produto/icon_psocorros.png)
-
-** Primeiros Socorros** ](/primeiros-socorros/47-02)
-    * [Algodao](/categoria/algodao/65)
-    * [Antisseptico](/categoria/antisseptico/66)
-    * [Atadura/Gaze](/categoria/ataduragaze/67)
-    * [Bolsa termica](/categoria/bolsa-termica/68)
-    * [Contusao](/categoria/contusao/69)
-    * [**Mais Categorias __**](/primeiros-socorros/47-02)
-  *     * [
-
-![](/backoffice/uploads/categoria/produto/icon_diet_suplement.png)
-
-** Dieta e Suplemento** ](/dieta-e-suplemento/111-02)
-    * [Adoçantes](/categoria/adocantes/112)
-    * [Barra de cereais](/categoria/barra-de-cereais/114)
-    * [Chas](/categoria/chas/115)
-    * [Emagrecedores](/categoria/emagrecedores/116)
-    * [Energeticos](/categoria/energeticos/117)
-    * [**Mais Categorias __**](/dieta-e-suplemento/111-02)
-  *     * [
-
-![](/backoffice/uploads/categoria/produto/icon_aparelhos_testes.png)
-
-** Aparelhos  ** ](/aparelhos/123-02)
-    * [Balança](/categoria/balanca/124)
-    * [Diabetes](/categoria/diabetes/128)
-    * [Inalador e nebulizador](/categoria/inalador-e-nebulizador/126)
-    * [Monitor de pressao arterial](/categoria/monitor-de-pressao-arterial/125)
-    * [Pilhas](/categoria/pilhas/129)
-    * [**Mais Categorias __**](/aparelhos/123-02)
-
-![](/backoffice/uploads/categoria/produto/icon_medicamentos.png) [**
-Medicamentos  **](/medicamentos/1-02)
-
-  * [Alergia](/categoria/alergia/4)
-  * [Anestesico](/categoria/anestesico/135)
-  * [Aparelho Digestivo](/categoria/aparelho-digestivo/34)
-  * [Aparelho Respiratorio](/categoria/aparelho-respiratorio/25)
-  * [Circulaçao](/categoria/circulacao/10)
-  * [Colesterol e Triglicerideos](/categoria/colesterol-e-triglicerideos/11)
-  * [Diabetes](/categoria/diabetes/13)
-  * [Disturbios Urinarios](/categoria/disturbios-urinarios/44)
-  * [Dor e Febre](/categoria/dor-e-febre/36)
-  * [Emagrecimento](/categoria/emagrecimento/19)
-  * [Gripe e Resfriado](/categoria/gripe-e-resfriado/2)
-  * [Hemorroidas](/categoria/hemorroidas/39)
-  * [Inflamaçao](/categoria/inflamacao/31)
-  * [Olhos](/categoria/olhos/22)
-  * [Ouvido](/categoria/ouvido/35)
-
-  * [**MAIS CATEGORIAS **__](/medicamentos/1-02)
-
-  * __ [ ![RESFENOL COM 20 CÁPSULAS](/BACKOFFICE/Uploads/Produto/Normal/54789.jpg) ](/resfenol-com-20-capsulas/101089-01)
-  * [
-
-## RESFENOL COM 20 CÁPSULAS
-
-](/resfenol-com-20-capsulas/101089-01)
-
-  * De: R$ 39,98 Por: ** R$ 19,32 ** Economize 51%
-
-![](/backoffice/uploads/categoria/produto/icon_saude_e_alimentacao.png) [**
-Saude e Bem Estar**](/saude-e-bem-estar/45-02)
-
-  * [Acessorios](/categoria/acessorios/51)
-  * [Alimentos e bebidas](/categoria/alimentos-e-bebidas/52)
-  * [Dentadura](/categoria/dentadura/53)
-  * [Dilatador nasal](/categoria/dilatador-nasal/54)
-  * [Fitoterapicos e Homeopaticos](/categoria/fitoterapicos-e-homeopaticos/18)
-  * [Geriatria](/categoria/geriatria/55)
-  * [Lentes e acessorios](/categoria/lentes-e-acessorios/56)
-  * [Meias de compressao](/categoria/meias-de-compressao/57)
-  * [Nutricosmeticos](/categoria/nutricosmeticos/58)
-  * [Ortopedia](/categoria/ortopedia/59)
-  * [Preservativos e lubrificantes](/categoria/preservativos-e-lubrificantes/60)
-  * [Produtos naturais](/categoria/produtos-naturais/61)
-  * [Suplementos alimentares](/categoria/suplementos-alimentares/62)
-
-  * [**MAIS CATEGORIAS **__](/saude-e-bem-estar/45-02)
-
-  * __ [ ![DESODORANTE ANTIPERSPIRANTE PERSPIREX ROLL ON 25ML](/BACKOFFICE/Uploads/Produto/Normal/727213.jpg) ](/desodorante-antiperspirante-perspirex-roll-on-25ml/106617-01)
-  * [
-
-## DESODORANTE ANTIPERSPIRANTE PERSPIREX ROLL ON 25ML
-
-](/desodorante-antiperspirante-perspirex-roll-on-25ml/106617-01)
-
-  * De: R$ 96,70 Por: ** R$ 77,36 ** Economize 20% **3X** de ** R$ 25,79** s/juros
-
-![](/backoffice/uploads/categoria/produto/icon_beleza_bemestar.png) [** Beleza
-e Proteção**](/beleza-e-protecao/48-02)
-
-  * [Acessorios](/categoria/acessorios/82)
-  * [Cabelo](/categoria/cabelo/83)
-  * [Colonias e perfumes](/categoria/colonias-e-perfumes/84)
-  * [Corpo](/categoria/corpo/85)
-  * [Labios](/categoria/labios/86)
-  * [Maos e pes](/categoria/maos-e-pes/87)
-  * [Maquiagem](/categoria/maquiagem/88)
-  * [Modeladores de seios](/categoria/modeladores-de-seios/89)
-  * [Pentes e Escovas](/categoria/pentes-e-escovas/145)
-  * [Proteçao solar](/categoria/protecao-solar/90)
-  * [Repelente](/categoria/repelente/91)
-  * [Rosto](/categoria/rosto/146)
-  * [Tinturas](/categoria/tinturas/92)
-  * [Unha](/categoria/unha/93)
-
-  * [**MAIS CATEGORIAS **__](/beleza-e-protecao/48-02)
-
-  * __ [ ![CICATRICURE GEL 30G](/BACKOFFICE/Uploads/Produto/Normal/713489.jpg) ](/cicatricure-gel-30g/108556-01)
-  * [
-
-## CICATRICURE GEL 30G
-
-](/cicatricure-gel-30g/108556-01)
-
-  * De: R$ 45,90 Por: ** R$ 29,84 ** Economize 34%
-
-![](/backoffice/uploads/categoria/produto/icon_mae_e_bebe.png) [** Mamae e
-Bebê**](/mamae-e-bebe/50-02)
-
-  * [Acessorios](/categoria/acessorios/99)
-  * [Alimentos](/categoria/alimentos/100)
-  * [Anestesico Dental](/categoria/anestesico-dental/134)
-  * [Assaduras](/categoria/assaduras/101)
-  * [Bomba de tirar leite](/categoria/bomba-de-tirar-leite/102)
-  * [Colonias e hidratantes](/categoria/colonias-e-hidratantes/103)
-  * [Fraldas](/categoria/fraldas/104)
-  * [Gestante](/categoria/gestante/105)
-  * [Higiene bucal](/categoria/higiene-bucal/106)
-  * [Hora do banho](/categoria/hora-do-banho/107)
-  * [Lenço umedecido](/categoria/lenco-umedecido/108)
-  * [Mamadeira, Bicos e Chupetas](/categoria/mamadeirabicos-e-chupetas/109)
-  * [Talco](/categoria/talco/110)
-
-  * [**MAIS CATEGORIAS **__](/mamae-e-bebe/50-02)
-
-  * __ [ ![SHAMPOO LILLO BABY 200ML BANHO DE CARINHO](/BACKOFFICE/Uploads/Produto/Normal/727972.jpg) ](/shampoo-lillo-baby-200ml-banho-de-carinho/110180-01)
-  * [
-
-## SHAMPOO LILLO BABY 200ML BANHO DE CARINHO
-
-](/shampoo-lillo-baby-200ml-banho-de-carinho/110180-01)
-
-  * De: R$ 7,35 Por: ** R$ 5,88 ** Economize 20%
-
-![](/backoffice/uploads/categoria/produto/icon_dermo.png) [** Dermocosmeticos
-**](/dermocosmeticos/49-02)
-
-  * [Cabelo](/categoria/cabelo/94)
-  * [Corpo](/categoria/corpo/95)
-  * [Maos e Pes](/categoria/maos-e-pes/97)
-  * [Proteçao solar](/categoria/protecao-solar/98)
-  * [Rosto](/categoria/rosto/144)
-
-  * __ [ ![INNEOV NUTRICARE D COM 60 CÁPSULAS](/BACKOFFICE/Uploads/Produto/Normal/727992.jpg) ](/inneov-nutricare-d-com-60-capsulas/107057-01)
-  * [
-
-## INNEOV NUTRICARE D COM 60 CÁPSULAS
-
-](/inneov-nutricare-d-com-60-capsulas/107057-01)
-
-  * De: R$ 139,90 Por: ** R$ 111,92 ** Economize 20% **4X** de ** R$ 27,98** s/juros
-
-![](/backoffice/uploads/categoria/produto/icon_higiene.png) [** Higiene
-**](/higiene/46-02)
-
-  * [Acessorios](/categoria/acessorios/74)
-  * [Banho](/categoria/banho/75)
-  * [Barba](/categoria/barba/76)
-  * [Depilaçao e descoloraçao](/categoria/depilacao-e-descoloracao/77)
-  * [Higiene bucal](/categoria/higiene-bucal/78)
-  * [Higiene intima](/categoria/higiene-intima/79)
-  * [Higiene pessoal](/categoria/higiene-pessoal/80)
-  * [Talco](/categoria/talco/81)
-
-![](/backoffice/uploads/categoria/produto/icon_psocorros.png) [** Primeiros
-Socorros**](/primeiros-socorros/47-02)
-
-  * [Algodao](/categoria/algodao/65)
-  * [Antisseptico](/categoria/antisseptico/66)
-  * [Atadura/Gaze](/categoria/ataduragaze/67)
-  * [Bolsa termica](/categoria/bolsa-termica/68)
-  * [Contusao](/categoria/contusao/69)
-  * [Curativos](/categoria/curativos/70)
-  * [Esparadrapos](/categoria/esparadrapos/71)
-  * [Luvas Cirurgicas](/categoria/luvas-cirurgicas/72)
-  * [Quimicos](/categoria/quimicos/143)
-  * [Seringas e Agulhas](/categoria/seringas-e-agulhas/64)
-  * [Soro Fisiologico](/categoria/soro-fisiologico/73)
-
-![](/backoffice/uploads/categoria/produto/icon_diet_suplement.png) [** Dieta e
-Suplemento**](/dieta-e-suplemento/111-02)
-
-  * [Adoçantes](/categoria/adocantes/112)
-  * [Barra de cereais](/categoria/barra-de-cereais/114)
-  * [Chas](/categoria/chas/115)
-  * [Emagrecedores](/categoria/emagrecedores/116)
-  * [Energeticos](/categoria/energeticos/117)
-  * [Suplementos](/categoria/suplementos/119)
-  * [Shakes](/categoria/shakes/121)
-
-# [![Farmagora](/backoffice/uploads/loja/logo/logo.png)](/home)
-
-__
-
-**Menu**  
+      Meus Pedidos
+      Meu Cadastro
+      Central de Atendimento
+       LOJA P: CEP: Editar     NOSSAS LOJAS 
+
+
+
+     Medicamentos  
+     Saude e Bem Estar
+     Beleza e Proteção
+     Mamae e Bebê
+     Dermocosmeticos  
+     Higiene  
+     Primeiros Socorros
+     Dieta e Suplemento
+     Aparelhos  
+
+     
+
+Login  
+e Cadastrar 
+
+      00
+
+ 00
+
+Carrinho  
+R$ 0,00 
+
+      00
+
+ 00
+
+Carrinho  
+R$ 0,00 
+
+ Carrinho Vazio
+
+
+
+      Todos Departamentos
+
+     Medicamentos  
+     Saude e Bem Estar
+     Beleza e Proteção
+     Mamae e Bebê
+     Dermocosmeticos  
+
+       Nossas Ofertas
+
+             Medicamentos  
+       Alergia
+       Anestesico
+       Aparelho Digestivo
+       Aparelho Respiratorio
+       Circulaçao
+       Mais Categorias 
+             Saude e Bem Estar
+       Acessorios
+       Alimentos e bebidas
+       Dentadura
+       Dilatador nasal
+       Fitoterapicos e Homeopaticos
+       Mais Categorias 
+             Beleza e Proteção
+       Acessorios
+       Cabelo
+       Colonias e perfumes
+       Corpo
+       Labios
+       Mais Categorias 
+             Mamae e Bebê
+       Acessorios
+       Alimentos
+       Anestesico Dental
+       Assaduras
+       Bomba de tirar leite
+       Mais Categorias 
+             Dermocosmeticos  
+       Cabelo
+       Corpo
+       Maos e Pes
+       Proteçao solar
+       Rosto
+             Higiene  
+       Acessorios
+       Banho
+       Barba
+       Depilaçao e descoloraçao
+       Higiene bucal
+       Mais Categorias 
+             Primeiros Socorros
+       Algodao
+       Antisseptico
+       Atadura/Gaze
+       Bolsa termica
+       Contusao
+       Mais Categorias 
+             Dieta e Suplemento
+       Adoçantes
+       Barra de cereais
+       Chas
+       Emagrecedores
+       Energeticos
+       Mais Categorias 
+             Aparelhos  
+       Balança
+       Diabetes
+       Inalador e nebulizador
+       Monitor de pressao arterial
+       Pilhas
+       Mais Categorias 
+
+ Medicamentos  
+     Alergia
+     Anestesico
+     Aparelho Digestivo
+     Aparelho Respiratorio
+     Circulaçao
+     Colesterol e Triglicerideos
+     Diabetes
+     Disturbios Urinarios
+     Dor e Febre
+     Emagrecimento
+     Gripe e Resfriado
+     Hemorroidas
+     Inflamaçao
+     Olhos
+     Ouvido
+     MAIS CATEGORIAS 
+
+     
+      RESFENOL COM 20 CÁPSULAS
+
+     De: R$ 39,98 Por:  R$ 19,32  Economize 51%
+
+ Saude e Bem Estar
+     Acessorios
+     Alimentos e bebidas
+     Dentadura
+     Dilatador nasal
+     Fitoterapicos e Homeopaticos
+     Geriatria
+     Lentes e acessorios
+     Meias de compressao
+     Nutricosmeticos
+     Ortopedia
+     Preservativos e lubrificantes
+     Produtos naturais
+     Suplementos alimentares
+     MAIS CATEGORIAS 
+
+     
+      DESODORANTE ANTIPERSPIRANTE PERSPIREX ROLL ON 25ML
+
+     De: R$ 96,70 Por:  R$ 77,36  Economize 20% 3X de  R$ 25,79 s/juros
+
+ Beleza e Proteção
+     Acessorios
+     Cabelo
+     Colonias e perfumes
+     Corpo
+     Labios
+     Maos e pes
+     Maquiagem
+     Modeladores de seios
+     Pentes e Escovas
+     Proteçao solar
+     Repelente
+     Rosto
+     Tinturas
+     Unha
+     MAIS CATEGORIAS 
+
+     
+      CICATRICURE GEL 30G
+
+     De: R$ 45,90 Por:  R$ 29,84  Economize 34%
+
+ Mamae e Bebê
+     Acessorios
+     Alimentos
+     Anestesico Dental
+     Assaduras
+     Bomba de tirar leite
+     Colonias e hidratantes
+     Fraldas
+     Gestante
+     Higiene bucal
+     Hora do banho
+     Lenço umedecido
+     Mamadeira, Bicos e Chupetas
+     Talco
+     MAIS CATEGORIAS 
+
+     
+      SHAMPOO LILLO BABY 200ML BANHO DE CARINHO
+
+     De: R$ 7,35 Por:  R$ 5,88  Economize 20%
+
+ Dermocosmeticos  
+     Cabelo
+     Corpo
+     Maos e Pes
+     Proteçao solar
+     Rosto
+
+     
+      INNEOV NUTRICARE D COM 60 CÁPSULAS
+
+     De: R$ 139,90 Por:  R$ 111,92  Economize 20% 4X de  R$ 27,98 s/juros
+
+ Higiene  
+     Acessorios
+     Banho
+     Barba
+     Depilaçao e descoloraçao
+     Higiene bucal
+     Higiene intima
+     Higiene pessoal
+     Talco
+
+ Primeiros Socorros
+     Algodao
+     Antisseptico
+     Atadura/Gaze
+     Bolsa termica
+     Contusao
+     Curativos
+     Esparadrapos
+     Luvas Cirurgicas
+     Quimicos
+     Seringas e Agulhas
+     Soro Fisiologico
+
+ Dieta e Suplemento
+     Adoçantes
+     Barra de cereais
+     Chas
+     Emagrecedores
+     Energeticos
+     Suplementos
+     Shakes
+
+
+
+
+
+Menu  
 Rápido
 
-__
 
-__
 
-[
 
-__
 
-**Login**  
-e **Cadastrar** __
 
-](/login)
 
-[
+Login  
+e Cadastrar 
 
-__ 00
+ 00
 
-__ 00
+ 00
 
-**Carrinho**  
-**R$ 0,00** __
+Carrinho  
+R$ 0,00 
 
-](/carrinho)
+ Carrinho Vazio
 
-### Carrinho Vazio
+     Medicamentos  
+     Saude e Bem Estar
+     Beleza e Proteção
+     Mamae e Bebê
+     Dermocosmeticos  
+     Higiene  
+     Primeiros Socorros
+     Dieta e Suplemento
+     Aparelhos  
 
-  * [Medicamentos  ](/medicamentos/1-02)
-  * [Saude e Bem Estar](/saude-e-bem-estar/45-02)
-  * [Beleza e Proteção](/beleza-e-protecao/48-02)
-  * [Mamae e Bebê](/mamae-e-bebe/50-02)
-  * [Dermocosmeticos  ](/dermocosmeticos/49-02)
-  * [Higiene  ](/higiene/46-02)
-  * [Primeiros Socorros](/primeiros-socorros/47-02)
-  * [Dieta e Suplemento](/dieta-e-suplemento/111-02)
-  * [Aparelhos  ](/aparelhos/123-02)
+   Home 
+   Dieta e Suplemento 
+   Shakes
 
-* [Home ](/home)
-* [Dieta e Suplemento ](/dieta-e-suplemento/111-02)
-* Shakes
+  Dieta e Suplemento
 
-[
+     Shakes
 
-######  Dieta** e Suplemento**
-
-](/dieta-e-suplemento/111-02)
-
-  * [Shakes](/categoria/shakes/121)
-
-**Filtrar por Preço**
+Filtrar por Preço
 
 R$ 16,89
 
 R$ 43,99
 
-__ Preço "de" deve ser menor que preço "até"
+ Preço "de" deve ser menor que preço "até"
 
-de R$ **16.8900**
+de R$ 16.8900
 
-Até: R$ **43.9900**
+Até: R$ 43.9900
 
-* * *
-
-Limpar
-
-**Filtre por Marca:**
-
-  * CIMED (6)
-  * MIDWAY (1)
-  * PROBIOTICA (2)
-
-* * *
+  
 
 Limpar
 
-### Filtre Por:
+Filtre por Marca:
+
+     CIMED 6
+     MIDWAY 1
+     PROBIOTICA 2
+
+  
+
+Limpar
+
+ Filtre Por:
 
 LANÇAMENTOS MENOR VALOR MAIOR VALOR NOME DO PRODUTO A-Z NOME DO PRODUTO Z-A
 
-  *     *     * [ ![KIT REDUBIO SHAKE COM 3 ENVELOPES DE 300G CHOCOLATE/MORANGO/BAUNILHA](/BACKOFFICE/Uploads/Produto/Normal/722257.jpg) ](/kit-redubio-shake-com-3-envelopes-de-300g-chocolatemorangobaunilha/105277-01)
-  * [
+                         KIT REDUBIO SHAKE COM 3 ENVELOPES DE 300G CHOCOLATE/MOR...
 
-## KIT REDUBIO SHAKE COM 3 ENVELOPES DE 300G CHOCOLATE/MOR...
+CIMED
 
-](/kit-redubio-shake-com-3-envelopes-de-300g-
-chocolatemorangobaunilha/105277-01) CIMED
+     R$ 45,80
 
-  * R$ 45,80
+ R$ 39,40 
 
-** R$ 39,40 **
+pagamento à vista
 
-**pagamento à vista**
+                   ×
 
-  *     * [![](/assets/images/icon/vitrine/search.png)](/kit-redubio-shake-com-3-envelopes-de-300g-chocolatemorangobaunilha/105277-01)
-    * ![](/assets/images/icon/vitrine/carrinho.png)
+ ESCOLHA A QUANTIDADE
 
-×
+                   KIT REDUBIO SHAKE COM 3 ENVELOPES DE 300G CHOCOLATE/MOR...
 
-#### ESCOLHA A QUANTIDADE
+CIMED
 
-      * [ ![KIT REDUBIO SHAKE COM 3 ENVELOPES DE 300G CHOCOLATE/MORANGO/BAUNILHA](/BACKOFFICE/Uploads/Produto/Normal/722257.jpg) ](/kit-redubio-shake-com-3-envelopes-de-300g-chocolatemorangobaunilha/105277-01)
-      * [
-
-## KIT REDUBIO SHAKE COM 3 ENVELOPES DE 300G CHOCOLATE/MOR...
-
-](/kit-redubio-shake-com-3-envelopes-de-300g-
-chocolatemorangobaunilha/105277-01) CIMED
-
-      * __
+         
 
 UND
 
-__
 
-![](/Assets/images/icon/vitrine/carrinho.png) **ADICIONAR A CESTA**
 
-    * ![](/assets/images/icon/vitrine/heart.png)
-      * [Efetue o Login ou Registre-se para acessar suas listas.](/login)
+ADICIONAR A CESTA
 
-  *     *     * [ ![REDUBIO SHAKE 300G COOKIES](/BACKOFFICE/Uploads/Produto/Normal/49398.jpg) ](/redubio-shake-300g-cookies/107183-01)
-  * [
+                Efetue o Login ou Registre-se para acessar suas listas.
 
-## REDUBIO SHAKE 300G COOKIES
+                         REDUBIO SHAKE 300G COOKIES
 
-](/redubio-shake-300g-cookies/107183-01) CIMED
+CIMED
 
-  * R$ 23,10
+     R$ 23,10
 
-** R$ 19,40 **
+ R$ 19,40 
 
-**pagamento à vista**
+pagamento à vista
 
-  *     * [![](/assets/images/icon/vitrine/search.png)](/redubio-shake-300g-cookies/107183-01)
-    * ![](/assets/images/icon/vitrine/carrinho.png)
+                   ×
 
-×
+ ESCOLHA A QUANTIDADE
 
-#### ESCOLHA A QUANTIDADE
+                   REDUBIO SHAKE 300G COOKIES
 
-      * [ ![REDUBIO SHAKE 300G COOKIES](/BACKOFFICE/Uploads/Produto/Normal/49398.jpg) ](/redubio-shake-300g-cookies/107183-01)
-      * [
+CIMED
 
-## REDUBIO SHAKE 300G COOKIES
-
-](/redubio-shake-300g-cookies/107183-01) CIMED
-
-      * __
+         
 
 UND
 
-__
 
-![](/Assets/images/icon/vitrine/carrinho.png) **ADICIONAR A CESTA**
 
-    * ![](/assets/images/icon/vitrine/heart.png)
-      * [Efetue o Login ou Registre-se para acessar suas listas.](/login)
+ADICIONAR A CESTA
 
-  *     *     * [ ![REDUBIO SHAKE 300G DOCE DE LEITE](/BACKOFFICE/Uploads/Produto/Normal/49399.jpg) ](/redubio-shake-300g-doce-de-leite/107184-01)
-  * [
+                Efetue o Login ou Registre-se para acessar suas listas.
 
-## REDUBIO SHAKE 300G DOCE DE LEITE
+                         REDUBIO SHAKE 300G DOCE DE LEITE
 
-](/redubio-shake-300g-doce-de-leite/107184-01) CIMED
+CIMED
 
-  * R$ 23,10
+     R$ 23,10
 
-** R$ 19,40 **
+ R$ 19,40 
 
-**pagamento à vista**
+pagamento à vista
 
-  *     * [![](/assets/images/icon/vitrine/search.png)](/redubio-shake-300g-doce-de-leite/107184-01)
-    * ![](/assets/images/icon/vitrine/carrinho.png)
+                   ×
 
-×
+ ESCOLHA A QUANTIDADE
 
-#### ESCOLHA A QUANTIDADE
+                   REDUBIO SHAKE 300G DOCE DE LEITE
 
-      * [ ![REDUBIO SHAKE 300G DOCE DE LEITE](/BACKOFFICE/Uploads/Produto/Normal/49399.jpg) ](/redubio-shake-300g-doce-de-leite/107184-01)
-      * [
+CIMED
 
-## REDUBIO SHAKE 300G DOCE DE LEITE
-
-](/redubio-shake-300g-doce-de-leite/107184-01) CIMED
-
-      * __
+         
 
 UND
 
-__
 
-![](/Assets/images/icon/vitrine/carrinho.png) **ADICIONAR A CESTA**
 
-    * ![](/assets/images/icon/vitrine/heart.png)
-      * [Efetue o Login ou Registre-se para acessar suas listas.](/login)
+ADICIONAR A CESTA
 
-  *     *     * [ ![REDUBIO SHAKE 300G BAUNILHA](/BACKOFFICE/Uploads/Produto/Normal/726709.jpg) ](/redubio-shake-300g-baunilha/110006-01)
-  * [
+                Efetue o Login ou Registre-se para acessar suas listas.
 
-## REDUBIO SHAKE 300G BAUNILHA
+                         REDUBIO SHAKE 300G BAUNILHA
 
-](/redubio-shake-300g-baunilha/110006-01) CIMED
+CIMED
 
-  * R$ 23,10
+     R$ 23,10
 
-** R$ 19,90 **
+ R$ 19,90 
 
-**pagamento à vista**
+pagamento à vista
 
-  *     * [![](/assets/images/icon/vitrine/search.png)](/redubio-shake-300g-baunilha/110006-01)
-    * ![](/assets/images/icon/vitrine/carrinho.png)
+                   ×
 
-×
+ ESCOLHA A QUANTIDADE
 
-#### ESCOLHA A QUANTIDADE
+                   REDUBIO SHAKE 300G BAUNILHA
 
-      * [ ![REDUBIO SHAKE 300G BAUNILHA](/BACKOFFICE/Uploads/Produto/Normal/726709.jpg) ](/redubio-shake-300g-baunilha/110006-01)
-      * [
+CIMED
 
-## REDUBIO SHAKE 300G BAUNILHA
-
-](/redubio-shake-300g-baunilha/110006-01) CIMED
-
-      * __
+         
 
 UND
 
-__
 
-![](/Assets/images/icon/vitrine/carrinho.png) **ADICIONAR A CESTA**
 
-    * ![](/assets/images/icon/vitrine/heart.png)
-      * [Efetue o Login ou Registre-se para acessar suas listas.](/login)
+ADICIONAR A CESTA
 
-  *     *     * [ ![REDUBIO SHAKE 300G MORANGO](/BACKOFFICE/Uploads/Produto/Normal/53809.jpg) ](/redubio-shake-300g-morango/110364-01)
-  * [
+                Efetue o Login ou Registre-se para acessar suas listas.
 
-## REDUBIO SHAKE 300G MORANGO
+                         REDUBIO SHAKE 300G MORANGO
 
-](/redubio-shake-300g-morango/110364-01) CIMED
+CIMED
 
-  * R$ 23,10
+     R$ 23,10
 
-** R$ 16,89 **
+ R$ 16,89 
 
-**pagamento à vista**
+pagamento à vista
 
-  *     * [![](/assets/images/icon/vitrine/search.png)](/redubio-shake-300g-morango/110364-01)
-    * ![](/assets/images/icon/vitrine/carrinho.png)
+                   ×
 
-×
+ ESCOLHA A QUANTIDADE
 
-#### ESCOLHA A QUANTIDADE
+                   REDUBIO SHAKE 300G MORANGO
 
-      * [ ![REDUBIO SHAKE 300G MORANGO](/BACKOFFICE/Uploads/Produto/Normal/53809.jpg) ](/redubio-shake-300g-morango/110364-01)
-      * [
+CIMED
 
-## REDUBIO SHAKE 300G MORANGO
-
-](/redubio-shake-300g-morango/110364-01) CIMED
-
-      * __
+         
 
 UND
 
-__
 
-![](/Assets/images/icon/vitrine/carrinho.png) **ADICIONAR A CESTA**
 
-    * ![](/assets/images/icon/vitrine/heart.png)
-      * [Efetue o Login ou Registre-se para acessar suas listas.](/login)
+ADICIONAR A CESTA
 
-  *     *     * [ ![REDUBIO SHAKE 300G CHOCOLATE](/BACKOFFICE/Uploads/Produto/Normal/53810.jpg) ](/redubio-shake-300g-chocolate/110365-01)
-  * [
+                Efetue o Login ou Registre-se para acessar suas listas.
 
-## REDUBIO SHAKE 300G CHOCOLATE
+                         REDUBIO SHAKE 300G CHOCOLATE
 
-](/redubio-shake-300g-chocolate/110365-01) CIMED
+CIMED
 
-  * R$ 23,10
+     R$ 23,10
 
-** R$ 16,89 **
+ R$ 16,89 
 
-**pagamento à vista**
+pagamento à vista
 
-  *     * [![](/assets/images/icon/vitrine/search.png)](/redubio-shake-300g-chocolate/110365-01)
-    * ![](/assets/images/icon/vitrine/carrinho.png)
+                   ×
 
-×
+ ESCOLHA A QUANTIDADE
 
-#### ESCOLHA A QUANTIDADE
+                   REDUBIO SHAKE 300G CHOCOLATE
 
-      * [ ![REDUBIO SHAKE 300G CHOCOLATE](/BACKOFFICE/Uploads/Produto/Normal/53810.jpg) ](/redubio-shake-300g-chocolate/110365-01)
-      * [
+CIMED
 
-## REDUBIO SHAKE 300G CHOCOLATE
-
-](/redubio-shake-300g-chocolate/110365-01) CIMED
-
-      * __
+         
 
 UND
 
-__
 
-![](/Assets/images/icon/vitrine/carrinho.png) **ADICIONAR A CESTA**
 
-    * ![](/assets/images/icon/vitrine/heart.png)
-      * [Efetue o Login ou Registre-se para acessar suas listas.](/login)
+ADICIONAR A CESTA
 
-  *     *     * [ ![SUPLEMENTO PROBIOTICA THERMO SHAKE DIET CHOCOLATE 400G](/BACKOFFICE/Uploads/Produto/Normal/54156.jpg) ](/suplemento-probiotica-thermo-shake-diet-chocolate-400g/110950-01)
-  * [
+                Efetue o Login ou Registre-se para acessar suas listas.
 
-## SUPLEMENTO PROBIOTICA THERMO SHAKE DIET CHOCOLATE 400G
+                         SUPLEMENTO PROBIOTICA THERMO SHAKE DIET CHOCOLATE 400G
 
-](/suplemento-probiotica-thermo-shake-diet-chocolate-400g/110950-01)
 PROBIOTICA
 
-  * R$ 43,99
+     R$ 43,99
 
-** R$ 41,79 **
+ R$ 41,79 
 
-**pagamento à vista**
+pagamento à vista
 
-  *     * [![](/assets/images/icon/vitrine/search.png)](/suplemento-probiotica-thermo-shake-diet-chocolate-400g/110950-01)
-    * ![](/assets/images/icon/vitrine/carrinho.png)
+                   ×
 
-×
+ ESCOLHA A QUANTIDADE
 
-#### ESCOLHA A QUANTIDADE
+                   SUPLEMENTO PROBIOTICA THERMO SHAKE DIET CHOCOLATE 400G
 
-      * [ ![SUPLEMENTO PROBIOTICA THERMO SHAKE DIET CHOCOLATE 400G](/BACKOFFICE/Uploads/Produto/Normal/54156.jpg) ](/suplemento-probiotica-thermo-shake-diet-chocolate-400g/110950-01)
-      * [
-
-## SUPLEMENTO PROBIOTICA THERMO SHAKE DIET CHOCOLATE 400G
-
-](/suplemento-probiotica-thermo-shake-diet-chocolate-400g/110950-01)
 PROBIOTICA
 
-      * __
+         
 
 UND
 
-__
 
-![](/Assets/images/icon/vitrine/carrinho.png) **ADICIONAR A CESTA**
 
-    * ![](/assets/images/icon/vitrine/heart.png)
-      * [Efetue o Login ou Registre-se para acessar suas listas.](/login)
+ADICIONAR A CESTA
 
-  *     *     * [ ![SUPLEMENTO PROBIOTICA THERMO SHAKE DIET MORANGO 400G](/BACKOFFICE/Uploads/Produto/Normal/54157.jpg) ](/suplemento-probiotica-thermo-shake-diet-morango-400g/110951-01)
-  * [
+                Efetue o Login ou Registre-se para acessar suas listas.
 
-## SUPLEMENTO PROBIOTICA THERMO SHAKE DIET MORANGO 400G
+                         SUPLEMENTO PROBIOTICA THERMO SHAKE DIET MORANGO 400G
 
-](/suplemento-probiotica-thermo-shake-diet-morango-400g/110951-01) PROBIOTICA
+PROBIOTICA
 
-  * ** R$ 43,99 **
+      R$ 43,99 
 
-**pagamento à vista**
+pagamento à vista
 
-  *     * [![](/assets/images/icon/vitrine/search.png)](/suplemento-probiotica-thermo-shake-diet-morango-400g/110951-01)
-    * ![](/assets/images/icon/vitrine/carrinho.png)
+                   ×
 
-×
+ ESCOLHA A QUANTIDADE
 
-#### ESCOLHA A QUANTIDADE
+                   SUPLEMENTO PROBIOTICA THERMO SHAKE DIET MORANGO 400G
 
-      * [ ![SUPLEMENTO PROBIOTICA THERMO SHAKE DIET MORANGO 400G](/BACKOFFICE/Uploads/Produto/Normal/54157.jpg) ](/suplemento-probiotica-thermo-shake-diet-morango-400g/110951-01)
-      * [
+PROBIOTICA
 
-## SUPLEMENTO PROBIOTICA THERMO SHAKE DIET MORANGO 400G
-
-](/suplemento-probiotica-thermo-shake-diet-morango-400g/110951-01) PROBIOTICA
-
-      * __
+         
 
 UND
 
-__
 
-![](/Assets/images/icon/vitrine/carrinho.png) **ADICIONAR A CESTA**
 
-    * ![](/assets/images/icon/vitrine/heart.png)
-      * [Efetue o Login ou Registre-se para acessar suas listas.](/login)
+ADICIONAR A CESTA
 
-  *     *     * [ ![DIET SHAKE CROCANTE 400G MORANGO](/BACKOFFICE/Uploads/Produto/Normal/712521.jpg) ](/diet-shake-crocante-400g-morango/108588-01)
-  * [
+                Efetue o Login ou Registre-se para acessar suas listas.
 
-## DIET SHAKE CROCANTE 400G MORANGO
+                         DIET SHAKE CROCANTE 400G MORANGO
 
-](/diet-shake-crocante-400g-morango/108588-01) MIDWAY
+MIDWAY
 
-  * Indisponível 
+     Indisponível 
 
-Exibindo: 1 - 9 de 9 resultado(s).
+Exibindo: 1 - 9 de 9 resultados.
 
-VOLTAR AO TOPO __
+VOLTAR AO TOPO 
 
-![](/Assets/images/icon/icoNews.png)
-
-**CADASTRE SEU E-MAIL**   
-e receba nossas promoções!
+CADASTRE SEU E-MAIL   
+e receba nossas promoções
 
 PREENCHA O NOME
 
 E-MAIL INVALIDO CADASTRAR
 
-  * ###### **INSTITUCIONAL**
+      INSTITUCIONAL
 
-    * [Sobre a Empresa](/sobre-a-empresa/28-08)
-    * [Fale Conosco](/central-atendimento)
+       Sobre a Empresa
+       Fale Conosco
 
-  * ###### **AJUDA E SUPORTE**
+      AJUDA E SUPORTE
 
-    * [Formas de Pagamento](/formas-de-pagamento/30-08)
-    * [Entrega](/entrega/31-08)
-    * [Troca e Devoluçao](/troca-e-devolucao/32-08)
-    * [Depoimentos](/depoimentos/33-08)
-    * [Segurança e Privacidade](/seguranca-e-privacidade/34-08)
-    * [Duvidas Frequentes](/duvidas-frequentes/35-08)
+       Formas de Pagamento
+       Entrega
+       Troca e Devoluçao
+       Depoimentos
+       Segurança e Privacidade
+       Duvidas Frequentes
 
-  * ###### **ATENDIMENTO**
+      ATENDIMENTO
 
-    *     * SAC. (47) 3422-8181
-    * Horario de atendimento telefonico: Seg. a Sexta: 08h as 12h e das 13h as 17h48.
+              SAC. 47 3422-8181
+       Horario de atendimento telefonico: Seg. a Sexta: 08h as 12h e das 13h as 17h48.
 
-  * ###### **Redes sociais**
+      Redes sociais
 
-  * ###### **Formas de pagamento**
+      Formas de pagamento
 
-    * ![Boleto Bradesco](/BACKOFFICE/Uploads/Pagamento/10.jpg)
-    * ![Transferencia Itau](/BACKOFFICE/Uploads/Pagamento/13.png)
-    * ![Mastercard](/BACKOFFICE/Uploads/Pagamento/1.jpg)
-    * ![Visa](/BACKOFFICE/Uploads/Pagamento/3.jpg)
-    * ![Diners](/BACKOFFICE/Uploads/Pagamento/15.jpg)
-    * ![Elo](/BACKOFFICE/Uploads/Pagamento/7.jpg)
-    * ![Hipercard](/BACKOFFICE/Uploads/Pagamento/14.png)
+                                                       Segurança e Credibilidade
 
-  * ###### **Segurança e Credibilidade**
-
-    * [ ![Estamos na Cliquefarma](/Assets/images/selos/selopadrao.jpg) ](http://www.cliquefarma.com.br/drogarias/farmagora)
-    * [ ![Site Seguro](/Assets/images/selos/google_site_seguro.jpg) ](https://www.google.com/transparencyreport/safebrowsing/diagnostic/index.html#url=farmagora.com.br)
-    * [Avaliação de Lojas e-bit](http://www.ebit.com.br/#farmagora)
-    * [ ![Multi Domain SSL](https://ssl.comodo.com/images/comodo_secure_seal_113x59_transp.png)   
+                     Avaliação de Lojas e-bit
+         
 Multi Domain SSL  
-](https://www.instantssl.com/ssl-certificate-products/multi-domain-ssl-
-certificate.html)
 
-  * ###### **Formas de pagamento**
+      Formas de pagamento
 
-    * ![Boleto Bradesco](/BACKOFFICE/Uploads/Pagamento/10.jpg)
-    * ![Transferencia Itau](/BACKOFFICE/Uploads/Pagamento/13.png)
-    * ![Mastercard](/BACKOFFICE/Uploads/Pagamento/1.jpg)
-    * ![Visa](/BACKOFFICE/Uploads/Pagamento/3.jpg)
-    * ![Diners](/BACKOFFICE/Uploads/Pagamento/15.jpg)
-    * ![Elo](/BACKOFFICE/Uploads/Pagamento/7.jpg)
-    * ![Hipercard](/BACKOFFICE/Uploads/Pagamento/14.png)
+                                                      INSTITUCIONAL 
 
-  * **INSTITUCIONAL** __
+       Sobre a Empresa
+       Fale Conosco
 
-    * [Sobre a Empresa](/sobre-a-empresa/28-08)
-    * [Fale Conosco](/central-atendimento)
+     AJUDA E SUPORTE 
 
-  * **AJUDA E SUPORTE** __
-
-    * [Formas de Pagamento](/formas-de-pagamento/30-08)
-    * [Entrega](/entrega/31-08)
-    * [Troca e Devoluçao](/troca-e-devolucao/32-08)
-    * [Depoimentos](/depoimentos/33-08)
-    * [Segurança e Privacidade](/seguranca-e-privacidade/34-08)
-    * [Duvidas Frequentes](/duvidas-frequentes/35-08)
+       Formas de Pagamento
+       Entrega
+       Troca e Devoluçao
+       Depoimentos
+       Segurança e Privacidade
+       Duvidas Frequentes
 
 As informações contidas neste site não devem ser usadas para automedicação e
 não substituem, em hipótese alguma, as orientações dadas pelo profissional da
 área médica. Somente o médico está apto a diagnosticar qualquer problema de
-saúde e prescrever o tratamento adequado. Todos os pedidos efetuados estão
+saúde e prescrever o tratamento adequado. Todos os pedidos efetuados estão
 sujeitos à confirmação da disponibilidade de produto em nosso estoque.
 
 OS PREÇOS APRESENTADOS NO SITE SÃO DIFERENTES DOS PREÇOS DAS LOJAS FÍSICAS DE
 NOSSA REDE.
 
-FARMAGORA | Cia Latino Americana de Medicamentos | CNPJ: 84.683.481/0416-04 |
-End: Rua Américo Brasiliense, 1958 | São Paulo - SP | CEP: 04.715-004 |  
+FARMAGORA | Cia Latino Americana de Medicamentos | CNPJ: 84.683.481/0416-04 |
+End: Rua Américo Brasiliense, 1958 | São Paulo - SP | CEP: 04.715-004 |  
   
-Farmacêutico Responsável: Carlos Franklyn O. Serpa CRF/SP: 66823 | IE:
-140.593.699.117 | Fone:(47) 3422-8181| e-mail: sac@farmagora.com.br
+Farmacêutico Responsável: Carlos Franklyn O. Serpa CRF/SP: 66823 | IE:
+140.593.699.117 | Fone:47 3422-8181| e-mail: sac@farmagora.com.br
 
-A Farmagora segue as determinações da Agência Nacional de Vigilância
-Sanitária![Anvisa](https://www.farmagora.com.br/backoffice/uploads/imagens/anvisa.png)
+A Farmagora segue as determinações da Agência Nacional de Vigilância Sanitária
 
 Copyright © 2016 Farmagora - Todos os direitos reservados.
 
-###### UMA MARCA
-
-[ ![Clamed](/Assets/images/grupo_clamed.png)
-](http://www.clamed.com.br/novo/pt/ )
-
-[![e-Commerce
-Certo](/Assets/images/vannon/byecerto.png)](http://www.ecommercerto.com.br/)
-[![Vannon](/Assets/images/vannon/byvannon.png)](http://www.vannon.com.br)
+ UMA MARCA
 
 ×
 
-#### **OLÁ VISITANTE,** SEJA BEM VINDO
+ OLÁ VISITANTE, SEJA BEM VINDO
 
-  * [ __ ** LOGIN &amp;** CADASTRO __ ](/login)
-  * [__** MEUS** PEDIDOS __](/central-cliente/meus-pedidos)
+       LOGIN &amp; CADASTRO 
+      MEUS PEDIDOS 
 
-#### __ **TODOS** DEPARTAMENTOS
+  TODOS DEPARTAMENTOS
 
-  * **Medicamentos** __
+     Medicamentos 
 
-    * [Alergia __](/categoria/alergia/4)
-    * [Anestesico __](/categoria/anestesico/135)
-    * [Aparelho Digestivo __](/categoria/aparelho-digestivo/34)
-    * [Aparelho Respiratorio __](/categoria/aparelho-respiratorio/25)
-    * [Circulaçao __](/categoria/circulacao/10)
-    * [Colesterol e Triglicerideos __](/categoria/colesterol-e-triglicerideos/11)
-    * [Diabetes __](/categoria/diabetes/13)
-    * [Disturbios Urinarios __](/categoria/disturbios-urinarios/44)
-    * [Dor e Febre __](/categoria/dor-e-febre/36)
-    * [Emagrecimento __](/categoria/emagrecimento/19)
-    * [Gripe e Resfriado __](/categoria/gripe-e-resfriado/2)
-    * [Hemorroidas __](/categoria/hemorroidas/39)
-    * [Inflamaçao __](/categoria/inflamacao/31)
-    * [Olhos __](/categoria/olhos/22)
-    * [Ouvido __](/categoria/ouvido/35)
-    * [Parar de Fumar __](/categoria/parar-de-fumar/38)
-    * [Pele e Mucosa __](/categoria/pele-e-mucosa/9)
-    * [Pressao Alta __](/categoria/pressao-alta/17)
-    * [Produtos Especiais __](/categoria/produtos-especiais/43)
-    * [Saude da Mulher __](/categoria/saude-da-mulher/5)
-    * [Sistema Nervoso __](/categoria/sistema-nervoso/24)
-    * [Saude do Homem __](/categoria/saude-do-homem/14)
-    * [Saude Óssea __](/categoria/saude-ossea/23)
-    * [Tireoide __](/categoria/tireoide/37)
-    * [Vermes e Parasitas __](/categoria/vermes-e-parasitas/27)
-    * [Vitaminas e Suplementos __](/categoria/vitaminas-e-suplementos/63)
-    * [**+VER TODOS** DO DEPARTAMENTO __](/medicamentos/1-02)
+       Alergia 
+       Anestesico 
+       Aparelho Digestivo 
+       Aparelho Respiratorio 
+       Circulaçao 
+       Colesterol e Triglicerideos 
+       Diabetes 
+       Disturbios Urinarios 
+       Dor e Febre 
+       Emagrecimento 
+       Gripe e Resfriado 
+       Hemorroidas 
+       Inflamaçao 
+       Olhos 
+       Ouvido 
+       Parar de Fumar 
+       Pele e Mucosa 
+       Pressao Alta 
+       Produtos Especiais 
+       Saude da Mulher 
+       Sistema Nervoso 
+       Saude do Homem 
+       Saude Óssea 
+       Tireoide 
+       Vermes e Parasitas 
+       Vitaminas e Suplementos 
+       +VER TODOS DO DEPARTAMENTO 
 
-  * **Saude e Bem Estar** __
+     Saude e Bem Estar 
 
-    * [Acessorios __](/categoria/acessorios/51)
-    * [Alimentos e bebidas __](/categoria/alimentos-e-bebidas/52)
-    * [Dentadura __](/categoria/dentadura/53)
-    * [Dilatador nasal __](/categoria/dilatador-nasal/54)
-    * [Fitoterapicos e Homeopaticos __](/categoria/fitoterapicos-e-homeopaticos/18)
-    * [Geriatria __](/categoria/geriatria/55)
-    * [Lentes e acessorios __](/categoria/lentes-e-acessorios/56)
-    * [Meias de compressao __](/categoria/meias-de-compressao/57)
-    * [Nutricosmeticos __](/categoria/nutricosmeticos/58)
-    * [Ortopedia __](/categoria/ortopedia/59)
-    * [Preservativos e lubrificantes __](/categoria/preservativos-e-lubrificantes/60)
-    * [Produtos naturais __](/categoria/produtos-naturais/61)
-    * [Suplementos alimentares __](/categoria/suplementos-alimentares/62)
-    * [**+VER TODOS** DO DEPARTAMENTO __](/saude-e-bem-estar/45-02)
+       Acessorios 
+       Alimentos e bebidas 
+       Dentadura 
+       Dilatador nasal 
+       Fitoterapicos e Homeopaticos 
+       Geriatria 
+       Lentes e acessorios 
+       Meias de compressao 
+       Nutricosmeticos 
+       Ortopedia 
+       Preservativos e lubrificantes 
+       Produtos naturais 
+       Suplementos alimentares 
+       +VER TODOS DO DEPARTAMENTO 
 
-  * **Beleza e Proteçao** __
+     Beleza e Proteçao 
 
-    * [Acessorios __](/categoria/acessorios/82)
-    * [Cabelo __](/categoria/cabelo/83)
-    * [Colonias e perfumes __](/categoria/colonias-e-perfumes/84)
-    * [Corpo __](/categoria/corpo/85)
-    * [Labios __](/categoria/labios/86)
-    * [Maos e pes __](/categoria/maos-e-pes/87)
-    * [Maquiagem __](/categoria/maquiagem/88)
-    * [Modeladores de seios __](/categoria/modeladores-de-seios/89)
-    * [Pentes e Escovas __](/categoria/pentes-e-escovas/145)
-    * [Proteçao solar __](/categoria/protecao-solar/90)
-    * [Repelente __](/categoria/repelente/91)
-    * [Rosto __](/categoria/rosto/146)
-    * [Tinturas __](/categoria/tinturas/92)
-    * [Unha __](/categoria/unha/93)
-    * [**+VER TODOS** DO DEPARTAMENTO __](/beleza-e-protecao/48-02)
+       Acessorios 
+       Cabelo 
+       Colonias e perfumes 
+       Corpo 
+       Labios 
+       Maos e pes 
+       Maquiagem 
+       Modeladores de seios 
+       Pentes e Escovas 
+       Proteçao solar 
+       Repelente 
+       Rosto 
+       Tinturas 
+       Unha 
+       +VER TODOS DO DEPARTAMENTO 
 
-  * **Mamae e Bebe** __
+     Mamae e Bebe 
 
-    * [Acessorios __](/categoria/acessorios/99)
-    * [Alimentos __](/categoria/alimentos/100)
-    * [Anestesico Dental __](/categoria/anestesico-dental/134)
-    * [Assaduras __](/categoria/assaduras/101)
-    * [Bomba de tirar leite __](/categoria/bomba-de-tirar-leite/102)
-    * [Colonias e hidratantes __](/categoria/colonias-e-hidratantes/103)
-    * [Fraldas __](/categoria/fraldas/104)
-    * [Gestante __](/categoria/gestante/105)
-    * [Higiene bucal __](/categoria/higiene-bucal/106)
-    * [Hora do banho __](/categoria/hora-do-banho/107)
-    * [Lenço umedecido __](/categoria/lenco-umedecido/108)
-    * [Mamadeira, Bicos e Chupetas __](/categoria/mamadeirabicos-e-chupetas/109)
-    * [Talco __](/categoria/talco/110)
-    * [**+VER TODOS** DO DEPARTAMENTO __](/mamae-e-bebe/50-02)
+       Acessorios 
+       Alimentos 
+       Anestesico Dental 
+       Assaduras 
+       Bomba de tirar leite 
+       Colonias e hidratantes 
+       Fraldas 
+       Gestante 
+       Higiene bucal 
+       Hora do banho 
+       Lenço umedecido 
+       Mamadeira, Bicos e Chupetas 
+       Talco 
+       +VER TODOS DO DEPARTAMENTO 
 
-  * **Dermocosmeticos** __
+     Dermocosmeticos 
 
-    * [Cabelo __](/categoria/cabelo/94)
-    * [Corpo __](/categoria/corpo/95)
-    * [Maos e Pes __](/categoria/maos-e-pes/97)
-    * [Proteçao solar __](/categoria/protecao-solar/98)
-    * [Rosto __](/categoria/rosto/144)
-    * [**+VER TODOS** DO DEPARTAMENTO __](/dermocosmeticos/49-02)
+       Cabelo 
+       Corpo 
+       Maos e Pes 
+       Proteçao solar 
+       Rosto 
+       +VER TODOS DO DEPARTAMENTO 
 
-  * **Higiene** __
+     Higiene 
 
-    * [Acessorios __](/categoria/acessorios/74)
-    * [Banho __](/categoria/banho/75)
-    * [Barba __](/categoria/barba/76)
-    * [Depilaçao e descoloraçao __](/categoria/depilacao-e-descoloracao/77)
-    * [Higiene bucal __](/categoria/higiene-bucal/78)
-    * [Higiene intima __](/categoria/higiene-intima/79)
-    * [Higiene pessoal __](/categoria/higiene-pessoal/80)
-    * [Talco __](/categoria/talco/81)
-    * [**+VER TODOS** DO DEPARTAMENTO __](/higiene/46-02)
+       Acessorios 
+       Banho 
+       Barba 
+       Depilaçao e descoloraçao 
+       Higiene bucal 
+       Higiene intima 
+       Higiene pessoal 
+       Talco 
+       +VER TODOS DO DEPARTAMENTO 
 
-  * **Primeiros Socorros** __
+     Primeiros Socorros 
 
-    * [Algodao __](/categoria/algodao/65)
-    * [Antisseptico __](/categoria/antisseptico/66)
-    * [Atadura/Gaze __](/categoria/ataduragaze/67)
-    * [Bolsa termica __](/categoria/bolsa-termica/68)
-    * [Contusao __](/categoria/contusao/69)
-    * [Curativos __](/categoria/curativos/70)
-    * [Esparadrapos __](/categoria/esparadrapos/71)
-    * [Luvas Cirurgicas __](/categoria/luvas-cirurgicas/72)
-    * [Quimicos __](/categoria/quimicos/143)
-    * [Seringas e Agulhas __](/categoria/seringas-e-agulhas/64)
-    * [Soro Fisiologico __](/categoria/soro-fisiologico/73)
-    * [**+VER TODOS** DO DEPARTAMENTO __](/primeiros-socorros/47-02)
+       Algodao 
+       Antisseptico 
+       Atadura/Gaze 
+       Bolsa termica 
+       Contusao 
+       Curativos 
+       Esparadrapos 
+       Luvas Cirurgicas 
+       Quimicos 
+       Seringas e Agulhas 
+       Soro Fisiologico 
+       +VER TODOS DO DEPARTAMENTO 
 
-  * **Dieta e Suplemento** __
+     Dieta e Suplemento 
 
-    * [Adoçantes __](/categoria/adocantes/112)
-    * [Barra de cereais __](/categoria/barra-de-cereais/114)
-    * [Chas __](/categoria/chas/115)
-    * [Emagrecedores __](/categoria/emagrecedores/116)
-    * [Energeticos __](/categoria/energeticos/117)
-    * [Suplementos __](/categoria/suplementos/119)
-    * [Shakes __](/categoria/shakes/121)
-    * [**+VER TODOS** DO DEPARTAMENTO __](/dieta-e-suplemento/111-02)
+       Adoçantes 
+       Barra de cereais 
+       Chas 
+       Emagrecedores 
+       Energeticos 
+       Suplementos 
+       Shakes 
+       +VER TODOS DO DEPARTAMENTO 
 
-  * **Aparelhos** __
+     Aparelhos 
 
-    * [Balança __](/categoria/balanca/124)
-    * [Diabetes __](/categoria/diabetes/128)
-    * [Inalador e nebulizador __](/categoria/inalador-e-nebulizador/126)
-    * [Monitor de pressao arterial __](/categoria/monitor-de-pressao-arterial/125)
-    * [Pilhas __](/categoria/pilhas/129)
-    * [Termometros __](/categoria/termometros/130)
-    * [Teste de gravidez __](/categoria/teste-de-gravidez/131)
-    * [Umidificador de Ar __](/categoria/umidificador-de-ar/132)
-    * [Carregadores __](/categoria/carregadores/133)
-    * [**+VER TODOS** DO DEPARTAMENTO __](/aparelhos/123-02)
+       Balança 
+       Diabetes 
+       Inalador e nebulizador 
+       Monitor de pressao arterial 
+       Pilhas 
+       Termometros 
+       Teste de gravidez 
+       Umidificador de Ar 
+       Carregadores 
+       +VER TODOS DO DEPARTAMENTO 
 
-#### **ATENDIMENTO &** LOCALIZAÇÃO
+ ATENDIMENTO & LOCALIZAÇÃO
 
-  * [__** CENTRAL** DE ATENDIMENTO __](/central-atendimento)
-  * [__** LOJAS MAIS** PRÓXIMA __](/nossas-lojas)
-  * [__** CENTRAL** DO CLIENTE __](/central-cliente)
+      CENTRAL DE ATENDIMENTO 
+      LOJAS MAIS PRÓXIMA 
+      CENTRAL DO CLIENTE 
 
