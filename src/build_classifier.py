@@ -1,4 +1,5 @@
 import os
+import codecs
 import numpy
 
 from pandas import DataFrame
@@ -8,6 +9,8 @@ from sklearn.pipeline import Pipeline
 from sklearn.cross_validation import KFold
 from sklearn.metrics import confusion_matrix, f1_score
 
+NEWLINE = '\n'
+
 # classes
 DRUG = 'drug'
 OTHER = 'other'
@@ -16,11 +19,22 @@ OTHER = 'other'
 # pagina de medicamento e 1 pasta de nao-medicamento
 
 # pastas com os arquivos separados manualmente
-DIRS = [('text/drugs', DRUG), ('text/other', OTHER)]
+DIRS = [('../text/drug/', DRUG), ('../text/other/', OTHER)]
 
-#TODO: leitura de arquivos de uma pasta
+# leitura de arquivos de uma pasta (TODO: limpar sintaxe markdown)
 def read_files(path):
-	pass
+	for root, dir_names, file_names in os.walk(path):
+		for file_name in file_names:
+			file_path = os.path.join(root, file_name)
+			if os.path.isfile(file_path):
+				lines = []
+				f = codecs.open(file_path, encoding='utf-8')
+				for line in f:
+					#print(line)
+					lines.append(line)
+				f.close()
+				content = NEWLINE.join(lines)
+				yield file_path, content
 
 # gerando dataframe para uma pasta
 def generate_dataframe(path, label):
@@ -44,7 +58,7 @@ data = data.reindex(numpy.random.permutation(data.index))
 pipeline = Pipeline([ ('vectorizer', CountVectorizer()) , ('classifier', MultinomialNB()) ])
 pipeline.fit(data['text'].values, data['class'].values)
 
-# validacao (AINDA NAO TESTADO)
+# validacao
 k_fold = KFold(n=len(data), n_folds=8)
 scores = []
 confusion = numpy.array([[0, 0], [0, 0]])
@@ -62,9 +76,16 @@ for train_indexes, test_indexes in k_fold:
     score = f1_score(test_y, predictions, pos_label=DRUG)
     scores.append(score)
 
+print('Documents classified: '+ str(len(data)))
+print('Score: ' + str(sum(scores)/len(scores)))
+print('Confusion matrix:')
+print(confusion)
+
 #TODO: salvar o classificador
 
-# melhorias = feature selection;
+# melhorias = eliminar sintaxe markdown;
+#             validacao;
+#             feature selection;
 #             usar outros classif;
 #             eliminar stopwords em pt-BR;
 #             ajustar parametros dos classif...
