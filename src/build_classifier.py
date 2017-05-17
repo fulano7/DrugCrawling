@@ -1,6 +1,7 @@
 import os
 import codecs
 import numpy
+import pickle
 
 from pandas import DataFrame
 from sklearn.feature_extraction.text import CountVectorizer
@@ -81,14 +82,21 @@ for train_indexes, test_indexes in k_fold:
     scores.append(score)
 
 print('Documents classified: '+ str(len(data)))
-print('Score: ' + str(sum(scores)/len(scores)))
+print('Accuracy: ', str((confusion[0][0]+confusion[1][1])/confusion.sum()))
+print('Precision: ', str(confusion[0][0]/confusion[:][0].sum()))
+print('Recall: ', str(confusion[0][0]/confusion[0].sum()))
+print('F1-Score: ', str(sum(scores)/len(scores)))
 print('Confusion matrix:')
 print(confusion)
 
-#TODO: salvar o classificador
+# salvando o classificador
+f = open("../Classifier.obj", "wb")
+pickle.dump(pipeline, f)
+f.close()
+
+#TODO hoje integrar
 
 # melhorias = validacao;
-#             feature selection;
 #             usar outros classif;
 #             eliminar stopwords em pt-BR;
 #             ajustar parametros dos classif...
