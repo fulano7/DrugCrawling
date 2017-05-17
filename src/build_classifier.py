@@ -102,8 +102,8 @@ def build_classifier(dirs):
     f.close()
 
 #TODO hoje integrar
-build_classifier(DIRS_NH)
-#build_classifier(DIRS_H)
+#build_classifier(DIRS_NH)
+build_classifier(DIRS_H)
 
 # melhorias = validacao;
 #             usar outros classif;

@@ -6,7 +6,7 @@ from sklearn.pipeline import Pipeline
 
 CLASSIFIED = "../classificados/"
 
-def predict(path):
+def predict(path, classifier_path):
     counter = 0
     c_file = codecs.open("../Classifier_NH.obj", "rb")
     c = pickle.load(c_file)
@@ -37,6 +37,9 @@ def predict(path):
 if not os.path.exists(CLASSIFIED):
 	os.makedirs(CLASSIFIED)
 
-predict('../text/heuristic/drug/')
-predict('../text/heuristic/other/')
+#predict('../text/no heuristic/drug/', '../Classifier_NH.obj')
+#predict('../text/no heuristic/other/', '../Classifier_NH.obj')
+
+predict('../text/heuristic/drug/', '../Classifier_H.obj')
+predict('../text/heuristic/other/', '../Classifier_H.obj')
 
