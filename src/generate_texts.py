@@ -5,10 +5,13 @@ import html2text
 
 TEXT = '../text/'
 HTML_NH = '../html/no heuristic/'
+HTML_H = '../html/heuristic/'
 
 def convert(path):
 	counter = 0
+    # da match com sintaxe markdown
 	regex = re.compile(r"[\{\}\[\]\(\)_\*#!]+", flags=re.MULTILINE)
+    # da match com urls
 	regex2 = re.compile(r"https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)", flags=re.MULTILINE)
 	h2t = html2text.HTML2Text()
 	h2t.ignore_links = True
@@ -31,5 +34,6 @@ def convert(path):
 if not os.path.exists(TEXT):
 	os.makedirs(TEXT)
 
-convert(HTML_NH)
+# convert(HTML_NH) - ja separado manualmente
+convert(HTML_H)
 
