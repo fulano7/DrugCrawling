@@ -1,0 +1,1171 @@
+
+            <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+            <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+
+            <head id="Head1"><meta name="google-site-verification" content="_VGwTV0Z3wNC7pQw33rX86U_BGdiQMqGvEu9XPCrV54" />
+                <!--MOBIFY - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG -->
+                <style type="text/css">
+                    .bannerTopo {
+                        width: 100%;
+                        height: auto;
+                        float: left;
+                    }
+                </style>
+                
+                    <script type="text/javascript">
+                        /*<![CDATA[*/
+                        (function(n, p) {
+                            function d(a) {
+                                if (a.mode) {
+                                    var b = c("mobify-mode");
+                                    b && a[b] || (b = a.mode(l.ua));
+                                    return a[b]
+                                }
+                                return a
+                            }
+
+                            function g() {
+                                function a(b) {
+                                    n.addEventListener(b, function() {
+                                        l[b] = +new Date
+                                    }, !1)
+                                }
+                                n.addEventListener && (a("DOMContentLoaded"), a("load"))
+                            }
+
+                            function h() {
+                                var a = new Date;
+                                a.setTime(a.getTime() + 300000);
+                                p.cookie = "mobify-path=; expires=" + a.toGMTString() + "; path=/";
+                                n.location.reload()
+                            }
+
+                            function k() {
+                                e({
+                                    src: "https://preview.mobify.com/v7/"
+                                })
+                            }
+
+                            function c(a) {
+                                if (a = p.cookie.match(RegExp("(^|; )" + a + "((=([^;]*))|(; |$))"))) {
+                                    return a[4] || ""
+                                }
+                            }
+
+                            function f(a) {
+                                p.write('<plaintext style="display:none">');
+                                setTimeout(function() {
+                                    m.capturing = !0;
+                                    a()
+                                }, 0)
+                            }
+
+                            function e(j, o) {
+                                var i = p.getElementsByTagName("script")[0],
+                                    a = p.createElement("script"),
+                                    b;
+                                for (b in j) {
+                                    a[b] = j[b]
+                                }
+                                o && a.setAttribute("class", o);
+                                i.parentNode.insertBefore(a, i)
+                            }
+                            var m = n.Mobify = {},
+                                l = m.Tag = {};
+                            m.points = [+new Date];
+                            m.tagVersion = [7, 0];
+                            l.ua = n.navigator.userAgent;
+                            l.getOptions = d;
+                            l.init = function(b) {
+                                l.options = b;
+                                if ("" !== c("mobify-path")) {
+                                    if (g(), b.skipPreview || "true" != c("mobify-path") && !/mobify-path=true/.test(n.location.hash)) {
+                                        var i = d(b);
+                                        if (i) {
+                                            var a = function() {
+                                                i.post && i.post()
+                                            };
+                                            b = function() {
+                                                i.pre && i.pre();
+                                                e({
+                                                    id: "mobify-js",
+                                                    src: i.url,
+                                                    onerror: h,
+                                                    onload: a
+                                                }, "mobify")
+                                            };
+                                            !1 === i.capture ? b() : f(b)
+                                        }
+                                    } else {
+                                        f(k)
+                                    }
+                                }
+                            }
+                        })(window, document);
+                        (function() {
+                            var b = "//cdn.mobify.com/sites/onofre-mobile/production/adaptive.min.js";
+                            Mobify.Tag.init({
+                                mode: function(a) {
+                                    return /^((?!windows\sphone).)*(ip(hone|od)|android.*(mobile)(?!.*firefox))/i.test(a) ? "enabled" : "desktop"
+                                },
+                                enabled: {
+                                    url: b
+                                },
+                                desktop: {
+                                    capture: !1,
+                                    url: "//a.mobify.com/onofre-mobile/a.js"
+                                }
+                            })
+                        })(); /*]]>*/
+                    </script>
+                    <!-- END MOBIFY -->
+                    
+                        <!--END chat online -->
+                        <script language="javascript" type="text/javascript">window.chaordic_meta = { "page": { "name": "product", "timestamp": new Date(),"selected_specs": {"sales_channel": "24"},"categories": [{"name": "Medicamentos","id": "55"},{"name": "Antiglaucomatoso","id": "56","parents": ["55"]}]},"product": {"id": "22540","name": "Glautimol 5mg (0,5%) Colírio Com 5ml","url": "/glautimol-5mg-05-colirio-com-5ml/22540/05","description": "Maleato de Timolol","images": {"300x300": "https://www.onofre.com.br/img/Busca/imagem_prescricao.jpg"},"categories": [{"name": "Medicamentos","id": "55"},{"name": "Antiglaucomatoso","id": "56","parents": ["55"]}],"installment": {"count": 1,"price":8.54},"extra_info": {"otc": "yes"},"details": {"rating": {"total": "0","value": "0",},"codigo_interno": "001503","registro_ms": "1002301730047","volume": "0","quantidade": "100","generico": "nao","consulta_genericos": "False","programa_beneficio": "False","marca": "Alcon","urlMarca": "/busca/0/0/0/0/21/0/0/08"},"old_price": 11.09,"price": 8.54,"ean_code": "7896548114124","brand": "Alcon","status": "available","skus": [{"sku": "001503","specs": {"sales_channel": "20"},"price": 8.29,"old_price": 10.63,"installment": {"count": 1,"price":8.29},"status": "unavailable"},{"sku": "001503","specs": {"sales_channel": "8"},"price": 7.10,"old_price": 9.46,"installment": {"count": 1,"price":7.10},"status": "unavailable"},{"sku": "001503","specs": {"sales_channel": "27"},"price": 8.07,"old_price": 10.76,"installment": {"count": 1,"price":8.07},"status": "unavailable"},{"sku": "001503","specs": {"sales_channel": "34"},"price": 8.07,"old_price": 10.76,"installment": {"count": 1,"price":8.07},"status": "unavailable"},{"sku": "001503","specs": {"sales_channel": "38"},"price": 8.07,"old_price": 10.76,"installment": {"count": 1,"price":8.07},"status": "unavailable"},{"sku": "001503","specs": {"sales_channel": "737"},"price": 8.29,"old_price": 10.76,"installment": {"count": 1,"price":8.29},"status": "unavailable"},{"sku": "001503","specs": {"sales_channel": "750"},"price": 8.29,"old_price": 10.76,"installment": {"count": 1,"price":8.29},"status": "unavailable"},{"sku": "001503","specs": {"sales_channel": "783"},"price": 8.29,"old_price": 10.63,"installment": {"count": 1,"price":8.29},"status": "unavailable"},{"sku": "001503","specs": {"sales_channel": "12"},"price": 8.54,"old_price": 11.09,"installment": {"count": 1,"price":8.54},"status": "available"},{"sku": "001503","specs": {"sales_channel": "18"},"price": 8.54,"old_price": 11.36,"installment": {"count": 1,"price":8.54},"status": "available"},{"sku": "001503","specs": {"sales_channel": "24"},"price": 8.54,"old_price": 11.09,"installment": {"count": 1,"price":8.54},"status": "available"}],"specs": {"sales_channel": ["20","8","27","34","38","737","750","783","12","18","24"]}}}</script>
+                        <!--Script Chaordic Loader-->
+                        <script async defer src="//static.chaordicsystems.com/static/loader.js" data-apikey="onofrefarma"></script>
+                        <!--<script type="text/javascript"> var headID = document.getElementsByTagName("head")[0]; var newScript = document.createElement('script'); newScript.type = 'text/javascript'; newScript.src = '//static.chaordicsystems.com/static/loader.js'; newScript.setAttribute('data-apikey', 'onofrefarma'); newScript.async = true; newScript.defer = true; headID.appendChild(newScript); </script> -->
+                        <!--Script Chaordic Loader - FIM -->
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=8" /><title>
+	
+    Glautimol 5mg (0,5%) Colírio Com 5ml | Onofre
+
+</title>
+                
+                        <script src="Jss/gaEventos.js"></script>
+                        <link type="image/x-icon" href="https://www.onofre.com.br/favicon.ico" rel="icon" /><link type="image/x-icon" href="https://www.onofre.com.br/favicon.ico" rel="SHORTCUT ICON" />
+                            <!-- CSS -->
+                            <link href="/Jss/Colorbox/colorbox.css" rel="stylesheet"/>
+<link href="/Jss/ToolTip/bubbletip/bubbletip.css" rel="stylesheet"/>
+<link href="/Jss/ToolTip/bubbletip/bubbletip-IE.css" rel="stylesheet"/>
+<link href="/Css/resetNovo.css" rel="stylesheet"/>
+<link href="/Css/star_rating.css" rel="stylesheet"/>
+<link href="/Css/EstiloMasterNovo.css" rel="stylesheet"/>
+<link href="/Css/MasterNova.css" rel="stylesheet"/>
+<link href="/shadowbox/shadowbox.css" rel="stylesheet"/>
+<link href="/Css/rodape.css" rel="stylesheet"/>
+<link href="/Css/EstiloExtraBucks.css" rel="stylesheet"/>
+<link href="/assets/css/base.css" rel="stylesheet"/>
+<link href="/assets/css/common.css" rel="stylesheet"/>
+
+                                <link href="/Css/AutenticacaoPBM.css" rel="stylesheet" />
+                                <!-- CSS -->
+                                <!-- JSS -->
+                                <script src="/assets/js/lib/jquery-1.8.js"></script>
+<script src="/Jss/Dialog/jquery-ui-1.10.1.custom.min.js"></script>
+<script src="/Jss/jquery.maskMoney.js"></script>
+<script src="/shadowbox/shadowbox.js"></script>
+<script src="/Jss/jquery.cookie.js"></script>
+<script src="/Jss/Colorbox/jquery.colorbox-min.js"></script>
+<script src="/Jss/generic.js"></script>
+<script src="/Jss/jqzoom.pack.1.0.1.js"></script>
+<script src="/Jss/jquery.hoverIntent.minified.js"></script>
+<script src="/Jss/ToolTip/jQuery.bubbletip-1.0.6.js"></script>
+<script src="/Jss/ToolTip/ToolTip.js"></script>
+<script src="/assets/js/lib/owl.carousel.min.js"></script>
+<script src="/assets/js/main.js"></script>
+<script src="/Jss/Utils/MasterPage.js"></script>
+
+                                    <script src="/Jss/AutenticaFloatBar.js"></script>
+                                    <link href="/Css/select2.min.css" rel="stylesheet" />
+                                    <script src="/Jss/Utils/select2.min.js"></script>
+                                    <link href="/Css/MasterResponsivo.css" rel="stylesheet" />
+                                    <!-- JSS -->
+                        
+                        <!--[if lt IE 9]> <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
+                        <!-- JSS -->
+                        
+
+    <script type='text/javascript' src='http://v2.afilio.com.br/mastertag.php?progid=1719&type=product&id_partner=drogariaonofre&product_id1=22540&id_category=0&stock=0&product_sku=&product_name=GLAUTIMOL 0,5% 5ML&product_desc=Glautimol 5mg (0,5%) Colírio Com 5ml&product_photo=https://www.onofre.com.br/estatico/Produto/Normal/&price1=8,54&price2=11,09&product_currency=BRL&url_product=http://www.onofre.com.br/DetalheProduto/Default.aspx?ProductName=glautimol-5mg-05-colirio-com-5ml&ProductId=22540'></script>    
+    <link href="/Css/EstiloDetalheProduto.css" rel="stylesheet"/>
+<link href="/Css/jqzoom.css" rel="stylesheet"/>
+<link href="/Jss/Colorbox/colorbox.css" rel="stylesheet"/>
+<link href="/assets/css/prateleira.css" rel="stylesheet"/>
+<link href="/assets/css/produto.css" rel="stylesheet"/>
+<script src="/Jss/DetalheProduto.js"></script>
+<script src="/Jss/jqzoom.pack.1.0.1.js"></script>
+<script src="/Jss/zoom/jquery.jqzoom-core.js"></script>
+<script src="/Jss/zoom/zoom.js"></script>
+<script src="/Jss/Colorbox/jquery.colorbox-min.js"></script>
+<script src="/Jss/Utils/DetalheProduto.js"></script>
+<script src="/assets/js/produto.js"></script>
+
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        var dataLayer = [{
+                               'site' : { 'domain' : document.location.host },
+                               'page' : { 
+                                            'name' : document.title,
+                                            'pageType' : 'product'
+                                        },
+                                               'product' : {
+                                               'productName' : 'GLAUTIMOL 0,5% 5ML',
+                                               'productId' : '22540',
+                                               'productCategory' : '',
+                                               'productSubCategory' : '',
+                                               'productPrice' : '8.54'
+                                           },
+                               'session' : {
+                                                'isLogged': false,
+                                                'user' : { 'id' : 'VISIT-137464925' }
+                                           }
+                                }];; /*]]>*/
+    </script>
+<link rel="stylesheet" type="text/css" href="//onofre.resultspage.com/autocomplete/sli-rac.css" /><meta name="description" content="Glautimol 5mg (0,5%) Colírio Com 5ml da Alcon com o menor preço é na Onofre. Receba seu pedido em casa pagando em até 3x. Compre agora!" /></head>
+
+            <body class="site_bodyteste">
+                <!-- BANNER TOPO -->
+                
+                    <div class="bannerTopo" style="max-height:100px">
+                        
+                    </div>
+                    <!-- FIM - BANNER TOPO -->
+                    <script type="text/javascript" src="//onofre.resultspage.com/autocomplete/sli-rac.config.js"></script>
+                    
+                    <!-- Start Alexa Certify Javascript -->
+                    <script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script>
+                    <script type="text/javascript">
+                        _atrk_opts = {
+                            atrk_acct: "xfCse1aALO00g7",
+                            domain: "onofre.com.br"
+                        };
+                        atrk();
+                    </script>
+                    <noscript> <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=xfCse1aALO00g7" style="display: none" height="1" width="1" alt="" /> </noscript>
+                    <script type="text/javascript">
+                        /* Set the width of the side navigation to 250px */
+                        function openNavMobile() {
+                            document.getElementById("mySidenav").style.width = "255px";
+                        } /* Set the width of the side navigation to 0 */
+                        function closeNavMobile() {
+                            document.getElementById("mySidenav").style.width = "0";
+                        }
+                    </script>
+                    <!-- End Alexa Certify Javascript -->
+                    <form method="post" action="/glautimol-5mg-05-colirio-com-5ml/22540/05" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQwOTAyODk1Mw9kFgJmDw8WBB4PX19BbnRpWHNyZlRva2VuBSBjMjM1OWYwYWRhOTM0ZGFlOTYxZDg2YTk3YzVkNTRjZh4SX19BbnRpWHNyZlVzZXJOYW1lZWQWBgIBD2QWBAIBDxYCHgRUZXh0BYwWPHNjcmlwdCBsYW5ndWFnZT0iamF2YXNjcmlwdCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij53aW5kb3cuY2hhb3JkaWNfbWV0YSA9IHsgInBhZ2UiOiB7ICJuYW1lIjogInByb2R1Y3QiLCAidGltZXN0YW1wIjogbmV3IERhdGUoKSwic2VsZWN0ZWRfc3BlY3MiOiB7InNhbGVzX2NoYW5uZWwiOiAiMjQifSwiY2F0ZWdvcmllcyI6IFt7Im5hbWUiOiAiTWVkaWNhbWVudG9zIiwiaWQiOiAiNTUifSx7Im5hbWUiOiAiQW50aWdsYXVjb21hdG9zbyIsImlkIjogIjU2IiwicGFyZW50cyI6IFsiNTUiXX1dfSwicHJvZHVjdCI6IHsiaWQiOiAiMjI1NDAiLCJuYW1lIjogIkdsYXV0aW1vbCA1bWcgKDAsNSUpIENvbMOtcmlvIENvbSA1bWwiLCJ1cmwiOiAiL2dsYXV0aW1vbC01bWctMDUtY29saXJpby1jb20tNW1sLzIyNTQwLzA1IiwiZGVzY3JpcHRpb24iOiAiTWFsZWF0byBkZSBUaW1vbG9sIiwiaW1hZ2VzIjogeyIzMDB4MzAwIjogImh0dHBzOi8vd3d3Lm9ub2ZyZS5jb20uYnIvaW1nL0J1c2NhL2ltYWdlbV9wcmVzY3JpY2FvLmpwZyJ9LCJjYXRlZ29yaWVzIjogW3sibmFtZSI6ICJNZWRpY2FtZW50b3MiLCJpZCI6ICI1NSJ9LHsibmFtZSI6ICJBbnRpZ2xhdWNvbWF0b3NvIiwiaWQiOiAiNTYiLCJwYXJlbnRzIjogWyI1NSJdfV0sImluc3RhbGxtZW50IjogeyJjb3VudCI6IDEsInByaWNlIjo4LjU0fSwiZXh0cmFfaW5mbyI6IHsib3RjIjogInllcyJ9LCJkZXRhaWxzIjogeyJyYXRpbmciOiB7InRvdGFsIjogIjAiLCJ2YWx1ZSI6ICIwIix9LCJjb2RpZ29faW50ZXJubyI6ICIwMDE1MDMiLCJyZWdpc3Ryb19tcyI6ICIxMDAyMzAxNzMwMDQ3Iiwidm9sdW1lIjogIjAiLCJxdWFudGlkYWRlIjogIjEwMCIsImdlbmVyaWNvIjogIm5hbyIsImNvbnN1bHRhX2dlbmVyaWNvcyI6ICJGYWxzZSIsInByb2dyYW1hX2JlbmVmaWNpbyI6ICJGYWxzZSIsIm1hcmNhIjogIkFsY29uIiwidXJsTWFyY2EiOiAiL2J1c2NhLzAvMC8wLzAvMjEvMC8wLzA4In0sIm9sZF9wcmljZSI6IDExLjA5LCJwcmljZSI6IDguNTQsImVhbl9jb2RlIjogIjc4OTY1NDgxMTQxMjQiLCJicmFuZCI6ICJBbGNvbiIsInN0YXR1cyI6ICJhdmFpbGFibGUiLCJza3VzIjogW3sic2t1IjogIjAwMTUwMyIsInNwZWNzIjogeyJzYWxlc19jaGFubmVsIjogIjIwIn0sInByaWNlIjogOC4yOSwib2xkX3ByaWNlIjogMTAuNjMsImluc3RhbGxtZW50IjogeyJjb3VudCI6IDEsInByaWNlIjo4LjI5fSwic3RhdHVzIjogInVuYXZhaWxhYmxlIn0seyJza3UiOiAiMDAxNTAzIiwic3BlY3MiOiB7InNhbGVzX2NoYW5uZWwiOiAiOCJ9LCJwcmljZSI6IDcuMTAsIm9sZF9wcmljZSI6IDkuNDYsImluc3RhbGxtZW50IjogeyJjb3VudCI6IDEsInByaWNlIjo3LjEwfSwic3RhdHVzIjogInVuYXZhaWxhYmxlIn0seyJza3UiOiAiMDAxNTAzIiwic3BlY3MiOiB7InNhbGVzX2NoYW5uZWwiOiAiMjcifSwicHJpY2UiOiA4LjA3LCJvbGRfcHJpY2UiOiAxMC43NiwiaW5zdGFsbG1lbnQiOiB7ImNvdW50IjogMSwicHJpY2UiOjguMDd9LCJzdGF0dXMiOiAidW5hdmFpbGFibGUifSx7InNrdSI6ICIwMDE1MDMiLCJzcGVjcyI6IHsic2FsZXNfY2hhbm5lbCI6ICIzNCJ9LCJwcmljZSI6IDguMDcsIm9sZF9wcmljZSI6IDEwLjc2LCJpbnN0YWxsbWVudCI6IHsiY291bnQiOiAxLCJwcmljZSI6OC4wN30sInN0YXR1cyI6ICJ1bmF2YWlsYWJsZSJ9LHsic2t1IjogIjAwMTUwMyIsInNwZWNzIjogeyJzYWxlc19jaGFubmVsIjogIjM4In0sInByaWNlIjogOC4wNywib2xkX3ByaWNlIjogMTAuNzYsImluc3RhbGxtZW50IjogeyJjb3VudCI6IDEsInByaWNlIjo4LjA3fSwic3RhdHVzIjogInVuYXZhaWxhYmxlIn0seyJza3UiOiAiMDAxNTAzIiwic3BlY3MiOiB7InNhbGVzX2NoYW5uZWwiOiAiNzM3In0sInByaWNlIjogOC4yOSwib2xkX3ByaWNlIjogMTAuNzYsImluc3RhbGxtZW50IjogeyJjb3VudCI6IDEsInByaWNlIjo4LjI5fSwic3RhdHVzIjogInVuYXZhaWxhYmxlIn0seyJza3UiOiAiMDAxNTAzIiwic3BlY3MiOiB7InNhbGVzX2NoYW5uZWwiOiAiNzUwIn0sInByaWNlIjogOC4yOSwib2xkX3ByaWNlIjogMTAuNzYsImluc3RhbGxtZW50IjogeyJjb3VudCI6IDEsInByaWNlIjo4LjI5fSwic3RhdHVzIjogInVuYXZhaWxhYmxlIn0seyJza3UiOiAiMDAxNTAzIiwic3BlY3MiOiB7InNhbGVzX2NoYW5uZWwiOiAiNzgzIn0sInByaWNlIjogOC4yOSwib2xkX3ByaWNlIjogMTAuNjMsImluc3RhbGxtZW50IjogeyJjb3VudCI6IDEsInByaWNlIjo4LjI5fSwic3RhdHVzIjogInVuYXZhaWxhYmxlIn0seyJza3UiOiAiMDAxNTAzIiwic3BlY3MiOiB7InNhbGVzX2NoYW5uZWwiOiAiMTIifSwicHJpY2UiOiA4LjU0LCJvbGRfcHJpY2UiOiAxMS4wOSwiaW5zdGFsbG1lbnQiOiB7ImNvdW50IjogMSwicHJpY2UiOjguNTR9LCJzdGF0dXMiOiAiYXZhaWxhYmxlIn0seyJza3UiOiAiMDAxNTAzIiwic3BlY3MiOiB7InNhbGVzX2NoYW5uZWwiOiAiMTgifSwicHJpY2UiOiA4LjU0LCJvbGRfcHJpY2UiOiAxMS4zNiwiaW5zdGFsbG1lbnQiOiB7ImNvdW50IjogMSwicHJpY2UiOjguNTR9LCJzdGF0dXMiOiAiYXZhaWxhYmxlIn0seyJza3UiOiAiMDAxNTAzIiwic3BlY3MiOiB7InNhbGVzX2NoYW5uZWwiOiAiMjQifSwicHJpY2UiOiA4LjU0LCJvbGRfcHJpY2UiOiAxMS4wOSwiaW5zdGFsbG1lbnQiOiB7ImNvdW50IjogMSwicHJpY2UiOjguNTR9LCJzdGF0dXMiOiAiYXZhaWxhYmxlIn1dLCJzcGVjcyI6IHsic2FsZXNfY2hhbm5lbCI6IFsiMjAiLCI4IiwiMjciLCIzNCIsIjM4IiwiNzM3IiwiNzUwIiwiNzgzIiwiMTIiLCIxOCIsIjI0Il19fX08L3NjcmlwdD5kAggPZBYCZg8WAh8CBfwDPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnIHNyYz0naHR0cDovL3YyLmFmaWxpby5jb20uYnIvbWFzdGVydGFnLnBocD9wcm9naWQ9MTcxOSZ0eXBlPXByb2R1Y3QmaWRfcGFydG5lcj1kcm9nYXJpYW9ub2ZyZSZwcm9kdWN0X2lkMT0yMjU0MCZpZF9jYXRlZ29yeT0wJnN0b2NrPTAmcHJvZHVjdF9za3U9JnByb2R1Y3RfbmFtZT1HTEFVVElNT0wgMCw1JSA1TUwmcHJvZHVjdF9kZXNjPUdsYXV0aW1vbCA1bWcgKDAsNSUpIENvbMOtcmlvIENvbSA1bWwmcHJvZHVjdF9waG90bz1odHRwczovL3d3dy5vbm9mcmUuY29tLmJyL2VzdGF0aWNvL1Byb2R1dG8vTm9ybWFsLyZwcmljZTE9OCw1NCZwcmljZTI9MTEsMDkmcHJvZHVjdF9jdXJyZW5jeT1CUkwmdXJsX3Byb2R1Y3Q9aHR0cDovL3d3dy5vbm9mcmUuY29tLmJyL0RldGFsaGVQcm9kdXRvL0RlZmF1bHQuYXNweD9Qcm9kdWN0TmFtZT1nbGF1dGltb2wtNW1nLTA1LWNvbGlyaW8tY29tLTVtbCZQcm9kdWN0SWQ9MjI1NDAnPjwvc2NyaXB0PmQCAw8WAh4HVmlzaWJsZWhkAgcPFgIeBmFjdGlvbgUqL2dsYXV0aW1vbC01bWctMDUtY29saXJpby1jb20tNW1sLzIyNTQwLzA1FhICAQ8WAh8DaGQCBw8WAh8DaGQCDA8PFgIfAgUHUiQgMCwwMGRkAg0PFgIfAmVkAg4PFgIfA2hkAg8PDxYCHwIFB1IkIDAsMDBkZAIUD2QWNgICD2QWAmYPFgIfAgXQATxhIGhyZWY9Ii9EZWZhdWx0LmFzcHgiPkRyb2dhcmlhIE9ub2ZyZTwvYT4gJiM2MjsgPGEgaHJlZj0vbWVkaWNhbWVudG9zLzU1LzAxIGNsYXNzPSJicmVhZF9iZWxlemEiPk1lZGljYW1lbnRvczwvYT4gJiM2MjsgPGEgaHJlZj0vbWVkaWNhbWVudG9zL2FudGlnbGF1Y29tYXRvc28vNTYvMDMgY2xhc3M9ImJyZWFkX2JlbGV6YSI+QW50aWdsYXVjb21hdG9zbzwvYT5kAgMPFgQeBXN0eWxlBUFiYWNrZ3JvdW5kOndoaXRlO2JvcmRlci1yYWRpdXM6NXB4O2NvbG9yOndoaXRlO3RleHQtYWxpZ246Y2VudGVyOx4JaW5uZXJodG1sBQxzZWxvIHByb2R1dG9kAgQPFgQeBXRpdGxlZR4EaHJlZgUxaHR0cHM6Ly93d3cub25vZnJlLmNvbS5ici9lc3RhdGljby9Qcm9kdXRvL1N1cGVyLxYCAgEPDxYCHghJbWFnZVVybAU4aHR0cDovL2ltZy5vbm9mcmUuY29tLmJyL2ltZy9CdXNjYS9pbWFnZW1fcHJlc2NyaWNhby5qcGdkZAIJDxYCHwNoZAIKDw8WAh8CBQxDw7NkOiAwMDE1MDNkZAILDw8WAh8CBRIgTVM6IDEwMDIzMDE3MzAwNDdkZAINDw8WAh8CBSVHbGF1dGltb2wgNW1nICgwLDUlKSBDb2zDrXJpbyBDb20gNW1sZGQCDg8PFgIfAmVkZAIPDw8WAh8CBUI8YSBjbGFzcz0iZmFicmljYW50ZTIiIGhyZWY9Ii9nbGF1dGltb2wtMDUtNW1sLzIyNTQwLzA3Ij5BbGNvbjwvYT5kZAIQDxYCHwNnFgICAQ8PFgIfAgUSTWFsZWF0byBkZSBUaW1vbG9sZGQCEw8WAh8DaGQCFA8WBh8IBTJodHRwczovL3d3dy5vbm9mcmUuY29tLmJyL2VzdGF0aWNvL0J1bGEvMDAxNTAzLnBkZh4GdGFyZ2V0BQZfYmxhbmsfA2dkAhYPFgIfA2hkAhcPZBYCAgMPDxYCHwIFH1ZlbmRhIHNvYiBwcmVzY3Jpw6fDo28gbcOpZGljYS5kZAIYDxYCHwNoZAIZD2QWCAIBD2QWBgIBDw8WAh8CBQpRdWFudGlkYWRlZGQCAw8PFgIfAgUKUXVhbnRpZGFkZWRkAgUPFgIeC18hSXRlbUNvdW50AgEWAmYPZBYCAgEPFgIfCAUqL2dsYXV0aW1vbC01bWctMDUtY29saXJpby1jb20tNW1sLzIyNTQwLzA1FgQCAQ8PFgIfCQVAaHR0cHM6Ly93d3cub25vZnJlLmNvbS5ici9lc3RhdGljby9wcm9kdXRvL2VzcGVjaWZpY2FjYW8vMjYwLmpwZ2RkAgIPFQEDNW1MZAIDD2QWBAIBD2QWAgIBDw8WAh8CBQhSJCAxMSwwOWRkAgMPDxYCHwIFB1IkIDgsNTRkZAIFDxYCHwNnFgICAw8WBB8GBQdDb21wcmFyHwgFbGphdmFzY3JpcHQ6Y2hhbWFyQWpheFF0ZCgnQWRkSXRlbScsJ1t7aWRQcm9kdWN0OjIyNTQwfV0nLHBhcmVudC5kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgndHh0X1F0ZERQJykudmFsdWUpO2QCBw9kFgICAQ8WAh4Hb25jbGljawVLRXhpYmlyUG9wdXAoJy9EZXRhbGhlUHJvZHV0by9Fc3RvcXVlSW5mb3JtYXIuYXNweD9Qcm9kdWN0SWQ9MjI1NDAnLDUwMCw0NDApZAIcDxYCHwNoZAIdDxYCHgVjbGFzcwUbQW52aXNhRXRpcXVldGFUZXh0b1NlbUJvcmRhFgQCAQ9kFgICAQ8WAh8CZWQCAw9kFgQCAQ8PFgIfAmVkZAIDDxYCHw0FFUFudmlzYUV0aXF1ZXRhTWVuc1JFRBYCAgEPDxYCHwIFH1ZFTkRBIFNPQiBQUkVTQ1JJw4fDg08gTcOJRElDQS5kZAIeDxYCHwNoZAIfDxYCHw0FD3RhYi1pdGVtIGFjdGl2ZWQCIA8WAh8DaGQCIQ8WAh8DaGQCIg8WAh8DaBYCAgEPFgQfCAUyaHR0cHM6Ly93d3cub25vZnJlLmNvbS5ici9lc3RhdGljby9CdWxhLzAwMTUwMy5wZGYfCgUGX2JsYW5rZAIjDxYCHw0FHHRhYi1jb250ZW50IGRlc2NyaWNhbyBhY3RpdmUWAgIBDxYCHwIFgpoBPFAgYWxpZ249anVzdGlmeT48U1RST05HPjxGT05UIGZhY2U9VGFob21hIGNvbG9yPSM4MDgwODAgc2l6ZT0yPkdsYXV0aW1vbDxTVVA+wq48L1NVUD48QlI+PC9GT05UPjwvU1RST05HPjxGT05UIGZhY2U9VGFob21hIGNvbG9yPSM4MDgwODAgc2l6ZT0yPlRpbW9sb2wgMCw1JTxCUj5NYWxlYXRvPEJSPlNvbHXDp8OjbyBPZnTDoWxtaWNhIEVzdMOpcmlsIDwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxGT05UIGZhY2U9VGFob21hIGNvbG9yPSM4MDgwODAgc2l6ZT0yPlVTTyBBRFVMVE88L0ZPTlQ+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48Rk9OVCBmYWNlPVRhaG9tYSBjb2xvcj0jODA4MDgwIHNpemU9Mj5Tb2x1w6fDo28gT2Z0w6FsbWljYSBFc3TDqXJpbCA8L0ZPTlQ+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48U1RST05HPjxGT05UIGZhY2U9VGFob21hIGNvbG9yPSM4MDgwODAgc2l6ZT0yPkZPUk1BIEZBUk1BQ8OKVVRJQ0EgRSBBUFJFU0VOVEHDh8ODTzogPC9GT05UPjwvU1RST05HPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+RnJhc2NvIHBsw6FzdGljbyBjb250YS1nb3RhcyBjb250ZW5kbyA1IG1sIGRlIHNvbHXDp8OjbyBvZnTDoWxtaWNhIGVzdMOpcmlsLjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxTVFJPTkc+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+Q09NUE9TScOHw4NPOiA8L0ZPTlQ+PC9TVFJPTkc+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48Rk9OVCBmYWNlPVRhaG9tYSBjb2xvcj0jODA4MDgwIHNpemU9Mj5DYWRhIG1sIGRlIEdMQVVUSU1PTCAwLDUlIGNvbnTDqW06PC9GT05UPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+VGltb2xvbCAobmEgZm9ybWEgZGUgbWFsZWF0byBkZSB0aW1vbG9sKS4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uNSwwIG1nIDwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxGT05UIGZhY2U9VGFob21hIGNvbG9yPSM4MDgwODAgc2l6ZT0yPlZlw61jdWxvIGNvbnN0aXR1w61kbyBkZSBmb3NmYXRvIGRlIHPDs2RpbyBkaWLDoXNpY28gYW5pZHJvLCBmb3NmYXRvIGRlIHPDs2RpbyBtb25vYsOhc2ljbyBtb25vaWRyYXRhZG8sIMOhY2lkbyBjbG9yw61kcmljbyBlL291IGhpZHLDs3hpZG8gZGUgc8OzZGlvLCBjbG9yZXRvIGRlIGJlbnphbGPDtG5pbyBjb21vIGNvbnNlcnZhbnRlIGUgw6FndWEgcHVyaWZpY2FkYSBxLnMucC4gMSBtbC48L0ZPTlQ+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48U1RST05HPjxGT05UIGZhY2U9VGFob21hIGNvbG9yPSM4MDgwODAgc2l6ZT0yPklORElDQcOHw5VFUzogPC9GT05UPjwvU1RST05HPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+R0xBVVRJTU9MIFNvbHXDp8OjbyBPZnTDoWxtaWNhIMOpIGluZGljYWRvIG5vIHRyYXRhbWVudG8gZGEgcHJlc3PDo28gaW50cmEtb2N1bGFyIGVsZXZhZGEgZW0gcGFjaWVudGVzIGNvbSBoaXBlcnRlbnPDo28gb2N1bGFyIG91IGdsYXVjb21hIGRlIMOibmd1bG8gYWJlcnRvLjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxTVFJPTkc+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+Q09OVFJBLUlORElDQcOHw5VFUzogPC9GT05UPjwvU1RST05HPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+UGFjaWVudGVzIGNvbSBhc21hIGJyw7RucXVpY2EsIG91IGhpc3TDs3JpY28gZGUgYXNtYSBicsO0bnF1aWNhLCBkb2Vuw6dhIHB1bG1vbmFyIG9ic3RydXRpdmEgY3LDtG5pY2Egc2V2ZXJhLCBicmFkaWNhcmRpYSBzaW51c2FsLCBibG9xdWVpbyBhdHJpb3ZlbnRyaWN1bGFyIGRlIHNlZ3VuZG8gZSB0ZXJjZWlybyBncmF1cywgaW5zdWZpY2nDqm5jaWEgY2FyZMOtYWNhIG1hbmlmZXN0YSwgY2hvcXVlIGNhcmRpb2fDqm5pY28gb3UgaGlwZXJzZW5zaWJpbGlkYWRlIGFvcyBjb21wb25lbnRlcyBkbyBwcm9kdXRvLjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxTVFJPTkc+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+QURWRVJUw4pOQ0lBUzogPC9GT05UPjwvU1RST05HPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+QXMgbWVzbWFzIHJlYcOnw7VlcyBhZHZlcnNhcyBxdWUgb2NvcnJlbSBjb20gYSBhZG1pbmlzdHJhw6fDo28gc2lzdMOqbWljYSBkZSBhZ2VudGVzIGJsb3F1ZWFkb3JlcyBiZXRhLWFkcmVuw6lyZ2ljb3MgcG9kZW0gb2NvcnJlciBjb20gYSBhZG1pbmlzdHJhw6fDo28gdMOzcGljYS4gUG9yIGV4ZW1wbG8sIHJlYcOnw7VlcyByZXNwaXJhdMOzcmlhcyBzZXZlcmFzIGUgcmVhw6fDtWVzIGNhcmTDrWFjYXMsIGluY2x1aW5kbyBtb3J0ZSBwb3IgYnJvbmNvZXNwYXNtbyBlbSBwYWNpZW50ZXMgY29tIGFzbWEgZSByYXJhbWVudGUgbW9ydGUgZW0gYXNzb2NpYcOnw6NvIGNvbSBpbnN1ZmljacOqbmNpYSBjYXJkw61hY2EsIGZvcmFtIHJlbGF0YWRhcyBhcMOzcyBhIGFkbWluaXN0cmHDp8OjbyBzaXN0w6ptaWNhIG91IG9mdMOhbG1pY2EgZGUgbWFsZWF0byBkZSB0aW1vbG9sLjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxGT05UIGZhY2U9VGFob21hPjxGT05UIHNpemU9Mj48Rk9OVCBjb2xvcj0jODA4MDgwPjxTVFJPTkc+SW5zdWZpY2nDqm5jaWEgY2FyZMOtYWNhOjwvU1RST05HPiBBIGVzdGltdWxhw6fDo28gc2ltcMOhdGljYSBwb2RlIHNlciBlc3NlbmNpYWwgcGFyYSBtYW50ZXIgYSBjaXJjdWxhw6fDo28gZW0gcGVzc29hcyBjb20gY29udHJhdGlsaWRhZGUgbWlvY8OhcmRpY2EgZGltaW51w61kYSwgZSBzdWEgaW5pYmnDp8OjbyBwb3IgYmxvcXVlYWRvciBkZSByZWNlcHRvciBiZXRhLWFkcmVuw6lyZ2ljbyBwb2RlIHByZWNpcGl0YXIgaW5zdWZpY2nDqm5jaWEgbWFpcyBzZXZlcmEuPC9GT05UPjwvRk9OVD48L0ZPTlQ+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48Rk9OVCBmYWNlPVRhaG9tYT48Rk9OVCBzaXplPTI+PEZPTlQgY29sb3I9IzgwODA4MD48U1RST05HPlBhY2llbnRlcyBzZW0gaGlzdMOzcmljbyBkZSBpbnN1ZmljacOqbmNpYSBjYXJkw61hY2E6PC9TVFJPTkc+IEEgZGVwcmVzc8OjbyBjb250aW51YWRhIGRvIG1pb2PDoXJkaW8gcG9yIGFnZW50ZXMgYmV0YS1ibG9xdWVhZG9yZXMgcG9yIHVtIHBlcsOtb2RvIGRlIHRlbXBvIHBvZGUsIGVtIGFsZ3VucyBjYXNvcywgbGV2YXIgw6AgaW5zdWZpY2nDqm5jaWEgY2FyZMOtYWNhLiBBbyBwcmltZWlybyBzaW5hbCBvdSBzaW50b21hIGRlIGluc3VmaWNpw6puY2lhIGNhcmTDrWFjYSwgaW50ZXJyb21wZXIgbyB1c28gZGUgR0xBVVRJTU9MLjwvRk9OVD48L0ZPTlQ+PC9GT05UPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWE+PEZPTlQgc2l6ZT0yPjxGT05UIGNvbG9yPSM4MDgwODA+PFNUUk9ORz5Eb2Vuw6dhIHB1bG1vbmFyIG9ic3RydXRpdmE6PC9TVFJPTkc+IFBhY2llbnRlcyBjb20gZG9lbsOnYSBwdWxtb25hciBvYnN0cnV0aXZhIGNyw7RuaWNhIChleC46IGJyb25xdWl0ZSBjcsO0bmljYSwgZW5maXNlbWEpIGRlIHNldmVyaWRhZGUgbW9kZXJhZGEsIGRvZW7Dp2EgYnJvbmNvc3DDoXN0aWNhIG91IGhpc3TDs3JpY28gZGUgZG9lbsOnYSBicm9uY29zcMOhc3RpY2EgbsOjbyBkZXZlbSwgZW0gZ2VyYWwsIHJlY2ViZXIgYmV0YS1ibG9xdWVhZG9yZXMgaW5jbHVpbmRvIEdMQVVUSU1PTC48L0ZPTlQ+PC9GT05UPjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxGT05UIGZhY2U9VGFob21hPjxGT05UIHNpemU9Mj48Rk9OVCBjb2xvcj0jODA4MDgwPjxTVFJPTkc+Q2lydXJnaWE6PC9TVFJPTkc+IE8gdXNvIGRlIGFnZW50ZXMgYmxvcXVlYWRvcmVzIGJldGEtYWRyZW7DqXJnaWNvcyBwb2RlIGF1bWVudGFyIG8gcmlzY28gZGEgYW5lc3Rlc2lhIGdlcmFsIGVtIHByb2NlZGltZW50b3MgY2lyw7pyZ2ljb3M7IHBvciBlc3RhIHJhesOjbywgcmVjb21lbmRhLXNlIHN1c3BlbmRlciBncmFkdWFsbWVudGUgbyB1c28gZGVzdGVzIGFnZW50ZXMgZW0gY2FzbyBkZSBjaXJ1cmdpYS4gU2UgbmVjZXNzw6FyaW8gZHVyYW50ZSBhIGNpcnVyZ2lhLCBvcyBlZmVpdG9zIGRvcyBhZ2VudGVzIGJsb3F1ZWFkb3JlcyBiZXRhLWFkcmVuw6lyZ2ljb3MgcG9kZW0gc2VyIHJldmVydGlkb3MgY29tIGRvc2VzIHN1ZmljaWVudGVzIGRlIGFnb25pc3RhcyBhZHJlbsOpcmdpY29zLjwvRk9OVD48L0ZPTlQ+PC9GT05UPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWE+PEZPTlQgc2l6ZT0yPjxGT05UIGNvbG9yPSM4MDgwODA+PFNUUk9ORz5EaWFiZXRlcyBNZWxsaXR1czo8L1NUUk9ORz4gT3MgYWdlbnRlcyBibG9xdWVhZG9yZXMgYmV0YS1hZHJlbsOpcmdpY29zIHBvZGVtIG1hc2NhcmFyIG9zIHNpbmFpcyBlIHNpbnRvbWFzIGRhIGhpcG9nbGljZW1pYSBhZ3VkYSwgZGV2ZW5kbyBzZXIgYWRtaW5pc3RyYWRvcyBjb20gY3VpZGFkbyBlbSBwYWNpZW50ZXMgc3VqZWl0b3Mgw6AgaGlwb2dsaWNlbWlhIGVzcG9udMOibmVhIG91IGRpYWLDqXRpY29zIHNvYiB0cmF0YW1lbnRvIGNvbSBpbnN1bGluYSBvdSBhZ2VudGVzIGhpcG9nbGljZW1pYW50ZXMgb3JhaXMuPC9GT05UPjwvRk9OVD48L0ZPTlQ+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48Rk9OVCBmYWNlPVRhaG9tYT48Rk9OVCBzaXplPTI+PEZPTlQgY29sb3I9IzgwODA4MD48U1RST05HPlRpcmVvdG94aWNvc2U6PC9TVFJPTkc+IE9zIGFnZW50ZXMgYmxvcXVlYWRvcmVzIGJldGEtYWRyZW7DqXJnaWNvcyBwb2RlbSBtYXNjYXJhciBjZXJ0b3Mgc2luYWlzIGNsw61uaWNvcyAoZXguOiB0YXF1aWNhcmRpYSkgZG8gaGlwZXJ0aXJlb2lkaXNtby4gUGFjaWVudGVzIGNvbSBzdXNwZWl0YSBkZSBkZXNlbnZvbHZlciB0aXJlb3RveGljb3NlIGRldmVtIHNlciBjdWlkYWRvc2FtZW50ZSBjb250cm9sYWRvcyBwYXJhIGV2aXRhciBhIHJldGlyYWRhIGFicnVwdGEgZG9zIGFnZW50ZXMgYmxvcXVlYWRvcmVzIGJldGEtYWRyZW7DqXJnaWNvcywgYSBxdWFsIHBvZGUgcHJlY2lwaXRhciB1bWEgY3Jpc2UgZGUgdGlyZcOzaWRlLjwvRk9OVD48L0ZPTlQ+PC9GT05UPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWE+PEZPTlQgc2l6ZT0yPjxGT05UIGNvbG9yPSM4MDgwODA+PFNUUk9ORz4mbmJzcDs8L1NUUk9ORz48U1RST05HPlBSRUNBVcOHw5VFUzo8L1NUUk9ORz48L0ZPTlQ+PC9GT05UPjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxGT05UIGZhY2U9VGFob21hPjxGT05UIHNpemU9Mj48Rk9OVCBjb2xvcj0jODA4MDgwPjxTVFJPTkc+R2VyYWw6PC9TVFJPTkc+IERldmlkbyBhb3MgZWZlaXRvcyBwb3RlbmNpYWlzIGRvcyBibG9xdWVhZG9yZXMgYmV0YS1hZHJlbsOpcmdpY29zIHNvYnJlIGEgcHJlc3PDo28gc2FuZ8O8w61uZWEgZSBwdWxzbywgZXN0ZXMgYWdlbnRlcyBkZXZlbSBzZXIgdXNhZG9zIGNvbSBwcmVjYXXDp8OjbyBlbSBwYWNpZW50ZXMgY29tIGluc3VmaWNpw6puY2lhIGNlcmVicm92YXNjdWxhci4gU2UgYXBhcmVjZXJlbSBzaW5haXMgZSBzaW50b21hcyBkZSByZWR1w6fDo28gZG8gZmx1eG8gc2FuZ8O8w61uZW8gY2VyZWJyYWwsIGFww7NzIG8gaW7DrWNpbyBkbyB0cmF0YW1lbnRvIGNvbSBHTEFVVElNT0wsIGRldmUgc2VyIGNvbnNpZGVyYWRhIHVtYSB0ZXJhcGlhIGFsdGVybmF0aXZhLjwvRk9OVD48L0ZPTlQ+PC9GT05UPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+VGVtIHNpZG8gcmVsYXRhZGEgYSBvY29ycsOqbmNpYSBkZSBjZXJhdGl0ZSBiYWN0ZXJpYW5hIGFzc29jaWFkYSBhbyB1c28gZGUgZnJhc2NvIG11bHRpZG9zZSBkZSBzb2x1w6fDo28gb2Z0w6FsbWljYSB0w7NwaWNhIGNvbnRhbWluYWRvIGluYWR2ZXJ0aWRhbWVudGUgcG9yIHBhY2llbnRlcyBjb20gZG9lbsOnYSBjb3JuZWFuYSBjb25jb21pdGFudGUgb3Ugcm9tcGltZW50byBkYSBzdXBlcmbDrWNpZSBlcGl0ZWxpYWwgb2N1bGFyLjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxGT05UIGZhY2U9VGFob21hIGNvbG9yPSM4MDgwODAgc2l6ZT0yPkRlc2NvbGFtZW50byBkZSBjb3LDs2lkZSBhcMOzcyBwcm9jZWRpbWVudG9zIGRlIGZpbHRyYcOnw6NvIGZvaSByZWxhdGFkbyBjb20gYSBhZG1pbmlzdHJhw6fDo28gZGUgdGVyYXBpYSBzdXByZXNzb3JhIGRlIGh1bW9yIGFxdW9zbyAoZXguOiB0aW1vbG9sKS48L0ZPTlQ+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48Rk9OVCBmYWNlPVRhaG9tYT48Rk9OVCBzaXplPTI+PEZPTlQgY29sb3I9IzgwODA4MD48U1RST05HPkdsYXVjb21hIGRlIMOibmd1bG8gZmVjaGFkbzo8L1NUUk9ORz4gR0xBVVRJTU9MIHBvc3N1aSBwb3VjbyBvdSBxdWFzZSBuZW5odW0gZWZlaXRvIHNvYnJlIGEgcHVwaWxhLiBQb3J0YW50bywgbm8gdHJhdGFtZW50byBkbyBnbGF1Y29tYSBkZSDDom5ndWxvIGZlY2hhZG8sIEdMQVVUSU1PTCBkZXZlIHNlciB1c2FkbyBjb20gdW0gbWnDs3RpY28gZSBuw6NvIGlzb2xhZGFtZW50ZSwgb25kZSBvIG9iamV0aXZvIGltZWRpYXRvIMOpIGEgcmVhYmVydHVyYSBkbyDDom5ndWxvLCBvIHF1ZSByZXF1ZXIgYSBjb25zdHJpw6fDo28gZGEgcHVwaWxhLjwvRk9OVD48L0ZPTlQ+PC9GT05UPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWE+PEZPTlQgc2l6ZT0yPjxGT05UIGNvbG9yPSM4MDgwODA+PFNUUk9ORz5BbmFmaWxheGlhOjwvU1RST05HPiBPcyBwYWNpZW50ZXMgY29tIGhpc3TDs3JpY28gZGUgYXRvcGlhIG91IGNvbSBoaXN0w7NyaWNvIGRlIHJlYcOnw7VlcyBhbmFmaWzDoXRpY2FzIHNldmVyYXMgYSBkaXZlcnNvcyBhbMOpcmdlbm9zLCBlbnF1YW50byBlc3RpdmVyZW0gdXNhbmRvIGJldGEtYmxvcXVlYWRvcmVzLCB0b3JuYW0tc2UgbWFpcyByZXNwb25zaXZvcyBhIHJlcGV0aWRhcyBleHBvc2nDp8O1ZXMgYSBlc3RlcyBhbMOpcmdlbm9zLCBzZWphbSBlc3RhcyBhY2lkZW50YWlzLCBwYXJhIGRpYWduw7NzdGljbyBvdSB0ZXJhcMOqdXRpY2FzLiBUYWlzIHBhY2llbnRlcyBwb2RlbSBuw6NvIHJlc3BvbmRlciDDoHMgZG9zZXMgdXN1YWlzIGRlIGVwaW5lZnJpbmEgbm8gdHJhdGFtZW50byBkZSByZWHDp8O1ZXMgYW5hZmlsw6F0aWNhcy48L0ZPTlQ+PC9GT05UPjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxGT05UIGZhY2U9VGFob21hPjxGT05UIHNpemU9Mj48Rk9OVCBjb2xvcj0jODA4MDgwPjxTVFJPTkc+RnJhcXVlemEgbXVzY3VsYXI6PC9TVFJPTkc+IFRlbSBzaWRvIHJlbGF0YWRvIHF1ZSBvcyBibG9xdWVhZG9yZXMgYmV0YS1hZHJlbsOpcmdpY29zIHBvdGVuY2lhbGl6YW0gYSBmcmFxdWV6YSBtdXNjdWxhciBjb25zaXN0ZW50ZSBjb20gY2VydG9zIHNpbnRvbWFzIG1pYXN0w6puaWNvcyAoZXguOiBkaXBsb3BpYSwgcHRvc2UgZSBmcmFxdWV6YSBnZW5lcmFsaXphZGEpLiBFbnRyZXRhbnRvLCBvIG1hbGVhdG8gZGUgdGltb2xvbCByYXJhbWVudGUgYXVtZW50YSBhIGZyYXF1ZXphIG11c2N1bGFyIGVtIHBhY2llbnRlcyBjb20gbWlhc3RlbmlhIGdyYXZpcyBvdSBzaW50b21hcyBtaWFzdMOqbmljb3MuPC9GT05UPjwvRk9OVD48L0ZPTlQ+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48Rk9OVCBmYWNlPVRhaG9tYT48Rk9OVCBzaXplPTI+PEZPTlQgY29sb3I9IzgwODA4MD48U1RST05HPkdyYXZpZGV6IGUgRWZlaXRvcyBUZXJhdG9nw6puaWNvczo8L1NUUk9ORz4gRXN0dWRvcyBkZSB0ZXJhdG9nZW5pY2lkYWRlIGNvbSB0aW1vbG9sIGVtIGNhbXVuZG9uZ29zLCByYXRvcyBlIGNvZWxob3MgY29tIGRvc2VzIG9yYWlzIGRlIGF0w6kgNTAgbWcva2cvZGlhICg3MDAwIHZlemVzIGEgZXhwb3Npw6fDo28gc2lzdMOqbWljYSBzZWd1aW5kbyBhIG3DoXhpbWEgZG9zZSBvZnTDoWxtaWNhIGh1bWFuYSByZWNvbWVuZGFkYSkgbsOjbyBkZW1vbnN0cmFyYW0gZXZpZMOqbmNpYXMgZGUgbWFsZm9ybWHDp8OjbyBmZXRhbC4gRW1ib3JhIHRlbmhhIHNpZG8gb2JzZXJ2YWRhIHVtYSBvc3NpZmljYcOnw6NvIGZldGFsIHJldGFyZGFkYSBuZXN0YSBkb3NlIGVtIHJhdG9zLCBuw6NvIG9jb3JyZXJhbSBlZmVpdG9zIGFkdmVyc29zIG5vIGRlc2Vudm9sdmltZW50byBww7NzLW5hdGFsIGRhIHByb2xlLiBEb3NlcyBkZSAxMDAwIG1nL2tnL2RpYSAoMTQyMDAwIHZlemVzIGEgZXhwb3Npw6fDo28gc2lzdMOqbWljYSBzZWd1aW5kbyBhIG3DoXhpbWEgZG9zZSBvZnTDoWxtaWNhIGh1bWFuYSByZWNvbWVuZGFkYSkgbGV2YXJhbSDDoCB0b3hpY2lkYWRlIG1hdGVybmEgZW0gY2FtdW5kb25nb3MgZSByZXN1bHRhcmFtIGVtIHVtIGF1bWVudG8gbm8gbsO6bWVybyBkZSByZWFic29yw6fDo28gZmV0YWwuIEZvaSB0YW1iw6ltIG9ic2VydmFkYSByZWFic29yw6fDo28gZmV0YWwgYXVtZW50YWRhIGVtIGNvZWxob3MgYSBkb3NlcyBkZSAxNDAwMCB2ZXplcyBhIGV4cG9zacOnw6NvIHNpc3TDqm1pY2Egc2VndWluZG8gYSBtw6F4aW1hIGRvc2Ugb2Z0w6FsbWljYSBodW1hbmEgcmVjb21lbmRhZGEsIG5lc3RlIGNhc28gc2VtIGFwYXJlbnRlIHRveGljaWRhZGUgbWF0ZXJuYS48L0ZPTlQ+PC9GT05UPjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxGT05UIGZhY2U9VGFob21hIGNvbG9yPSM4MDgwODAgc2l6ZT0yPk7Do28gZXhpc3RlbSBlc3R1ZG9zIGFkZXF1YWRvcyBlIGJlbSBjb250cm9sYWRvcyBlbSBtdWxoZXJlcyBncsOhdmlkYXMuIEdMQVVUSU1PTCBTb2x1w6fDo28gT2Z0w6FsbWljYSBkZXZlIHNlciB1c2FkbyBkdXJhbnRlIGEgZ3JhdmlkZXogc29tZW50ZSBxdWFuZG8gbyBiZW5lZsOtY2lvIHBvdGVuY2lhbCBqdXN0aWZpY2FyIG8gcmlzY28gcG90ZW5jaWFsIHBhcmEgbyBmZXRvLjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxGT05UIGZhY2U9VGFob21hPjxGT05UIHNpemU9Mj48Rk9OVCBjb2xvcj0jODA4MDgwPjxTVFJPTkc+TGFjdGFudGVzOjwvU1RST05HPiBNYWxlYXRvIGRlIHRpbW9sb2wgdGVtIHNpZG8gZGV0ZWN0YWRvIG5vIGxlaXRlIG1hdGVybm8gYXDDs3MgYSBhZG1pbmlzdHJhw6fDo28gb3JhbCBvdSBvZnTDoWxtaWNhLiBEZXZlLXNlLCBwb3J0YW50bywgZGVjaWRpciBzdXNwZW5kZXIgYSBhbWFtZW50YcOnw6NvIG91IG8gcHJvZHV0byBsZXZhbmRvLXNlIGVtIGNvbnNpZGVyYcOnw6NvIGEgaW1wb3J0w6JuY2lhIGRvIHRyYXRhbWVudG8gcGFyYSBhIG3Do2UuPC9GT05UPjwvRk9OVD48L0ZPTlQ+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48Rk9OVCBmYWNlPVRhaG9tYT48Rk9OVCBzaXplPTI+PEZPTlQgY29sb3I9IzgwODA4MD48U1RST05HPlVzbyBwZWRpw6F0cmljbzo8L1NUUk9ORz4gQSBzZWd1cmFuw6dhIGUgZWZpY8OhY2lhIGRvIHVzbyBlbSBjcmlhbsOnYXMgbsOjbyBmb3JhbSBlc3RhYmVsZWNpZGFzLjwvRk9OVD48L0ZPTlQ+PC9GT05UPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWE+PEZPTlQgc2l6ZT0yPjxGT05UIGNvbG9yPSM4MDgwODA+PFNUUk9ORz5DYXJjaW5vZ8OqbmVzZSwgbXV0YWfDqm5lc2UsIGRpbWludWnDp8OjbyBkYSBmZXJ0aWxpZGFkZTwvU1RST05HPiA6IEVtIHVtIGVzdHVkbyBkZSBkb2lzIGFub3Mgb25kZSBtYWxlYXRvIGRlIHRpbW9sb2wgZm9pIGFkbWluaXN0cmFkbyBwb3IgdmlhIG9yYWwgZW0gcmF0b3MsIG9jb3JyZXJhbSBhdW1lbnRvcyBlc3RhdGlzdGljYW1lbnRlIHNpZ25pZmljYW50ZXMgbmEgaW5jaWTDqm5jaWEgZGUgZmVvY3JvbW9jaXRvbWFzIHN1cHJhLXJlbmFpcyBlbSByYXRvcyBtYWNob3MgYW9zIHF1YWlzIHNlIGFkbWluaXN0cmFyYW0gMzAwIG1nL2tnL2RpYSAoYXByb3hpbWFkYW1lbnRlIDQyMDAwIHZlemVzIGEgZXhwb3Npw6fDo28gc2lzdMOqbWljYSBzZWd1aW5kbyBhIG3DoXhpbWEgZG9zZSBvZnTDoWxtaWNhIGh1bWFuYSByZWNvbWVuZGFkYSkuIE7Do28gZm9yYW0gb2JzZXJ2YWRhcyBkaWZlcmVuw6dhcyBzaW1pbGFyZXMgZW0gcmF0b3MgYW9zIHF1YWlzIGZvcmFtIGFkbWluaXN0cmFkYXMgZG9zZXMgcG9yIHZpYSBvcmFsIGVxw7xpdmFsZW50ZXMgYSBhcHJveGltYWRhbWVudGUgMTQwMDAgdmV6ZXMgYSBtw6F4aW1hIGRvc2Ugb2Z0w6FsbWljYSBodW1hbmEgcmVjb21lbmRhZGEuPEJSPkVtIHVtIGVzdHVkbyBwb3IgdmlhIG9yYWwgZHVyYW50ZSBvIHBlcsOtb2RvIGRlIHZpZGEgZG9zIGNhbXVuZG9uZ29zIGhvdXZlIHVtIGF1bWVudG8gZXN0YXRpc3RpY2FtZW50ZSBzaWduaWZpY2FudGUgbmEgaW5jaWTDqm5jaWEgZGUgdHVtb3JlcyBwdWxtb25hcmVzIGJlbmlnbm9zIGUgbWFsaWdub3MsIHDDs2xpcG9zIHV0ZXJpbm9zIGJlbmlnbm9zIGUgYWRlbm9jYXJjaW5vbWFzIG1hbcOhcmlvcyBlbSBjYW11bmRvbmdvcyBmw6ptZWFzIGEgNTAwIG1nL2tnL2RpYSAoYXByb3hpbWFkYW1lbnRlIDcxMDAwIHZlemVzIGEgZXhwb3Npw6fDo28gc2lzdMOqbWljYSBzZWd1aW5kbyBhIG3DoXhpbWEgZG9zZSBvZnTDoWxtaWNhIGh1bWFuYSByZWNvbWVuZGFkYSkgLCBtYXMgbsOjbyBhIDUgb3UgNTAgbWcva2cvZGlhIChhcHJveGltYWRhbWVudGUgNzAwIG91IDcwMDAgdmV6ZXMsIHJlc3BlY3RpdmFtZW50ZSwgYSBleHBvc2nDp8OjbyBzaXN0w6ptaWNhIHNlZ3VpbmRvIGEgbcOheGltYSBkb3NlIG9mdMOhbG1pY2EgaHVtYW5hIHJlY29tZW5kYWRhKS4gRW0gdW0gZXN0dWRvIHN1YnNlccO8ZW50ZSBlbSBjYW11bmRvbmdvcyBmw6ptZWFzLCBuYXMgcXVhaXMgZXhhbWVzIHDDs3MtbW9ydGUgZm9yYW0gbGltaXRhZG9zIGFvIMO6dGVybyBlIHB1bG3DtWVzLCBmb2kgb2JzZXJ2YWRvIG5vdmFtZW50ZSB1bSBhdW1lbnRvIGVzdGF0aXN0aWNhbWVudGUgc2lnbmlmaWNhbnRlIG5hIGluY2lkw6puY2lhIGRlIHR1bW9yZXMgcHVsbW9uYXJlcyBhIDUwMCBtZy9rZy9kaWEuPEJSPk8gYXVtZW50byBkYSBvY29ycsOqbmNpYSBkZSBhZGVub2NhcmNpbm9tYXMgbWFtw6FyaW9zIGZvaSBhc3NvY2lhZG8gY29tIGVsZXZhw6fDtWVzIG5hIHByb2xhY3RpbmEgc8OpcmljYSBxdWUgb2NvcnJldSBlbSBjYW11bmRvbmdvcyBmw6ptZWFzIMOgcyBxdWFpcyBzZSBhZG1pbmlzdHJvdSBwb3IgdmlhIG9yYWwgdGltb2xvbCBhIDUwMCBtZy9rZywgbsOjbyBvY29ycmVuZG8gbyBtZXNtbyBhIGRvc2VzIGRlIDUgb3UgNTAgbWcva2cvZGlhLiBPIGF1bWVudG8gZGEgaW5jaWTDqm5jaWEgZGUgYWRlbm9jYXJjaW5vbWFzIG1hbcOhcmlvcyBlbSByb2Vkb3JlcyBmb2kgYXNzb2NpYWRvIGNvbSBhIGFkbWluaXN0cmHDp8OjbyBkZSB2w6FyaW9zIG91dHJvcyBhZ2VudGVzIHRlcmFww6p1dGljb3MgcXVlIGVsZXZhbSBhIHByb2xhY3RpbmEgc8OpcmljYSwgcG9yw6ltIG5lbmh1bWEgY29ycmVsYcOnw6NvIGVudHJlIG7DrXZlaXMgZGUgcHJvbGFjdGluYSBzw6lyaWNhIGUgdHVtb3JlcyBtYW3DoXJpb3MgZm9pIGVzdGFiZWxlY2lkYSBlbSBodW1hbm9zLiBBbMOpbSBkaXNzbywgZW0gbXVsaGVyZXMgw6BzIHF1YWlzIGZvcmFtIGFkbWluaXN0cmFkYXMgcG9yIHZpYSBvcmFsIGRvc2VzIGRlIGF0w6kgNjAgbWcgZGUgbWFsZWF0byBkZSB0aW1vbG9sICggbcOheGltYSBkb3NlIG9yYWwgaHVtYW5hIHJlY29tZW5kYWRhKSBuw6NvIG9jb3JyZXJhbSBtdWRhbsOnYXMgY2xpbmljYW1lbnRlIHNpZ25pZmljYXRpdmFzIG5hIHByb2xhY3RpbmEgc8OpcmljYS48QlI+TyBtYWxlYXRvIGRlIHRpbW9sb2wgZm9pIGRlc3Byb3ZpZG8gZGUgcG90ZW5jaWFsIG11dGFnw6puaWNvIG5vIHRlc3RlIGluIHZpdm8gKGNhbXVuZG9uZ28pIGRlIG1pY3JvbsO6Y2xlb3MgZSB0ZXN0ZSBjaXRvZ2Vuw6l0aWNvICggZG9zZXMgYXTDqSA4MDAgbWcva2cpIGUgbm8gdGVzdGUgaW4gdml0cm8gZGUgdHJhbnNmb3JtYcOnw6NvIGRlIGPDqWx1bGEgbmVvcGzDoXNpY2EgKGF0w6kgMTAwIG1nL21sKS4gTm8gdGVzdGUgZGUgQW1lcyBhcyBtYWlvcmVzIGNvbmNlbnRyYcOnw7VlcyBkZSB0aW1vbG9sIGVtcHJlZ2FkYXMsIDUwMDAgb3UgMTAwMDAgbWcvcGxhY2EsIGZvcmFtIGFzc29jaWFkYXMgY29tIGVsZXZhw6fDtWVzIGVzdGF0aXN0aWNhbWVudGUgc2lnbmlmaWNhbnRlcyBkZSBtdXRhbnRlcyBvYnNlcnZhZG9zIGNvbSBjZXBhcyB0ZXN0ZSBUQTEwMCAodGVzdGVzIGVtIDcgcmVwbGljYXRhcyksIG1hcyBuw6NvIGVtIDMgY2VwYXMgcmVtYW5lc2NlbnRlcy4gTm9zIGVuc2Fpb3MgY29tIGNlcGFzIHRlc3RlIFRBMTAwIG7Do28gZm9pIG9ic2VydmFkYSBuZW5odW1hIHJlbGHDp8OjbyBkb3NlIHJlc3Bvc3RhIGNvbnNpc3RlbnRlIGUgYSBwcm9wb3LDp8OjbyBkbyB0ZXN0ZSBwYXJhIG11dGFudGVzIGNvbnRyb2xlIG7Do28gYWxjYW7Dp291IDIuIFVtYSBwcm9wb3LDp8OjbyAyIMOpIG5vcm1hbG1lbnRlIGNvbnNpZGVyYWRhIG8gY3JpdMOpcmlvIHBhcmEgdGVzdGUgZGUgQW1lcyBwb3NpdGl2by48QlI+RXN0dWRvcyBkZSByZXByb2R1w6fDo28gZSBmZXJ0aWxpZGFkZSBlbSByYXRvcyBuw6NvIG1vc3RyYXJhbSBlZmVpdG9zIGFkdmVyc29zIG5hIGZlcnRpbGlkYWRlIGRlIG1hY2hvcyBvdSBmw6ptZWFzIGNvbSBkb3NlcyBhdMOpIDIxMDAwIHZlemVzIGEgZXhwb3Npw6fDo28gc2lzdMOqbWljYSBzZWd1aW5kbyBhIG3DoXhpbWEgZG9zZSBvZnTDoWxtaWNhIGh1bWFuYSByZWNvbWVuZGFkYS48L0ZPTlQ+PC9GT05UPjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxTVFJPTkc+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+SU5URVJBw4fDlUVTIE1FRElDQU1FTlRPU0FTOiA8L0ZPTlQ+PC9TVFJPTkc+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48Rk9OVCBmYWNlPVRhaG9tYSBjb2xvcj0jODA4MDgwIHNpemU9Mj5FcGluZWZyaW5hOiBFbWJvcmEgR0xBVVRJTU9MLCBxdWFuZG8gYWRtaW5pc3RyYWRvIGlzb2xhZGFtZW50ZSBwb3NzdWEgcG91Y28gb3UgbmVuaHVtIGVmZWl0byBzb2JyZSBvIHRhbWFuaG8gZGEgcHVwaWxhLCBhIHRlcmFwaWEgY29uY29taXRhbnRlIGNvbSBlcGluZWZyaW5hIHBvZGUgcmVzdWx0YXIgZW0gbWlkcsOtYXNlIG9jYXNpb25hbC48QlI+QWdlbnRlcyBibG9xdWVhZG9yZXMgYmV0YS1hZHJlbsOpcmdpY29zOiBQYWNpZW50ZXMgc29iIHRyYXRhbWVudG8gY29tIGFnZW50ZSBibG9xdWVhZG9yIGJldGEtYWRyZW7DqXJnaWNvIG9yYWwgZSBHTEFVVElNT0wgZGV2ZW0gc2VyIG9ic2VydmFkb3MgcXVhbnRvIGEgZWZlaXRvcyBhZGl0aXZvcyBwb3RlbmNpYWlzIHRhbnRvIHNpc3TDqm1pY29zIGNvbW8gc29icmUgYSBwcmVzc8OjbyBpbnRyYS1vY3VsYXIuIERvaXMgYmxvcXVlYWRvcmVzIGJldGEtYWRyZW7DqXJnaWNvcyBkZSB1c28gdMOzcGljbyBvZnTDoWxtaWNvIG7Do28gZGV2ZW0gc2VyIGFkbWluaXN0cmFkb3MgY29uY29taXRhbnRlbWVudGUuPEJSPkFudGFnb25pc3RhcyBkbyBjw6FsY2lvOiBDdWlkYWRvcyBkZXZlbSBzZXIgdG9tYWRvcyBuYSBjby1hZG1pbmlzdHJhw6fDo28gZGUgYWdlbnRlcyBibG9xdWVhZG9yZXMgYmV0YS1hZHJlbsOpcmdpY29zIGUgYW50YWdvbmlzdGFzIGRvIGPDoWxjaW8gb3JhaXMgb3UgaW50cmF2ZW5vc29zLCBwb2lzIHBvZGVtIG9jb3JyZXIgZGlzdMO6cmJpb3MgZGEgY29uZHXDp8OjbyBhdHJpb3ZlbnRyaWN1bGFyLCBpbnN1ZmljacOqbmNpYSB2ZW50cmljdWxhciBlc3F1ZXJkYSBlIGhpcG90ZW5zw6NvLiBEZXZlIHNlciBldml0YWRhIGEgY28tYWRtaW5pc3RyYcOnw6NvIGVtIHBhY2llbnRlcyBjb20gZnVuw6fDo28gY2FyZMOtYWNhIHJlZHV6aWRhLjxCUj5EZXBsZXRvcmVzIGRlIGNhdGVjb2xhbWluYXM6IFBhY2llbnRlcyBzb2IgdHJhdGFtZW50byBjb20gZGVwbGV0b3JlcyBkZSBjYXRlY29sYW1pbmFzLCB0YWwgY29tbyByZXNlcnBpbmEsIGRldmVtIHNlciBvYnNlcnZhZG9zIGF0ZW50YW1lbnRlIHF1YW5kbyB1bSBiZXRhLWJsb3F1ZWFkb3Igw6kgYWRtaW5pc3RyYWRvIGRldmlkbyBhbyBwb3Nzw612ZWwgZWZlaXRvIGFkaXRpdm8gZSBwcm9kdcOnw6NvIGRlIGhpcG90ZW5zw6NvIGUvb3UgYnJhZGljYXJkaWEgcXVlIHBvZGUgcmVzdWx0YXIgZW0gdmVydGlnbywgc8OtbmNvcGUgb3UgaGlwb3RlbnPDo28gcG9zdHVyYWwuPEJSPkRpZ2l0w6FsaWNvcyBlIGFudGFnb25pc3RhcyBkbyBjw6FsY2lvOiBPIHVzbyBjb25jb21pdGFudGUgZGUgYWdlbnRlcyBibG9xdWVhZG9yZXMgYmV0YS1hZHJlbsOpcmdpY29zIGNvbSBkaWdpdMOhbGljb3MgZSBhbnRhZ29uaXN0YXMgZG8gY8OhbGNpbyBwb2RlIHRlciB1bSBlZmVpdG8gYWRpdGl2byBwcm9sb25nYW5kbyBvIHRlbXBvIGRhIGNvbmR1w6fDo28gYXRyaW92ZW50cmljdWxhci48L0ZPTlQ+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48Rk9OVCBmYWNlPVRhaG9tYT48Rk9OVCBzaXplPTI+PEZPTlQgY29sb3I9IzgwODA4MD48U1RST05HPiZuYnNwOzwvU1RST05HPjxTVFJPTkc+UkVBw4fDlUVTIEFEVkVSU0FTOjwvU1RST05HPjwvRk9OVD48L0ZPTlQ+PC9GT05UPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+QXMgcmVhw6fDtWVzIGFkdmVyc2FzIG1haXMgZnJlccO8ZW50ZW1lbnRlIHJlbGF0YWRhcyBmb3JhbSBxdWVpbWHDp8OjbyBlIGFyZMOqbmNpYSBhcMOzcyBhIGluc3RpbGHDp8Ojby48QlI+QXMgc2VndWludGVzIHJlYcOnw7VlcyBhZHZlcnNhcyBmb3JhbSBtZW5vcyBmcmVxw7xlbnRlbWVudGUgcmVsYXRhZGFzIGNvbSBhIGFkbWluaXN0cmHDp8OjbyBvY3VsYXIgZGVzdGEgb3UgZGUgb3V0cmFzIGZvcm11bGHDp8O1ZXMgZGUgbWFsZWF0byBkZSB0aW1vbG9sOjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxGT05UIGZhY2U9VGFob21hIGNvbG9yPSM4MDgwODAgc2l6ZT0yPkdlcmFsOiBEb3IgZGUgY2FiZcOnYSwgYXN0ZW5pYSwgZmFkaWdhLCBkb3Igbm8gcGVpdG8uPC9GT05UPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+Q2FyZGlvdmFzY3VsYXI6IEJyYWRpY2FyZGlhLCBhcnJpdG1pYSwgaGlwb3RlbnPDo28sIGhpcGVydGVuc8Ojbywgc8OtbmNvcGUsIGJsb3F1ZWlvIGNhcmTDrWFjbywgYWNpZGVudGUgdmFzY3VsYXIgY2VyZWJyYWwsIGlzcXVlbWlhIGNlcmVicmFsLCBpbnN1ZmljacOqbmNpYSBjYXJkw61hY2EsIGFncmF2YW1lbnRvIGRlIGFuZ2luYSBkbyBwZWl0bywgcGFscGl0YcOnw6NvLCBwYXJhZGEgY2FyZMOtYWNhIGUgZWRlbWEgcHVsbW9uYXIuPC9GT05UPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+RGlnZXN0aXZhOiBOw6F1c2VhLCBkaWFycsOpaWEsIGRpc3BlcHNpYSwgYW5vcmV4aWEgZSBib2NhIHNlY2EuPC9GT05UPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+SW11bm9sw7NnaWNhOiBMw7pwdXMgZXJpdGVtYXRvc28gc2lzdMOqbWljby48L0ZPTlQ+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48Rk9OVCBmYWNlPVRhaG9tYSBjb2xvcj0jODA4MDgwIHNpemU9Mj5TaXN0ZW1hIG5lcnZvc28vUHNpcXVpw6F0cmljbzogVmVydGlnZW0sIGRlcHJlc3PDo28sIGF1bWVudG8gbm9zIHNpbmFpcyBlIHNpbnRvbWFzIGRlIG1pYXN0ZW5pYSBncmF2aXMsIHBhcmVzdGVzaWEsIG11ZGFuw6dhcyBkZSBjb21wb3J0YW1lbnRvIGluY2x1aW5kbyBjb25mdXPDo28sIGFsdWNpbmHDp8O1ZXMsIGFuc2llZGFkZSwgZGVzb3JpZW50YcOnw6NvLCBuZXJ2b3Npc21vLCBzb25vbMOqbmNpYSBlIG91dHJvcyBkaXN0w7pyYmlvcyBwc8OtcXVpY29zLjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxGT05UIGZhY2U9VGFob21hIGNvbG9yPSM4MDgwODAgc2l6ZT0yPlBlbGU6IEhpcGVyc2Vuc2liaWxpZGFkZSwgaW5jbHVpbmRvIGVydXDDp8OjbyBsb2NhbGl6YWRhIGUgZ2VuZXJhbGl6YWRhOyB1cnRpY8OhcmlhLCBhbG9wZWNpYS48L0ZPTlQ+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48Rk9OVCBmYWNlPVRhaG9tYSBjb2xvcj0jODA4MDgwIHNpemU9Mj5SZXNwaXJhdMOzcmlhOiBCcm9uY29lc3Bhc21vLCBpbnN1ZmljacOqbmNpYSByZXNwaXJhdMOzcmlhLCBkaXNwbsOpaWEsIGNvbmdlc3TDo28gbmFzYWwsIHRvc3NlIGUgaW5mZWPDp8O1ZXMgZGFzIHZpYXMgYcOpcmVhcyBzdXBlcmlvcmVzLjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxGT05UIGZhY2U9VGFob21hIGNvbG9yPSM4MDgwODAgc2l6ZT0yPkVuZMOzY3JpbmE6IE1hc2NhcmFtZW50byBkb3Mgc2ludG9tYXMgZGEgaGlwb2dsaWNlbWlhIGVtIHBhY2llbnRlcyBkaWFiw6l0aWNvcy48L0ZPTlQ+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48Rk9OVCBmYWNlPVRhaG9tYSBjb2xvcj0jODA4MDgwIHNpemU9Mj5Vcm9nZW5pdGFsOiBGaWJyb3NlIHJldHJvcGVyaXRvbmVhbCBlIGltcG90w6puY2lhLjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxGT05UIGZhY2U9VGFob21hIGNvbG9yPSM4MDgwODAgc2l6ZT0yPlNlbnRpZG9zIGVzcGVjaWFpczogU2luYWlzIGUgc2ludG9tYXMgZGUgaXJyaXRhw6fDo28gb2N1bGFyIGluY2x1aW5kbyBjb25qdW50aXZpdGUsIGJsZWZhcml0ZSwgY2VyYXRpdGUsIGRvciBvY3VsYXIsIHNlY3Jlw6fDo28sIHNlbnNhw6fDo28gZGUgY29ycG8gZXN0cmFuaG8sIGNvY2VpcmEgZSBsYWNyaW1lamFtZW50bzsgcHRvc2U7IGRpbWludWnDp8OjbyBkYSBzZW5zaWJpbGlkYWRlIGNvcm5lYW5hOyBlZGVtYSBtYWN1bGFyIGNpc3TDs2lkZTsgZGlzdMO6cmJpb3MgdmlzdWFpcyBpbmNsdWluZG8gbXVkYW7Dp2FzIHJlZnJhdGl2YXMgZSBkaXBsb3BpYTsgcHNldWRvcGVuZmlnw7NpZGUgZSBkZXNjb2xhbWVudG8gZGUgY29yw7NpZGUgYXDDs3MgY2lydXJnaWEgZGUgZmlsdHJhw6fDo28uPC9GT05UPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+RWZlaXRvcyBhZHZlcnNvcyBwb3RlbmNpYWlzOiBPcyBlZmVpdG9zIGFkdmVyc29zIHJlbGF0YWRvcyBub3MgZW5zYWlvcyBjbMOtbmljb3MgY29tIG1hbGVhdG8gZGUgdGltb2xvbCBwb3IgdmlhIG9yYWwgcG9kZW0gc2VyIGNvbnNpZGVyYWRvcyBlZmVpdG9zIGFkdmVyc29zIHBvdGVuY2lhaXMgZG8gbWFsZWF0byBkZSB0aW1vbG9sIHBvciB2aWEgdMOzcGljYSBvZnTDoWxtaWNhLjwvRk9OVD48L1A+DQo8UCBhbGlnbj1qdXN0aWZ5PjxTVFJPTkc+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+UE9TT0xPR0lBOiA8L0ZPTlQ+PC9TVFJPTkc+PC9QPg0KPFAgYWxpZ249anVzdGlmeT48Rk9OVCBmYWNlPVRhaG9tYSBjb2xvcj0jODA4MDgwIHNpemU9Mj5JbnN0aWxhciB1bWEgZ290YSBkZSBHTEFVVElNT0wgMCw1JSBubyhzKSBvbGhvKHMpIGFmZXRhZG8ocykgZHVhcyB2ZXplcyBwb3IgZGlhLiBDb21vIGVtIGFsZ3VucyBwYWNpZW50ZXMgYSByZXNwb3N0YSBhbyB0cmF0YW1lbnRvIGRhIHByZXNzw6NvIHBvZGUgbGV2YXIgYWxndW1hcyBzZW1hbmFzIHBhcmEgZXN0YWJpbGl6YXIsIGEgYXZhbGlhw6fDo28gZGV2ZXLDoSBpbmNsdWlyIGEgZGV0ZXJtaW5hw6fDo28gZGEgcHJlc3PDo28gaW50cmEtb2N1bGFyIGFww7NzIGFwcm94aW1hZGFtZW50ZSA0IHNlbWFuYXMgZGUgdHJhdGFtZW50byBjb20gR0xBVVRJTU9MLiBTZSBhIHByZXNzw6NvIGludHJhLW9jdWxhciBmb3IgbWFudGlkYSBlbSBuw612ZWlzIHNhdGlzZmF0w7NyaW9zLCBhIHBvc29sb2dpYSBwb2RlIHNlciBhbHRlcmFkYSBwYXJhIHVtYSBnb3RhIG5vKHMpIG9saG8ocykgYWZldGFkbyhzKSB1bWEgdmV6IHBvciBkaWEuIERldmlkbyDDoHMgdmFyaWHDp8O1ZXMgZGl1cm5hcyBkYSBwcmVzc8OjbyBpbnRyYS1vY3VsYXIsIGEgcmVzcG9zdGEgw6kgbWVsaG9yIGRldGVybWluYWRhIG1lZGluZG8tc2UgYSBwcmVzc8OjbyBpbnRyYS1vY3VsYXIgZW0gZGlmZXJlbnRlcyBob3LDoXJpb3MgZHVyYW50ZSBvIGRpYS48QlI+RG9zZXMgbWFpb3JlcyBxdWUgdW1hIGdvdGEgZGUgR0xBVVRJTU9MIDAsNSAlIGR1YXMgdmV6ZXMgcG9yIGRpYSBnZXJhbG1lbnRlIG7Do28gcHJvZHV6ZW0gbWFpb3IgZGltaW51acOnw6NvIGRhIHByZXNzw6NvIGludHJhLW9jdWxhci4gU2UgbmVjZXNzw6FyaW8sIHBvZGUgc2VyIGluc3RpdHXDrWRhIHRlcmFww6p1dGljYSBjb25jb21pdGFudGUgY29tIHBpbG9jYXJwaW5hIGUgb3V0cm9zIG1pw7N0aWNvcyBlL291IGluaWJpZG9yZXMgZGEgYW5pZHJhc2UgY2FyYsO0bmljYS48QlI+UXVhbmRvIG8gcGFjaWVudGUgZm9yIHRyYW5zZmVyaWRvIGRlIG91dHJvIGFnZW50ZSBibG9xdWVhZG9yIGJldGEtYWRyZW7DqXJnaWNvIHTDs3BpY28gb2Z0w6FsbWljbyBwYXJhIEdMQVVUSU1PTCwgbWFudGVyIG5vIHByaW1laXJvIGRpYSBvIG1lZGljYW1lbnRvIGFudGVyaW9yIGUgaW5pY2lhciBubyBkaWEgc2VndWludGUgbyB0cmF0YW1lbnRvIGNvbSB1bWEgZ290YSBkZSBHTEFVVElNT0wgMCw1ICUgZHVhcyB2ZXplcyBwb3IgZGlhLiA8QlI+UXVhbmRvIG8gcGFjaWVudGUgZm9yIHRyYW5zZmVyaWRvIGRlIHVtIMO6bmljbyBhZ2VudGUgYW50aWdsYXVjb21hdG9zbywgcXVlIG7Do28gc2VqYSBibG9xdWVhZG9yIGJldGEtYWRyZW7DqXJnaWNvIG9mdMOhbG1pY28gdMOzcGljbywgY29udGludWFyIHV0aWxpemFuZG8gbyBtZWRpY2FtZW50byBhbnRlcmlvciBlIGluc3RpbGFyIHVtYSBnb3RhIGRlIEdMQVVUSU1PTCAwLDUlIG5vKHMpIG9saG8ocykgYWZldGFkbyhzKSBkdWFzIHZlemVzIHBvciBkaWEuIE5vIGRpYSBzZWd1aW50ZSBpbnRlcnJvbXBlciBvIHVzbyBkbyBhbnRpZ2xhdWNvbWF0b3NvIHVzYWRvIHByZXZpYW1lbnRlIGUgY29udGludWFyIG8gdHJhdGFtZW50byBjb20gR0xBVVRJTU9MIC4gPEJSPlF1YW5kbyBvIHBhY2llbnRlIGZvciB0cmFuc2ZlcmlkbyBkZSB1bSBlc3F1ZW1hIGRlIHbDoXJpb3MgYWdlbnRlcyBhbnRpZ2xhdWNvbWF0b3NvcyDDqSBuZWNlc3PDoXJpYSB1bWEgaW5kaXZpZHVhbGl6YcOnw6NvLiBTZSB1bSBkb3MgYWdlbnRlcyBmb3IgdW0gYmxvcXVlYWRvciBiZXRhLWFkcmVuw6lyZ2ljbyBvZnTDoWxtaWNvLCBlc3RlIGRldmUgc2VyIGludGVycm9tcGlkbyBhbnRlcyBkZSBpbmljaWFyIG8gdHJhdGFtZW50byBjb20gR0xBVVRJTU9MLiBPcyBhanVzdGVzIGRldmVyw6NvIGVudm9sdmVyIHVtIGFnZW50ZSBkZSBjYWRhIHZleiBlbSBpbnRlcnZhbG9zIG7Do28gbWVub3JlcyBxdWUgdW1hIHNlbWFuYSBlIGRlcGVuZGVyw6NvIGRhIHJlc3Bvc3RhIGRvIHBhY2llbnRlIGFvIHRyYXRhbWVudG8uPC9GT05UPjwvUD4NCjxQIGFsaWduPWp1c3RpZnk+PEZPTlQgZmFjZT1UYWhvbWEgY29sb3I9IzgwODA4MCBzaXplPTI+PC9GT05UPg0KPFAgYWxpZ249anVzdGlmeT48Rk9OVCBmYWNlPVRhaG9tYSBjb2xvcj0jODA4MDgwIHNpemU9Mj5Ow4NPIFVTRSBSRU3DiURJTyBTRU0gTyBDT05IRUNJTUVOVE8gRE8gU0VVIE3DiURJQ08uIFBPREUgU0VSIFBFUklHT1NPIFBBUkEgU1VBIFNBw5pERS48L0ZPTlQ+PC9QPmQCJA8WAh8DaBYCAgEPFgIfA2gWAgIBDxYCHwtmZAIlDxYEHwtmHwNoZAImDxYCHwNoFgQCAQ8WAh8GBRYwIGF2YWxpYSYjMjMxOyYjMjQ1O2VzZAIDD2QWAmYPZBYEAgEPFCsAAg8WBB4LXyFEYXRhQm91bmRnHwtmZGRkAgMPFCsAAmQQFgAWABYAZAIWDxYCHwsCAxYGZg9kFgRmDxUBDlNvYnJlIGEgT25vZnJlZAIBDxYCHwsCBRYKZg9kFgJmDxUDPWh0dHA6Ly93d3cub25vZnJlLmNvbS5ici9JbnN0aXR1Y2lvbmFsL0RlZmF1bHQuYXNweD9JbnN0SWQ9OTMAClF1ZW0gU29tb3NkAgEPZBYCZg8VAzVodHRwOi8vd3d3Lm9ub2ZyZS5jb20uYnIvbm9zc2FzbG9qYXMvbm9zc2FzbG9qYXMuYXNweAAMTm9zc2FzIExvamFzZAICD2QWAmYPFQMeaHR0cDovL3d3dy52YWdhcy5jb20uYnIvb25vZnJlABBUcmFiYWxoZSBDb25vc2NvZAIDD2QWAmYPFQMoaHR0cDovL3d3dy5vbm9mcmUuY29tLmJyL25vc3Nhc3BvbGl0aWNhcwARTm9zc2FzIFBvbMOtdGljYXNkAgQPZBYCZg8VAz5odHRwOi8vd3d3Lm9ub2ZyZS5jb20uYnIvSW5zdGl0dWNpb25hbC9EZWZhdWx0LmFzcHg/SW5zdElkPTIwNwAISW1wcmVuc2FkAgEPZBYEZg8VAQlTZXJ2acOnb3NkAgEPFgIfCwIJFhJmD2QWAmYPFQP5AWh0dHA6Ly9wb3J0YWwuYW52aXNhLmdvdi5ici93cHMvcG9ydGFsL2FudmlzYS9pbmZvcm1ldGVjbmljby8hdXQvcC9jNS8wNF9TQjhLOHhMTE05TVNTelB5OHhCejlDUDBvczNobmQwY1BFM01mQXdNRE15ZG5BMDkzVXo4ejAwQl9BM2RUVTZCOEpFNTVBMzhqQXJyRFFmYmgxdy1TTjhBQkhBMzBfVHp5YzFQMUlfV2p6QkdtdUJ0YW1CdDRXcmlidWptRk9oc2JoQm5xUi1ha3BpY21WLW9YNUVZWVpKbUVLZ0lBenRmYVV3ISEvZGwzL2QzL0wyZAZfYmxhbmsZQWxlcnRhcyBlIEluZm9ybWVzIEFudmlzYWQCAQ9kFgJmDxUDFmh0dHA6Ly93d3cuY2ZmLm9yZy5ici8GX2JsYW5rHUNvbnNlbGhvIEZlZGVyYWwgZGUgRmFybcOhY2lhZAICD2QWAmYPFQMZaHR0cDovL3BvcnRhbC5jZm0ub3JnLmJyLwZfYmxhbmscQ29uc2VsaG8gRmVkZXJhbCBkZSBNZWRpY2luYWQCAw9kFgJmDxUDPWh0dHA6Ly93d3cub25vZnJlLmNvbS5ici9JbnN0aXR1Y2lvbmFsL0RlZmF1bHQuYXNweD9JbnN0SWQ9MjUAJ0FwbGljYXRpdm8gT25vZnJlIHBhcmEgaVBob25lIGUgQW5kcm9pZGQCBA9kFgJmDxUDCi9tYXBhLXNpdGUADE1hcGEgZG8gU2l0ZWQCBQ9kFgJmDxUDY2h0dHA6Ly9wb3J0YWxzYXVkZS5zYXVkZS5nb3YuYnIvaW5kZXgucGhwL28tbWluaXN0ZXJpby9wcmluY2lwYWwvc2VjcmV0YXJpYXMvc2N0aWUvZmFybWFjaWEtcG9wdWxhcgZfYmxhbmsRRmFybcOhY2lhIFBvcHVsYXJkAgYPZBYCZg8VAydodHRwOi8vd3d3Lm9ub2ZyZS5jb20uYnIvZW50cmVnYVJhcGlkYS8AD0VudHJlZ2EgUsOhcGlkYWQCBw9kFgJmDxUDPmh0dHA6Ly93d3cub25vZnJlLmNvbS5ici9JbnN0aXR1Y2lvbmFsL0RlZmF1bHQuYXNweD9JbnN0SWQ9Mjc1ABRNb250ZSBzdWEgZmFybWFjaW5oYWQCCA9kFgJmDxUDPWh0dHA6Ly93d3cub25vZnJlLmNvbS5ici9JbnN0aXR1Y2lvbmFsL0RlZmF1bHQuYXNweD9JbnN0SWQ9MjgAHENvbmZpcmEgY29uZGnDp8O1ZXMgZGUgZnJldGVkAgIPZBYEZg8VAQ5SZWxhY2lvbmFtZW50b2QCAQ8WAh8LAgcWDmYPZBYCZg8VAzRodHRwOi8vd3d3Lm9ub2ZyZS5jb20uYnIvQ2VudHJhbENsaWVudGUvRGVmYXVsdC5hc3B4ABJDZW50cmFsIGRvIENsaWVudGVkAgEPZBYCZg8VAyVodHRwOi8vd3d3Lm9ub2ZyZS5jb20uYnIvRmFsZUNvbm9zY28vAAxGYWxlIENvbm9zY29kAgIPZBYCZg8VAzdodHRwOi8vd3d3Lm9ub2ZyZS5jb20uYnIvY2VudHJhbGFqdWRhL2NlbnRyYWxhanVkYS5hc3B4ABBDZW50cmFsIGRlIEFqdWRhZAIDD2QWAmYPFQMqaHR0cDovL3d3dy5vbm9mcmUuY29tLmJyL2ZhbGVmYXJtYWNldXRpY28vABhGYWxlIGNvbSBvIEZhcm1hY8OqdXRpY29kAgQPZBYCZg8VAxpodHRwOi8vYmxvZy5vbm9mcmUuY29tLmJyLwAOQmxvZyBkYSBPbm9mcmVkAgUPZBYCZg8VAz1odHRwOi8vd3d3Lm9ub2ZyZS5jb20uYnIvSW5zdGl0dWNpb25hbC9EZWZhdWx0LmFzcHg/SW5zdElkPTk3ABNUcm9jYSBlIERldm9sdcOnw6NvZAIGD2QWAmYPFQMSaHR0cDovL2NoYXRfb25saW5lAAtDaGF0IE9ubGluZWQCFw8PFgIfAgX7CTxwIGFsaWduPSJjZW50ZXIiPjxzcGFuIHN0eWxlPSJjb2xvcjogIzg4ODg4ODsiPkRyb2dhcmlhIE9ub2ZyZSBMdGRhIHwgQ05QSiA2MS41NDkuMjU5LzAwMTMtMTQgfCBJRSAxMTUuMjc2LjA1My4xMTQgfCBBdi4gZGEgTGliZXJkYWRlLCA5MDIgQ29tcGxlbWVudG8gOTA0IC0gTGliZXJkYWRlIHwgU8OjbyBQYXVsbyAoU1ApIHwgSG9yw6FyaW8gZGUgZnVuY2lvbmFtZW50bzogU2VndW5kYSBhIERvbWluZ28gMDc6MDAgw6BzIDIyOjAwIHwgQ0VQOiAwMTUwMi0wMDEgfCBUZWxlZm9uZSA0MDA3LTI1MjY8L3NwYW4+PGJyIC8+PHNwYW4gc3R5bGU9ImNvbG9yOiAjODg4ODg4OyI+RmFybWFjw6p1dGljbyBSZXNwb25zw6F2ZWw6IERyYS4gVGhhaXMgQnJpb3R0byBkZSBBbmRyYWRlIGRvcyBTYW50b3MgfCBDUkYgLSBTUDogNTMuOTEyICB8IEFGRTogNy40NjU0NC01IHwgQ01WUzogMzU1MDMwODAxNDc3MDA4NjcwMTI8L3NwYW4+PC9wPgo8cCBhbGlnbj0iY2VudGVyIj48c3BhbiBzdHlsZT0iY29sb3I6ICM4ODg4ODg7Ij5BcyBpbmZvcm1hw6fDtWVzIGNvbnRpZGFzIG5lc3RlIHNpdGUgbsOjbyBkZXZlbSBzZXIgdXNhZGFzIHBhcmEgYXV0b21lZGljYcOnw6NvIGUgbsOjbyBzdWJzdGl0dWVtLCBlbSBoaXDDs3Rlc2UgYWxndW1hLCBhcyBvcmllbnRhw6fDtWVzIGRhZGFzIHBlbG8gcHJvZmlzc2lvbmFsIGRhIMOhcmVhIG3DqWRpY2EuIFNvbWVudGUgbyBtw6lkaWNvIGVzdMOhIGFwdG8gYSBkaWFnbm9zdGljYXIgcXVhbHF1ZXIgcHJvYmxlbWEgZGUgc2HDumRlIGUgcHJlc2NyZXZlciBvIHRyYXRhbWVudG8gYWRlcXVhZG8uIEFvIHBlcnNpc3RpcmVtIG9zIHNpbnRvbWFzLCBvIG3DqWRpY28gZGV2ZXLDoSBzZXIgY29uc3VsdGFkby4gT3MgcHJlw6dvcyBlIHByb21vw6fDtWVzIGRpdnVsZ2Fkb3Mgbm8gc2l0ZSBzw6NvIHbDoWxpZG9zIGFwZW5hcyBwYXJhIGNvbXByYXMgZmVpdGFzIHBlbGEgSW50ZXJuZXQuIEVtIGNhc28gZGUgZGl2ZXJnw6puY2lhLCBvIHByZcOnbyB2w6FsaWRvIMOpIG8gZG8gY2FycmluaG8gZGUgY29tcHJhcy4gSW1hZ2VucyBtZXJhbWVudGUgaWx1c3RyYXRpdmFzLiBFc3RlIHNpdGUgw6kgbWVsaG9yIHZpc3VhbGl6YWRvIG5hIGNvbmZpZ3VyYcOnw6NvIDEwMjR4NzY4Ljwvc3Bhbj48L3A+CjxwIGFsaWduPSJjZW50ZXIiPjxzcGFuIHN0eWxlPSJjb2xvcjogIzg4ODg4ODsiPkNvcHlyaWdodCDCqSAxOTk5IC0gMjAxNiBPbm9mcmUgZW0gQ2FzYS4gVG9kb3Mgb3MgZGlyZWl0b3MgcmVzZXJ2YWRvcy48L3NwYW4+PC9wPmRkGAIFG2N0bDAwJGNwaENvbnRldWRvJGRwQ29tZW50cw8UKwAEZGQCA2ZkBSBjdGwwMCRjcGhDb250ZXVkbyRycHRDb21lbnRhcmlvcw88KwAOAwhmDGYNAgNk7ZjIGn4sdgDlsV+FAjxS3GQ4NU0=" />
+
+<script> ECO_Step='Product';</script><script> ECO_DepName='';</script><script> ECO_DepId='';</script><script> ECO_CatName='';</script><script> ECO_CatId='';</script><script> ECO_ProdName='glautimol-5mg-05-colirio-com-5ml';</script><script> ECO_ProdId='22540';</script><script> ECO_ProdValue='8.54';</script><script> ECO_ProdSumValue='8.54';</script><script> ECO_ProdQty='1';</script><script> ECO_ProdAvgValue='8,54';</script>
+<script type="text/javascript">
+//<![CDATA[
+products = []; products.push( {'id':001503,'name':'Glautimol 5mg (0,5%) Colírio Com 5ml','category':'Antiglaucomatoso','price':8.54,'quantity':0,'brandId':21});var productData ={   'transaction': {'id':0,     'products': products}};//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=BnWrJ6-gLV3GlI8g28LCzYXkfKJLttyoigz0AJpfnvO4NN21YTBbDD9JctBIuGGW8YufhqFw-AnVHbmyWvfFb_B2w9DMLRk3OO9iqYmkxfGcvnVf4ImxaGFLKlWYiwlxPddzmc-9JHkJ8clChxff5mADpJw1&amp;t=42a7acab" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="53BE6E71" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAtaXyv0LtJTcIss3KAv/V/ovGJREAXUqdHbn/uqryQegasCjseFQU1IG6a1QV/1IsPDvqD576IjU8b+VycT56M9ED22EwkGKj1YkpT+X+kXiM56f9BvruTcOsm75dsnP4j+rR3kChNt2jv+P1A6lf1Kfh0m/YFL+gqaOapTOLGCT3uEmapvkS7PnXX2p48aV5JXiYT1tmrUuDA14lwoxMmxwwFaVvdlxqKyIPzmKQOhtwuamRAeSKEONRBARqTY6xQs7zGI" />
+                        
+                        <!-- Master -->
+                        
+                            <!-- Header -->
+                            <div id="mySidenav" class="sidenav">
+                                 <a href="javascript:void(0)" id="divMobileLogin"><span style="float: left; font-size: 18px; text-decoration: underline" onclick="window.location.href='https://www.onofre.com.br/acesso/'">Faça o login ou cadastre-se</span> <br /> <span class="closebtn" onclick="closeNavMobile()">&times;</span></a>
+                                <!--<a href="#">About</a> <a href="#">Services</a> <a href="#">Clients</a> <a href="#">Contact</a>-->
+                                <hr />
+                                <nav id="mobile-nav" class="page-nav">
+                                    <div class="wrapper full">
+                                        <ul class="nav-list">
+                                            <li class="medicamentos-e-saude"><a onclick="$('.medicamentos-e-saude .sub-nav').toggle();" title="Medicamentos" class="nav-link">Medicamentos</a>
+                                                <div class="sub-nav">
+                                                    <ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Intestino e Digestão</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antidiarreico/44/03' class='medi-sub-nav-link' >Antidiarréico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiflatulento/54/03' class='medi-sub-nav-link' >Antiflatulento</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiacido/95/03' class='medi-sub-nav-link' >Antiácido</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/laxante/248/03' class='medi-sub-nav-link' >Laxante</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Diabetes</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/hipoglicemiante/234/03' class='medi-sub-nav-link' >Hipoglicemiante</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Hormônios</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antigotoso/57/03' class='medi-sub-nav-link' >Antigotoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/tireoidiano/342/03' class='medi-sub-nav-link' >Tireoidiano</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Infecções</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antibiotico/32/03' class='medi-sub-nav-link' >Antibiótico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-infeccioso/67/03' class='medi-sub-nav-link' >Anti-infeccioso</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Aparelho Urinário</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antidiuretico/46/03' class='medi-sub-nav-link' >Antidiurético</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antilitiasico/80/03' class='medi-sub-nav-link' >Antilitiásico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/diuretico/190/03' class='medi-sub-nav-link' >Diurético</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/incontinencia-urinaria/242/03' class='medi-sub-nav-link' >Incontinência Urinária</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Nervoso</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antivertiginoso/112/03' class='medi-sub-nav-link' >Antivertiginoso</a></li><li class='medi-sub-nav-item'><a href='/homeopaticos/calmante/147/03' class='medi-sub-nav-link' >Calmante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/disturbio-do-tubo-neural/188/03' class='medi-sub-nav-link' >Distúrbio do Tubo Neural</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/neuropsicoestimulante/278/03' class='medi-sub-nav-link' >Neuropsicoestimulante</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Gripe e Resfriado</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antitussigenos/109/03' class='medi-sub-nav-link' >Antitussígenos</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/descongestionante/179/03' class='medi-sub-nav-link' >Descongestionante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/irritacoes-da-garganta/246/03' class='medi-sub-nav-link' >Irritações da Garganta</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/expectorante-e-mucolitico/274/03' class='medi-sub-nav-link' >Expectorante e Mucolítico</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Anti-Hipertensivo</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiarritmico/27/03' class='medi-sub-nav-link' >Antiarritmico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-hipertensivo/62/03' class='medi-sub-nav-link' >Anti-hipertensivo</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/cardiotonico/149/03' class='medi-sub-nav-link' >Cardiotônico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/hipertensor/231/03' class='medi-sub-nav-link' >Hipertensor</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Cuidado com os Olhos</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiglaucomatoso/56/03' class='medi-sub-nav-link' >Antiglaucomatoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/descongestionante-ocular/180/03' class='medi-sub-nav-link' >Descongestionante Ocular</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/distrofia-do-globo-ocular/189/03' class='medi-sub-nav-link' >Distrofia do Globo Ocular</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/lubrificante-ocular/260/03' class='medi-sub-nav-link' >Lubrificante Ocular</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Circulatório</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antianemico/26/03' class='medi-sub-nav-link' >Antianêmico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-hemorragico/61/03' class='medi-sub-nav-link' >Anti-hemorrágico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antivaricoso/111/03' class='medi-sub-nav-link' >Antivaricoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/hemostatico/221/03' class='medi-sub-nav-link' >Hemostático</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Vermes e Parasitas</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antifungico/52/03' class='medi-sub-nav-link' >Antifúngico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antimalarico/81/03' class='medi-sub-nav-link' >Antimalárico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiparasitario/90/03' class='medi-sub-nav-link' >Antiparasitário</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Dor e Febre</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/analgesico/8/03' class='medi-sub-nav-link' >Analgésico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anestesico/13/03' class='medi-sub-nav-link' >Anestésico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antienxaquecoso/48/03' class='medi-sub-nav-link' >Antienxaquecoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-inflamatorio/69/03' class='medi-sub-nav-link' >Anti-inflamatório</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Alergias</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antialergico/21/03' class='medi-sub-nav-link' >Antialérgico</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Respiratório</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiasmatico/29/03' class='medi-sub-nav-link' >Antiasmático</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/broncodilatador/142/03' class='medi-sub-nav-link' >Broncodilatador</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Pele e Mucosa</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/cicatrizante/155/03' class='medi-sub-nav-link' >Cicatrizante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/despigmentante/182/03' class='medi-sub-nav-link' >Despigmentante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/aftas/215/03' class='medi-sub-nav-link' >Aftas</a></li><li class='medi-sub-nav-item'><a href='/tratamento-rosto/antiacne/399/03' class='medi-sub-nav-link' >Antiacne</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Vitaminas e Suplementos</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antifadiga/53/03' class='medi-sub-nav-link' >Antifadiga</a></li><li class='medi-sub-nav-item'><a href='/nutricosmeticos/antioxidante/88/03' class='medi-sub-nav-link' >Antioxidante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/orexigeno/281/03' class='medi-sub-nav-link' >Orexígeno</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/vitaminico/367/03' class='medi-sub-nav-link' >Vitamínico</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Saúde Masculina</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antialopecia/20/03' class='medi-sub-nav-link' >Antialopécia</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiandrogenico/24/03' class='medi-sub-nav-link' >Antiandrogénico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/disfuncao-eretil/185/03' class='medi-sub-nav-link' >Disfunção Erétil</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/hiperplasia-prostatica-benigna/230/03' class='medi-sub-nav-link' >Hiperplasia Prostática Benigna</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Saúde Feminina</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/anticoncepcionais/39/03' class='medi-sub-nav-link' >Anticoncepcionais</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/disturbio-do-ciclo-menstrual/187/03' class='medi-sub-nav-link' >Distúrbio do Ciclo Menstrual</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/indutor-da-ovulacao/243/03' class='medi-sub-nav-link' >Indutor da Ovulação</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/terapeutica-da-menopausa/337/03' class='medi-sub-nav-link' >Terapêutica da Menopausa</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Ósseo</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiartrosico/28/03' class='medi-sub-nav-link' >Antiartrósico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiosteoporotico/87/03' class='medi-sub-nav-link' >Antiosteoporótico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antirreumatico/94/03' class='medi-sub-nav-link' >Antirreumático</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/repositor-de-potassio/315/03' class='medi-sub-nav-link' >Repositor de Potássio</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Controle Especial</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antidepressivo/42/03' class='medi-sub-nav-link' >Antidepressivo</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiparkinsoniano/91/03' class='medi-sub-nav-link' >Antiparkinsoniano</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Outros</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antineoplasico/84/03' class='medi-sub-nav-link' >Antineoplásico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antitabagismo/103/03' class='medi-sub-nav-link' >Antitabagismo</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul>
+                                                         </div>
+                                            </li>
+                                            <li class="medicamentos-e-saude_new"><a onclick="$('.medicamentos-e-saude_new .sub-nav').toggle();" title="Saúde" class="nav-link">Saúde</a>
+                                                <div class="sub-nav">
+                                                    <ul class="sub-nav-col">
+                                                        <li class='sub-nav-item'><a href='/geriatria/46/01' class='sub-nav-link' title='Geriatria'>Geriatria</a></li><li class='sub-nav-item'><a href='/higiene-e-limpeza/48/01' class='sub-nav-link' title='Higiene e Limpeza'>Higiene e Limpeza</a></li><li class='sub-nav-item'><a href='/homeopaticos/50/01' class='sub-nav-link' title='Homeopáticos'>Homeopáticos</a></li><li class='sub-nav-item'><a href='/alimentos-e-bebidas/52/01' class='sub-nav-link' title='Alimentos e Bebidas'>Alimentos e Bebidas</a></li><li class='sub-nav-item'><a href='/medicamentos/55/01' class='sub-nav-link' title='Medicamentos'>Medicamentos</a></li><li class='sub-nav-item'><a href='/cuidado-com-os-olhos/57/01' class='sub-nav-link' title='Cuidado com os Olhos'>Cuidado com os Olhos</a></li><li class='sub-nav-item'><a href='/ortopedia-e-acessorios/58/01' class='sub-nav-link' title='Ortopedia e Acessórios'>Ortopedia e Acessórios</a></li><li class='sub-nav-item'><a href='/primeiros-socorros/60/01' class='sub-nav-link' title='Primeiros Socorros'>Primeiros Socorros</a></li><li class='sub-nav-item'><a href='/sexo-seguro/61/01' class='sub-nav-link' title='Sexo Seguro'>Sexo Seguro</a></li><li class='sub-nav-item'><a href='/fitness-e-dietas/62/01' class='sub-nav-link' title='Fitness e Dietas'>Fitness e Dietas</a></li><li class='sub-nav-item'><a href='/testes-e-aparelhos/63/01' class='sub-nav-link' title='Testes e Aparelhos'>Testes e Aparelhos</a></li><li class='sub-nav-item'><a href='/vitaminas-e-naturais/65/01' class='sub-nav-link' title='Vitaminas e Naturais'>Vitaminas e Naturais</a></li>
+                                                    </ul>
+                                                    <div class="banner-menu">
+                                                        <a id="A2"> <img id="Img2" /></a>
+                                                        > </div>
+                                                </div>
+                                            </li>
+                                            <li class="beleza-e-bem-estar"><a onclick="$('.beleza-e-bem-estar .sub-nav').toggle();" title="Beleza e Bem Estar" class="nav-link">Beleza e Bem Estar</a>
+                                                <div class="sub-nav">
+                                                    <ul class="sub-nav-col">
+                                                        <li class='sub-nav-item'><a href='/tratamento-rosto/39/01' class='sub-nav-link' title='Tratamento Rosto'>Tratamento Rosto</a></li><li class='sub-nav-item'><a href='/cabelos/40/01' class='sub-nav-link' title='Cabelos'>Cabelos</a></li><li class='sub-nav-item'><a href='/corpo-e-banho/42/01' class='sub-nav-link' title='Corpo e Banho'>Corpo e Banho</a></li><li class='sub-nav-item'><a href='/cuidados-femininos/44/01' class='sub-nav-link' title='Cuidados Femininos'>Cuidados Femininos</a></li><li class='sub-nav-item'><a href='/cuidados-masculinos/49/01' class='sub-nav-link' title='Cuidados Masculinos'>Cuidados Masculinos</a></li><li class='sub-nav-item'><a href='/maos-e-pes/53/01' class='sub-nav-link' title='Mãos e Pés'>Mãos e Pés</a></li><li class='sub-nav-item'><a href='/maquiagem/54/01' class='sub-nav-link' title='Maquiagem'>Maquiagem</a></li><li class='sub-nav-item'><a href='/nutricosmeticos/56/01' class='sub-nav-link' title='Nutricosméticos'>Nutricosméticos</a></li><li class='sub-nav-item'><a href='/colonias/59/01' class='sub-nav-link' title='Colônias'>Colônias</a></li><li class='sub-nav-item'><a href='/tratamento-corpo/64/01' class='sub-nav-link' title='Tratamento Corpo'>Tratamento Corpo</a></li><li class='sub-nav-item'><a href='/higiene-bucal/68/01' class='sub-nav-link' title='Higiene Bucal'>Higiene Bucal</a></li><li class='sub-nav-item'><a href='/protecao-solar/69/01' class='sub-nav-link' title='Proteção Solar'>Proteção Solar</a></li>
+                                                    </ul>
+                                                    <div class="banner-menu">
+                                                        <a id="A3"> <img id="Img3" /></a>
+                                                         </div>
+                                                </div>
+                                            </li>
+                                            <li class="mamae-e-bebe"><a onclick="$('.mamae-e-bebe .sub-nav').toggle();" title="Mamãe e Bebê" class="nav-link">Mamãe e Bebê</a>
+                                                <div class="sub-nav">
+                                                    <ul class="sub-nav-col">
+                                                        <li class='sub-nav-item'><a href='/acessorios-infantis/37/01' class='sub-nav-link' title='Acessórios Infantis'>Acessórios Infantis</a></li><li class='sub-nav-item'><a href='/alimentos-infantis/38/01' class='sub-nav-link' title='Alimentos Infantis'>Alimentos Infantis</a></li><li class='sub-nav-item'><a href='/corpo-e-banho-infantil/41/01' class='sub-nav-link' title='Corpo e Banho Infantil'>Corpo e Banho Infantil</a></li><li class='sub-nav-item'><a href='/cuidados-com-a-mamae/43/01' class='sub-nav-link' title='Cuidados com a Mamãe'>Cuidados com a Mamãe</a></li><li class='sub-nav-item'><a href='/troca-de-fraldas/45/01' class='sub-nav-link' title='Troca de Fraldas'>Troca de Fraldas</a></li><li class='sub-nav-item'><a href='/cuidado-bucal-infantil/47/01' class='sub-nav-link' title='Cuidado Bucal Infantil'>Cuidado Bucal Infantil</a></li>
+                                                    </ul>
+                                                    <div class="banner-menu">
+                                                        <a id="A4"> <img id="Img4" /></a>
+                                                         </div>
+                                                </div>
+                                            </li>
+                                            <li class="ofertas-e-lancamentos"><a onclick="$('.ofertas-e-lancamentos .sub-nav').toggle();" title="Ofertas e Lançamentos" class="nav-link"> Ofertas e Lançamentos</a>
+                                                <div class="sub-nav">
+                                                    <ul class="sub-nav-col">
+                                                        <li class="sub-nav-item"><a href="/Produtos/OfertasLancamentos/oferta/66" class="sub-nav-link" title="Ofertas">Ofertas</a></li>
+                                                    </ul>
+                                                    <ul class="sub-nav-col">
+                                                        <li class="sub-nav-item"><a href="/Produtos/OfertasLancamentos/lancamento/66" class="sub-nav-link" title="Lançamentos">Lançamentos</a></li>
+                                                    </ul>
+                                                    <div class="banner-menu">
+                                                        <a id="A5"> <img id="Img5" /></a>
+                                                         </div>
+                                                </div>
+                                            </li>
+                                            <li class="como-comprar"><a href="http://www.onofre.com.br/Institucional/Default.aspx?InstId=251" title="Como Comprar" class="nav-link">Como Comprar</a> </li>
+                                        </ul>
+                                    </div>
+                                </nav>
+                            </div>
+                            <header id="main-header" class="page-header">
+                                <!--<div class="topbar-responsive"> <div class="wrapper-responsive full"> <div class="televendas col"> <p><span>Televendas:</span> <strong>4007-2526</strong></p> </div> <div class="social-responsive"> <ul class="social-list"> <li class="social-item"><a href="https://www.facebook.com/DrogariaOnofreOficial" class="social-link facebook" target="_blank" title="Facebook">Facebook</a></li> <li class="social-item"><a href="https://blogonofre.wordpress.com/" class="social-link beonofre" target="_blank" title="BeOnofre">BeOnofre</a></li>  </ul> </div> </div> </div>-->
+                                <div class="topbar">
+                                    <div class="wrapper full">
+                                        <div class="welcome col" style="width: 570px; margin-top: 20px;">
+                                            <!-- usuario logado-->
+                                            
+                                            <!-- fim usuario logado-->
+                                            <!-- usuario não logado-->
+                                            <div id="divTopoLogin" class="login col">
+                                                <div id="Panel2" class="login-form">
+	
+                                                    <div style="display: none">
+                                                        <label for="identificacao">Faça seu login:</label>
+                                                        <input name="ctl00$TxtUsuario" type="text" id="TxtUsuario" class="campo_texto" autocomplete="off" placeholder="Digite seu email ou cpf" />
+                                                    </div>
+                                                    <div id="divPasswordDoLogin" style="display: none">
+                                                        <label for="senha">Senha</label>
+                                                        <input name="ctl00$TxtSenha" type="password" id="TxtSenha" class="campo_texto" />
+                                                    </div>
+                                                     <a class="welcome-msg" style="font-size: 12px; vertical-align: middle; font-family: Tahoma"> OLÁ VISITANTE, </a> <a href="/acesso/" class="action-link criar-conta" style="font-size: 12px; font-family: Tahoma">FAÇA LOGIN</a> <a>|</a> <a href="/cadastro/" class="action-link criar-conta" style="font-size: 12px; font-family: Tahoma">CRIAR CONTA</a> <a>|</a>
+                                                    <div><a class="forgot-password action-link" href="#" style="font-size: 12px; font-family: Tahoma;vertical-align: middle;display: inline-block" onclick="ExibirPopup('../../login/ForgotPassWord.aspx',450,290)">ESQUECI MINHA SENHA</a> </div>
+                                                     
+</div>
+                                            </div>
+                                            <!-- fim usuario não logado -->
+                                        </div>
+                                        <div class="televendas col" style="margin-top: 20px;">
+                                            <p><span>Televendas:</span> <strong>4007-2526</strong></p>
+                                        </div>
+                                        
+                                            <div class="social col" style="margin-top: 15px;">
+                                                <ul class="social-list">
+                                                    <li class="social-item"><a href="https://www.facebook.com/DrogariaOnofreOficial" class="social-link facebook" target="_blank" title="Facebook">Facebook</a></li>
+                                                    <li class="social-item"><a href="https://www.instagram.com/drogariaonofre/" class="social-link instagram" target="_blank" title="Instagram">Instagram</a></li>
+                                                    <li class="social-item"><a href="https://blogonofre.wordpress.com/" class="social-link beonofre" target="_blank" title="BeOnofre">BeOnofre</a></li>
+                                                    
+                                                </ul>
+                                            </div>
+                                    </div>
+                                </div>
+                                <!-- /topbar -->
+                                <div class="wrapper full">
+                                    <div class="menu-responsive col" onclick="openNavMobile()"> </div>
+                                    <div class="logo col">
+                                        <h1>  <a href="http://www.onofre.com.br/" class="logo-img">Onofre</a>  </h1> </div>
+                                    <div class="cart-responsive">
+                                        <div class="cart col"> <a href="/carrinho" class="go-to-cart"><span class="total-value"> <span id="lblCartTotalResponsive">R$ 0,00</span> </span></a> </div>
+                                    </div>
+                                    <div class="search col">
+                                        <div class="msg-cvs">
+                                            <p> <img src="https://www.onofre.com.br/assets/img/cvs-health-logo.jpg" alt="CVS Health" width="105" height="21" /> A drogaria onofre agora faz parte da rede de farmácias CVS Health. <a href="http://www.onofre.com.br/Institucional/Default.aspx?InstId=230" class="action-link">Clique aqui e saiba mais.</a> </p>
+                                        </div>
+                                        <!-- /search -->
+                                        <div class="search-box">
+                                            <!-- search box starts here -->
+                                            
+                                            <div id="pnBuscaSli">
+	
+                                                <input type="hidden" name="asug" />
+                                                <input name="ctl00$sli_search_1" type="text" id="sli_search_1" data-provide="rac" value="Digite o nome do produto, marca ou princípio ativo..." class="search-field search-input" data-sli-test="searchbox" onblur="if(value==&#39;&#39;)value=&#39;Digite o nome do produto, marca ou princípio ativo...&#39;" onfocus="if(value==&#39;Digite o nome do produto, marca ou princípio ativo...&#39;)value=&#39;&#39;" onkeydown="javascript:return fnTrapKD(event,this)" autocomplete="off" /> <a id="btnOkSli" class="search-icon" href="javascript:SliSearchById('sli_search_1')" data-sli-test="searchbutton">Ok</a> 
+</div>
+                                            <!-- search box ends here -->
+                                        </div>
+                                    </div>
+                                    <!-- /search -->
+                                    <!-- carrinho -->
+                                    <div class="cart col cart-normal"> <a href="/carrinho" class="go-to-cart"><span class="total-value"> <span id="lblShoppingCartTotal">R$ 0,00</span> </span></a>
+                                        <div class="cart-hover">
+                                            <div id="CartPopUp" class="cart-list">
+                                                 </div>
+                                            <div class="cart-bottom">
+                                                <div class="line">
+                                                     <span class="total">Total: <strong class="total-value"> <span id="lblCartTotal">R$ 0,00</span></strong> </span> </div>
+                                                <div class="line">
+                                                    <!--<div class="one-click"><a href="" class="btn btn-gray buy-one-click">Comprar com 1 clique</a></div>-->
+                                                    <div class="buy-cart"><a href="/carrinho" class="btn btn-green">Finalizar compra</a> </div>
+                                                </div>
+                                            </div> <span id="lblProdAdicionado" class="prod-added">Produto adicionado ao carrinho</span> </div>
+                                    </div>
+                                </div>
+                                
+                            </header>
+                            <nav id="main-nav" class="page-nav">
+                                <div class="wrapper full">
+                                    <ul class="nav-list">
+                                        <li class="nav-item medicamentos-e-saude"><a onclick="window.location.href = 'http://busca.onofre.com.br/search#?p=Q&lbc=onofre&uid=251179742&ts=ajax&isort=score&method=and&view=grid&af=cat1%3amedicamentos'" title="Medicamentos e Saúde" class="nav-link">Medicamentos</a>
+                                            <div class="sub-nav" style="z-index:5003">
+                                                <ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Intestino e Digestão</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antidiarreico/44/03' class='medi-sub-nav-link' >Antidiarréico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiflatulento/54/03' class='medi-sub-nav-link' >Antiflatulento</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiacido/95/03' class='medi-sub-nav-link' >Antiácido</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/laxante/248/03' class='medi-sub-nav-link' >Laxante</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Diabetes</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/hipoglicemiante/234/03' class='medi-sub-nav-link' >Hipoglicemiante</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Hormônios</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antigotoso/57/03' class='medi-sub-nav-link' >Antigotoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/tireoidiano/342/03' class='medi-sub-nav-link' >Tireoidiano</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Infecções</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antibiotico/32/03' class='medi-sub-nav-link' >Antibiótico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-infeccioso/67/03' class='medi-sub-nav-link' >Anti-infeccioso</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Aparelho Urinário</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antidiuretico/46/03' class='medi-sub-nav-link' >Antidiurético</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antilitiasico/80/03' class='medi-sub-nav-link' >Antilitiásico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/diuretico/190/03' class='medi-sub-nav-link' >Diurético</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/incontinencia-urinaria/242/03' class='medi-sub-nav-link' >Incontinência Urinária</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Nervoso</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antivertiginoso/112/03' class='medi-sub-nav-link' >Antivertiginoso</a></li><li class='medi-sub-nav-item'><a href='/homeopaticos/calmante/147/03' class='medi-sub-nav-link' >Calmante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/disturbio-do-tubo-neural/188/03' class='medi-sub-nav-link' >Distúrbio do Tubo Neural</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/neuropsicoestimulante/278/03' class='medi-sub-nav-link' >Neuropsicoestimulante</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Gripe e Resfriado</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antitussigenos/109/03' class='medi-sub-nav-link' >Antitussígenos</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/descongestionante/179/03' class='medi-sub-nav-link' >Descongestionante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/irritacoes-da-garganta/246/03' class='medi-sub-nav-link' >Irritações da Garganta</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/expectorante-e-mucolitico/274/03' class='medi-sub-nav-link' >Expectorante e Mucolítico</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Anti-Hipertensivo</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiarritmico/27/03' class='medi-sub-nav-link' >Antiarritmico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-hipertensivo/62/03' class='medi-sub-nav-link' >Anti-hipertensivo</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/cardiotonico/149/03' class='medi-sub-nav-link' >Cardiotônico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/hipertensor/231/03' class='medi-sub-nav-link' >Hipertensor</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Cuidado com os Olhos</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiglaucomatoso/56/03' class='medi-sub-nav-link' >Antiglaucomatoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/descongestionante-ocular/180/03' class='medi-sub-nav-link' >Descongestionante Ocular</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/distrofia-do-globo-ocular/189/03' class='medi-sub-nav-link' >Distrofia do Globo Ocular</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/lubrificante-ocular/260/03' class='medi-sub-nav-link' >Lubrificante Ocular</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Circulatório</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antianemico/26/03' class='medi-sub-nav-link' >Antianêmico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-hemorragico/61/03' class='medi-sub-nav-link' >Anti-hemorrágico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antivaricoso/111/03' class='medi-sub-nav-link' >Antivaricoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/hemostatico/221/03' class='medi-sub-nav-link' >Hemostático</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Vermes e Parasitas</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antifungico/52/03' class='medi-sub-nav-link' >Antifúngico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antimalarico/81/03' class='medi-sub-nav-link' >Antimalárico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiparasitario/90/03' class='medi-sub-nav-link' >Antiparasitário</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Dor e Febre</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/analgesico/8/03' class='medi-sub-nav-link' >Analgésico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anestesico/13/03' class='medi-sub-nav-link' >Anestésico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antienxaquecoso/48/03' class='medi-sub-nav-link' >Antienxaquecoso</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/anti-inflamatorio/69/03' class='medi-sub-nav-link' >Anti-inflamatório</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Alergias</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antialergico/21/03' class='medi-sub-nav-link' >Antialérgico</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Respiratório</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiasmatico/29/03' class='medi-sub-nav-link' >Antiasmático</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/broncodilatador/142/03' class='medi-sub-nav-link' >Broncodilatador</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Pele e Mucosa</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/cicatrizante/155/03' class='medi-sub-nav-link' >Cicatrizante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/despigmentante/182/03' class='medi-sub-nav-link' >Despigmentante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/aftas/215/03' class='medi-sub-nav-link' >Aftas</a></li><li class='medi-sub-nav-item'><a href='/tratamento-rosto/antiacne/399/03' class='medi-sub-nav-link' >Antiacne</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Vitaminas e Suplementos</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antifadiga/53/03' class='medi-sub-nav-link' >Antifadiga</a></li><li class='medi-sub-nav-item'><a href='/nutricosmeticos/antioxidante/88/03' class='medi-sub-nav-link' >Antioxidante</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/orexigeno/281/03' class='medi-sub-nav-link' >Orexígeno</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/vitaminico/367/03' class='medi-sub-nav-link' >Vitamínico</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Saúde Masculina</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antialopecia/20/03' class='medi-sub-nav-link' >Antialopécia</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiandrogenico/24/03' class='medi-sub-nav-link' >Antiandrogénico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/disfuncao-eretil/185/03' class='medi-sub-nav-link' >Disfunção Erétil</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/hiperplasia-prostatica-benigna/230/03' class='medi-sub-nav-link' >Hiperplasia Prostática Benigna</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Saúde Feminina</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/anticoncepcionais/39/03' class='medi-sub-nav-link' >Anticoncepcionais</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/disturbio-do-ciclo-menstrual/187/03' class='medi-sub-nav-link' >Distúrbio do Ciclo Menstrual</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/indutor-da-ovulacao/243/03' class='medi-sub-nav-link' >Indutor da Ovulação</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/terapeutica-da-menopausa/337/03' class='medi-sub-nav-link' >Terapêutica da Menopausa</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Sistema Ósseo</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiartrosico/28/03' class='medi-sub-nav-link' >Antiartrósico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiosteoporotico/87/03' class='medi-sub-nav-link' >Antiosteoporótico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antirreumatico/94/03' class='medi-sub-nav-link' >Antirreumático</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/repositor-de-potassio/315/03' class='medi-sub-nav-link' >Repositor de Potássio</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Controle Especial</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antidepressivo/42/03' class='medi-sub-nav-link' >Antidepressivo</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antiparkinsoniano/91/03' class='medi-sub-nav-link' >Antiparkinsoniano</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul><ul class='medi-sub-nav-col'><li class='medi-sub-nav-item-titulo'><p>Outros</p></li><li class='medi-sub-nav-item'><a href='/medicamentos/antineoplasico/84/03' class='medi-sub-nav-link' >Antineoplásico</a></li><li class='medi-sub-nav-item'><a href='/medicamentos/antitabagismo/103/03' class='medi-sub-nav-link' >Antitabagismo</a></li><li class='medi-sub-nav-item'><a href='/medicamento/55/01' class='medi-sub-nav-link-vejamais' >(+) Veja Mais</a></li></ul>
+                                                     </div>
+                                        </li>
+                                        <li class="nav-item medicamentos-e-saude_new"><a title="Medicamentos e Saúde" class="nav-link">Saúde</a>
+                                            <div class="sub-nav" style="z-index:5003">
+                                                <ul class="sub-nav-col">
+                                                    <li class='sub-nav-item'><a href='/geriatria/46/01' class='sub-nav-link' title='Geriatria'>Geriatria</a></li><li class='sub-nav-item'><a href='/higiene-e-limpeza/48/01' class='sub-nav-link' title='Higiene e Limpeza'>Higiene e Limpeza</a></li><li class='sub-nav-item'><a href='/homeopaticos/50/01' class='sub-nav-link' title='Homeopáticos'>Homeopáticos</a></li><li class='sub-nav-item'><a href='/alimentos-e-bebidas/52/01' class='sub-nav-link' title='Alimentos e Bebidas'>Alimentos e Bebidas</a></li><li class='sub-nav-item'><a href='/medicamentos/55/01' class='sub-nav-link' title='Medicamentos'>Medicamentos</a></li><li class='sub-nav-item'><a href='/cuidado-com-os-olhos/57/01' class='sub-nav-link' title='Cuidado com os Olhos'>Cuidado com os Olhos</a></li><li class='sub-nav-item'><a href='/ortopedia-e-acessorios/58/01' class='sub-nav-link' title='Ortopedia e Acessórios'>Ortopedia e Acessórios</a></li><li class='sub-nav-item'><a href='/primeiros-socorros/60/01' class='sub-nav-link' title='Primeiros Socorros'>Primeiros Socorros</a></li><li class='sub-nav-item'><a href='/sexo-seguro/61/01' class='sub-nav-link' title='Sexo Seguro'>Sexo Seguro</a></li><li class='sub-nav-item'><a href='/fitness-e-dietas/62/01' class='sub-nav-link' title='Fitness e Dietas'>Fitness e Dietas</a></li><li class='sub-nav-item'><a href='/testes-e-aparelhos/63/01' class='sub-nav-link' title='Testes e Aparelhos'>Testes e Aparelhos</a></li><li class='sub-nav-item'><a href='/vitaminas-e-naturais/65/01' class='sub-nav-link' title='Vitaminas e Naturais'>Vitaminas e Naturais</a></li>
+                                                </ul>
+                                                <div class="banner-menu">
+                                                    <a id="A1"> <img id="Img1" /></a>
+                                                    > </div>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item beleza-e-bem-estar"><a title="Beleza e Bem Estar" class="nav-link">Beleza e Bem Estar</a>
+                                            <div class="sub-nav" style="z-index:5003">
+                                                <ul class="sub-nav-col">
+                                                    <li class='sub-nav-item'><a href='/tratamento-rosto/39/01' class='sub-nav-link' title='Tratamento Rosto'>Tratamento Rosto</a></li><li class='sub-nav-item'><a href='/cabelos/40/01' class='sub-nav-link' title='Cabelos'>Cabelos</a></li><li class='sub-nav-item'><a href='/corpo-e-banho/42/01' class='sub-nav-link' title='Corpo e Banho'>Corpo e Banho</a></li><li class='sub-nav-item'><a href='/cuidados-femininos/44/01' class='sub-nav-link' title='Cuidados Femininos'>Cuidados Femininos</a></li><li class='sub-nav-item'><a href='/cuidados-masculinos/49/01' class='sub-nav-link' title='Cuidados Masculinos'>Cuidados Masculinos</a></li><li class='sub-nav-item'><a href='/maos-e-pes/53/01' class='sub-nav-link' title='Mãos e Pés'>Mãos e Pés</a></li><li class='sub-nav-item'><a href='/maquiagem/54/01' class='sub-nav-link' title='Maquiagem'>Maquiagem</a></li><li class='sub-nav-item'><a href='/nutricosmeticos/56/01' class='sub-nav-link' title='Nutricosméticos'>Nutricosméticos</a></li><li class='sub-nav-item'><a href='/colonias/59/01' class='sub-nav-link' title='Colônias'>Colônias</a></li><li class='sub-nav-item'><a href='/tratamento-corpo/64/01' class='sub-nav-link' title='Tratamento Corpo'>Tratamento Corpo</a></li><li class='sub-nav-item'><a href='/higiene-bucal/68/01' class='sub-nav-link' title='Higiene Bucal'>Higiene Bucal</a></li><li class='sub-nav-item'><a href='/protecao-solar/69/01' class='sub-nav-link' title='Proteção Solar'>Proteção Solar</a></li>
+                                                </ul>
+                                                <div class="banner-menu">
+                                                    <a id="banner_menu_p2"> <img id="banner_menu_img2" /></a>
+                                                     </div>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item mamae-e-bebe"><a title="Mamãe e Bebê" class="nav-link">Mamãe e Bebê</a>
+                                            <div class="sub-nav" style="z-index:5003">
+                                                <ul class="sub-nav-col">
+                                                    <li class='sub-nav-item'><a href='/acessorios-infantis/37/01' class='sub-nav-link' title='Acessórios Infantis'>Acessórios Infantis</a></li><li class='sub-nav-item'><a href='/alimentos-infantis/38/01' class='sub-nav-link' title='Alimentos Infantis'>Alimentos Infantis</a></li><li class='sub-nav-item'><a href='/corpo-e-banho-infantil/41/01' class='sub-nav-link' title='Corpo e Banho Infantil'>Corpo e Banho Infantil</a></li><li class='sub-nav-item'><a href='/cuidados-com-a-mamae/43/01' class='sub-nav-link' title='Cuidados com a Mamãe'>Cuidados com a Mamãe</a></li><li class='sub-nav-item'><a href='/troca-de-fraldas/45/01' class='sub-nav-link' title='Troca de Fraldas'>Troca de Fraldas</a></li><li class='sub-nav-item'><a href='/cuidado-bucal-infantil/47/01' class='sub-nav-link' title='Cuidado Bucal Infantil'>Cuidado Bucal Infantil</a></li>
+                                                </ul>
+                                                <div class="banner-menu">
+                                                    <a id="banner_menu_p3"> <img id="banner_menu_img3" /></a>
+                                                     </div>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item ofertas-e-lancamentos"><a title="Ofertas e Lançamentos" class="nav-link">&nbsp&nbsp Ofertas e &nbsp&nbsp&nbsp&nbsp&nbsp<br /> &nbsp&nbsp Lançamentos</a>
+                                            <div class="sub-nav" style="z-index:5003">
+                                                <ul class="sub-nav-col">
+                                                    <li class="sub-nav-item"><a href="/Produtos/OfertasLancamentos/oferta/66" class="sub-nav-link" title="Ofertas">Ofertas</a></li>
+                                                </ul>
+                                                <ul class="sub-nav-col">
+                                                    <li class="sub-nav-item"><a href="/Produtos/OfertasLancamentos/lancamento/66" class="sub-nav-link" title="Lançamentos">Lançamentos</a></li>
+                                                </ul>
+                                                <div class="banner-menu">
+                                                    <a id="banner_menu_p4"> <img id="banner_menu_img4" /></a>
+                                                     </div>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item como-comprar"><a href="http://www.onofre.com.br/Institucional/Default.aspx?InstId=251" title="Como Comprar" class="nav-link">Como Comprar</a> </li>
+                                    </ul>
+                                </div>
+                            </nav>
+                            <div class="float-bar"></div>
+                            
+                                    <!-- /floatbar -->
+                                    <!-- FIM HEADER -->
+                                    <!-- ESTRUTURA -->
+                                    <div class="page-content">
+                                        <div class="wrapper">
+                                            <!-- conteudo -->
+                                            
+    <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '385313818482634',
+      xfbml      : true,
+      version    : 'v2.8'
+    });
+    FB.AppEvents.logPageView();
+  };
+</script>
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "http://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.8";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <div class="page-content">
+
+        <div class="wrapper">
+
+            <input type="hidden" name="ctl00$cphConteudo$url" id="url" />
+            <input type="hidden" name="ctl00$cphConteudo$hdAtivo" id="hdAtivo" />
+            <ul class="breadcrumb full">
+                <div id="breadcrumbs">
+                    <a href="/Default.aspx">Drogaria Onofre</a> &#62; <a href=/medicamentos/55/01 class="bread_beleza">Medicamentos</a> &#62; <a href=/medicamentos/antiglaucomatoso/56/03 class="bread_beleza">Antiglaucomatoso</a>
+
+                </div>
+
+            </ul>
+            <div class="main-product-image col9">
+
+                <div class="main-image-wrap">
+
+                    <!-- SELO PRODUTO -->
+                    <div id="cphConteudo_seloProduto" style="background:white;border-radius:5px;color:white;text-align:center;">selo produto</div>
+                    <!-- FIM SELO PRODUTO -->
+                    <a href="https://www.onofre.com.br/estatico/Produto/Super/" id="cphConteudo_linkimgGrande" class="jqzoom" rel="gal1" title="">
+                        <img id="cphConteudo_imgGrande" alt="" src="http://img.onofre.com.br/img/Busca/imagem_prescricao.jpg" height="480" width="480" />
+                    </a>
+                </div>
+                <input type="hidden" name="ctl00$cphConteudo$hf_id_produto" id="cphConteudo_hf_id_produto" value="22540" />
+                <div class="img-thumbs">
+                    <ul class="thumbs-list">
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="main-product-info col7">
+                <div class="flags">
+                    <span class="flag entrega-4horas">
+                        </span> <span class="flag uso-adulto">
+                            </span>
+                </div>
+                <div class="top-infos">
+                    
+                    <span class="code col">
+                        <span id="cphConteudo_lblCode">Cód: 001503</span></span> <span class="ms col">
+                            <span id="cphConteudo_num_registro"> MS: 1002301730047</span></span>
+                </div>
+                <h1 class="main-product-name">
+                    <input type="hidden" name="ctl00$cphConteudo$ProductId" id="cphConteudo_ProductId" value="22540" />
+                    <span id="lblProductName">Glautimol 5mg (0,5%) Colírio Com 5ml</span></h1>
+                
+                <span id="cphConteudo_listaProdutoAntbiotico"></span>
+                <div class="top-infos">
+                    <span id="cphConteudo_lblProductManufacturer"><a class="fabricante2" href="/glautimol-05-5ml/22540/07">Alcon</a></span>
+                </div>
+                <div class="product-spec">
+                    <div id="DtlprinAtivo" class="spec principio-ativo">
+                        <p class="spec-title col2">Princípio Ativo </p>
+                        <p class="spec-text col5">
+                            <span id="cphConteudo_lblDescriptionResume">Maleato de Timolol</span>
+                        </p>
+                    </div>
+                    
+                    
+                    
+                    <a href="https://www.onofre.com.br/estatico/Bula/001503.pdf" id="bulaDetalhe" class="view-bula" target="_blank">Visualizar Bula do medicamento</a>
+                    <div class="action-box">
+                        
+                        
+                        <div class="col3 dinheiro-extra" style="position: relative; margin-top: 10px;">
+                            <div class="fb-save" data-uri="http://www.onofre.com.br/DetalheProduto/Default.aspx?ProductName=glautimol-5mg-05-colirio-com-5ml&ProductId=22540" data-size="small"></div>
+
+                            
+                            
+                            <div id="cphConteudo_divSemPBM" style="margin-top: -10px;">
+                                <small class="aviso">Preço válido para compras feitas pela internet. Imagem meramente ilustrativa.</small>
+
+                                <!-- Campo CRM para medicamentos -->
+                                <div id="cphConteudo_divCRM">
+                                    <span id="cphConteudo_lblCrm">Insira o CRM do Médico:</span>
+                                    <input name="ctl00$cphConteudo$txtCrm" type="text" id="cphConteudo_txtCrm" style="width: 100px; padding-bottom: -110px;" />&nbsp;
+                                     <select name="ctl00$cphConteudo$slCrmUF" id="cphConteudo_slCrmUF" onchange="ValidarSelectCRM(this)">
+	<option selected="selected" value="SP" disabled="">UF</option>
+	<option value="AC">AC</option>
+	<option value="AL">AL</option>
+	<option value="AP">AP</option>
+	<option value="AM">AM</option>
+	<option value="BA">BA</option>
+	<option value="CE">CE</option>
+	<option value="DF">DF</option>
+	<option value="ES">ES</option>
+	<option value="GO">GO</option>
+	<option value="MA">MA</option>
+	<option value="MS">MS</option>
+	<option value="MT">MT</option>
+	<option value="MG">MG</option>
+	<option value="PA">PA</option>
+	<option value="PB">PB</option>
+	<option value="PR">PR</option>
+	<option value="PE">PE</option>
+	<option value="PI">PI</option>
+	<option value="RJ">RJ</option>
+	<option value="RN">RN</option>
+	<option value="RS">RS</option>
+	<option value="RO">RO</option>
+	<option value="RR">RR</option>
+	<option value="SC">SC</option>
+	<option value="SP">SP</option>
+	<option value="SE">SE</option>
+	<option value="TO">TO</option>
+</select>
+                                </div>
+
+                                <!-- Fim Campo CRM para Medicamentos -->
+                                <em>
+                                    <span id="cphConteudo_lblMsg">Venda sob prescrição médica.</span></em>
+                            </div>
+
+                            
+
+                            <div id="divDescricaoDermaClub" onclick="$(this).hide();" style="width: 100%; height: 100%; position: fixed; top: 0; left: 0; background-color: rgba(255,255,255,0.6); padding-top: 10%; display: none; z-index: 5">
+                                <div style="background-color: #99CCFF; border: 2px dashed #00B0F0; width: 500px; height: 250px; margin: 0 auto; color: white; font-weight: bold; z-index: 5; font-size: 19px; padding-top: 10px;">
+                                    <span style="margin: 0 auto; width: 95%; display: block;">"O DermaClub é o clube de vantagens das marcas<br />
+                                        La Roche-Posay, Vichy e SkinCeuticals, onde você pode acumular pontos em todas as suas compras e trocar por descontos e benefícios exclusivos. Além disso, você recebe
+                                                                                dicas personalizadas sobre sua pele dos maiores dermatologistas do Brasil. Junte-se a nós e aproveite o máximo de vantagens para você e sua pele.
+                                                                                Cadastre-se em <a style="text-decoration: none; color: white;" target="_blank" href="http://www.dermaclub.com.br">www.dermaclub.com.br</a>"
+                                    </span>
+                                </div>
+                            </div>
+
+                            
+                        </div>
+                        
+                        
+                        <div id="cphConteudo_divBuyArea" class="col4 buy-area">
+                            
+                            <div id="cphConteudo_divDropQuantidade">
+                                <span class="group-title">Selecione a
+                                    <span id="cphConteudo_lblDescEspeci">Quantidade</span>:</span>
+                                <div class="sku-radio">
+                                    <span class="group-name">
+                                        <span id="cphConteudo_lblDescEspeci1">Quantidade</span></span>
+                                    <div class="sku-list">
+                                        <ul>
+                                            
+                                                    <li class="sku-item"><a href="/glautimol-5mg-05-colirio-com-5ml/22540/05" id="Urlfilhos"> 
+                                                        <label class="sku-name" for="beach">
+                                                             
+                                                            <img id="cphConteudo_rptProdutoFilhos_imgEspe_0" Border="0" src="https://www.onofre.com.br/estatico/produto/especificacao/260.jpg" height="40" width="40" />
+                                                            <span>5mL</span>
+                                                        </label>
+                                                    </a></li>
+                                                
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div id="cphConteudo_main_product" class="main-product-price">
+                                <span>
+                                    <label></label>
+                                </span><span id="cphConteudo_old_price_span" class="old-price"><em>
+                                    <span id="cphConteudo_lblPrecoDe">R$ 11,09</span></em></span>
+                                 <span class="regular-price">
+                                    <span id="cphConteudo_lblPrecoPor">R$ 8,54</span></span>
+                            </div>
+                            <div id="cphConteudo_divComprar" class="buy-product buy-page">
+                                <div id="cphConteudo_botao_quantidade_antigo" class="qtd">
+                                    <div class="controls"><span onclick="incrementValue()">+</span> <span onclick="DecrementValue()">-</span> </div>
+                                    <input name="ctl00$cphConteudo$txt_QtdDP" type="text" id="txt_QtdDP" value="1" class="qtd-field" readonly="readonly" />
+                                </div>
+                                <a href="javascript:chamarAjaxQtd('AddItem','[{idProduct:22540}]',parent.document.getElementById('txt_QtdDP').value);" id="cphConteudo_btComprarDP" class="btn-green btn-buy" onclick="SalvarCRMProduto">Comprar</a>
+                            </div>
+                            
+                            
+                            
+                        </div>
+                        <div>
+                            
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="complementary row">
+                
+                <div id="AnvisaEtiquetaTextoSemBorda" class="AnvisaEtiquetaTextoSemBorda">
+                    
+                    
+                </div>
+
+                
+
+                
+                
+            </div>
+            <div class="ch_clear" chaordic="top"></div>
+            <div class="product-details tabs row col12">
+                <nav class="tab-nav">
+                    
+                    <h3 id="cphConteudo_divDescricao_tab" class="tab-item active" data-item="descricao">Descrição do Produto</h3>
+                    
+                    
+                </nav>
+
+                
+                <div id="cphConteudo_divDescricao" class="tab-content descricao active">
+                    <p>
+                        <P align=justify><STRONG><FONT face=Tahoma color=#808080 size=2>Glautimol<SUP>®</SUP><BR></FONT></STRONG><FONT face=Tahoma color=#808080 size=2>Timolol 0,5%<BR>Maleato<BR>Solução Oftálmica Estéril </FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>USO ADULTO</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Solução Oftálmica Estéril </FONT></P>
+<P align=justify><STRONG><FONT face=Tahoma color=#808080 size=2>FORMA FARMACÊUTICA E APRESENTAÇÃO: </FONT></STRONG></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Frasco plástico conta-gotas contendo 5 ml de solução oftálmica estéril.</FONT></P>
+<P align=justify><STRONG><FONT face=Tahoma color=#808080 size=2>COMPOSIÇÃO: </FONT></STRONG></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Cada ml de GLAUTIMOL 0,5% contém:</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Timolol (na forma de maleato de timolol)..........................5,0 mg </FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Veículo constituído de fosfato de sódio dibásico anidro, fosfato de sódio monobásico monoidratado, ácido clorídrico e/ou hidróxido de sódio, cloreto de benzalcônio como conservante e água purificada q.s.p. 1 ml.</FONT></P>
+<P align=justify><STRONG><FONT face=Tahoma color=#808080 size=2>INDICAÇÕES: </FONT></STRONG></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>GLAUTIMOL Solução Oftálmica é indicado no tratamento da pressão intra-ocular elevada em pacientes com hipertensão ocular ou glaucoma de ângulo aberto.</FONT></P>
+<P align=justify><STRONG><FONT face=Tahoma color=#808080 size=2>CONTRA-INDICAÇÕES: </FONT></STRONG></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Pacientes com asma brônquica, ou histórico de asma brônquica, doença pulmonar obstrutiva crônica severa, bradicardia sinusal, bloqueio atrioventricular de segundo e terceiro graus, insuficiência cardíaca manifesta, choque cardiogênico ou hipersensibilidade aos componentes do produto.</FONT></P>
+<P align=justify><STRONG><FONT face=Tahoma color=#808080 size=2>ADVERTÊNCIAS: </FONT></STRONG></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>As mesmas reações adversas que ocorrem com a administração sistêmica de agentes bloqueadores beta-adrenérgicos podem ocorrer com a administração tópica. Por exemplo, reações respiratórias severas e reações cardíacas, incluindo morte por broncoespasmo em pacientes com asma e raramente morte em associação com insuficiência cardíaca, foram relatadas após a administração sistêmica ou oftálmica de maleato de timolol.</FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>Insuficiência cardíaca:</STRONG> A estimulação simpática pode ser essencial para manter a circulação em pessoas com contratilidade miocárdica diminuída, e sua inibição por bloqueador de receptor beta-adrenérgico pode precipitar insuficiência mais severa.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>Pacientes sem histórico de insuficiência cardíaca:</STRONG> A depressão continuada do miocárdio por agentes beta-bloqueadores por um período de tempo pode, em alguns casos, levar à insuficiência cardíaca. Ao primeiro sinal ou sintoma de insuficiência cardíaca, interromper o uso de GLAUTIMOL.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>Doença pulmonar obstrutiva:</STRONG> Pacientes com doença pulmonar obstrutiva crônica (ex.: bronquite crônica, enfisema) de severidade moderada, doença broncospástica ou histórico de doença broncospástica não devem, em geral, receber beta-bloqueadores incluindo GLAUTIMOL.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>Cirurgia:</STRONG> O uso de agentes bloqueadores beta-adrenérgicos pode aumentar o risco da anestesia geral em procedimentos cirúrgicos; por esta razão, recomenda-se suspender gradualmente o uso destes agentes em caso de cirurgia. Se necessário durante a cirurgia, os efeitos dos agentes bloqueadores beta-adrenérgicos podem ser revertidos com doses suficientes de agonistas adrenérgicos.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>Diabetes Mellitus:</STRONG> Os agentes bloqueadores beta-adrenérgicos podem mascarar os sinais e sintomas da hipoglicemia aguda, devendo ser administrados com cuidado em pacientes sujeitos à hipoglicemia espontânea ou diabéticos sob tratamento com insulina ou agentes hipoglicemiantes orais.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>Tireotoxicose:</STRONG> Os agentes bloqueadores beta-adrenérgicos podem mascarar certos sinais clínicos (ex.: taquicardia) do hipertireoidismo. Pacientes com suspeita de desenvolver tireotoxicose devem ser cuidadosamente controlados para evitar a retirada abrupta dos agentes bloqueadores beta-adrenérgicos, a qual pode precipitar uma crise de tireóide.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>&nbsp;</STRONG><STRONG>PRECAUÇÕES:</STRONG></FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>Geral:</STRONG> Devido aos efeitos potenciais dos bloqueadores beta-adrenérgicos sobre a pressão sangüínea e pulso, estes agentes devem ser usados com precaução em pacientes com insuficiência cerebrovascular. Se aparecerem sinais e sintomas de redução do fluxo sangüíneo cerebral, após o início do tratamento com GLAUTIMOL, deve ser considerada uma terapia alternativa.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Tem sido relatada a ocorrência de ceratite bacteriana associada ao uso de frasco multidose de solução oftálmica tópica contaminado inadvertidamente por pacientes com doença corneana concomitante ou rompimento da superfície epitelial ocular.</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Descolamento de coróide após procedimentos de filtração foi relatado com a administração de terapia supressora de humor aquoso (ex.: timolol).</FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>Glaucoma de ângulo fechado:</STRONG> GLAUTIMOL possui pouco ou quase nenhum efeito sobre a pupila. Portanto, no tratamento do glaucoma de ângulo fechado, GLAUTIMOL deve ser usado com um miótico e não isoladamente, onde o objetivo imediato é a reabertura do ângulo, o que requer a constrição da pupila.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>Anafilaxia:</STRONG> Os pacientes com histórico de atopia ou com histórico de reações anafiláticas severas a diversos alérgenos, enquanto estiverem usando beta-bloqueadores, tornam-se mais responsivos a repetidas exposições a estes alérgenos, sejam estas acidentais, para diagnóstico ou terapêuticas. Tais pacientes podem não responder às doses usuais de epinefrina no tratamento de reações anafiláticas.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>Fraqueza muscular:</STRONG> Tem sido relatado que os bloqueadores beta-adrenérgicos potencializam a fraqueza muscular consistente com certos sintomas miastênicos (ex.: diplopia, ptose e fraqueza generalizada). Entretanto, o maleato de timolol raramente aumenta a fraqueza muscular em pacientes com miastenia gravis ou sintomas miastênicos.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>Gravidez e Efeitos Teratogênicos:</STRONG> Estudos de teratogenicidade com timolol em camundongos, ratos e coelhos com doses orais de até 50 mg/kg/dia (7000 vezes a exposição sistêmica seguindo a máxima dose oftálmica humana recomendada) não demonstraram evidências de malformação fetal. Embora tenha sido observada uma ossificação fetal retardada nesta dose em ratos, não ocorreram efeitos adversos no desenvolvimento pós-natal da prole. Doses de 1000 mg/kg/dia (142000 vezes a exposição sistêmica seguindo a máxima dose oftálmica humana recomendada) levaram à toxicidade materna em camundongos e resultaram em um aumento no número de reabsorção fetal. Foi também observada reabsorção fetal aumentada em coelhos a doses de 14000 vezes a exposição sistêmica seguindo a máxima dose oftálmica humana recomendada, neste caso sem aparente toxicidade materna.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Não existem estudos adequados e bem controlados em mulheres grávidas. GLAUTIMOL Solução Oftálmica deve ser usado durante a gravidez somente quando o benefício potencial justificar o risco potencial para o feto.</FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>Lactantes:</STRONG> Maleato de timolol tem sido detectado no leite materno após a administração oral ou oftálmica. Deve-se, portanto, decidir suspender a amamentação ou o produto levando-se em consideração a importância do tratamento para a mãe.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>Uso pediátrico:</STRONG> A segurança e eficácia do uso em crianças não foram estabelecidas.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>Carcinogênese, mutagênese, diminuição da fertilidade</STRONG> : Em um estudo de dois anos onde maleato de timolol foi administrado por via oral em ratos, ocorreram aumentos estatisticamente significantes na incidência de feocromocitomas supra-renais em ratos machos aos quais se administraram 300 mg/kg/dia (aproximadamente 42000 vezes a exposição sistêmica seguindo a máxima dose oftálmica humana recomendada). Não foram observadas diferenças similares em ratos aos quais foram administradas doses por via oral eqüivalentes a aproximadamente 14000 vezes a máxima dose oftálmica humana recomendada.<BR>Em um estudo por via oral durante o período de vida dos camundongos houve um aumento estatisticamente significante na incidência de tumores pulmonares benignos e malignos, pólipos uterinos benignos e adenocarcinomas mamários em camundongos fêmeas a 500 mg/kg/dia (aproximadamente 71000 vezes a exposição sistêmica seguindo a máxima dose oftálmica humana recomendada) , mas não a 5 ou 50 mg/kg/dia (aproximadamente 700 ou 7000 vezes, respectivamente, a exposição sistêmica seguindo a máxima dose oftálmica humana recomendada). Em um estudo subseqüente em camundongos fêmeas, nas quais exames pós-morte foram limitados ao útero e pulmões, foi observado novamente um aumento estatisticamente significante na incidência de tumores pulmonares a 500 mg/kg/dia.<BR>O aumento da ocorrência de adenocarcinomas mamários foi associado com elevações na prolactina sérica que ocorreu em camundongos fêmeas às quais se administrou por via oral timolol a 500 mg/kg, não ocorrendo o mesmo a doses de 5 ou 50 mg/kg/dia. O aumento da incidência de adenocarcinomas mamários em roedores foi associado com a administração de vários outros agentes terapêuticos que elevam a prolactina sérica, porém nenhuma correlação entre níveis de prolactina sérica e tumores mamários foi estabelecida em humanos. Além disso, em mulheres às quais foram administradas por via oral doses de até 60 mg de maleato de timolol ( máxima dose oral humana recomendada) não ocorreram mudanças clinicamente significativas na prolactina sérica.<BR>O maleato de timolol foi desprovido de potencial mutagênico no teste in vivo (camundongo) de micronúcleos e teste citogenético ( doses até 800 mg/kg) e no teste in vitro de transformação de célula neoplásica (até 100 mg/ml). No teste de Ames as maiores concentrações de timolol empregadas, 5000 ou 10000 mg/placa, foram associadas com elevações estatisticamente significantes de mutantes observados com cepas teste TA100 (testes em 7 replicatas), mas não em 3 cepas remanescentes. Nos ensaios com cepas teste TA100 não foi observada nenhuma relação dose resposta consistente e a proporção do teste para mutantes controle não alcançou 2. Uma proporção 2 é normalmente considerada o critério para teste de Ames positivo.<BR>Estudos de reprodução e fertilidade em ratos não mostraram efeitos adversos na fertilidade de machos ou fêmeas com doses até 21000 vezes a exposição sistêmica seguindo a máxima dose oftálmica humana recomendada.</FONT></FONT></FONT></P>
+<P align=justify><STRONG><FONT face=Tahoma color=#808080 size=2>INTERAÇÕES MEDICAMENTOSAS: </FONT></STRONG></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Epinefrina: Embora GLAUTIMOL, quando administrado isoladamente possua pouco ou nenhum efeito sobre o tamanho da pupila, a terapia concomitante com epinefrina pode resultar em midríase ocasional.<BR>Agentes bloqueadores beta-adrenérgicos: Pacientes sob tratamento com agente bloqueador beta-adrenérgico oral e GLAUTIMOL devem ser observados quanto a efeitos aditivos potenciais tanto sistêmicos como sobre a pressão intra-ocular. Dois bloqueadores beta-adrenérgicos de uso tópico oftálmico não devem ser administrados concomitantemente.<BR>Antagonistas do cálcio: Cuidados devem ser tomados na co-administração de agentes bloqueadores beta-adrenérgicos e antagonistas do cálcio orais ou intravenosos, pois podem ocorrer distúrbios da condução atrioventricular, insuficiência ventricular esquerda e hipotensão. Deve ser evitada a co-administração em pacientes com função cardíaca reduzida.<BR>Depletores de catecolaminas: Pacientes sob tratamento com depletores de catecolaminas, tal como reserpina, devem ser observados atentamente quando um beta-bloqueador é administrado devido ao possível efeito aditivo e produção de hipotensão e/ou bradicardia que pode resultar em vertigo, síncope ou hipotensão postural.<BR>Digitálicos e antagonistas do cálcio: O uso concomitante de agentes bloqueadores beta-adrenérgicos com digitálicos e antagonistas do cálcio pode ter um efeito aditivo prolongando o tempo da condução atrioventricular.</FONT></P>
+<P align=justify><FONT face=Tahoma><FONT size=2><FONT color=#808080><STRONG>&nbsp;</STRONG><STRONG>REAÇÕES ADVERSAS:</STRONG></FONT></FONT></FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>As reações adversas mais freqüentemente relatadas foram queimação e ardência após a instilação.<BR>As seguintes reações adversas foram menos freqüentemente relatadas com a administração ocular desta ou de outras formulações de maleato de timolol:</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Geral: Dor de cabeça, astenia, fadiga, dor no peito.</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Cardiovascular: Bradicardia, arritmia, hipotensão, hipertensão, síncope, bloqueio cardíaco, acidente vascular cerebral, isquemia cerebral, insuficiência cardíaca, agravamento de angina do peito, palpitação, parada cardíaca e edema pulmonar.</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Digestiva: Náusea, diarréia, dispepsia, anorexia e boca seca.</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Imunológica: Lúpus eritematoso sistêmico.</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Sistema nervoso/Psiquiátrico: Vertigem, depressão, aumento nos sinais e sintomas de miastenia gravis, parestesia, mudanças de comportamento incluindo confusão, alucinações, ansiedade, desorientação, nervosismo, sonolência e outros distúrbios psíquicos.</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Pele: Hipersensibilidade, incluindo erupção localizada e generalizada; urticária, alopecia.</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Respiratória: Broncoespasmo, insuficiência respiratória, dispnéia, congestão nasal, tosse e infecções das vias aéreas superiores.</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Endócrina: Mascaramento dos sintomas da hipoglicemia em pacientes diabéticos.</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Urogenital: Fibrose retroperitoneal e impotência.</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Sentidos especiais: Sinais e sintomas de irritação ocular incluindo conjuntivite, blefarite, ceratite, dor ocular, secreção, sensação de corpo estranho, coceira e lacrimejamento; ptose; diminuição da sensibilidade corneana; edema macular cistóide; distúrbios visuais incluindo mudanças refrativas e diplopia; pseudopenfigóide e descolamento de coróide após cirurgia de filtração.</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Efeitos adversos potenciais: Os efeitos adversos relatados nos ensaios clínicos com maleato de timolol por via oral podem ser considerados efeitos adversos potenciais do maleato de timolol por via tópica oftálmica.</FONT></P>
+<P align=justify><STRONG><FONT face=Tahoma color=#808080 size=2>POSOLOGIA: </FONT></STRONG></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>Instilar uma gota de GLAUTIMOL 0,5% no(s) olho(s) afetado(s) duas vezes por dia. Como em alguns pacientes a resposta ao tratamento da pressão pode levar algumas semanas para estabilizar, a avaliação deverá incluir a determinação da pressão intra-ocular após aproximadamente 4 semanas de tratamento com GLAUTIMOL. Se a pressão intra-ocular for mantida em níveis satisfatórios, a posologia pode ser alterada para uma gota no(s) olho(s) afetado(s) uma vez por dia. Devido às variações diurnas da pressão intra-ocular, a resposta é melhor determinada medindo-se a pressão intra-ocular em diferentes horários durante o dia.<BR>Doses maiores que uma gota de GLAUTIMOL 0,5 % duas vezes por dia geralmente não produzem maior diminuição da pressão intra-ocular. Se necessário, pode ser instituída terapêutica concomitante com pilocarpina e outros mióticos e/ou inibidores da anidrase carbônica.<BR>Quando o paciente for transferido de outro agente bloqueador beta-adrenérgico tópico oftálmico para GLAUTIMOL, manter no primeiro dia o medicamento anterior e iniciar no dia seguinte o tratamento com uma gota de GLAUTIMOL 0,5 % duas vezes por dia. <BR>Quando o paciente for transferido de um único agente antiglaucomatoso, que não seja bloqueador beta-adrenérgico oftálmico tópico, continuar utilizando o medicamento anterior e instilar uma gota de GLAUTIMOL 0,5% no(s) olho(s) afetado(s) duas vezes por dia. No dia seguinte interromper o uso do antiglaucomatoso usado previamente e continuar o tratamento com GLAUTIMOL . <BR>Quando o paciente for transferido de um esquema de vários agentes antiglaucomatosos é necessária uma individualização. Se um dos agentes for um bloqueador beta-adrenérgico oftálmico, este deve ser interrompido antes de iniciar o tratamento com GLAUTIMOL. Os ajustes deverão envolver um agente de cada vez em intervalos não menores que uma semana e dependerão da resposta do paciente ao tratamento.</FONT></P>
+<P align=justify><FONT face=Tahoma color=#808080 size=2></FONT>
+<P align=justify><FONT face=Tahoma color=#808080 size=2>NÃO USE REMÉDIO SEM O CONHECIMENTO DO SEU MÉDICO. PODE SER PERIGOSO PARA SUA SAÚDE.</FONT></P>
+                    </p>
+                </div>
+                
+                <div class="tab-content video">
+                    <p>
+                        
+                    </p>
+                </div>
+            </div>
+            <div class="ch_clear" chaordic="middle"></div>
+            
+            <div class="ch_clear" chaordic="bottom"></div>
+        </div>
+    </div>
+    <div class="zx_48A4A1065492484E8D54 zx_mediaslot">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            window._zx = window._zx || [];
+            window._zx.push({
+                id: "48A4A1065492484E8D54"
+            });
+            (function (e) {
+                var c = e.createElement("script");
+                c.async = true;
+                c.src = (e.location.protocol == "https:" ? "https:" : "http:") + "//static.zanox.com/scripts/zanox.js?utm_source=Zanox&utm_medium=Afiliados&utm_campaign=Desconto&acao=3&partner=576";
+                var b = e.getElementsByTagName("script")[0];
+                b.parentNode.insertBefore(c, b)
+            }(document)); /*]]>*/
+        </script>
+        <script type="text/javascript">
+            var images = window.chaordic_meta.product.images;
+            var zx_identifier = window.chaordic_meta.product.id;
+            var zx_name = window.chaordic_meta.product.name;
+            var zx_price = window.chaordic_meta.product.price;
+            var zx_url = window.location.host + window.chaordic_meta.product.url;
+            var zx_photo = window.location.host + images["300x300"];
+        </script>
+        <script type="text/javascript">
+            var IP;
+            /*<![CDATA[*/
+            function incrementValue() {
+                var a = parseInt(document.getElementById("txt_QtdDP").value, 10);
+                a = isNaN(a) ? 0 : a;
+                a++;
+                if (a == 21) {
+                    a = 20
+                }
+                //if (a < 10) {
+                //    a = ("0" + a)
+                //}
+
+                document.getElementById("txt_QtdDP").value = a
+            }
+
+            function DecrementValue() {
+                var a = parseInt(document.getElementById("txt_QtdDP").value, 10);
+                a = isNaN(a) ? 0 : a;
+                a--;
+                if (a == 0) {
+                    a = 1
+                }
+                //if (a < 10) {
+                //    a = ("0" + a)
+                //}
+                document.getElementById("txt_QtdDP").value = a
+            }
+            $("#txt_QtdDP").on("keyup blur", function (a) {
+                $(this).val($(this).val().replace(/[^\d].+/, ""));
+                if ((a.which < 48 || a.which > 57)) {
+                    a.preventDefault()
+                }
+
+               
+            });
+
+            //$("#txt_QtdDP").on("keyup blur", function () {
+            //    if ($("#txt_QtdDP").val() > 50) {
+            //        $("#txt_QtdDP").val("0" + 1)
+            //    }
+            //    if ($("#txt_QtdDP").val() == "") {
+            //        $("#txt_QtdDP").val("0" + 1)
+            //    }
+            //}); /*]]>*/
+
+
+
+
+            $.get("http://ipinfo.io", function (response) {
+                IP = response.ip;
+            }, "jsonp");
+
+
+            $("#cphConteudo_btComprarDP").click(function () {
+
+                SalvarCRMProduto();
+            });
+
+
+            function SalvarCRMProduto() {
+
+                $.ajax({
+                    type: "POST",
+                    url: "/DetalheProduto/Default.aspx/SalvarCrm",
+                    data: "{id_produto:'" + $("#cphConteudo_hf_id_produto").val() + "',UF:'" + $("#cphConteudo_slCrmUF").val() + "',CRM:'" + $("#cphConteudo_txtCrm").val() + "',IP:'" + IP + "'}",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (data) {
+                        //if (data.d == "Salvo") {
+                        
+
+                        //} else if (data.d == "Não Salvo") {
+
+                        //}
+
+                    },
+                    error: function (data) {
+
+                    }
+                });
+
+            }
+
+        </script>
+    </div>
+
+    <style type="text/css">
+        #cphConteudo_divSeloDermaclub {
+            cursor: default;
+        }
+
+            #cphConteudo_divSeloDermaclub:hover {
+                cursor: pointer;
+            }
+    </style>
+
+                                            <!-- conteudo -->
+                                        </div>
+                                    </div>
+                                    <!-- FIM ESTRUTURA -->
+                                    <!-- FOOTER -->
+                                    <div class="pre-footer row">
+                                        <div class="wrapper full">
+                                            <div class="col newsletter">
+                                                <h5 class="news-title">Newsletter!</h5>
+                                                <p class="news-sub-title"><span>Cadastre-se</span></p>
+                                                <p class="text">Fique por dentro de todas as nossas promoções e descontos exclusivos.</p>
+                                                <input type="email" class="input-email" placeholder="Digite seu email" id="txtnewslettermaster" /> <a class="btn btn-acqua" onclick="AdicionarNewsLetter(1)">OK</a>
+                                                <p id="NewsLetterMaster" class="textNewsLetter"></p>
+                                            </div>
+                                            <div class="col cvs">
+                                                <p align="center"> <img class="img-cvs-health" src="https://www.onofre.com.br/assets/img/cvs-health-logo-grande.jpg" alt="CVS Health" /> </p>
+                                                <p class="text">Desde 2013, a Drogaria Onofre faz parte da maior empresa de saúde do mundo, CVS Health. Com mais de 7.500 drogarias distribuídas por todo o território americano, e 47 no Brasil. </p> <a href="/Institucional/Default.aspx?InstId=230" class="btn btn-red" title="Saiba mais sobre a CVS Health">CLique aqui</a> </div>
+                                            <div class="col lojas last">
+                                                <div class="info">
+                                                    <h5>Nossas Lojas</h5>
+                                                    <p class="text">A Drogaria Onofre possui 47 lojas em todo o território nacional e oferece mais de 15 horas de atendimento farmacêutico por dia.</p> <a href="/nossaslojas/nossaslojas.aspx" class="btn btn-blue" title="Veja mais lojas">Clique aqui</a> </div> <img src="https://www.onofre.com.br/assets/img/banner-nossas-lojas.jpg" alt="Conheça nossas lojas" /> </div>
+                                        </div>
+                                        <!-- /wrapper prefooter -->
+                                    </div>
+                                    <!-- /prefooter -->
+                                    <footer class="page-footer">
+                                        <div class="page-footer-top row">
+                                            <div class="wrapper">
+                                                <div class="row top-items">
+                                                    
+                                                            <div class="col4">
+                                                                <h5 class="box-title">Sobre a Onofre</h5>
+                                                                <ul class="links-list">
+                                                                    
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/Institucional/Default.aspx?InstId=93' target='' class="list-link">
+                                                                                    Quem Somos
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/nossaslojas/nossaslojas.aspx' target='' class="list-link">
+                                                                                    Nossas Lojas
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.vagas.com.br/onofre' target='' class="list-link">
+                                                                                    Trabalhe Conosco
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/nossaspoliticas' target='' class="list-link">
+                                                                                    Nossas Políticas
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/Institucional/Default.aspx?InstId=207' target='' class="list-link">
+                                                                                    Imprensa
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                </ul>
+                                                            </div>
+                                                        
+                                                            <div class="col4">
+                                                                <h5 class="box-title">Serviços</h5>
+                                                                <ul class="links-list">
+                                                                    
+                                                                            <li class="list-item">
+                                                                                <a href='http://portal.anvisa.gov.br/wps/portal/anvisa/informetecnico/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3hnd0cPE3MfAwMDMydnA093Uz8z00B_A3dTU6B8JE55A38jArrDQfbh1w-SN8ABHA30_Tzyc1P1I_WjzBGmuBtamBt4WribujmFOhsbhBnqR-akpicmV-oX5EYYZJmEKgIAztfaUw!!/dl3/d3/L2d' target='_blank' class="list-link">
+                                                                                    Alertas e Informes Anvisa
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.cff.org.br/' target='_blank' class="list-link">
+                                                                                    Conselho Federal de Farmácia
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://portal.cfm.org.br/' target='_blank' class="list-link">
+                                                                                    Conselho Federal de Medicina
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/Institucional/Default.aspx?InstId=25' target='' class="list-link">
+                                                                                    Aplicativo Onofre para iPhone e Android
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='/mapa-site' target='' class="list-link">
+                                                                                    Mapa do Site
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://portalsaude.saude.gov.br/index.php/o-ministerio/principal/secretarias/sctie/farmacia-popular' target='_blank' class="list-link">
+                                                                                    Farmácia Popular
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/entregaRapida/' target='' class="list-link">
+                                                                                    Entrega Rápida
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/Institucional/Default.aspx?InstId=275' target='' class="list-link">
+                                                                                    Monte sua farmacinha
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/Institucional/Default.aspx?InstId=28' target='' class="list-link">
+                                                                                    Confira condições de frete
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                </ul>
+                                                            </div>
+                                                        
+                                                            <div class="col4">
+                                                                <h5 class="box-title">Relacionamento</h5>
+                                                                <ul class="links-list">
+                                                                    
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/CentralCliente/Default.aspx' target='' class="list-link">
+                                                                                    Central do Cliente
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/FaleConosco/' target='' class="list-link">
+                                                                                    Fale Conosco
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/centralajuda/centralajuda.aspx' target='' class="list-link">
+                                                                                    Central de Ajuda
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/falefarmaceutico/' target='' class="list-link">
+                                                                                    Fale com o Farmacêutico
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://blog.onofre.com.br/' target='' class="list-link">
+                                                                                    Blog da Onofre
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://www.onofre.com.br/Institucional/Default.aspx?InstId=97' target='' class="list-link">
+                                                                                    Troca e Devolução
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                            <li class="list-item">
+                                                                                <a href='http://chat_online' target='' class="list-link">
+                                                                                    Chat Online
+                                                                                </a>
+                                                                            </li>
+                                                                        
+                                                                </ul>
+                                                            </div>
+                                                        
+                                                    <div class="col4 apps last">
+                                                        <h5 class="box-title">Aplicativo Onofre</h5>
+                                                        <p>Baixe os nossos aplicativos e tenha nossas ofertas na palma da mão</p> <span>Baixar Apps</span> <a href="http://www.onofre.com.br/Institucional/Default.aspx?InstId=25" target="_blank" class="app-link apple">Apple</a> <a href="http://www.onofre.com.br/Institucional/Default.aspx?InstId=25" target="_blank" class="app-link android">Android</a> </div>
+                                                </div>
+                                                <div class="row bottom-items">
+                                                    <div class="col8">
+                                                        <h6>Compre pelo telefone</h6>
+                                                        <div class="tel">
+                                                            <p>4007-2526</p> <span>(Custo de uma ligação local)</span> </div>
+                                                        <ul class="infos">
+                                                            <li></li>
+                                                            <li></li>
+                                                            <li>Horário das 8h às 21h, de segunda a sábado</li>
+                                                        </ul>
+                                                        <div class="col8" style="margin: 10px 0px 0px 0px"> Caro cliente, a Drogaria Onofre informa que, temporariamente, os pedidos realizados no site após às 21h de sábado serão processados na segunda-feira, a partir das 8h. Desta forma, ressaltamos que o prazo de entrega da sua compra
+                                                            <br> será calculado a partir desta data. </div>
+                                                    </div>
+                                                    <div class="col5 social">
+                                                        <h6>Acompanhe a Onofre</h6>
+                                                        <ul class="social-links">
+                                                            <li class="social-item"><a class="social-link facebook" href="https://www.facebook.com/DrogariaOnofreOficial" class="social-link facebook" target="_blank" title="Facebook">Facebook</a></li>
+                                                            
+                                                                <li class="social-item"><a href="https://www.instagram.com/drogariaonofre/" class="social-link instagram" target="_blank" title="Instagram">Instagram</a></li>
+                                                                <li class="social-item">
+                                                                    <a href="https://blogonofre.wordpress.com" target="_blank"> <img src="https://www.onofre.com.br/assets/img/be-onofre-logo.jpg" alt="Be onofre" /></a>
+                                                                </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- /wrapper page-footer-top -->
+                                        </div>
+                                        <!-- /page-footer-->
+                                        <div class="page-footer-bottom row">
+                                            <div class="wrapper">
+                                                <div class="col8">
+                                                    <p class="title-box">Formas de pagamento</p> <img class="img-formas-pagamento-master" src="https://www.onofre.com.br/assets/img/formas-de-pagamento.jpg" alt="Visa, MasterCard, Amex, Diners, Hipercard, Aura e Boleto bancário" /> </div>
+                                                <div class="col5 seguranca">
+                                                    <p class="title-box">Segurança</p>
+                                                    <ul class="selos">
+                                                        <li>
+                                                            <a id="seloEbit" href="https://www.ebit.com.br/onofre-em-casa" target="_blank" onclick="redir(this.href)" style="background-image: url(&quot;https://a248.e.akamai.net/f/248/52872/0s/img.ebit.com.br/ebitBR/selo/img_973.png&quot;); width: 89px; height: 95px; display: block; overflow: hidden; position: relative; float: left" title="Avaliado pelos consumidores"></a>
+                                                        </li>
+                                                        <li>
+                                                            <!-- COMODO -->
+                                                            <script language="javascript" type="text/javascript">
+                                                                /*<![CDATA[*/
+                                                                var tl_loc0 = (window.location.protocol == "https:") ? "https://secure.comodo.net/trustlogo/javascript/trustlogo.js" : "http://www.trustlogo.com/trustlogo/javascript/trustlogo.js";
+                                                                document.writeln('<script language="JavaScript" src="' + tl_loc0 + '" type="text/javascript"><\/script>'); /*]]>*/
+                                                            </script>
+                                                            <!-- COMODO -->
+                                                            <script language="JavaScript" type="text/javascript">
+                                                                TrustLogo("https://www.onofre.com.br/img/Rodape/comodo.png", "SC5", "none");
+                                                            </script>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <!-- /wrapper page-footer -->
+                                        </div>
+                                        <!-- /page-footer-bottom -->
+                                        <div class="row">
+                                            <div class="wrapper"> <address class="col16"> <span id="lblDescriptionAddress"><p align="center"><span style="color: #888888;">Drogaria Onofre Ltda | CNPJ 61.549.259/0013-14 | IE 115.276.053.114 | Av. da Liberdade, 902 Complemento 904 - Liberdade | São Paulo (SP) | Horário de funcionamento: Segunda a Domingo 07:00 às 22:00 | CEP: 01502-001 | Telefone 4007-2526</span><br /><span style="color: #888888;">Farmacêutico Responsável: Dra. Thais Briotto de Andrade dos Santos | CRF - SP: 53.912  | AFE: 7.46544-5 | CMVS: 35503080147700867012</span></p>
+<p align="center"><span style="color: #888888;">As informações contidas neste site não devem ser usadas para automedicação e não substituem, em hipótese alguma, as orientações dadas pelo profissional da área médica. Somente o médico está apto a diagnosticar qualquer problema de saúde e prescrever o tratamento adequado. Ao persistirem os sintomas, o médico deverá ser consultado. Os preços e promoções divulgados no site são válidos apenas para compras feitas pela Internet. Em caso de divergência, o preço válido é o do carrinho de compras. Imagens meramente ilustrativas. Este site é melhor visualizado na configuração 1024x768.</span></p>
+<p align="center"><span style="color: #888888;">Copyright © 1999 - 2016 Onofre em Casa. Todos os direitos reservados.</span></p></span> </address>
+                                                 </div>
+                                        </div>
+                                        <!-- /wrapper copyright -->
+                                        </div>
+                                        <div id="armored_website">
+                                            <param id="aw_preload" value="true" /> </div>
+                                        <script type="text/javascript" src="//selo.siteblindado.com/aw.js"></script>
+                                        <!-- /copyright -->
+                                    </footer>
+                                    <!-- /page-footer -->
+                                    <!-- FIM FOOTER -->
+                                    
+                    </form>
+                    <!-- ------------------------------------------------------------------------------------------------------------- -->
+                    <!-- -------------------------------------------------- SCRIPTS -------------------------------------------------- -->
+                    <!-- ------------------------------------------------------------------------------------------------------------- -->
+                    <!-- Google Tag Manager -->
+                    <noscript>
+                        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5SFH26" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+                    </noscript>
+                    <!-- Script Chat online-->
+                    <script>
+                        var chat_online = $("a[href='http://chat_online']").removeAttr("href");
+                        chat_online.click(function(event) { window.open("https://onofre.custhelp.com/app/chat/chat_launch", "Chat Online Drogaria Onofre", "top=80,left=900,width=475,height=715"); });
+                    </script>
+                    <script>
+                        /*<![CDATA[*/
+                        (function(f, d, l, i, n) {
+                            f[i] = f[i] || [];
+                            f[i].push({
+                                "gtm.start": new Date().getTime(),
+                                event: "gtm.js"
+                            });
+                            var j = d.getElementsByTagName(l)[0],
+                                o = d.createElement(l),
+                                p = i != "dataLayer" ? "&l=" + i : "";
+                            o.async = true;
+                            o.src = "//www.googletagmanager.com/gtm.js?id=" + n + p;
+                            j.parentNode.insertBefore(o, j)
+                        })(window, document, "script", "dataLayer", "GTM-5SFH26"); /*]]>*/
+                    </script>
+                    <!-- End Google Tag Manager -->
+                    <!-- ------------------------------------------------------------------------------------------------------------- -->
+                    <!-- -------------------------------------------------- SCRIPTS -------------------------------------------------- -->
+                    <!-- ------------------------------------------------------------------------------------------------------------- -->
+            </body>
+            <link href="assets/css/chaordic.css" rel="stylesheet" />
+
+            </html>
