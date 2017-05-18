@@ -6,9 +6,9 @@ from sklearn.pipeline import Pipeline
 
 CLASSIFIED = "../classificados/"
 
-def predict(path, classifier_path):
+def predict(path, classifier_path, html_path):
     counter = 0
-    c_file = codecs.open("../Classifier_NH.obj", "rb")
+    c_file = codecs.open(classifier_path, "rb")
     c = pickle.load(c_file)
     for root, dir_names, file_names in os.walk(path):
         for file_name in file_names:
@@ -24,7 +24,7 @@ def predict(path, classifier_path):
             print('Making prediction, doc #', str(counter), ' of ', len(file_names))
             print('Result: ', h[0])
             if h[0] == 'drug':
-                original_doc = codecs.open(("../html/heuristic/")+(file_name[:((file_name).rfind('.'))]), mode='r', encoding='utf-8')
+                original_doc = codecs.open((html_path)+(file_name[:((file_name).rfind('.'))]), mode='r', encoding='utf-8')
                 text2 = ''
                 for line2 in original_doc:
                     text2 += line2
@@ -37,9 +37,9 @@ def predict(path, classifier_path):
 if not os.path.exists(CLASSIFIED):
 	os.makedirs(CLASSIFIED)
 
-#predict('../text/no heuristic/drug/', '../Classifier_NH.obj')
-#predict('../text/no heuristic/other/', '../Classifier_NH.obj')
+#predict('../text/no heuristic/drug/', '../Classifier_NH.obj', '../html/no heuristic/')
+#predict('../text/no heuristic/other/', '../Classifier_NH.obj', '../html/no heuristic/')
 
-predict('../text/heuristic/drug/', '../Classifier_H.obj')
-predict('../text/heuristic/other/', '../Classifier_H.obj')
+predict('../text/heuristic/drug/', '../Classifier_H.obj', '../html/heuristic/')
+predict('../text/heuristic/other/', '../Classifier_H.obj', '../html/heuristic/')
 

@@ -35,5 +35,5 @@ if not os.path.exists(TEXT):
 	os.makedirs(TEXT)
 
 # convert(HTML_NH) - ja separado manualmente
-convert(HTML_H)
+# convert(HTML_H) - ja separado manualmente
 

@@ -1,3 +1,5 @@
+# coding: utf-8
+
 import os
 import codecs
 import numpy
@@ -18,7 +20,9 @@ OTHER = 'other'
 
 VOCABULARY = ['adicionar', 'informaçoes', 'informações', 
               'detalhes', 'descriçao', 'descrição',  
-              'contraindicaçoes', 'contraindicações']
+              'contraindicaçoes', 'contraindicações' , 
+		'inicial', 'home', 'ordenar', 'pagina', 'página',
+		'abrace']
 
 # classificar arquivos manualmente em 1 pasta de 
 # pagina de medicamento e 1 pasta de nao-medicamento
@@ -101,12 +105,7 @@ def build_classifier(dirs):
     pickle.dump(pipeline, f)
     f.close()
 
-#TODO hoje integrar
-#build_classifier(DIRS_NH)
-build_classifier(DIRS_H)
+build_classifier(DIRS_NH)
+#build_classifier(DIRS_H)
 
-# melhorias = validacao;
-#             usar outros classif;
-#             eliminar stopwords em pt-BR;
-#             ajustar parametros dos classif...
 

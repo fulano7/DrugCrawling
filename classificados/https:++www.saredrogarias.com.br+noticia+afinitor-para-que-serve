@@ -1,0 +1,1526 @@
+<!DOCTYPE html>
+<html lang="pt-BR" ng-app="app">
+<head>
+<meta http-equiv="expires" content="Tue, 05 Jan 2013 12:12:12 GMT">
+<meta http-equiv="cache-control" content="public"/>
+<meta http-equiv="Pragma" content="public">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Afinitor - Câncer de mama</title>
+<meta name="description" content="Afinitor 10mg é um dos principais medicamentos indicados para o tratamento do câncer de mama avançado positivo para receptores hormonais">
+<meta name="keywords" content="Afinitor, Câncer de mama, Outubro Rosa">
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="google-site-verification" content="a-yLYYrQsOPL5VfXmCnzH-Hpxz6-Z2x77_GshlkoTHc"/>
+ 
+ 
+<meta property="og:locale" content="pt_BR">
+<meta property="og:image" content="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/new_logo_sare.png">
+<meta property="og:title" content="Afinitor - Câncer de mama">
+<meta property="og:description" content="Afinitor 10mg é um dos principais medicamentos indicados para o tratamento do câncer de mama avançado positivo para receptores hormonais">
+<meta property="og:type" content="website">
+ 
+ 
+<script type="text/javascript" src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/lib/modernizr/modernizr.js"></script>
+<script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-18140757-2', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+<script type="text/javascript">
+      <!--JS GOOGLE ANALYTICS-->
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-18140757-2']);
+      _gaq.push(['_setDomainName', 'saredrogarias.com.br']);
+      _gaq.push(['_trackPageview']);
+      /* CODIGO DO ANALYTICS PARA CONTROLE DE PRODUTOS FORA DE ESTOQUE */
+      
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+ 
+<script type="text/javascript">//<![CDATA[
+    var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.comodo.com/" : "https://www.trustlogo.com/");
+    document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+    //]]>
+    </script>
+ 
+<script type='text/javascript'>
+    if(document.location.protocol=='http:'){
+    var Tynt=Tynt||[];Tynt.push('doW95EoTir5zswacwqm_6r');
+
+    (function(){var h,s=document.createElement('script');s.src='https://cdn.tynt.com/ti.js';
+    h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();}
+    </script>
+ 
+<script language="JavaScript"> 
+    // document.writeln(screen.width + " x " + screen.height) 
+    </script>
+<script type="application/ld+json">
+    {
+       "potentialAction": {
+         "@type": "SearchAction",
+         "target": "https://www.saredrogarias.com.br/busca?g=",
+         "query-input": "Buscando por:"
+       }
+    }
+    </script>
+ 
+<link rel="stylesheet" href="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/css/reset.css">
+ 
+<link rel="stylesheet" href="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/css/style.css">
+ 
+<link rel="stylesheet" href="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/css/hacks/moz-hack.css">
+ 
+<link rel="stylesheet" href="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/css/hacks/ie-hack.css">
+ 
+<link rel="stylesheet" media="screen" href="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/lib/personal-bootstrap/css/bootstrap.min.css">
+ 
+<link rel="stylesheet" media="screen" href="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/lib/gleen-webfonts/gleen-webfonts.css">
+ 
+<link rel="stylesheet" href="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/plugins/rs-plugin/css/settings.css">
+ 
+<link href="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/plugins/autocomplete/css/cupertino/jquery-ui-1.10.4.custom.css" rel="stylesheet">
+<!--[if IE 8]>
+        <link rel="stylesheet" href="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/plugins/rs-plugin/css/settings-ie8.css">
+    <![endif]-->
+ 
+<link href="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/lib/font-awesome-4.0.3/css/font-awesome.min.css" rel="stylesheet">
+ 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/lib/jquery/jquery.js"><\/script>')</script>
+<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+<link rel="shortcut icon" href="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/favicon.ico" type="image/x-icon"/>
+</head>
+<body>
+ 
+ 
+ 
+<div class="wrap">
+ 
+ 
+ 
+<header class="cabecalho new">
+<div class="top-header">
+<div class="hello">
+Bem Vindo a Sare Drogarias
+</div>
+<div class="log-reg">
+<ul>
+ 
+<li class="login-btn"><a href="https://www.saredrogarias.com.br/login" title=""><i class="fa fa-user"></i> Login</a></li>
+<li class="reg-btn"><a href="javascript:void(0)" id="btn-cadastrar" title=""><i class="fa fa-sign-in"></i> Cadastrar</a></li>
+</ul>
+</div>
+</div>
+<div class="report-problem" style="width:15%; float:right; margin-right:2%; color:#666;">
+<ul style="float:right;">
+<li class="login-btn"><a href="javascript:void(0)" id="report-problem" title=""><i class="fa fa-cogs"></i> Reportar Problema</a></li>
+</ul>
+</div>
+<div class="logo">
+<a href="https://www.saredrogarias.com.br/"><img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/new_logo_sare.png" alt=""></a>
+</div>
+<div class="telemarketing">
+<div class="tel">
+<img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/tele-phone.png">
+<h2>Televendas</h2>
+<a href="tel:20216464">(11) 2021-6464</a>
+</div>
+</div>
+<div class="social-head">
+<ul>
+<li><a href="https://www.facebook.com/drogariaonline" rel="nofollow"><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://twitter.com/saredrogarias" rel="nofollow"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://plus.google.com/116953075454708738793/about" rel="nofollow"><i class="fa fa-google-plus"></i></a></li>
+<li><a href="https://www.youtube.com/user/saredrogarias" rel="nofollow"><i class="fa fa-youtube"></i></a></li>
+<li><a href="#" rel="nofollow"><i class="fa fa-rss"></i></a></li>
+</ul>
+</div>
+</header>
+ 
+ 
+ 
+ 
+<nav class="new-navigation nav-static">
+<div class="top-menu">
+<menu class="navigation-top">
+<div class="navigation-top-btn">
+<a href="#" class="show-top-menu"><i class="fa fa-align-justify"></i></a>
+</div>
+<div class="navigation-top-hidde">
+<li class="active"><a href="https://www.saredrogarias.com.br/"><i class="fa fa-home"></i> Home</a></li>
+<li><a href="https://www.saredrogarias.com.br/sobre-nos"><i class="fa fa-info-circle fa-fw"></i> Sobre-Nós</a></li>
+<li><a href="https://www.saredrogarias.com.br/noticias"><i class="fa fa-bullhorn "></i> Blog</a></li>
+<li><a href="https://www.saredrogarias.com.br/mobilizacao-colaborativa"><i class="fa fa-users"></i> Mobilização</a></li>
+<li><a href="https://www.saredrogarias.com.br/atendimento"><i class="fa fa-envelope"></i> Fale Conosco</a></li>
+</div>
+</menu>
+<div class="a-z-fab"><a href="https://www.saredrogarias.com.br/fabricantes-a-z">Fabricantes de A-Z</a></div>
+<div class="a-z-pro"><a href="https://www.saredrogarias.com.br/medicamentos-a-z">Produtos de A-Z</a></div>
+<div class="cart-box">
+<a href="#" class="cart-btn"><i class="fa fa-shopping-cart"></i></a>
+<div class="sub-cart">
+<p>Não há intens em seu carrinho</p>
+<div class="cart-subtotal">
+<p><strong>Subtotal</strong> <span class="pull-right">R$ <span id="subtotal-mini-carrinho">0,00</span></span></p>
+</div>
+<div class="cart-total">
+<p><strong>Total</strong> <span class="pull-right">R$0,00</span></p>
+</div>
+<div class="cart-footer">
+<div class="cart-footer-inf">
+<i class="fa fa-lock"></i> Compra segura, maior segurança e tranquilidade
+</div>
+<div class="car-footer-buy">
+<a href="https://www.saredrogarias.com.br/carrinho">Finalizar</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bottom-menu">
+<div class="dep">
+<a href="#" class="dep-btn"><i class="fa fa-inbox "></i> Departamentos</a>
+<ul class="dep-menu">
+<li class="dep-item">
+<a href="javascript:void(0)" title="Farmácia" class="dep-item-btn">Farmácia</a>
+<ul class="dep-drop-menu">
+<li><a href="https://www.saredrogarias.com.br/antibioticos" title="Antibióticos">Antibióticos</a></li>
+<li><a href="https://www.saredrogarias.com.br/farmacia-popular" title="Farmácia Popular">Farmácia Popular</a></li>
+<li><a href="https://www.saredrogarias.com.br/medicamentos-isentos-de-prescricao" title="Isentos de Prescrição">Isentos de Prescrição</a></li>
+<li><a href="https://www.saredrogarias.com.br/medicamentos-especiais" title="Medicamentos Especiais">Medicamentos Especiais</a></li>
+<li><a href="https://www.saredrogarias.com.br/medicamentos-genericos" title="Medicamentos Genéricos">Medicamentos Genéricos</a></li>
+<li><a href="https://www.saredrogarias.com.br/medicamentos-referencia" title="Medicamentos Referência">Medicamentos Referência</a></li>
+<li><a href="https://www.saredrogarias.com.br/parar-de-fumar" title="Parar de Fumar">Parar de Fumar</a></li>
+<li><a href="https://www.saredrogarias.com.br/primeiros-socorros" title="Primeiros Socorros">Primeiros Socorros</a></li>
+<li><a href="https://www.saredrogarias.com.br/testes-e-aparelhos" title="Testes e Aparelhos">Testes e Aparelhos</a></li>
+</ul>
+</li>
+<li class="dep-item">
+<a href="javascript:void(0)" title="Perfumaria" class="dep-item-btn">Perfumaria</a>
+<ul class="dep-drop-menu">
+<li><a href="https://www.saredrogarias.com.br/absorventes" title="Absorventes">Absorventes</a></li>
+<li><a href="https://www.saredrogarias.com.br/banho-e-pos-banho" title="Banho e Pós Banho">Banho e Pós Banho</a></li>
+<li><a href="https://www.saredrogarias.com.br/beleza-estetica" title="Beleza e Estética">Beleza e Estética</a></li>
+<li><a href="https://www.saredrogarias.com.br/cuidados-pessoais" title="Cuidados Pessoais">Cuidados Pessoais</a></li>
+<li><a href="https://www.saredrogarias.com.br/depilatorios" title="Depilatórios">Depilatórios</a></li>
+<li><a href="https://www.saredrogarias.com.br/dermocosmeticos" title="Dermocosméticos">Dermocosméticos</a></li>
+<li><a href="https://www.saredrogarias.com.br/desodorantes-femininos" title="Desodorantes Femininos">Desodorantes Femininos</a></li>
+<li><a href="https://www.saredrogarias.com.br/desodorantes-masculinos" title="Desodorantes Masculinos">Desodorantes Masculinos</a></li>
+<li><a href="https://www.saredrogarias.com.br/higiene-bucal" title="Higiene Bucal">Higiene Bucal</a></li>
+<li><a href="https://www.saredrogarias.com.br/higiene-das-maos" title="Higiene das Mãos">Higiene das Mãos</a></li>
+<li><a href="https://www.saredrogarias.com.br/higiene-intima" title="Higiene Íntima">Higiene Íntima</a></li>
+<li><a href="https://www.saredrogarias.com.br/lubrificante" title="Lubrificantes ">Lubrificantes </a></li>
+<li><a href="https://www.saredrogarias.com.br/maes-e-bebes" title="Mães e Bebês">Mães e Bebês</a></li>
+<li><a href="https://www.saredrogarias.com.br/produtos-para-a-barba" title="Produtos para a Barba">Produtos para a Barba</a></li>
+<li><a href="https://www.saredrogarias.com.br/produtos-para-o-rosto" title="Produtos para o Rosto">Produtos para o Rosto</a></li>
+<li><a href="https://www.saredrogarias.com.br/produtos-para-os-cabelos" title="Produtos para os Cabelos">Produtos para os Cabelos</a></li>
+<li><a href="https://www.saredrogarias.com.br/produtos-para-os-pes" title="Produtos para os Pés">Produtos para os Pés</a></li>
+<li><a href="https://www.saredrogarias.com.br/protecao-solar" title="Proteção Solar">Proteção Solar</a></li>
+<li><a href="https://www.saredrogarias.com.br/troca-de-fralda" title="Troca de Fralda">Troca de Fralda</a></li>
+</ul>
+</li>
+<li class="dep-item">
+<a href="javascript:void(0)" title="Emagrecer" class="dep-item-btn">Emagrecer</a>
+<ul class="dep-drop-menu">
+<li><a href="https://www.saredrogarias.com.br/diet-e-light" title="Diet e Light">Diet e Light</a></li>
+<li><a href="https://www.saredrogarias.com.br/emagrecer" title="Emagrecer">Emagrecer</a></li>
+</ul>
+</li>
+<li class="dep-item">
+<a href="javascript:void(0)" title="Vitaminas e Suplementos" class="dep-item-btn">Vitaminas e Suplementos</a>
+<ul class="dep-drop-menu">
+<li><a href="https://www.saredrogarias.com.br/calmantes" title="Calmantes">Calmantes</a></li>
+<li><a href="https://www.saredrogarias.com.br/fitoterapicos" title="Fitoterapicos">Fitoterapicos</a></li>
+<li><a href="https://www.saredrogarias.com.br/nutricao" title="Nutrição">Nutrição</a></li>
+<li><a href="https://www.saredrogarias.com.br/vitaminas-e-suplementos" title="Vitaminas e Suplementos">Vitaminas e Suplementos</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="busca" ng-controller="MyCtrl">
+<input type="text" ng-keyup="pesquisar(search)" ng-model="search" placeholder="Digite aqui o que você procura..." class="inpBusca search-input-header form-control input-lg" autofocus autocomplete="off">
+<a href="#" class="search-btn" id="search-header-btn">BUSCAR</a>
+<div class="autocomplete" ng-show="completing" style="display:none">
+<ul>
+<div ng-repeat="resultados in results.produtos">
+<li><a href="{{resultados.link}}" rel="nofollow"><img width='35' src='https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/sem_imagem_p.jpg'/>{{resultados.nome}} R${{resultados.valor}}</a></li>
+</div>
+</ul>
+ 
+</div>
+ 
+</div>
+</div>
+</nav>
+<div id="navigation-js-ancora"></div> <link rel="stylesheet" href="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/css/post-style.css">
+<meta property="og:image" content="https://www.saredrogarias.com.br/imagens/noticias/grande/Câncer de mama.jpg"/>
+<div class="blog-post-content">
+<section class="post-content">
+<article class="post">
+<div class="artigo_body">
+<h1>Afinitor para que serve?</h1>
+<ul>
+<li><time class="text-muted"><i class="fa fa-clock-o"></i> 03 Nov 2015</time></li>
+<li><time class="text-muted"><i class="fa fa-user"></i> Vanessa Ferreira </time></li>
+</ul>
+<figure>
+<img src="https://www.saredrogarias.com.br/imagens/noticias/grande/Câncer de mama.jpg" title="" class=""/>
+<figcaption class="text-muted"></figcaption>
+</figure>
+<br>
+<p class="well">
+Conheça as principais indicações do medicamento Afinitor
+</p>
+<p>Afinitor 10mg &eacute; um dos principais medicamentos indicados para o tratamento do c&acirc;ncer de mama avan&ccedil;ado positivo para receptores hormonais. O medicamento Afinitor &eacute; composto por uma subst&acirc;ncia chamada everolimo, um imunossupressor que bloqueia uma prote&iacute;na localizada no interior das c&eacute;lulas, reduzindo a divis&atilde;o celular desordenada e, consequentemente, a evolu&ccedil;&atilde;o e dissemina&ccedil;&atilde;o do c&acirc;ncer.</p>
+<p>Ap&oacute;s o diagn&oacute;stico positivo do c&acirc;ncer de mama, o m&eacute;dico ir&aacute; analisar o tipo e est&aacute;gio do c&acirc;ncer, bem como, se ele possui receptores para horm&ocirc;nios femininos, como o estrog&ecirc;nio e progesterona. Essa an&aacute;lise auxilia a definir a melhor estrat&eacute;gia para o tratamento do c&acirc;ncer de mama. Os receptores s&atilde;o prote&iacute;nas presentes nas c&eacute;lulas mam&aacute;rias que, estimulam a multiplica&ccedil;&atilde;o celular e o crescimento do tumor. Nesses casos, &eacute; poss&iacute;vel inibir a evolu&ccedil;&atilde;o do c&acirc;ncer por meio de bloqueios hormonais, que reduz os estrog&ecirc;nios produzidos naturalmente no organismo e inibe as liga&ccedil;&otilde;es entre os receptores e os horm&ocirc;nios.</p>
+<p><strong>Afinitor indica&ccedil;&atilde;o:</strong></p>
+<p>Al&eacute;m de auxiliar o tratamento do c&acirc;ncer de mama avan&ccedil;ado, o mecanismo de a&ccedil;&atilde;o do Afinitor Everolimo tamb&eacute;m &eacute; eficaz contra os tumores neuroend&oacute;crinos de origem pancre&aacute;tica e no carcinoma das c&eacute;lulas renais.</p>
+<p><strong>Afinitor Bula:</strong></p>
+<p>O uso do Afinitor medicamento &eacute; contraindicado em caso de alergia a subst&acirc;ncia ativa ou a qualquer componente da f&oacute;rmula.&nbsp;O medicamento deve ser utilizado com cautela em pacientes com problemas pulmonares ou respirat&oacute;rios. Antes de fazer uso do medicamento, &eacute; importante informar o seu m&eacute;dico em caso de tosse, falta de ar, dor peito, dificuldade de respirar ou sibil&acirc;ncia.<br/>
+Al&eacute;m disso, o uso de Afinitor pode tornar os pacientes vulner&aacute;veis a infec&ccedil;&otilde;es bacterianas, f&uacute;ngicas ou virais. Dessa forma, a administra&ccedil;&atilde;o do medicamento Afinitor deve ser acompanhada de um profissional da sa&uacute;de habilitado, que ir&aacute; monitorar todas as etapas do tratamento.</p>
+<p>Este medicamento n&atilde;o deve ser utilizado por mulheres gr&aacute;vidas sem orienta&ccedil;&atilde;o m&eacute;dica. Informe imediatamente seu m&eacute;dico em caso de suspeita de gravidez.</p>
+<p><strong>Afinitor efeitos colaterais:</strong></p>
+<p>Assim como outros anticancer&iacute;genos, o medicamento Afinitor pode causar alguns efeitos colaterais como &uacute;lceras na boca e feridas, tosse e febre. Durante o tratamento com Afinitor, informe ao seu m&eacute;dico sobre qualquer rea&ccedil;&atilde;o adversa que venha a sentir. Consulte a Bula do medicamento Afinitor.</p>
+</div>
+<ul class="post-tags">
+<li></li>
+<li></li>
+<li></li>
+<li>
+<div class="fb-like fb_iframe_widget" data-href="https://www.saredrogarias.com.br" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=&amp;href=http%3A%2F%2Fwww.saredrogarias.com.br%2F&amp;layout=button_count&amp;locale=pt_BR&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=450"><span style="vertical-align: bottom; width: 89px; height: 20px;"><iframe name="f233473c6" width="450px" height="1000px" frameborder="0" allowtransparency="true" scrolling="no" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/plugins/like.php?app_id=&amp;channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FwTH8U0osOYl.js%3Fversion%3D40%23cb%3Df10deb83b4%26domain%3Dwww.saredrogarias.com.br%26origin%3Dhttp%253A%252F%252Fwww.saredrogarias.com.br%252Ff298517a18%26relation%3Dparent.parent&amp;href=http%3A%2F%2Fwww.saredrogarias.com.br%2F&amp;layout=button_count&amp;locale=pt_BR&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=450" class="" style="border: none; visibility: visible; width: 89px; height: 20px;"></iframe></span></div>
+</li>
+<li>
+<iframe id="twitter" scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/tweet_button.1395784603.html#_=1395856313153&amp;count=horizontal&amp;id=twitter&amp;lang=en&amp;original_referer=http%3A%2F%2Fwww.saredrogarias.com.br%2Fsobre-nos&amp;size=m&amp;text=Sobre%20n%C3%B3s%20%7C%20Sare%20Drogarias&amp;url=http%3A%2F%2Fwww.saredrogarias.com.br" class="twitter-share-button twitter-tweet-button twitter-count-horizontal" title="Twitter Tweet Button" data-twttr-rendered="true" style="width: 112px; height: 20px;"></iframe>
+</li>
+</ul>
+<div class="post-autor">
+<img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/user.jpg" alt="">
+<h5>Vanessa Ferreira </h5>
+<p></p>
+</div>
+</article>
+<div class="facebook-comment">
+<div class="fb-comments" data-href="https://www.saredrogarias.com.br/blog" data-numposts="5" data-colorscheme="light"></div>
+</div>
+</section>
+<aside class="blog-sidebar">
+<article class="blog-busca">
+<div class="title">
+<h2>PESQUISA</h2>
+</div>
+<form action="blog-home_submit">
+<div class="busca-content">
+<a href="javascript:void(0)" id="search-button-blog"><i class="fa fa-search"></i></a>
+<input type="search" name="" value="" id="search-input-blog" placeholder="BUSCA POR NOTÍCIAS">
+</div>
+</form>
+</article>
+<article class="categorias">
+<div class="title">
+<h2>CATEGORIAS</h2>
+</div>
+<ul>
+<li><a href="https://www.saredrogarias.com.br/alimentacao/busca_noticia" title="Alimentação"><i class="fa fa-angle-right"></i> Alimentação <span class="pull-right"></span></a></li>
+<li><a href="https://www.saredrogarias.com.br/estetica/busca_noticia" title="Estética"><i class="fa fa-angle-right"></i> Estética <span class="pull-right"></span></a></li>
+<li><a href="https://www.saredrogarias.com.br/exercicios/busca_noticia" title="Exercícios"><i class="fa fa-angle-right"></i> Exercícios <span class="pull-right"></span></a></li>
+<li><a href="https://www.saredrogarias.com.br/lazer/busca_noticia" title="Lazer"><i class="fa fa-angle-right"></i> Lazer <span class="pull-right"></span></a></li>
+<li><a href="https://www.saredrogarias.com.br/bem-estar/busca_noticia" title="Bem-Estar"><i class="fa fa-angle-right"></i> Bem-Estar <span class="pull-right"></span></a></li>
+<li><a href="https://www.saredrogarias.com.br/saude/busca_noticia" title="Saúde"><i class="fa fa-angle-right"></i> Saúde <span class="pull-right"></span></a></li>
+</ul>
+</article>
+ 
+<article class="best-posts">
+<div class="title">
+<h2>MELHORES <strong>POSTS</strong></h2>
+</div>
+<div class="best-post">
+<div class="post-img">
+<a href="https://www.saredrogarias.com.br/noticia/gastrite-cronica-e-gastrite-metaplasia"><img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/blog/post-default-350x185.gif" alt=""></a>
+</div>
+<div class="post-resume-content">
+<h2><a href="https://www.saredrogarias.com.br/noticia/gastrite-cronica-e-gastrite-metaplasia">Gastrite Crônica e Gastrite Metaplasia</a></h2>
+<ul class="text-muted">
+<li><i class="fa fa-clock-o"></i> 28 Mar 2013</li>
+<li><i class="fa fa-user"></i> Henrique Torres</li>
+</ul>
+<p>Conheça estas duas vertentes da doença!</p>
+<div class="stars">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-half-o"></i>
+</div>
+</div>
+</div>
+<div class="best-post">
+<div class="post-img">
+<a href="https://www.saredrogarias.com.br/noticia/voce-conhece-o-fsh-responsavel-pela-infertilidade"><img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/blog/post-default-350x185.gif" alt=""></a>
+</div>
+<div class="post-resume-content">
+<h2><a href="https://www.saredrogarias.com.br/noticia/voce-conhece-o-fsh-responsavel-pela-infertilidade">Você conhece o FSH, hormônio responsável pela infertilidade?</a></h2>
+<ul class="text-muted">
+<li><i class="fa fa-clock-o"></i> 05 Dez 2012</li>
+<li><i class="fa fa-user"></i> Carina Xavier</li>
+</ul>
+<p>Conheça o Hormônio Folículo estimulante e sua ação no corpo humano.</p>
+<div class="stars">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-half-o"></i>
+</div>
+</div>
+</div>
+<div class="best-post">
+<div class="post-img">
+<a href="https://www.saredrogarias.com.br/noticia/Anastrozol-Como-amenizar-efeitos-colaterais"><img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/blog/post-default-350x185.gif" alt=""></a>
+</div>
+<div class="post-resume-content">
+<h2><a href="https://www.saredrogarias.com.br/noticia/Anastrozol-Como-amenizar-efeitos-colaterais">Anastrozol: Como amenizar os efeitos colaterais</a></h2>
+<ul class="text-muted">
+<li><i class="fa fa-clock-o"></i> 08 Abr 2014</li>
+<li><i class="fa fa-user"></i> Carina Xavier</li>
+</ul>
+<p>Veja como amenizar os efeitos colaterais que o Anastrozol pode causar </p>
+<div class="stars">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-half-o"></i>
+</div>
+</div>
+</div>
+<div class="best-post">
+<div class="post-img">
+<a href="https://www.saredrogarias.com.br/noticia/a-funcao-do-colesterol"><img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/blog/post-default-350x185.gif" alt=""></a>
+</div>
+<div class="post-resume-content">
+<h2><a href="https://www.saredrogarias.com.br/noticia/a-funcao-do-colesterol">A Função do Colesterol</a></h2>
+<ul class="text-muted">
+<li><i class="fa fa-clock-o"></i> 17 Out 2012</li>
+<li><i class="fa fa-user"></i> Henrique Torres</li>
+</ul>
+<p>Conheça a função que o colesterol exerce no corpo humano.</p>
+<div class="stars">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-half-o"></i>
+</div>
+</div>
+</div>
+<div class="best-post">
+<div class="post-img">
+<a href="https://www.saredrogarias.com.br/noticia/O-que-e-broncoespasmo"><img src="https://www.saredrogarias.com.br/imagens/noticias/thumb/Dificuldade de respirar.jpg" alt=""></a>
+</div>
+<div class="post-resume-content">
+<h2><a href="https://www.saredrogarias.com.br/noticia/O-que-e-broncoespasmo">O que é broncoespasmo?</a></h2>
+<ul class="text-muted">
+<li><i class="fa fa-clock-o"></i> 15 Ago 2014</li>
+<li><i class="fa fa-user"></i> Vanessa Ferreira </li>
+</ul>
+<p>O broncoespasmo ocorre devido à contração da musculatura dos brônquios, que são uma espécie de tubos que auxiliam a passagem de ar pelos pulmões. Essa ação causa o estreitamento das vias aéreas, ocasionando a dificuldade de respirar. </p>
+<div class="stars">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-half-o"></i>
+</div>
+</div>
+</div>
+<div class="best-post">
+<div class="post-img">
+<a href="https://www.saredrogarias.com.br/noticia/Anastrozol-Tamoxifeno-caminhos-diferentes-combate-cancer-mama"><img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/blog/post-default-350x185.gif" alt=""></a>
+</div>
+<div class="post-resume-content">
+<h2><a href="https://www.saredrogarias.com.br/noticia/Anastrozol-Tamoxifeno-caminhos-diferentes-combate-cancer-mama">Anastrozol e Tamoxifeno: caminhos diferentes no combate ao câncer de mama</a></h2>
+<ul class="text-muted">
+<li><i class="fa fa-clock-o"></i> 15 Abr 2014</li>
+<li><i class="fa fa-user"></i> Carina Xavier</li>
+</ul>
+<p>A possibilidade de que o câncer de mama poderia ser evitado através do uso de comprimidos é algo que os pesquisadores vêm estudando desde 1980. Tomar medicamento...</p>
+<div class="stars">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-half-o"></i>
+</div>
+</div>
+</div>
+</article>
+ 
+<article class="youtube-video">
+<div class="title">
+<h2>VÍDEOS</h2>
+</div>
+<iframe src="https://www.youtube.com/embed/JvjZAq2PtLA" frameborder="0" allowfullscreen></iframe>
+</article>
+ 
+<article class="social-aside">
+<div class="aside-title">
+<h2>MEDIAS SOCIAIS</h2>
+</div>
+<div class="newslatter">
+<menu>
+<li><a href="https://www.facebook.com/drogariaonline" title=""><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://twitter.com/saredrogarias" title=""><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://plus.google.com/116953075454708738793/about" title=""><i class="fa fa-google-plus"></i></a></li>
+<li><a href="https://www.youtube.com/user/saredrogarias" title=""><i class="fa fa-youtube"></i></a></li>
+</menu>
+<form method="post" role="form">
+<div class="input-group">
+<input type="text" class="form-control" placeholder="Cadastrar Email">
+<span class="input-group-btn">
+<button class="btn" type="button">Enviar</button>
+</span>
+</div> 
+</form>
+</div>
+</article>
+ 
+</aside>
+</div>
+<script type="text/javascript">
+        jQuery(document).ready(function($) {
+          $('#search-button-blog').click(function(event) {
+              var busca = $('#search-input-blog').val();
+              window.location.href = 'https://www.saredrogarias.com.br/'+busca+'/busca_noticia';
+          });
+
+          $('#search-input-blog').on('keyup', function(e) {
+              if ( e.which == 13 ) {
+                  var busca = $('#search-input-blog').val();
+                  window.location.href = 'https://www.saredrogarias.com.br/'+busca+'/busca_noticia';
+              }
+          })
+
+      });
+      </script>  
+ 
+ 
+<footer class="footer">
+<div class="footer-top">
+<menu>
+<li><a href="https://www.saredrogarias.com.br/faq" title="Duvidas Frequentes">Duvidas Frequentes</a></li>
+<li><a href="https://www.saredrogarias.com.br/frete-gratis" title="Frete Grátis">Frete Grátis</a></li>
+<li><a href="https://www.saredrogarias.com.br/Pagamento-e-Envio" title="Pagamentos e Envios">Pagamentos e Envios</a></li>
+<li><a href="https://www.saredrogarias.com.br/politica-privacidade" title="Política de Privacidade">Política de Privacidade</a></li>
+<li><a href="https://www.saredrogarias.com.br/Seguranca-no-Pagamento" title="Segurança">Segurança</a></li>
+<li><a href="https://www.cliqueparceiro.com.br/" target="_blank" title="Afiliados">Afiliados</a></li>
+</menu>
+</div>
+<div class="footer-tags">
+<ul>
+<li><a href="https://www.saredrogarias.com.br/accuchek-active-tiras" title="Teste de diabetes">Teste de diabetes</a></li>
+<li><a href="https://www.saredrogarias.com.br/alfaepoetina-4000ui-1ml" title="Alfaepoetina">Alfaepoetina</a></li>
+<li><a href="https://www.saredrogarias.com.br/aspirina-500mg" title="Aspirina">Aspirina</a></li>
+<li><a href="https://www.saredrogarias.com.br/bariogel-100-10cps200ml" title="Bariogel">Bariogel</a></li>
+<li><a href="https://www.saredrogarias.com.br/bepantol-5-solucao-50ml" title="Bepantol">Bepantol</a></li>
+<li><a href="https://www.saredrogarias.com.br/vacina-contra-gripe-injetavel-0-5ml" title="Vacina contra Gripe">Vacina contra Gripe</a></li>
+<li><a href="https://www.saredrogarias.com.br/gravtest-click-teste-de-gravidez" title="Teste de Gravidez">Teste de Gravidez</a></li>
+<li><a href="https://www.saredrogarias.com.br/champix-kit-inicio-tratamento" title="Champix">Champix</a></li>
+<li><a href="https://www.saredrogarias.com.br/cialis-20mg-c8" title="Cialis Tadalafil">Cialis Tadalafil</a></li>
+<li><a href="https://www.saredrogarias.com.br/tamoxifeno" title="Tamoxifeno">Tamoxifeno</a></li>
+<li><a href="https://www.saredrogarias.com.br/clariderm" title="Clariderm Professional">Clariderm Professional</a></li>
+<li><a href="https://www.saredrogarias.com.br/condroflex-c30-saches" title="CONDROFLEX ">CONDROFLEX </a></li>
+<li><a href="https://www.saredrogarias.com.br/ddavp-spray-nasal-fr-25ml" title="DDAVP ">DDAVP </a></li>
+<li><a href="https://www.saredrogarias.com.br/heparina-sodica-5ooo-uiml-c1-fro-ampola-5ml--hepamax-s" title="HEPARINA SODICA">HEPARINA SODICA</a></li>
+<li><a href="https://www.saredrogarias.com.br/dersani-fr-plast-200ml" title="Dersani 200ml">Dersani 200ml</a></li>
+<li><a href="https://www.saredrogarias.com.br/dexacitoneurin-3amp-+3amp" title="Dexa Citoneurin">Dexa Citoneurin</a></li>
+<li><a href="https://www.saredrogarias.com.br/difenidrin-difenidrmina-50mg-ml-25ampolas-1ml" title="Difenidramina">Difenidramina</a></li>
+<li><a href="https://www.saredrogarias.com.br/efedrin-50-c100ap-1ml" title="EFEDRIN 50MG/ML -  C/100 AMP 1ML">EFEDRIN 50MG/ML - C/100 AMP 1ML</a></li>
+<li><a href="https://www.saredrogarias.com.br/eprex-eritropoetina-40000-ui-1amp-1ml" title="Eprex">Eprex</a></li>
+<li><a href="https://www.saredrogarias.com.br/eprex-alfaepoetina-6-amp-4000ui-04ml" title="Eprex">Eprex</a></li>
+<li><a href="https://www.saredrogarias.com.br/eritropoetina-eritromax" title="Alfaepoetina ">Alfaepoetina </a></li>
+<li><a href="https://www.saredrogarias.com.br/fibrinase-pomada-30g" title="FIBRINASE POMADA 30G">FIBRINASE POMADA 30G</a></li>
+<li><a href="https://www.saredrogarias.com.br/fralda-monica-tripla-protecao-g-c28" title="Fralda Turma da Monica">Fralda Turma da Monica</a></li>
+<li><a href="https://www.saredrogarias.com.br/hemax-eritropoetina-4000-ui" title="Hemax">Hemax</a></li>
+<li><a href="https://www.saredrogarias.com.br/kollagenase-scloranfenicol-30gr" title="Kollagenase">Kollagenase</a></li>
+<li><a href="https://www.saredrogarias.com.br/ky-lubrificado-5g-c3" title="KY LUBRIFICADO 5G">KY LUBRIFICADO 5G</a></li>
+<li><a href="https://www.saredrogarias.com.br/lansoprazol-30mg-c7-ems" title="Lansoprazol">Lansoprazol</a></li>
+<li><a href="https://www.saredrogarias.com.br/letrozol-25mg-c30" title="LETROZOL">LETROZOL</a></li>
+<li><a href="https://www.saredrogarias.com.br/alfare-400g" title="Alfare">Alfare</a></li>
+<li><a href="https://www.saredrogarias.com.br/nausedron-8mg-c10" title="Ondansetrona">Ondansetrona</a></li>
+<li><a href="https://www.saredrogarias.com.br/neocaina-05-20ml" title="Neocaina ">Neocaina </a></li>
+<li><a href="https://www.saredrogarias.com.br/ginkgo-biloba-ginkomed-80mg-c30-comp" title="Ginkgo Biloba">Ginkgo Biloba</a></li>
+<li><a href="https://www.saredrogarias.com.br/novabupi-05-cv-c10-etj" title="Novabupi 0,5% com vasoconstrit10 fro-am">Novabupi 0,5% com vasoconstrit10 fro-am</a></li>
+<li><a href="https://www.saredrogarias.com.br/novabupi-05-c30-etj" title="Novabupi Isobárica 0,5% C/30 ampolas">Novabupi Isobárica 0,5% C/30 ampolas</a></li>
+<li><a href="https://www.saredrogarias.com.br/novabupi-05-sv-c10-etj" title="Novabupi 0,5% sem vasoconstritC/10 esto">Novabupi 0,5% sem vasoconstritC/10 esto</a></li>
+<li><a href="https://www.saredrogarias.com.br/novabupi-075-cv-c10-etj" title="Novabupi Levobupivacaína 0,75% com Vas">Novabupi Levobupivacaína 0,75% com Vas</a></li>
+<li><a href="https://www.saredrogarias.com.br/prevax-15mg-c10" title="Prevax">Prevax</a></li>
+<li><a href="https://www.saredrogarias.com.br/sevocris-250ml" title="Sevoflurano">Sevoflurano</a></li>
+<li><a href="https://www.saredrogarias.com.br/vfend-iv-200mg-c1ampola" title="VFEND IV 200MG C/1 AMPOLA">VFEND IV 200MG C/1 AMPOLA</a></li>
+<li><a href="https://www.saredrogarias.com.br/viagra-50mg-c8" title="Viagra 50mg">Viagra 50mg</a></li>
+<li><a href="https://www.saredrogarias.com.br/vytorin-1010mg-c28" title="Vytorin 10/10">Vytorin 10/10</a></li>
+<li><a href="https://www.saredrogarias.com.br/xantinon-c100" title="Vitamina B12">Vitamina B12</a></li>
+<li><a href="https://www.saredrogarias.com.br/zofran-4mg-injetavel-c5-ampolas" title="Zofran">Zofran</a></li>
+<li><a href="https://www.saredrogarias.com.br/anastrozol" title="Anastrozol">Anastrozol</a></li>
+<li><a href="https://www.saredrogarias.com.br/eritropoetina-eritromax-10000ui-amp-1ml" title="Eritromax">Eritromax</a></li>
+<li><a href="https://www.saredrogarias.com.br/acetato-de-ciproterona-50mg-c20" title="ciproterona 50 mg">ciproterona 50 mg</a></li>
+<li><a href="https://www.saredrogarias.com.br/gonal-f-450" title="Gonal">Gonal</a></li>
+<li><a href="https://www.saredrogarias.com.br/humira" title="HUMIRA">HUMIRA</a></li>
+<li><a href="https://www.saredrogarias.com.br/genuxal-50mg-ciclofosfamida-drageas" title="Genuxal">Genuxal</a></li>
+<li><a href="https://www.saredrogarias.com.br/glivec" title="GLIVEC">GLIVEC</a></li>
+<li><a href="https://www.saredrogarias.com.br/sandostatin-lar-20mg" title="Sandostatin">Sandostatin</a></li>
+<li><a href="https://www.saredrogarias.com.br/tarceva-150mg" title="Tarceva">Tarceva</a></li>
+<li><a href="https://www.saredrogarias.com.br/cialis-diario-5mg" title="Cialis Diario">Cialis Diario</a></li>
+<li><a href="https://www.saredrogarias.com.br/aparelho-de-glicemia-on-call-plus" title="On Call Plus">On Call Plus</a></li>
+<li><a href="https://www.saredrogarias.com.br/victoza-2-canetas" title="Victoza">Victoza</a></li>
+<li><a href="https://www.saredrogarias.com.br/sprycel-50mg" title="Sprycel">Sprycel</a></li>
+<li><a href="https://www.saredrogarias.com.br/linolen-1000mg-180caps" title="Linolen">Linolen</a></li>
+<li><a href="https://www.saredrogarias.com.br/citrato-sildenafila-50mg-legrand" title="Viagra Genérico">Viagra Genérico</a></li>
+<li><a href="https://www.saredrogarias.com.br/trayenta-30comprimidos" title="Trayenta">Trayenta</a></li>
+<li><a href="https://www.saredrogarias.com.br/aparelho-de-pressao-wristwatch" title="Aparelho de Pressão Digital">Aparelho de Pressão Digital</a></li>
+<li><a href="https://www.saredrogarias.com.br/nutricerat-mascara" title="Nutricerat Máscara">Nutricerat Máscara</a></li>
+<li><a href="https://www.saredrogarias.com.br/oleo-coco-age-nutrilatina" title="Óleo de Coco">Óleo de Coco</a></li>
+<li><a href="https://www.saredrogarias.com.br/cicatricure-creme-anti-rugas" title="Cicatricure">Cicatricure</a></li>
+<li><a href="https://www.saredrogarias.com.br/lystate-120mg" title="Lystate">Lystate</a></li>
+<li><a href="https://www.saredrogarias.com.br/byetta-10mcgml-com1caneta" title="Byetta">Byetta</a></li>
+<li><a href="https://www.saredrogarias.com.br/MeloraC-10Monoderma-Cremepararugas" title="Melora C Monoderma">Melora C Monoderma</a></li>
+<li><a href="https://www.saredrogarias.com.br/heliocare-compacto-oil-free-fps50-fair" title="Heliocare Compacto">Heliocare Compacto</a></li>
+<li><a href="https://www.saredrogarias.com.br/hytas-25mg-2ml-injetavel" title="Metotrexato">Metotrexato</a></li>
+<li><a href="https://www.saredrogarias.com.br/afinitor-10mg-c30-comp" title="Afinitor">Afinitor</a></li>
+<li><a href="https://www.saredrogarias.com.br/neosaldina-caixa-20-comprimidos" title="Enxaqueca">Enxaqueca</a></li>
+<li><a href="https://www.saredrogarias.com.br/bcaa-power-frutascitricas-500g" title="BCAA POWER">BCAA POWER</a></li>
+<li><a href="https://www.saredrogarias.com.br/gemzar-200mg" title="Gemzar">Gemzar</a></li>
+<li><a href="https://www.saredrogarias.com.br/cloridrato-de-tizanidina-2mg-c20" title="Cloridrato de Tizanidina 2mg">Cloridrato de Tizanidina 2mg</a></li>
+<li><a href="https://www.saredrogarias.com.br/clexane-enoxaparina-20mg" title="Clexane">Clexane</a></li>
+<li><a href="https://www.saredrogarias.com.br/lipomax-shake-diet-baunilha-58gr-7un" title="Lipomax">Lipomax</a></li>
+<li><a href="https://www.saredrogarias.com.br/mesilato-de-imatinibe-100mg-60" title="Mesilato de Imatinibe">Mesilato de Imatinibe</a></li>
+<li><a href="https://www.saredrogarias.com.br/mesilato-de-imatinibe-400-mg" title="Imatinibe ">Imatinibe </a></li>
+<li><a href="https://www.saredrogarias.com.br/kit-medidor-glicose-tiras-reagentes-facil-true" title="Kit Medidor de Glicose Fácil True Read">Kit Medidor de Glicose Fácil True Read</a></li>
+<li><a href="https://www.saredrogarias.com.br/fludara-10mg-15-comprimidos" title="Fludara 10mg c/ 15 comprimidos">Fludara 10mg c/ 15 comprimidos</a></li>
+<li><a href="https://www.saredrogarias.com.br/Hialytopic-30" title="Hialytopic">Hialytopic</a></li>
+<li><a href="https://www.saredrogarias.com.br/Efedrin-50mg-ml-1-ampola-1ml" title="Efedrina">Efedrina</a></li>
+<li><a href="https://www.saredrogarias.com.br/Choriomon-5000ui-Ampola-Diluente-1mL" title="Choriomon">Choriomon</a></li>
+<li><a href="https://www.saredrogarias.com.br/Tasigna-200mg-112-Capsulas-Nilotinibe" title="Tasigna">Tasigna</a></li>
+<li><a href="https://www.saredrogarias.com.br/Daklinza-60mg-28-Daclastavir" title="Daklinza">Daklinza</a></li>
+<li><a href="https://www.saredrogarias.com.br/Jardiance-25mg-30-Comprimidos-Empagliflozina" title="Jardiance">Jardiance</a></li>
+<li><a href="https://www.saredrogarias.com.br/B-platin-10mg-1-Frasco-Ampola-45ml-Carboplatina" title="Carboplatina">Carboplatina</a></li>
+<li><a href="https://www.saredrogarias.com.br/Instaterm-Bolsa-Termica-Instantanea-Ombros" title="Bolsa Térmica Instantânea">Bolsa Térmica Instantânea</a></li>
+<li><a href="https://www.saredrogarias.com.br/Sunla-Spray-Repelente-200ml" title="Icaridina Spray Repelente">Icaridina Spray Repelente</a></li>
+<li><a href="https://www.saredrogarias.com.br/Voriconazol-200mg-14-Comprimidos" title="Voriconazol 200mg">Voriconazol 200mg</a></li>
+<li><a href="https://www.saredrogarias.com.br/Ofev-150mg-60-Comprimidos-Esilato-Nintedanibe" title="OFEV">OFEV</a></li>
+</ul>
+</div>
+<div class="footer-middle">
+<div class="sobre">
+<h5>INSTITUCIONAL</h5>
+<hr>
+<p>A Sare Drogarias é a Drogaria Online que entrega com segurança, rapidez e o melhor preço, milhares de medicamentos em todo o Brasil. Dona de um estoque de mais de 10 mil itens a Sare se orgulha de ser uma empresa jovem e dinâmica. <a href="#" title="Saiba mais">Saiba mais</a></p>
+</div>
+<div class="information">
+<h5>ANVISA</h5>
+<hr>
+ 
+<img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/anvisa-white.jpg" alt="">
+ 
+</div>
+<div class="account">
+<h5>SEGURANÇA</h5>
+<hr>
+<script language="JavaScript" type="text/javascript">
+TrustLogo("https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/comodo_secure_seal_113x59_transp.png", "SC5", "none");
+</script>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</div>
+<ul class="footer-contato">
+<h5>MÍDIAS SOCIAIS</h5>
+<hr>
+<li class="social-bar">
+<ul>
+<li><a href="https://www.facebook.com/drogariaonline" title=""><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://twitter.com/saredrogarias" title=""><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://plus.google.com/116953075454708738793/about" title=""><i class="fa fa-google-plus"></i></a></li>
+<li><a href="https://www.youtube.com/user/saredrogarias" title=""><i class="fa fa-youtube"></i></a></li>
+</ul>
+</li>
+<li class="newsletter">
+<h5>Newsletter</h5>
+<form method="post" role="form">
+<div class="input-group">
+<input type="text" class="form-control email-newsletter-footer" placeholder="Cadastrar Email">
+<span class="input-group-btn">
+<button class="btn enviar-newsletter" type="button">Enviar</button>
+</span>
+</div> 
+</form>
+</li>
+</ul>
+</div>
+<div class="teste">
+As informações contidas neste site não devem ser usadas para <span>automedicação</span> e não substituem, em hipótese alguma as orientações dadas pelo profissional da área médica. Somente o médico está apto a diagnosticar qualquer problema de saúde e prescrever o tratamento adequado. <span>Não tome nenhum medicamento sem orientação médica ou farmacêutica</span>, pode ser perigoso para sua saúde. Dúvidas sobre medicamentos adquiridos no site podem ser enviadas para: <span><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="92e1f3e0f7d2e1f3e0f7f6e0fdf5f3e0fbf3e1bcf1fdffbcf0e0">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></span> ou através de nosso formulário de contato. Os nomes fantasia Sare, Sare Drogarias e o domínio: www.saredrogarias.com.br, são marcas registradas em propriedade de Sare Comércio de Medicamentos e Produtos de Saúde Ltda. Rua do Oratório, 2900 - Mooca, São Paulo, SP, CEP: 03195-000, Inscrição Estadual: 149.600.173.114, CNPJ: 08.677.327/0001-04, <span>Alvará de funcionamento ANVISA: 25352.10885/2010-10</span>, <span>Licença Sanitária CMVS: 355030801-477-004879-1-0</span>, Farmacêutica Responsável: Dra. Juliana Thomazini Nunes Marcatto - CRF/SP 42.550. Medicamentos de prescrição médica, apenas serão enviados mediante apresentação da receita e devida averiguação por parte do farmacêutico responsável. O envio da receita poderá ser feito através do e-mail: <span><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="234542514e42404656574a404c635042514647514c4442514a42500d404c4e0d4151">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> ou fax, 11-2021-6464.</span> Em caso de dúvidas e orientações, entre em contato com o farmacêutico.
+</div>
+<div class="sub-footer">
+<p>© Copyright 2017 Sare Drogarias - Todos os direitos reservados</p>
+<div class="flag">
+<img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/flag-card.png" alt="" class="img-responsive">
+</div>
+</div>
+</footer>
+ 
+</div>
+ 
+ 
+ 
+</div> 
+</div> -->
+ 
+<div class="modal fade" id="descontoPrimeiraCompraModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="top:30% !important;">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-body">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<br>
+<div style="width:65%; float:left;">
+<h4>É sua primeira compra na Sare Drogarias?</h4>
+<p>Cadastre seu email, temos uma supresa para você!
+<div class="dados-cadastrais">
+<div class="form-group">
+<div class="email">
+<label for=""></label>
+<input type="email" class="form-control" id="input-email-primeira-compra" placeholder="Digite aqui seu email">
+</div>
+</div>
+</div>
+ 
+</div>
+<div style="width:35%; float:left; text-align:right;">
+<svg version="1.1" id="Capa_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" width="160px" height="160px" viewBox="0 0 188.558 188.558" style="enable-background:new 0 0 188.558 188.558;" xml:space="preserve">
+<g>
+<g>
+<path d="M185.975,66.295c1.405-1.681,0.868-4.792-1.593-5.387c-13.578-3.277-29.998-1.736-43.923-1.711
+                                        c-5.255,0.009-12.495-0.466-19.293,0.182c4.317-2.093,8.423-4.606,12.138-7.56c10.111-8.039,14.912-27.873,4.941-38.039
+                                        c-15.065-15.359-35.78,5.314-46.498,24.189c-4.59-17.832-17.45-36.585-34.749-29.105c-12.102,5.231-13.217,22.842-8.8,32.998
+                                        c3.644,8.381,12.707,14.757,22.283,17.83C48.5,57.32,26.376,56.958,4.272,55.941c-2.173-0.1-3.998,1.893-3.993,3.993
+                                        c0.024,10.572-2.062,24.145,4.815,33.101c0.18,0.233,0.392,0.423,0.624,0.57C5.08,93.851,4.439,94.077,3.8,94.344
+                                        c-2.103,0.881-1.35,3.807,0.946,3.429c12.722-2.095,25.392-2.059,38.054-1.264c0.2,0.048,0.388,0.054,0.572,0.035
+                                        c13.818,0.892,27.626,2.668,41.485,3.585c1.657,0.11,3.642-1.31,3.925-2.989c1.55-9.19,4.83-22.073,2.063-31.144
+                                        c-0.078-0.257-0.212-0.441-0.325-0.653c0.392,0.138,0.81,0.244,1.283,0.27c3.894,0.214,7.798-0.021,11.652-0.617
+                                        c-0.576,0.715-0.987,1.493-1.325,2.299c-0.474,0.33-0.75,0.896-0.501,1.458c-0.781,2.9-0.602,6.146-0.706,9.199
+                                        c-0.209,6.053-0.087,12.099,0.684,18.105c0.391,3.048,3.907,3.418,5.067,1.12c12.37-0.865,24.642-1.989,37.058-2.139
+                                        c12.771-0.154,24.509,2.989,36.992,4.209c1.152,0.112,1.938-0.345,2.432-1.034c0.612-0.264,1.132-0.738,1.346-1.497
+                                        c1.595-5.668,3.009-11.285,3.683-17.144C188.638,75.613,189.285,69.284,185.975,66.295z M9.329,92.321
+                                        c0.042-0.312,0.032-0.649-0.091-1.034c-2-6.271-1.948-13.19-1.582-20.006c1.435,2.992,3.292,5.771,5.339,8.415
+                                        c2.161,2.789,4.906,7.041,7.993,9.857C17.086,90.175,13.199,91.061,9.329,92.321z M26.025,88.904
+                                        c-1.949-3.425-6.27-6.394-8.865-9.209c-3.671-3.983-7.006-8.37-9.176-13.36c-0.008-0.02-0.024-0.028-0.033-0.046
+                                        c0.045-0.725,0.092-1.45,0.132-2.166c0.321,0.016,0.642,0.029,0.963,0.046c4.007,5.867,9.036,10.992,14.162,15.881
+                                        c2.823,2.691,5.765,5.65,8.839,8.449C30.037,88.583,28.027,88.703,26.025,88.904z M39.515,88.426
+                                        c-3.906-3.307-8.34-6.243-12.112-9.399c-5.411-4.526-10.416-9.386-14.997-14.695c3.739,0.18,7.481,0.344,11.222,0.507
+                                        c0.069,0.164,0.136,0.329,0.266,0.484c5.138,6.144,10.777,11.76,16.769,17.069c2.146,1.902,4.63,4.291,7.283,6.406
+                                        C45.125,88.619,42.313,88.475,39.515,88.426z M57.261,89.541c-4.437-4.261-10.547-7.456-15.233-11.44
+                                        c-4.78-4.064-9.295-8.473-13.599-13.051c3.533,0.156,7.065,0.328,10.596,0.506c0.013,0.442,0.185,0.888,0.623,1.216
+                                        c6.027,4.521,11.453,9.532,16.804,14.82c2.849,2.814,5.796,6.003,9.01,8.743C62.72,90.063,59.981,89.792,57.261,89.541z
+                                         M74.537,91.113c-5.216-4.98-11.459-9.098-16.898-13.89c-4.569-4.024-9.172-7.992-14.184-11.435
+                                        c5.346,0.295,10.686,0.663,16.02,1.104c2.388,4.84,5.933,9.058,9.693,12.896c3.058,3.123,7.005,7.207,11.209,9.709
+                                        C79.232,90.815,77.483,91.214,74.537,91.113z M82.689,79.385c-0.142,1.788-0.298,3.24-0.474,4.548
+                                        c-2.906-2.143-6.057-4.083-8.736-6.373c-3.621-3.096-7.034-6.455-9.797-10.312c6.242,0.579,12.471,1.297,18.68,2.245
+                                        c0.387,0.059,0.751,0.057,1.103,0.026C82.886,72.754,82.945,76.171,82.689,79.385z M61.943,45.334
+                                        C52.99,38.154,51.828,9.277,67.98,16.622c11.959,5.438,19.306,25.946,16.969,38.021c0.012,0.001,0.024,0.003,0.036,0.005
+                                        c-0.045,0.25-0.089,0.5-0.123,0.741C76.208,54.243,68.84,50.867,61.943,45.334z M87.377,63.68
+                                        c-0.327-0.971-1.109-1.749-2.393-2.074c0.42-0.033,0.85-0.047,1.261-0.099c0.572-0.072,1.03-0.273,1.431-0.523
+                                        c-0.02,0.951,0.241,1.915,0.765,2.723C88.093,63.642,87.734,63.634,87.377,63.68z M180.383,67.984
+                                        c-0.655,3.558,0.612,7.925,0.453,11.587c-0.046,1.072-0.131,2.145-0.2,3.218c-2.105-3.231-5.817-6.009-8.464-8.649
+                                        c-1.943-1.938-3.922-3.847-5.97-5.675C171.031,68.644,175.825,68.609,180.383,67.984z M93.045,57.059
+                                        c0.014-0.059,0.04-0.108,0.052-0.17c0.108-0.562,0.198-1.147,0.27-1.753c2.118-13.543,20.027-39.682,35.654-37.562
+                                        c8.354,1.132,5.69,17.336,3.823,21.456c-2.493,5.505-8.333,9.028-13.329,11.828C111.752,55.211,101.966,57.33,93.045,57.059z
+                                         M107.46,91.718c0.329-3.916,0.476-7.841,0.699-11.775c0.074-1.294,0.253-2.612,0.436-3.936c1.806,1.978,3.578,3.988,5.336,6.011
+                                        c2.002,2.304,4.104,5.153,6.484,7.541C116.065,90.203,111.734,90.909,107.46,91.718z M126.429,88.725
+                                        c-2.808-3.394-6.864-6.349-9.813-9.393c-2.474-2.554-4.951-5.085-7.538-7.5c0.104-1.533,0.082-3.047-0.23-4.512
+                                        c1.385,0.349,2.84,0.595,4.34,0.773c5.063,4.578,9.868,9.43,14.872,14.071c1.596,1.479,3.73,3.86,6.047,5.758
+                                        C131.546,88.151,128.985,88.411,126.429,88.725z M148.292,87.211c-2.297,0.009-4.604,0.091-6.912,0.205
+                                        c-0.933-1.32-2.358-2.145-3.715-3.106c-2.715-1.923-5.264-4.088-7.814-6.219c-3.867-3.233-7.718-6.488-11.627-9.67
+                                        c2.556,0.06,5.191-0.027,7.834-0.169c-0.046,0.479,0.094,0.962,0.562,1.325c5.21,4.044,10.247,8.297,15.355,12.467
+                                        c2.004,1.636,4.134,3.475,6.375,5.167C148.332,87.211,148.312,87.211,148.292,87.211z M157.356,87.257
+                                        c-4.07-3.044-8.743-5.513-12.794-8.565c-4.682-3.528-9.154-7.312-13.915-10.729c4.385-0.312,8.653-0.646,12.52-0.673
+                                        c5.374,4.514,10.331,9.452,15.371,14.334c1.942,1.881,3.937,4.016,6.028,6.066C162.162,87.452,159.737,87.315,157.356,87.257z
+                                         M174.323,89.552c-4.34-4.471-9.972-8.29-14.518-12.377c-3.809-3.425-7.775-6.668-11.839-9.784
+                                        c3.946,0.172,8.051,0.5,12.188,0.768c3.09,2.916,6.036,5.95,8.871,9.128c2.747,3.079,5.504,7.615,9.183,9.583
+                                        c0.768,0.411,1.544,0.349,2.154,0.008c-0.133,1.674-0.271,3.347-0.403,5.021C178.2,90.924,176.304,90.166,174.323,89.552z"/>
+<path d="M86.241,130.141c-0.024-6.191-0.47-12.367-1.671-18.481c-0.344-1.753-2.192-2.939-3.883-2.957
+                                        c-20.567-0.212-43.198-4.521-62.575,4.337c-2.069,0.945-1.632,3.591-0.154,4.766c-4.986,19.071-2.694,39.332-2.602,58.835
+                                        c0.011,2.4,1.907,4.051,4.198,4.198c18.523,1.193,37.039,0.065,55.575-0.067c1.16-0.008,2.054-0.42,2.709-1.038
+                                        c1.793,0.729,4.245-0.016,4.788-2.176c2.373-9.447,2.022-20.258,2.815-29.97c0.44-5.387,0.761-10.792,0.79-16.189
+                                        C86.397,131.012,86.423,130.568,86.241,130.141z M77.897,122.391c-0.549-0.471-1.104-0.938-1.627-1.424
+                                        c-1.59-1.479-3.085-3.041-4.569-4.614c1.86,0.11,3.737,0.245,5.572,0.312C77.563,118.567,77.751,120.478,77.897,122.391z
+                                         M23.668,172.651c-0.108-4.912-0.289-9.81-0.471-14.701c3.081,4.503,6.923,8.693,10.477,12.507
+                                        c0.812,0.871,1.633,1.729,2.499,2.522C32.004,172.944,27.837,172.852,23.668,172.651z M56.949,172.754
+                                        c-0.094-0.115-0.182-0.223-0.228-0.281c-2.737-3.484-5.936-6.114-9.275-9.002c-8.026-6.941-15.148-14.907-21.189-23.623
+                                        c-0.959-1.385-3.178-0.147-2.288,1.337c5.205,8.684,11.762,16.238,18.938,23.349c2.83,2.804,5.655,5.387,8.206,8.306
+                                        c-2.515,0.039-5.03,0.093-7.544,0.111c0-0.313-0.026-0.628-0.103-0.941c-0.321-1.286-1.844-1.503-2.747-0.895
+                                        c-0.535-0.406-1.071-0.809-1.589-1.235c-2.34-1.929-4.47-4.124-6.567-6.309c-3.296-3.436-6.908-7.079-9.569-11.124
+                                        c-0.338-9.475-0.554-18.939-0.205-28.447c14.252,17.809,36.896,29.04,48.649,48.561C66.608,172.604,61.778,172.667,56.949,172.754
+                                        z M77.388,147.588c-0.506,6.888-2.038,14.476-2.109,21.722c-3.859-7.744-13.097-14.37-18.746-19.3
+                                        c-11.306-9.865-24.217-19.072-33.506-31.049c0.031-0.51,0.037-1.019,0.071-1.529c1.143-0.316,2.295-0.594,3.453-0.842
+                                        c5.926,8.613,15.138,15.801,22.663,22.751c5.601,5.173,12.493,14.064,19.909,16.7c1.465,0.52,2.583-1.27,1.909-2.484
+                                        c-3.489-6.297-12.21-11.242-17.534-15.837c-8.059-6.955-16.095-14.027-23.401-21.784c2.695-0.427,5.432-0.655,8.182-0.811
+                                        c-1.292,2.458,10.631,12.868,11.837,14.057c4.698,4.634,9.473,9.193,14.338,13.652c2.615,2.396,6.826,7.699,10.676,7.814
+                                        c1.059,0.032,2.185-1.194,1.731-2.272c-1.219-2.892-5.031-4.795-7.389-6.72c-4.236-3.459-8.351-7.069-12.446-10.693
+                                        c-5.612-4.966-12.392-12.352-18.241-15.078c0.519,0.242,0.88-0.413,0.44-0.752c-0.023-0.022-0.053-0.032-0.078-0.052
+                                        c4.766-0.227,9.594-0.12,14.425,0.124c3.461,4.952,7.407,9.536,11.647,13.86c3.342,3.409,7.84,8.241,12.677,10.947
+                                        C77.753,142.543,77.572,145.071,77.388,147.588z M78.128,134.684c-3.091-2.146-6.224-4.25-9.065-6.787
+                                        c-4.273-3.813-8.325-8.013-11.982-12.488c3.523,0.218,7.038,0.479,10.528,0.717c1.717,2.082,3.537,4.086,5.367,6.053
+                                        c1.636,1.758,3.345,3.658,5.173,5.413C78.203,129.953,78.202,132.318,78.128,134.684z"/>
+<path d="M172.43,143.856c-0.679-7.404-1.012-17.009-5.036-23.505c0.395-0.174,0.771-0.364,1.107-0.594
+                                        c1.572-1.075,2.471-3.799,0.67-5.202c-3.143-2.448-7.466-2.146-11.281-2.602c-8.94-1.068-17.877-2.1-26.855-2.784
+                                        c-2.359-0.181-5.461-0.52-8.813-0.737c-0.105-0.139-0.218-0.269-0.323-0.408c-0.604-0.804-1.782-0.444-1.993,0.276
+                                        c-4.158-0.175-8.553-0.071-12.379,0.83c-0.475-0.213-1.035-0.044-1.307,0.325c-3.523,1.044-6.44,2.87-8.036,5.939
+                                        c-6.044,11.625-2.66,30.206-1.508,42.553c0.221,2.373,1.246,24.836,7.667,19.933c0.401,1.004,1.303,1.808,2.746,1.863
+                                        c21.287,0.817,42.532-0.378,63.635-3.232c1.807-0.244,3.084-2.368,3.075-4.039C173.749,162.909,173.302,153.382,172.43,143.856z
+                                         M160.811,121.331c-0.062,2.885,0.295,5.829,0.792,8.784c-0.171-0.178-0.348-0.356-0.513-0.531
+                                        c-3.111-3.312-6.27-6.493-9.741-9.391C154.539,120.772,157.84,121.264,160.811,121.331z M147.561,119.47
+                                        c-0.091,0.382-0.031,0.79,0.318,1.094c3.588,3.127,6.896,6.534,10.06,10.085c1.765,1.98,3.308,4.359,4.993,6.562
+                                        c0.349,1.837,0.674,3.663,0.905,5.47c-2.973-2.666-5.736-5.578-8.503-8.451c-5.102-5.294-9.948-10.854-15.123-16.079
+                                        C142.14,118.374,144.723,118.905,147.561,119.47z M137.188,117.79c6.625,7.067,12.436,14.86,18.744,22.203
+                                        c1.76,2.048,4.98,6.594,8.465,9.065c0.185,2.282,0.41,4.562,0.532,6.848c-11.389-13.457-24.383-25.581-35.883-39.058
+                                        C132.237,117.167,135.106,117.531,137.188,117.79z M119.065,172.899c-1.263-0.555-2.372-1.83-3.292-2.744
+                                        c-2.922-2.903-5.56-6.125-8.22-9.267c-0.242-0.285-0.614-0.233-0.871-0.038c-0.582-0.648-0.931-1.256-0.935-2.272
+                                        c0-0.067-0.105-0.067-0.104,0c0.005,1.138,0.32,1.666,0.974,2.363c-0.197,0.202-0.305,0.485-0.104,0.749
+                                        c2.944,3.884,5.949,7.726,9.167,11.388c-2.865,0.154-5.73,0.32-8.594,0.458c-0.386,0.019-0.7,0.129-1.011,0.242
+                                        c0.617-5.738-1.644-15.196-1.869-18.458c-0.194-2.806-0.422-5.7-0.608-8.636c4.376,6.472,10.21,12.174,15.604,17.579
+                                        c1.675,1.677,4.84,5.428,8.223,8.107C124.638,172.555,121.853,172.74,119.065,172.899z M134.355,171.882
+                                        c-11.759-7.885-23.819-18.853-31.043-31.077c-0.092-2.688-0.072-5.376,0.032-8.046c6.371,6.562,12.417,13.455,18.46,20.305
+                                        c5.091,5.771,10.083,13.128,16.061,18.52C136.695,171.675,135.527,171.795,134.355,171.882z M143.19,171.129
+                                        c-4.735-6.782-11.516-12.657-17.067-18.646c-7.306-7.877-14.694-15.694-22.604-22.97c0.269-3.268,0.745-6.48,1.573-9.561
+                                        c7.835,9.54,16.217,18.712,24.384,27.928c4.945,5.581,9.915,11.14,14.979,16.614c1.707,1.845,3.944,4.887,6.67,5.339
+                                        c1.384,0.229,2.907-1.532,1.544-2.651c-7.988-6.556-15.128-16.019-22.282-23.566c-8.005-8.446-15.887-17.009-23.848-25.494
+                                        c0.966-0.66,2.393-1.104,4.071-1.408c8.153,11.227,17.488,21.739,26.657,32.051c4.481,5.04,12.065,15.682,19.903,20.991
+                                        C152.515,170.262,147.855,170.726,143.19,171.129z M165.286,168.818c-10.261-6.232-18.89-16.555-27.083-25.03
+                                        c-8.531-8.825-16.944-17.92-24.747-27.449c3.561-0.285,7.822-0.128,11.904,0.186c5.4,7.206,11.256,14.074,17.141,20.882
+                                        c6.61,7.649,13.535,17.119,22.253,22.348c0.12,0.072,0.235,0.1,0.351,0.135c0.119,2.973,0.211,5.947,0.257,8.922
+                                        C165.337,168.812,165.312,168.814,165.286,168.818z"/>
+</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+</div>
+</div>
+<div class="modal-footer" style="margin-top:181px;">
+<a type="button" class="cancel-btn" data-dismiss="modal">Fechar</a>
+<a type="button" class="btn-modal" id="btn-cadastrar-primeira-compra">Cadastrar</a>
+</div>
+</div> 
+</div> 
+</div> 
+<div class="modal fade" id="consultaPedido" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="top:30% !important;">
+<div class="modal-dialog" style="width:1000px !important; ">
+<div class="modal-content">
+<div class="modal-body">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<br>
+<div class="status">
+<div class="status-content">
+<div class="status-1 success">
+Pedido Realizado
+</div>
+</div>
+<div class="status-content">
+<div class="status-2 ">
+Aguardando Pagamento
+</div>
+</div>
+<div class="status-content">
+<div class="status-3 ">
+Enviado
+</div>
+</div>
+<div class="status-content">
+<div class="status-4 ">
+Entrega
+</div>
+</div>
+</div>
+<div class="msgm-entrega">
+<p>O seu pedido foi enviado para o destinatário. </p>
+</div>
+<div class="descricao-entrega">
+</div>
+</div>
+<div class="modal-footer">
+<a type="button" class="cancel-btn" data-dismiss="modal">Fechar</a>
+</div>
+</div> 
+</div> 
+</div> 
+ 
+<div class="modal fade" id="cadastrar-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title">CADASTRAR</h4>
+</div>
+<div class="modal-body">
+ 
+<div class="sucesso">
+<h3>Seu cadastro foi realizado com sucesso</h3>
+</div>
+<div class="dados-cadastrais">
+<p class="text-danger"> * Campos obrigatórios</p>
+<label>Tipo de cadastro de pessoa <span class="text-danger">*</span></label>
+<div class="checkbox">
+<label for="pessoa-fisica-modal">
+<input type="radio" name="pessoa" id="pessoa-fisica-modal" value="0" checked />
+Pessoa Física
+</label>
+<label for="pessoa-juridica-modal">
+<input type="radio" name="pessoa" value="1" id="pessoa-juridica-modal"/>
+Pessoa Jurídica
+</label>
+</div>
+<div class="form-group" id="fisica-nome-modal">
+<div class="nome-fisica">
+<label for="">Nome <span class="text-danger">*</span></label>
+<input type="email" class="form-control" id="nome-cadastrar" placeholder="">
+</div>
+</div>
+<div class="form-group" id="juridica-razao-modal">
+<div class="razao-juridico">
+<label for="">Razão Social <span class="text-danger">*</span></label>
+<input type="text" class="form-control" id="razao-cadastrar" placeholder="">
+</div>
+</div>
+<div class="form-group">
+<div class="email">
+<label for="">Email <span class="text-danger">*</span></label>
+<input type="email" class="form-control" id="email-cadastrar" placeholder="">
+</div>
+</div>
+<div class="form-group">
+<div class="date" id="nascimento">
+<label for="">Data de Nascimento <span class="text-danger">*</span></label>
+<input type="text" class="form-control date-mask" id="data-cadastrar" placeholder="">
+</div>
+<div class="cpf-fisica" id="fisica-cpf-modal">
+<label for="">Cpf <span class="text-danger">*</span></label>
+<input type="text" class="form-control cpf-mask" id="cpf-cadastrar" placeholder="">
+</div>
+<div class="cnpj-juridico" id="juridica-cnpj-modal">
+<label for="">cnpj <span class="text-danger">*</span></label>
+<input type="text" class="form-control cnpj-mask" id="cnpj-cadastrar" placeholder="">
+</div>
+</div>
+<div class="form-group">
+<div class="phone-cad">
+<label for="">Telefone <span class="text-danger">*</span></label>
+<input type="text" class="form-control phone-mask" id="telefone-cadastrar" placeholder="">
+</div>
+<div class="cel-cad">
+<label for="">Celular </label>
+<input type="text" class="form-control cel-mask" id="celular-cadastrar" placeholder="">
+</div>
+</div>
+</div>
+ 
+</div>
+<div class="modal-footer">
+<a type="button" class="cancel-btn" data-dismiss="modal">Cancelar</a>
+<a type="button" class="cadastrar-modal-btn logar-btn logar-login-btn">Cadastrar</a>
+</div>
+</div> 
+</div> 
+</div> 
+<div class="modal fade" id="report-problem-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title">Reporte um problema</h4>
+</div>
+<div class="modal-body">
+<div class="dados-cadastrais">
+<p class="text-danger"> * Campos obrigatórios</p>
+<div class="form-group" id="fisica-nome-modal">
+<div class="nome-fisica">
+<label for="">Nome <span class="text-danger">*</span></label>
+<input type="email" class="form-control" id="nome-report" placeholder="">
+</div>
+</div>
+<div class="form-group">
+<div class="email">
+<label for="">Email <span class="text-danger">*</span></label>
+<input type="email" class="form-control" id="email-report" placeholder="">
+</div>
+</div>
+<div class="form-group">
+<div class="assunto">
+<label for="">Assunto <span class="text-danger">*</span></label>
+<input type="text" class="form-control" id="assunto-report" placeholder="">
+</div>
+</div>
+<div class="form-group">
+<div class="assunto">
+<label for="">Mensagem <span class="text-danger">*</span></label>
+<textarea style="width:100%; height:150px;" id="mensagem-report"></textarea>
+</div>
+</div>
+</div>
+ 
+</div>
+<div class="modal-footer">
+<a type="button" class="cancel-btn" data-dismiss="modal">Cancelar</a>
+<a type="button" class="enviar-report">Enviar</a>
+</div>
+</div> 
+</div> 
+</div> 
+ 
+<div class="modal fade" id="ModalCallBack" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+ 
+<p class="help-block">Deixe seus dados que entraremos em contato</p>
+</div>
+<div class="modal-body">
+<div class="dados-cadastrais">
+<p class="text-danger"> * Campos obrigatórios</p>
+<div class="form-group">
+<div class="nome">
+<label for="">Nome <span class="text-danger">*</span></label>
+<input type="text" class="form-control" id="nome-callback" placeholder="Nome para contato">
+</div>
+</div>
+<div class="form-group">
+<div class="telefone">
+<label for="">Telefone <span class="text-danger">*</span></label>
+<input type="text" class="form-control inputTelefone" maxlength="15" id="telefone-callback" placeholder="Seu telefone para contato">
+</div>
+</div>
+<div class="form-group">
+<div class="email">
+<label for="">Email</label>
+<input type="text" class="form-control" id="email-callback" placeholder="Email para contato">
+</div>
+</div>
+</div>
+ 
+</div>
+<div class="modal-footer">
+ 
+<a type="button" class="btn btn-success enviar-callback">Enviar</a>
+</div>
+</div> 
+</div> 
+</div> 
+ 
+ 
+ 
+ 
+<script src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/lib/jquery/jquery.easyui.min.js" type="text/javascript"></script>
+ 
+<script src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/plugins/autocomplete/js/jquery-ui-1.10.4.custom.js"></script>
+ 
+ 
+<script src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/lib/personal-bootstrap/js/bootstrap.min.js"></script>
+ 
+<script src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/lib/gleen-webfonts/gleen-webfonts.js" type="text/javascript"></script>
+ 
+<script src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/js/main.js" type="text/javascript"></script>
+<script src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/js/mask.js"></script>
+ 
+<script src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/js/angular.js"></script>
+<script src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/js/app.js" type="text/javascript"></script>
+<script src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/js/zoom.js" type="text/javascript"></script>
+<script type="text/javascript">
+        jQuery(document).ready(function($) {
+             $(window).load(function() {
+                setInterval( function(){  
+                    // alert('ok');       
+                    $(".autocomplete").css("display", "block");         
+                }, 50);
+            });
+            $('.enviar-callback').click(function(){
+                // pega os dados
+                var nome = $('#nome-callback').val();
+                var telefone = $('#telefone-callback').val();
+                var email = $('#email-callback').val();
+
+                // validacao
+                if (nome == '' || nome.length < 3) {
+                    alert('Prencha o nome corretamente');
+                    $('#nome-callback').focus();
+                    return false;
+                }
+                if (telefone == '' || telefone.length < 13) {
+                    alert('Prencha o telefone corretamente');
+                    $('#telefone-callback').focus();
+                    return false;
+                }
+                // chama o ajax
+                $.ajax({
+                    url: "https://www.saredrogarias.com.br/ajaxEnviarCallBack",
+                    type: "POST",
+                    data: {
+                        nome:nome,
+                        email:email,
+                        telefone:telefone
+                    },
+                    dataType: "json",
+                    beforeSend: function(){
+                        $('#body').prepend('<div id="loading"><img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/load.gif" alt="loading" /></div>');
+                    },
+                    success: function(result){
+                        $('#loading').remove();
+                    
+                        var nome = $('#nome-callback').val(" ");
+                        var telefone = $('#telefone-callback').val(" ");
+                        var email = $('#email-callback').val(" ");
+
+                        alert('Solicitação enviada com sucesso. Em breve entraremos em contato.');
+
+                        $('#ModalCallBack').modal('hide');
+
+                        
+                    },
+                    error: function(){
+                        $('#loading').remove();
+                    }
+                });
+            });
+
+            $(".inputTelefone").mask("(99) 9999-99999");
+            // ZOOM 
+            $('.galeria a').on('click',function(){
+                var thumb = $(this).attr('href');
+                $('.imgPrincipal img').attr('src',thumb);
+                $(".produtoZoom").elevateZoom({tint:true, tintColour:'#FFF', tintOpacity:0.5});
+                return false;
+            });
+            $(".produtoZoom").elevateZoom({tint:true, tintColour:'#FFF', tintOpacity:0.5});
+             
+            $('#btn-login').click(function(event) {
+                $('#login-modal').modal('show');
+            });
+            
+            $('#btn-cadastrar').click(function(event) {
+                $('#cadastrar-modal').modal('show');
+            });
+
+             $('#report-problem').click(function(event) {
+                $('#report-problem-modal').modal('show');
+            });
+
+            $('#esqueceu-senha-link').click(function(event) {
+                $('#login-box').slideUp('slow');
+                $('#esqueceu-login-box').slideDown('slow');
+                $('.logar-login-btn').css('display','none');
+                $('.esqueceu-login-btn').css('display','inline-block');
+                $('#title-login').css('display','none');
+                $('#title-relembrar').css('display','block');
+            });
+
+            $('.enviar-newsletter').click(function(){
+                var email = $('.email-newsletter').val();
+                alert(email);
+
+            })
+
+            $('.cadastrar-modal-btn').click(function(){
+                var tipoPessoa = $('input[name="pessoa"]:checked').val();
+
+                if(tipoPessoa == 0){
+                    var nome_razao = $('#nome-cadastrar').val();
+                    var cpf_cnpj = $('#cpf-cadastrar').val();
+
+                    if(nome_razao == ''){
+                        alert('Informe seu Nome antes de continuar.');
+                        return false;
+                    }
+
+                    if(cpf_cnpj == ''){
+                        alert('Informe seu CPF antes de continuar.');
+                        return false;
+                    }
+                }else{
+                    var nome_razao = $('#razao-cadastrar').val();
+                    var cpf_cnpj = $('#cnpj-cadastrar').val();
+
+                    if(nome_razao == ''){
+                        alert('Informe sua Razão Social antes de continuar.');
+                        return false;
+                    }
+
+                    if(cpf_cnpj == ''){
+                        alert('Informe seu CNPJ antes de continuar.');
+                        return false;
+                    }
+                }
+
+                var email = $('#email-cadastrar').val();
+                var dataNascimento = $('#data-cadastrar').val();
+                var telefone = $('#telefone-cadastrar').val();
+                var celular = $('#celular-cadastrar').val(); 
+
+                if(email == ''){
+                    alert('Informe seu email antes de continuar.');
+                    return false;
+                }
+
+                if(telefone == ''){
+                    alert('Informe seu telefone antes de continuar.');
+                    return false;
+                }
+
+                $.ajax({
+                    url: "https://www.saredrogarias.com.br/ajaxCadastrarCliente",
+                    type: "POST",
+                    data: {
+                        tipoPessoa:tipoPessoa,
+                        nome_razao:nome_razao,
+                        cpf_cnpj:cpf_cnpj,
+                        dataNascimento:dataNascimento,
+                        telefone:telefone,
+                        celular:celular,
+                        email:email
+                    },
+                    dataType: "json",
+                    beforeSend: function(){
+                        $('#body').prepend('<div id="loading"><img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/load.gif" alt="loading" /></div>');
+                    },
+                    success: function(result){
+                        $('#loading').remove();
+                        if(result.result == 'success'){
+                            $('#loading').remove();
+
+                            $('.dados-cadastrais').slideUp('slow');
+                            $('.sucesso').slideDown('slow');
+
+                            alert('Cadastro efetuado com sucesso, a senha foi enviada para o email correspondente a conta.');
+
+                            $('#cadastrar-modal').modal('hide');
+
+                        }else{
+                            alert(result.msgm);
+                        }
+                    },
+                    error: function(){
+                        alert('O cadastro não foi realizado, entre em contato.');
+                        $('#loading').remove();
+                    }
+                });
+            })
+
+            $('.enviar-report').click(function(){
+
+                var nome = $('#nome-report').val();
+                var email = $('#email-report').val();
+                var assunto = $('#assunto-report').val();
+                var mensagem = $('#mensagem-report').val(); 
+
+                if(nome == ''){
+                    alert('Informe seu nome antes de continuar.');
+                    return false;
+                }
+
+                if(email == ''){
+                    alert('Informe seu email antes de continuar.');
+                    return false;
+                }
+
+                if(assunto == ''){
+                    alert('Informe o assunto antes de continuar.');
+                    return false;
+                }
+
+                if(mensagem == ''){
+                    alert('Informe o mensagem antes de continuar.');
+                    return false;
+                }
+
+                $.ajax({
+                    url: "https://www.saredrogarias.com.br/ajaxEnviarProblema",
+                    type: "POST",
+                    data: {
+                        nome:nome,
+                        email:email,
+                        assunto:assunto,
+                        mensagem:mensagem
+                    },
+                    dataType: "json",
+                    beforeSend: function(){
+                        $('#body').prepend('<div id="loading"><img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/load.gif" alt="loading" /></div>');
+                    },
+                    success: function(result){
+                        $('#loading').remove();
+
+                        if(result.result == 'success'){
+                            $('#loading').remove();
+
+                            alert('Solicitação enviada com sucesso, agradecemos sua ajuda. Em breve o problema será solucionado.');
+
+                            $('#report-problem-modal').modal('hide');
+
+                        }else{
+                            alert(result.msgm);
+                        }
+                    },
+                    error: function(){
+                        $('#loading').remove();
+                    }
+                });
+            })
+
+            $('.esqueceu-login-btn').click(function(event) {
+                var email = $('#emailEsqueceuLogin').val();
+
+                if(email == ''){
+                    alert('Informe seu email antes de continuar.');
+                    return false;
+                }
+
+                $.ajax({
+                    url: "https://www.saredrogarias.com.br/ajaxEnviarSenhaCliente",
+                    type: "POST",
+                    data: { 
+                        email:email
+                    },
+                    dataType: "json",
+                    beforeSend: function(){
+                        $('#body').prepend('<div id="loading"><img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/load.gif" alt="loading" /></div>');
+                    },
+                    success: function(result){
+                        $('#loading').remove();
+                        if(result.result == 'success'){
+                            $('#loading').remove();
+
+                            $('#login-box').slideDown('slow');
+                            $('#esqueceu-login-box').slideUp('slow');
+                            $('.esqueceu-login-btn').css('display','none');
+                            $('.logar-login-btn').css('display','inline-block');
+                            $('#title-relembrar').css('display','none');
+                            $('#title-login').css('display','block');
+
+                            alert('A senha foi enviada para o email correspondente a conta.');
+
+                            $('#login-modal').modal('hide');
+
+                        }else{
+                            alert(result.msgm);
+                        }
+                    },
+                    error: function(){
+                        alert('Erro ao procurar os dados solicitados');
+                        $('#loading').remove();
+                    }
+                });
+
+            });
+
+            $('#btn-cadastrar-primeira-compra').click(function(event) {
+                var email = $('#input-email-primeira-compra').val();
+
+                if(email != "")
+                {
+                   var filtro = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z])?)$/i;
+                   if(filtro.test(email))
+                   {
+                     
+                   } else {
+                     alert('Endereço de email inválido.'); return false;
+                   }
+                } else {
+                     alert('Digite um endereço de email.'); return false;
+                }
+
+                $.ajax({
+                    url: "https://www.saredrogarias.com.br/ajaxCadastrarEmailPrimeiraCompra",
+                    type: "POST",
+                    data: { 
+                        email:email
+                    },
+                    dataType: "json",
+                    beforeSend: function(){
+                        $('#body').prepend('<div id="loading"><img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/load.gif" alt="loading" /></div>');
+                    },
+                    success: function(result){
+                        $('#loading').remove();
+                        if(result.result == 'success'){
+                            $('#loading').remove();
+
+                            alert('Confira a supresa em seu email');
+                            $('#descontoPrimeiraCompraModal').modal('hide');
+
+                        }else{
+                            alert(result.msgm);
+                        }
+                    },
+                    error: function(){
+                        alert('Erro ao procurar os dados solicitados');
+                        $('#loading').remove();
+                    }
+                });
+
+            });
+
+            //cadastrar-modal
+            if($('#pessoa-fisica-modal').is(':checked')) {
+                $('#juridica-razao-modal, #juridica-cnpj-modal').css('display','none');
+                $('#fisica-nome-modal, #fisica-cpf-modal').fadeIn(500);
+            }else if($('#pessoa-juridica-modal').is(':checked')) {
+                $('#fisica-nome-modal, #fisica-cpf-modal').css('display','none');
+                $('#juridica-razao, #juridica-cnpj-modal').fadeIn(500);
+            }
+
+            $('#pessoa-fisica-modal').click(function(){
+                if($('#fisica-nome-modal, #fisica-cpf-modal').is(':hidden')){
+                    $('#juridica-razao-modal, #juridica-cnpj-modal').css('display','none');
+                    $('#fisica-nome-modal, #fisica-cpf-modal').fadeIn(500);
+                }
+            });
+
+            $('#pessoa-juridica-modal').click(function(){
+                if($('#juridica-razao-modal, #juridica-cnpj-modal').is(':hidden')){
+                    $('#fisica-nome-modal, #fisica-cpf-modal').css('display','none');
+                    $('#juridica-razao-modal, #juridica-cnpj-modal').fadeIn(500);
+                }
+            });
+
+            $('#logar-btn').click(function(){
+
+                var emailLogin = $('#emailLoginHeader').val();
+                var senhaLogin = $('#senhaLoginHeader').val();
+
+                if(emailLogin == ''){
+                    alert('Informe seu email antes de continuar.');
+                    return false;
+                }
+
+                if(senhaLogin == ''){
+                    alert('Informe sua senha antes de continuar.');
+                    return false;
+                }
+
+                $.ajax({
+                    url: "https://www.saredrogarias.com.br/ajaxLogin",
+                    type: "POST",
+                    data: { 
+                        emailLogin:emailLogin,
+                        senhaLogin:senhaLogin
+                    },
+                    dataType: "json",
+                    beforeSend: function(){
+                        $('#body').prepend('<div id="loading"><img src="https://www.saredrogarias.com.br/loja/view/temas/saredrogarias/img/load.gif" alt="loading" /></div>');
+                    },
+                    success: function(result){
+                        $('#loading').remove();
+                        if(result.result == 'success'){
+                            $('#loading').remove();
+                            window.location.href = 'https://www.saredrogarias.com.br/minha-conta';
+                        }else{
+                            alert(result.msgm);
+                        }
+                    },
+                    error: function(){
+                        alert('Erro ao procurar os dados solicitados');
+                        $('#loading').remove();
+                    }
+                });
+            });
+
+            $('#search-header-btn').click(function(event) {
+                var busca =  $('.search-input-header').val();
+                window.location.href = 'https://www.saredrogarias.com.br/busca?g='+busca+'';
+            });
+
+            $('.search-input-header').keypress(function(e) {
+               var tecla = (e.keyCode?e.keyCode:e.which);
+
+               if(tecla == 13){
+                    var busca =  $('.search-input-header').val();
+                    window.location.href = 'https://www.saredrogarias.com.br/busca?g='+busca+'';
+               }
+
+            });
+
+
+            // $('.search-input-header').autocomplete({
+            //     source: function (request, response) {
+            //         $.ajax({
+            //           type: "POST",
+            //           url:"https://www.saredrogarias.com.br/ajaxBusca",
+            //           data: request,
+            //           success: response,
+            //           dataType: 'json'
+            //         });
+            //     },
+            //     type: "POST",
+            //     minLength: 2,
+            //     delay: 0,
+            //     select: function( event, ui ) { 
+            //         if(ui.item.link) {
+            //             window.location.href = ui.item.link;
+            //         }
+            //     } 
+            // }).data("ui-autocomplete")._renderItem = function (ul, item) {
+            //      return $("<li></li>")
+            //          .data("item.autocomplete", item)
+            //          .append("<a>" + item.label + "</a>")
+            //          .appendTo(ul);
+            //  }; 
+
+        });
+        </script>
+<script>
+            var socialbar_width = $('.fb-comments').parent().css('width');
+            $('.fb-comments').attr('data-width', socialbar_width);
+            $(window).resize(function() {
+                var socialbar_width = $('.fb-comments').parent().css('width');
+                $('.fb-comments').attr('data-width', socialbar_width);
+            });
+            
+        </script>
+</body>
+</html>
