@@ -103,15 +103,20 @@ def wrap(document, filename):
         obj = sare_w(soup)
     return obj
 
+data = []
 for filename in os.listdir(PATH):
     document = os.path.join(PATH, filename)
     try:
         obj = wrap(document, filename)
         if (obj != {}):
-            print(obj)
+            data.append(obj)
         else:
             continue
     except:
-        continue
+        print("error extracting")
+        
+file = open(EXT+'/data.js', 'w+')
+file.write(str(data))
+file.close()
             
 
