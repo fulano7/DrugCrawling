@@ -1,7 +1,8 @@
-import robotparser
+import urllib.robotparser
 import requests
 from bs4 import BeautifulSoup
 from collections import deque
+import codecs
 
 #max_urls should be 1000?
 max_urls = 120
@@ -44,8 +45,8 @@ def generic_bfs(root):
                 continue
 
             try:
-                myfile = open(cur.replace('/', '+'), 'w+')
-                myfile.write(page.content)
+                myfile = codecs.open('../html/no heuristic/'+cur.replace('/', '+'), 'w+', encoding='utf-8')
+                myfile.write(str(page.content, encoding='utf-8'))
                 myfile.close()
                 urls = open("urls", "a")
                 urls.write(cur+"\n")
