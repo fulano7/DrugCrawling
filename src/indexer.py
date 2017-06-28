@@ -14,7 +14,7 @@ def fixWord(inputString):
 
 with open('extraction/data.js') as json_data:
     objs = json.load(json_data)
-    cur_id = 1
+    cur_id = 0
 
     hprice = dict()
     hproduto = dict()
