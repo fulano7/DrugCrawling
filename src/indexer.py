@@ -55,6 +55,7 @@ with open('extraction/data.js') as json_data:
         hpos = dict()
         for word in produto.split(' '):
             if (hasNumbers(word)): 
+                pos += 1
                 continue
             word = fixWord(word)
             if (len(word) > 5):
@@ -100,6 +101,7 @@ with open('extraction/data.js') as json_data:
         hpos = dict()
         for word in sumario.split(' '):
             if (hasNumbers(word)): 
+                pos += 1
                 continue
             word = fixWord(word)
             if (len(word) > 5):
