@@ -24,6 +24,23 @@ with open('extraction/data.js') as json_data:
 
     for obj in objs:
         price = re.findall(r'\d+', obj['price'])[0]
+        price = int(price)
+        if (price <= 3):
+            price = '[0-3]'
+        elif (price <= 10):
+            price = '[4-10]'
+        elif (price <= 15):
+            price = '[11-15]'
+        elif (price <= 20):
+            price = '[16-20]'
+        elif (price <= 50):
+            price = '[21-50]'
+        elif (price <= 100):
+            price = '[51-100]'
+        elif (price <= 300):
+            price = '[101-300]'
+        else:
+            price = '[301+]'
 
         if (price in hprice):
             hprice[price].append([cur_id, 1, 0])
