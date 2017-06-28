@@ -4,24 +4,22 @@ from collections import Counter
 from queue import PriorityQueue
 
 # inverted index file format:
-# word.field: [document,frequency(raw count)],[document,frequency(raw count)],...,[document,frequency(raw count)]
+# word.field: [document,frequency(raw count),[positions]],[document,frequency(raw count),[positions]],...,[document,frequency(raw count),[positions]]
 # .
 # .
 # .
-# word.field: [document,frequency(raw count)],[document,frequency(raw count)],...,[document,frequency(raw count)]
+# word.field: [document,frequency(raw count),[positions]],[document,frequency(raw count),[positions]],...,[document,frequency(raw count),[positions]]
 # word.field entries sorted alphabetically (A-Z), postings sorted by ascending document number
-
-# TODO update
-INVERTED_INDEX = 'file_path'
+IF_PATH = '../index/inverted_file.txt'
 
 class Document:
     def __init__(self, rank, number):
         self.rank = rank
         self.number = number
     def __cmp__(self, other):
-        return cmp(self.rank, other.rank)
+        return cmp(-self.rank, -other.rank)
     def __lt__(self, other):
-        return (self.rank < other.rank)
+        return (-self.rank < -other.rank)
     def __eq__(self, other):
         return (self.rank == other.rank)
 
@@ -63,19 +61,52 @@ def max_frequency(query):
 def frequency(query, w):
     return Counter(query)[w]
 
+def parse_inverted_file(path, query, compression_mode):
+    ils = []    
+    f = open(path, 'r')    
+    query_pointer = 0
+    doc_id = 1
+    for line in f:
+        if line[0:line.index(':')] == query[query_pointer]:
+            ils.append([query[query_pointer]])
+            posting = line[line.index(':')+3:-3]
+            #print(posting)
+            postings = posting.split('],[')
+            #print(postings)
+            for p in postings:
+                #data = p.split(',', 2)
+                data = p.split(',')
+                #print(data)
+                if compression_mode == UNCOMPRESSED:
+                    ils[-1].append((int(data[0]),int(data[1]),int(data[2])))
+                    #ils[-1].append((int(data[0]),int(data[1]),[]))                    
+                    #data2 = data[2][1:-2].split(',')
+                    #for d2 in data2:
+                    #    ils[-1][-1][2].append(int(d2))
+                elif compression_mode == COMPRESSED_SINGLE_FREQ:
+                    if p == postings[0]:
+                        doc_id = int(data[0])
+                    else:
+                        doc_id += (int(data[0]))
+                    ils[-1].append(doc_id,1,int(data[1])))
+            query_pointer += 1
+            while(query_pointer < len(query) and query[query_pointer] == query[query_pointer-1]):
+                query_pointer += 1
+            if(query_pointer) >= len(query):
+                break
+    f.close()
+    return ils
+
 # query parameter format: [word.field1, word.field2,...,word.field_n], sorted alphabetically(A-Z)
 def process_query(query, weight_scheme, compression_mode):
     # TODO fetch n (number of documents)
-    # for w in query:
-        # TODO fetch from inverted index file to ils, compressed and uncompressed
-        # we only fetch the words present in the query
-    
     # test
     n = 16
     # OK ils = [['palavra',(2,4),(3,6),(4,8),(5,5),(10,4),(11,3),(13,3),(14,5)],['p2',(1,7),(4,9),(5,5),(11,3),(13,3),(14,2)],['blabla',(4,7),(5,9),(9,2),(11,5),(12,3),(14,7)]]
-    ils = [['blabla',(4,7),(5,9),(9,2),(11,5),(12,3),(14,7)],['p2',(1,7),(4,9),(5,5),(11,3),(13,3),(14,2)]]
+    # OK ils = [['blabla',(4,7),(5,9),(9,2),(11,5),(12,3),(14,7)],['p2',(1,7),(4,9),(5,5),(11,3),(13,3),(14,2)]]
     #
-    
+
+    ils = parse_inverted_file(IF_PATH, query, compression_mode)    
     queue = PriorityQueue()
     query_vector = []
     if weight_scheme == 0: # no tf-idf
@@ -181,7 +212,7 @@ def kendal_tau(list1, list2, k):
 def print_results(l):
     for r in l:
         print(r[0],': ',r[1])
-
+'''
 rank0 = process_query(['blabla', 'p2'],0,'uncompressed')
 l0 = queue_to_list(rank0)
 print_results(l0)
@@ -208,4 +239,11 @@ print(kendal_tau(l1, l3, 4))
 kt_1 = [(1,4), (3,6), (7,2),(4,7),(5,1)]
 kt_2 = [(3,6), (7,2), (1,4),(5,1),(4,7)]
 print(kendal_tau(kt_1,kt_2,5))
+
+ils2 = parse_inverted_file('inverted', ['blabla', 'p2'], 'uncompressed')
+print(ils2)
+'''
+rank1 = process_query(['produto.fralda', 'produto.pampers'],1,'uncompressed')
+l1 = queue_to_list(rank1)
+print_results(l1)
 
