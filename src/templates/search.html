@@ -3,8 +3,16 @@
   <h1>Search</h1>
   <form method=post>
     <dl>
-      Query: <input type=text name=query value="{{
-          request.form.query }}">
+      Produto: <input type=text name=produto value="{{
+          request.form.produto }}">
+    </dl>
+    <dl>
+      Preco: <input type=text name=price value="{{
+          request.form.price }}">
+    </dl>
+    <dl>
+      Farmacia: <input type=text name=farmacia value="{{
+          request.form.farmacia }}">
     </dl>
     <p><input type=submit value=Go>
   </form>

@@ -7,6 +7,10 @@
 from flask import Flask, flash, redirect, render_template, request, url_for, json
 import json
 import re
+import editdistance
+import heapq
+
+# import process
 
 app = Flask(__name__, template_folder='templates')
 app.secret_key = 'some_secret'
@@ -19,21 +23,39 @@ def index():
 def search():
     error = None
     if request.method == 'POST':
-        query = request.form['query']
+        
+        produto = request.form['produto'].lower()
+        farmacia = request.form['farmacia'].lower()
+        price = request.form['price']
 
-        #todo: usar parte de Iago aqui para gerar os results[]
+        queue = []
 
-        #this is temporary:
         results = []
-        results.append('Query: ' + query + '<br>')
+        results.append('Query: ' + produto)
         with open('extraction/data.js') as json_data:
             objs = json.load(json_data)
             for obj in objs:
-                if (query.lower() in obj['sumario'].lower()):
+                if (produto.lower() in obj['sumario'].lower()):
                     results.append('Produto: ' + obj['produto'].decode('utf-8') + \
                     '<br>Farmacia: ' + obj['farmacia'] + '<br>Site: ' + obj['site'] + \
                     '<br>Preco: ' + obj['price'] + '<br>')
-        ##################
+                for word in obj['produto'].split(' '):
+                    word = word.lower()
+                    produto = produto.lower()
+                    ed = editdistance.eval(word, produto)
+                    heapq.heappush(queue, (ed, word))
+
+        word1 = str(heapq.heappop(queue)[1])
+        while(word1 == produto):
+            word1 = str(heapq.heappop(queue)[1])
+        word2 = str(heapq.heappop(queue)[1])
+        while(word2 == word1):
+            word2 = str(heapq.heappop(queue)[1])
+        word3 = str(heapq.heappop(queue)[1])
+        while(word3 == word2 or word3 == word1):
+            word3 = str(heapq.heappop(queue)[1])
+
+        results.append("Palavras com maior mutual information: " + word1 + ", " + word2 + ", " + word3)
             
         return render_template('display.html', results = results)
 
