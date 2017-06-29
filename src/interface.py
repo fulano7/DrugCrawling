@@ -25,6 +25,7 @@ def search():
 
         #this is temporary:
         results = []
+        results.append('Query: ' + query + '<br>')
         with open('extraction/data.js') as json_data:
             objs = json.load(json_data)
             for obj in objs:
