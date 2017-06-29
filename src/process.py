@@ -73,7 +73,11 @@ def parse_inverted_file(path, query, compression_mode):
     f = open(path, 'r')    
     query_pointer = 0
     doc_id = 1
+    print('query: ',query)
     for line in f:
+        if 'price' in line[0:line.index(':')].lower():
+            print(line[0:line.index(':')].lower())
+            print(line[0:line.index(':')].lower() == query[query_pointer])
         if line[0:line.index(':')].lower() == query[query_pointer]:
             ils.append([query[query_pointer]])
             posting = line[line.index(':')+3:-3] if compression_mode == UNCOMPRESSED else line[line.index(':')+2:-1]
@@ -271,12 +275,12 @@ print(kendal_tau(kt_1,kt_2,5))
 ils2 = parse_inverted_file('inverted', ['blabla', 'p2'], 'uncompressed')
 print(ils2)
 '''
-rank1 = process_query('produto.frálda produto.pâmpérs',1,UNCOMPRESSED)
+'''rank1 = process_query('produto.frálda produto.pâmpérs',1,UNCOMPRESSED)
 l1 = queue_to_list(rank1)
 print_results(l1)
 
 rank2 = process_query('produto.glícemia',1,0)
 l2 = queue_to_list(rank2)
 print_results(l2)
-
+'''
 
