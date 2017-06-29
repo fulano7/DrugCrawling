@@ -1,0 +1,11 @@
+<h1>Results</h1>
+<ul>
+{% for result in results %}
+    <div>{{ result|safe }}</div>
+    <br>
+{% endfor %}
+</ul>
+{% block body %}
+  <h1>Droogler - Drug Search Engine</h1>
+  <p>Do you want to <a href="{{ url_for('search') }}">make a search?</a>
+{% endblock %}
