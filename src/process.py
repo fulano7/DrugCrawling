@@ -10,10 +10,11 @@ from queue import PriorityQueue
 # .
 # word.field: [document,frequency(raw count),[positions]],[document,frequency(raw count),[positions]],...,[document,frequency(raw count),[positions]]
 # word.field entries sorted alphabetically (A-Z), postings sorted by ascending document number
-# IF_PATH = '../index/inverted_file.txt'
-IF_PATH = '../index/comp_inverted_file.txt'
+IF_COMPRESSED_PATH = '../index/comp_inverted_file.txt'
+IF_PATH = '../index/inverted_file.txt'
 UNCOMPRESSED = 0
 COMPRESSED_SINGLE_FREQ = 1
+N = 738
 
 class Document:
     def __init__(self, rank, number):
@@ -108,13 +109,8 @@ def parse_inverted_file(path, query, compression_mode):
 
 # query parameter format: [word.field1, word.field2,...,word.field_n], sorted alphabetically(A-Z)
 def process_query(query, weight_scheme, compression_mode):
-    # TODO fetch n (number of documents)
-    # test
-    n = 16
-    # OK ils = [['palavra',(2,4),(3,6),(4,8),(5,5),(10,4),(11,3),(13,3),(14,5)],['p2',(1,7),(4,9),(5,5),(11,3),(13,3),(14,2)],['blabla',(4,7),(5,9),(9,2),(11,5),(12,3),(14,7)]]
-    # OK ils = [['blabla',(4,7),(5,9),(9,2),(11,5),(12,3),(14,7)],['p2',(1,7),(4,9),(5,5),(11,3),(13,3),(14,2)]]
-    #
-
+    n = N
+    path = IF_PATH if compression_mode == UNCOMPRESSED else IF_COMPRESSED_PATH
     ils = parse_inverted_file(IF_PATH, query, compression_mode)    
     queue = PriorityQueue()
     # no results
