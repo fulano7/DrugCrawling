@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+#run with:
+#FLASK_APP=interface.py flask run
+
 from flask import Flask, flash, redirect, render_template, request, url_for, json
 import json
 import re
@@ -26,7 +29,9 @@ def search():
             objs = json.load(json_data)
             for obj in objs:
                 if (query.lower() in obj['sumario'].lower()):
-                    results.append('Produto: ' + obj['sumario'].decode('utf-8') + '<br>Farmacia: ' + obj['farmacia'] + '<br>Site: ' + obj['site'] + '<br>Preco: ' + obj['price'] + '<br>')
+                    results.append('Produto: ' + obj['produto'].decode('utf-8') + \
+                    '<br>Farmacia: ' + obj['farmacia'] + '<br>Site: ' + obj['site'] + \
+                    '<br>Preco: ' + obj['price'] + '<br>')
         ##################
             
         return render_template('display.html', results = results)
