@@ -10,7 +10,10 @@ from queue import PriorityQueue
 # .
 # word.field: [document,frequency(raw count),[positions]],[document,frequency(raw count),[positions]],...,[document,frequency(raw count),[positions]]
 # word.field entries sorted alphabetically (A-Z), postings sorted by ascending document number
-IF_PATH = '../index/inverted_file.txt'
+# IF_PATH = '../index/inverted_file.txt'
+IF_PATH = '../index/comp_inverted_file.txt'
+UNCOMPRESSED = 0
+COMPRESSED_SINGLE_FREQ = 1
 
 class Document:
     def __init__(self, rank, number):
@@ -36,7 +39,10 @@ def norm(v):
     return math.sqrt(result)
 
 def cos_rank(d, q):
-    return (dot_product(d, q)/(norm(d)*norm(q)))
+    if len(d) == 1:
+        return abs(d[0]-q[0])
+    else:
+        return (dot_product(d, q)/(norm(d)*norm(q)))
 
 def weight_1_doc(f_ij, n, n_i):
     return f_ij * math.log2(n/n_i)
@@ -69,26 +75,29 @@ def parse_inverted_file(path, query, compression_mode):
     for line in f:
         if line[0:line.index(':')] == query[query_pointer]:
             ils.append([query[query_pointer]])
-            posting = line[line.index(':')+3:-3]
+            posting = line[line.index(':')+3:-3] if compression_mode == UNCOMPRESSED else line[line.index(':')+2:-1]
             #print(posting)
-            postings = posting.split('],[')
+            postings = posting.split('],[') if compression_mode == UNCOMPRESSED else posting.split(',')
             #print(postings)
             for p in postings:
-                #data = p.split(',', 2)
-                data = p.split(',')
+                data = p.split(',', 2) if compression_mode == UNCOMPRESSED else p
+                #data = p.split(',')
                 #print(data)
                 if compression_mode == UNCOMPRESSED:
-                    ils[-1].append((int(data[0]),int(data[1]),int(data[2])))
-                    #ils[-1].append((int(data[0]),int(data[1]),[]))                    
-                    #data2 = data[2][1:-2].split(',')
-                    #for d2 in data2:
-                    #    ils[-1][-1][2].append(int(d2))
-                elif compression_mode == COMPRESSED_SINGLE_FREQ:
+                    #ils[-1].append((int(data[0]),int(data[1]),int(data[2])))
+                    ils[-1].append((int(data[0]),int(data[1]),[]))                    
+                    #print(data[2][1:-1])                    
+                    data2 = data[2][1:-1].split(',')
+                    #print(data2)
+                    for d2 in data2:
+                        #print(d2)
+                        ils[-1][-1][2].append(int(d2))
+                else:
                     if p == postings[0]:
-                        doc_id = int(data[0])
+                        doc_id = int(data)
                     else:
-                        doc_id += (int(data[0]))
-                    ils[-1].append(doc_id,1,int(data[1])))
+                        doc_id += (int(data[:-1]))
+                    ils[-1].append((doc_id,1,[]))
             query_pointer += 1
             while(query_pointer < len(query) and query[query_pointer] == query[query_pointer-1]):
                 query_pointer += 1
@@ -108,6 +117,9 @@ def process_query(query, weight_scheme, compression_mode):
 
     ils = parse_inverted_file(IF_PATH, query, compression_mode)    
     queue = PriorityQueue()
+    # no results
+    if len(ils) == 0:
+        return queue
     query_vector = []
     if weight_scheme == 0: # no tf-idf
         query_vector = len(ils)*[1]
@@ -160,8 +172,10 @@ def process_query(query, weight_scheme, compression_mode):
                 elif weight_scheme == 3:
                     for m in range(len(ils)):
                         document_vector.append(weight_3_doc_query(ils[m][j[m]][1], n, len(ils[m])-1))
-                rank = cos_rank(document_vector, query_vector)
-                # print('doc_pointer :', doc_pointer)
+                rank = cos_rank(document_vector, query_vector)                
+                print(document_vector)
+                print(query_vector)
+                print('doc_pointer :', doc_pointer)
                 d = Document(rank, doc_pointer)
                 queue.put(d)
                 doc_pointer += 1
@@ -243,7 +257,12 @@ print(kendal_tau(kt_1,kt_2,5))
 ils2 = parse_inverted_file('inverted', ['blabla', 'p2'], 'uncompressed')
 print(ils2)
 '''
-rank1 = process_query(['produto.fralda', 'produto.pampers'],1,'uncompressed')
+rank1 = process_query(['produto.fralda', 'produto.pampers'],1,UNCOMPRESSED)
 l1 = queue_to_list(rank1)
 print_results(l1)
+
+rank2 = process_query(['produto.glicemia'],1,1)
+l2 = queue_to_list(rank2)
+print_results(l2)
+
 
