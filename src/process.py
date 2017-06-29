@@ -74,7 +74,7 @@ def parse_inverted_file(path, query, compression_mode):
     query_pointer = 0
     doc_id = 1
     for line in f:
-        if line[0:line.index(':')] == query[query_pointer]:
+        if line[0:line.index(':')].lower() == query[query_pointer]:
             ils.append([query[query_pointer]])
             posting = line[line.index(':')+3:-3] if compression_mode == UNCOMPRESSED else line[line.index(':')+2:-1]
             #print(posting)
@@ -109,9 +109,27 @@ def parse_inverted_file(path, query, compression_mode):
 
 # query parameter format: [word.field1, word.field2,...,word.field_n], sorted alphabetically(A-Z)
 def process_query(query, weight_scheme, compression_mode):
+    query = [s for s in query.split(' ') if s != '']
+    for f, w in enumerate(query):
+        new = w
+        for o, c in enumerate(w):
+            if c == 'á' or c == 'â' or c == 'à' or c == 'ã' or c == 'Á' or c == 'Â' or c == 'À' or c == 'Ã':
+                new = new.replace(c,'a')
+            elif c == 'é' or c == 'ê' or c == 'è' or c == 'É' or c == 'Ê' or c == 'È':
+                new = new.replace(c,'e')
+            elif c == 'í' or c == 'ì' or c == 'Í' or c == 'ì':
+                new = new.replace(c,'i')
+            elif c == 'ó' or c == 'ô' or c == 'ò' or c == 'õ' or c == 'Ó' or c == 'Ô' or c == 'Ò' or c == 'Õ':
+                new = new.replace(c,'o')
+            elif c == 'ú' or c == 'ù' or c == 'Ú' or c == 'ù':
+                new = new.replace(c,'u')
+        query[f] = new
+    for o, w in enumerate(query):
+        query[o] = query[o].lower()
+    query.sort()
     n = N
     path = IF_PATH if compression_mode == UNCOMPRESSED else IF_COMPRESSED_PATH
-    ils = parse_inverted_file(IF_PATH, query, compression_mode)    
+    ils = parse_inverted_file(path, query, compression_mode)    
     queue = PriorityQueue()
     # no results
     if len(ils) == 0:
@@ -253,11 +271,11 @@ print(kendal_tau(kt_1,kt_2,5))
 ils2 = parse_inverted_file('inverted', ['blabla', 'p2'], 'uncompressed')
 print(ils2)
 '''
-rank1 = process_query(['produto.fralda', 'produto.pampers'],1,UNCOMPRESSED)
+rank1 = process_query('produto.frálda produto.pâmpérs',1,UNCOMPRESSED)
 l1 = queue_to_list(rank1)
 print_results(l1)
 
-rank2 = process_query(['produto.glicemia'],1,1)
+rank2 = process_query('produto.glícemia',1,0)
 l2 = queue_to_list(rank2)
 print_results(l2)
 
