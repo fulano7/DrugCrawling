@@ -9,4 +9,6 @@ Repository for the project of the Information Retrieval course at CIn/UFPE.
 - Install SciPy ``pip install scipy``
 - Install NumPy ``pip install numpy``
 - Install Scikit-Learn ``pip install scikit-learn``
-- Execute main.py with ``python main.py``
+- Install tkinter for Python3 ``sudo apt-get install python3-tk``
+- Install appJar ``pip install appjar``
+- Execute gui.py with ``python gui.py``
