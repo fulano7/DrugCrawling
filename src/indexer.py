@@ -58,7 +58,7 @@ with open('extraction/data.js') as json_data:
                 pos += 1
                 continue
             word = fixWord(word)
-            if (len(word) > 5):
+            if (len(word) > 2):
                 word = word.lower()
                 freq[word] += 1
                 if (word in hpos):
